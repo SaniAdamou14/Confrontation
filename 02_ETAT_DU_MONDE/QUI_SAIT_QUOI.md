@@ -38,6 +38,16 @@ Légende : **✓** sait · **~** soupçonne, sans preuve · **✗** ignore · **
 | **Que ces gens ne se relèvent pas** | Goku | Il le constate. **Il ne le comprend pas.** Voir ci-dessous. |
 | Rien du tout | Végéta | Il n'a rien appris de la journée, et c'est son problème |
 
+### Précisions établies par le chapitre 1
+
+| Information | État |
+|---|---|
+| **Le rapport de Conquest** | Transmis à **16 h 46**, une minute avant l'arrivée. Contenu exact : échec de l'unité Grayson, descendance hybride opérationnelle, 43 pertes locales, deux unités de résistance dont une neutralisée et une au sol, « rien à signaler ». **L'Empire ne reçoit rien sur les Saiyans. Rien du tout.** |
+| **Ce que Conquest a compris et n'a pas pu transmettre** | Que les deux arrivants **ne sont pas la même chose** — l'un porte une ennemie hors du champ de tir, l'autre le regarde faire avec mépris. Il perd son émetteur pendant le combat et s'en aperçoit à la 16e minute, au moment exact où il a enfin quelque chose à dire. **La meilleure information de la journée meurt avec lui.** |
+| **Ce que Conquest croit en mourant** | Que Nolan Grayson a simplement échoué. Il ne saura jamais que Nolan est mort quelques minutes après lui, ni de quoi. |
+| **Ce que Végéta ignore** | Que Conquest l'a entendu parler à quelqu'un qui n'était pas là. |
+| **Ce que personne ne sait** | Que Végéta protège son flanc gauche d'un demi-degré de plus que le droit. Le seul être qui l'ait remarqué est mort onze minutes plus tard. |
+
 > **Distinction capitale — Goku.** À 17 h 09, il **constate** que les corps ne se relèvent pas. Il ne sait toujours pas que la mort est **définitive** dans ce monde. Ce n'est pas la même information. Il passe les quarante jours suivants à attendre patiemment qu'on organise le retour de tout le monde, parce que c'est ainsi que fonctionne son univers, et personne ne comprend ce qu'il attend. La révélation arrive au tome 2, par Debbie, et **c'est le sommet émotionnel du tome — elle vaut dix combats**.
 >
 > Ne jamais, dans aucun chapitre du tome 1, écrire une phrase focalisée sur Goku qui suppose qu'il sait.

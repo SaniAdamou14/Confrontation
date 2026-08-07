@@ -25,6 +25,8 @@
 | Depuis | Blessure / état | Durée | Trace permanente |
 |---|---|---|---|
 | J0 | Fissure à l'omoplate gauche — **de l'armure**, pas de lui | permanente jusqu'à remplacement | Il ne la fera pas réparer. Voir note. |
+| J0, 16 h 47 | **Scouteur détruit.** Retiré et lâché à la seconde 3, cassé au sol. | définitif | Il n'a plus aucun instrument de mesure. |
+| J0, 17 h 04 | **Aucune blessure.** Dix-sept minutes de combat, trois coups encaissés, une mise au sol. Rien. | — | — |
 | Tome 3 | Œil perdu (Thragg) | définitif | **oui** |
 | Tome 3 | Bras (Thragg) | 4 mois de convalescence | **oui** |
 
@@ -38,10 +40,10 @@
 
 | Depuis | Blessure | Note |
 |---|---|---|
-| J0, 16 h 47 | Bras gauche cassé en deux endroits | Il continue de s'en servir |
-| J0, 16 h 47 | Trois côtes enfoncées | |
+| J0, ~16 h 42 | Bras gauche cassé en deux endroits — pris sous le coude et au-dessus du poignet, d'un seul mouvement | **Ch. 1 :** la manière propre, celle qui ne saigne pas. Il a hurlé, puis il a arrêté très vite. Il continue de s'en servir. |
+| J0, ~16 h 43 | Trois côtes enfoncées — nuque prise, descendu contre le trottoir | **Ch. 1 :** un bruit court et mat, comme du bois vert. |
 | J0, 16 h 47 | Hémorragie interne | |
-| J0, ~17 h 05 | Mort | |
+| J0, ~17 h 05 | Mort — hors champ du ch. 1 | |
 
 ---
 

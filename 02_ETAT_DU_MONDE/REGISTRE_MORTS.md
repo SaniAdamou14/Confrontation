@@ -23,8 +23,8 @@ Bible §4.5-1 : **aucune résurrection. Jamais.** Une ligne inscrite ici ne s'ef
 
 | Nom | Cause | Tué par | Heure |
 |---|---|---|---|
-| 43 civils non nommés | Conquest, phase initiale | Conquest | 16 h 28 – 16 h 36 |
-| **Conquest** | Sphère d'énergie. Traversé, désintégré. Aucun corps. | Végéta | ~17 h 04 |
+| 43 civils non nommés | Conquest, phase initiale. **Ch. 1 :** un homme en costume gris qui n'a pas couru assez loin ; deux personnes qui se tenaient la main et qu'il n'a pas séparées ; le reste hors champ. | Conquest | 16 h 28 – 16 h 36 |
+| **Conquest** ✔ *écrit ch. 1* | Sphère d'énergie lâchée sans un mot. Traversé, désintégré. Aucun corps. Il regardait ailleurs — vers Goku, à deux cents mètres. | Végéta | 17 h 04 |
 | **Nolan Grayson** (Omni-Man) | Traversé de part en part | Goku | ~16 h 51 – 17 h 09 |
 | **Mark Grayson** | Enfoncé dans le sol jusqu'aux épaules. Pas de corps récupérable. | Goku | ~17 h 05 |
 | **Immortal** | Fendu en deux par une onde qui ne le visait pas | Goku | ~16 h 56 |

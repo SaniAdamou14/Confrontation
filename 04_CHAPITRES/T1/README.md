@@ -22,9 +22,17 @@ Le bloc de citation est un outil de travail. Décider avant publication s'il res
 
 | Ch. | Titre | Focal | Mots | Statut |
 |---|---|---|---|---|
-| 1 | Les sept secondes | Conquest | — | dossier prêt, non écrit |
-| 2 | Vingt-deux minutes | Ray Dombrowski | — | à préparer |
+| 1 | Les sept secondes | Conquest | 6 026 | **écrit** · registres à jour |
+| 2 | Vingt-deux minutes | Ray Dombrowski | — | dossier à écrire |
 | 3-20 | voir `03_PLAN/TOME_1.md` | | | |
+
+### Ce que le ch. 2 doit reprendre du ch. 1
+
+- **Le feu de circulation** de State & Madison, cycle de 64 secondes. Objet de couture, vu de loin cette fois. Ne pas le souligner.
+- **Le train** sur le viaduc, deux cents personnes dedans.
+- **La tour noire à deux antennes** au sud-ouest — décider si elle tient.
+- **17 h 09 :** Ray voit l'homme en orange s'arrêter net au milieu d'un geste. Personne ne comprend pourquoi. Le monde en conclura qu'il a épargné la ville. C'est faux et ce n'est jamais corrigé.
+- Ray connaît les Guardians à la démarche. Il ne connaît pas leurs noms de famille.
 
 ---
 
