@@ -1,0 +1,130 @@
+# LEXIQUE, ORTHOGRAPHES ET CONVENTIONS
+
+Ce fichier existe pour une seule raison : sur 120 chapitres, l'incohérence orthographique est la première fissure visible. On fixe tout ici, une fois.
+
+---
+
+## 1. Noms propres — graphie unique
+
+### Saiyans
+
+| Graphie retenue | Ne jamais écrire |
+|---|---|
+| **Goku** (narration, personnages terriens) | Son Gokū, Sangoku |
+| **Kakarotte** | Kakarot, Kakarotto, Carot |
+| **Végéta** (accent aigu, majuscule) | Vegeta, Vejita |
+| **Saiyan / Saiyans** (nom propre, majuscule) | Saïyan, Saiyajin |
+| **saiyan** (minuscule) | uniquement comme adjectif péjoratif terrien — voir §4 |
+| **Freezer** | Frieza, Freeza |
+| **Ozaru** | Ōzaru, Oozaru, Grand Singe |
+| **ki** (minuscule, invariable, sans italique après la 1re occurrence) | Ki, chi, qi |
+| **zenkai** (minuscule, invariable) | Zenkai |
+| **Kaio-Ken** | Kaioken, Kaïo-Ken |
+| **Namek** | Namec, Namekusei |
+| **scouteur** | scouter, détecteur |
+
+**Usage de « Kakarotte ».** Végéta l'emploie toujours, sans exception. Personne d'autre. Un Terrien qui prononce ce mot signale qu'il a lu un rapport de la GDA, et c'est une information en soi.
+
+### Terre / Invincible
+
+| Graphie retenue | Note |
+|---|---|
+| **Mark Grayson** | Son nom de héros n'est jamais utilisé par la narration après le jour 0. |
+| **Nolan Grayson** / **Omni-Man** | La presse dit Omni-Man. Debbie dit Nolan. |
+| **Debbie Grayson** | Jamais « Deborah ». |
+| **Oliver** | Le prénom seul suffit. |
+| **Atom Eve** / **Eve** | La narration dit Eve. Les rapports disent Atom Eve. |
+| **Cecil Stedman** | |
+| **Donald Ferguson** | |
+| **Robot** / **Rudolph Connors** | Robot en scène, Connors dans les documents. |
+| **Amber Bennett**, **William Clockwell** | |
+| **la GDA** | Article féminin. « la GDA », « à la GDA ». Ne jamais développer le sigle dans la prose. |
+| **Guardians of the Globe** | Conservé en anglais, non traduit, non italiqué. |
+| **Immortal**, **War Woman**, **Red Rush** | Idem. |
+| **les Mauler Twins** / **les Mauler** | |
+| **Sinclair**, **programme Reanimen** | |
+| **Angstrom Levy** | |
+
+### Viltrumites et espace
+
+| Graphie retenue | Note |
+|---|---|
+| **Viltrumite / Viltrumites** | Majuscule. Adjectif : viltrumite, minuscule (« tissu viltrumite »). |
+| **l'Empire** | Majuscule seule, sans « viltrumite », une fois le contexte posé. |
+| **Conquest** | |
+| **Anissa** | |
+| **Thragg** | |
+| **Battle Beast** | |
+| **Allen l'Alien** | Jamais « Allen the Alien ». |
+| **la Coalition des Planètes** / **la Coalition** | |
+| **Level Threat Assessment** | En anglais, italique à la 1re occurrence. C'est le jargon d'Allen. |
+
+### Créations du récit
+
+| Graphie retenue | Origine |
+|---|---|
+| **les Témoins de l'Orange** | Bible §6.5. La secte. |
+| **l'Association des Familles de State Street** | Bible §6.5. |
+| **la doctrine OMEGA** / **le mémorandum OMEGA** | Bible §6.1. OMEGA en capitales, c'est un niveau de classification. |
+| **l'inhibiteur métabolique** | Bible §6.2. Jamais nommé autrement. |
+| **la radiation Sigma** | Bible §6.2. Recherches de Robot. |
+| **la stratégie des trente** | Bible §6.3. Minuscules — c'est ainsi que Cecil l'appelle, avec mépris. |
+
+---
+
+## 2. Typographie du dialogue
+
+Norme française, tenue partout :
+
+- Tiret cadratin **—** suivi d'une espace insécable pour ouvrir une réplique.
+- Pas de guillemets autour des répliques dialoguées.
+- Guillemets français **« … »** avec espaces insécables intérieures, réservés à : citations de documents, phrases rapportées dans un récit, slogans, et les répliques **citées à l'intérieur d'une autre scène** (un enregistrement, une transcription, un rapport).
+- Incises sobres : « dit », « a répondu », ou rien. **Jamais** « rétorqua-t-il sardoniquement ».
+- Italique : pensée directe d'un personnage focalisé, et mots d'une langue étrangère à la première occurrence seulement.
+
+**Temps de la narration.** Passé composé + imparfait, comme dans les exemples de voix de la bible (§7.1, §7.2 : « Cecil a levé les yeux », « Végéta n'a pas relevé la tête »). Pas de passé simple. C'est un choix de proximité, il tient sur les cinq tomes.
+
+**Les silences se mesurent** (§9). « Trois secondes. » vaut mieux que « un long silence ». Écrire le chiffre en lettres dans la narration, sauf quand c'est un relevé.
+
+---
+
+## 3. Unités, chiffres, mesures
+
+- **Narration : métrique.** Mètres, kilomètres, kilos, degrés Celsius.
+- **Dialogue américain : impérial, non converti.** Un pompier de Chicago dit « un demi-mile ». On ne traduit pas entre parenthèses. Le lecteur suit.
+- **Dialogue saiyan : aucune unité terrienne.** Végéta et Goku n'ont pas de mots pour « kilomètre » ou « dollar ». Ils disent « la distance d'un vol court », « autant que je peux en porter ». Cette incapacité est un moteur comique et politique, pas un détail.
+- **Heures :** format `16 h 47`, avec espaces insécables. Les documents de la GDA peuvent utiliser `16:47`.
+- **Grands nombres :** en lettres dans la prose narrative quand ils sont ronds (« deux millions quatre »), en chiffres dans les documents, rapports, dépêches et bilans administratifs. Le contraste est voulu : c'est la différence entre vivre le chiffre et le lire.
+- **Aucun chiffre de puissance dans la prose** (R3). Sans exception. Les valeurs de la §4.2 sont un outil d'arbitrage interne.
+
+---
+
+## 4. Le mot « saiyan » dans la bouche des Terriens
+
+Chronologie de la contamination lexicale (bible §6.5) — à respecter, c'est un marqueur de date :
+
+| Période | État du mot |
+|---|---|
+| J0-J3 | N'existe pas. On dit « eux », « les deux », « ceux de Chicago ». |
+| J4-J11 | Terme technique interne à la GDA, tiré des premières traductions. Orthographié correctement dans les documents classés. |
+| J12-J14 | Fuite au Congrès. Le mot sort. |
+| J15+ | Entre dans la langue courante, **mal orthographié** (proposition : *sayan*, *saïan*), comme **adjectif péjoratif** : « une réponse sayan », « il a réglé ça de façon sayan » = brutalement, sans considération pour les dégâts. |
+| Tome 2+ | Devient un mot de tribune politique. Puis d'insulte raciale ordinaire visant des humains, ce qui n'a plus rien à voir avec eux. |
+
+Choisir **une seule** graphie fautive et s'y tenir. Recommandation : **« sayan »**.
+
+---
+
+## 5. Rappels de style, format court
+
+À relire avant chaque session d'écriture. Détail complet : bible §7 à §9, §12.
+
+- **R1** — Personne ne dit ce qu'il veut vraiment. Sauf Goku.
+- **R2** — Pas de résumé de fin de chapitre. Une image, une réplique, un geste.
+- **R3** — Aucun chiffre de puissance.
+- **R4** — Le corps compte, même chez les dieux.
+- **R5** — Chaque destruction a un chiffre et un après.
+- **R6** — Narration incarnée. Le narrateur ne sait que ce que sait le personnage focalisé.
+- **Test de retrait des incises** : sans « dit-il », on doit reconnaître qui parle.
+- **Le point de vue d'un combat est celui du plus faible.**
+- **Longueur cible** : 5 000 à 8 000 mots par chapitre.
