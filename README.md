@@ -81,11 +81,15 @@ README.md                        Ce fichier.
 
 | | |
 |---|---|
-| Chapitres écrits | **2 / 120** |
-| Date récit | Jour 0, 17 h 26. Les vingt-deux minutes sont terminées. |
-| Arbitrages | **Tous tranchés.** Oliver survit, les Guardians survivants sont fixés. Bible corrigée. |
+| Chapitres écrits | **3 / 120** |
+| Date récit | Jour 2, 21 h 00 |
+| Arbitrages | **Tous tranchés.** Bible corrigée. |
 | Point ouvert | ⚠ Le scouteur est détruit au ch. 1. Payoff F10 à re-router avant le ch. 14 — voir `FUSILS_DE_TCHEKHOV.md`. |
-| Prochaine action | Dossier préparatoire du **chapitre 3**, focalisation Cecil |
+| Prochaine action | Dossier préparatoire du **chapitre 4**, focalisation Goku |
+
+### Calibrage du registre
+
+Le bloc §0 de `05_ATELIER/CH03_DOSSIER_PREPARATOIRE.md` codifie la technique narrative visée, dérivée de Togashi : **l'interrogatoire plutôt que le processus, l'exposition portée par quelqu'un qui a quelque chose à perdre, le calcul comme scène d'action, la révélation stratégique tardive.** Il vaut pour tous les chapitres suivants et se lit avec la passe de style de `99_OUTILS/CHECKLIST_CHAPITRE.md`.
 
 ### Décisions canoniques ajoutées à la bible
 

@@ -8,18 +8,19 @@ Version vivante de la bible §13. **Ce fichier prime sur la bible pour tout ce q
 
 ## ÉTAT COURANT
 
-**Date récit :** Jour 0, 17 h 26 — fin du chapitre 2
-**Dernier chapitre écrit :** ch. 2, « Vingt-deux minutes » (5 150 mots)
-**Chapitres écrits :** 2 / 120
+**Date récit :** Jour 2, 21 h 00 — fin du chapitre 3
+**Dernier chapitre écrit :** ch. 3, « Le premier chiffre » (5 241 mots)
+**Chapitres écrits :** 3 / 120
 
 ### Compteurs
 
 | Item | État |
 |---|---|
-| Morts cumulés | **~2 400 000** (estimation initiale, non encore établie par quiconque) |
-| Villes détruites | **1 — Chicago.** Cratère de 9 km. Le lac entre. |
-| Jours écoulés depuis l'arrivée | 0 |
-| Heure | 17 h 26. **Les vingt-deux minutes sont terminées.** |
+| Morts | **2 400 000** — point central. Fourchette 1,9 M – 2,9 M, marge 40 %. Établi le J2 à 02 h 00 par Ilana Voss. **Révision à 3,1 M au J4, hors chapitre.** |
+| **Coût par minute** | **109 000.** 2,4 M ÷ 22 minutes. Le nombre que Cecil voulait réellement. |
+| Villes détruites | **1 — Chicago.** Le cratère se remplit. Fin de remplissage estimée J6-J9. |
+| Corps rendus aux familles | **0. Il n'y en aura jamais.** |
+| Sauts de téléporteur de Cecil | 5 — cinq millions de dollars. **Il n'a toujours pas vu le cratère.** |
 
 ### Goku
 
@@ -74,7 +75,8 @@ Détail complet dans `QUI_SAIT_QUOI.md`. Résumé :
 | GDA | **Les Guardians sont morts. Elle n'a plus de force para-humaine sur zone.** Aucun chiffre. Le site est masqué par la vapeur. |
 | **Empire viltrumite** | **Rapport de Conquest reçu, horodaté 16 h 46.** Échec de l'unité Grayson, descendance hybride opérationnelle, 43 pertes, deux unités de résistance, « rien à signaler ». **Transmis une minute avant l'arrivée. Il ne contient rien sur les Saiyans.** Puis silence radio. |
 | Coalition des Planètes | rien |
-| **Public** | **A tout vu en direct.** Les images de Ray Dombrowski sont sorties avant que quiconque ait pu décider de ne pas les diffuser. Le monde possède : l'homme en orange qui porte la fille ; l'homme en armure qui rit avant de frapper ; **l'arrêt de 17 h 09**. |
+| **Public** | **A tout vu en direct.** Les images de Ray Dombrowski sont sorties avant que quiconque ait pu décider de ne pas les diffuser. Le monde possède : l'homme en orange qui porte la fille ; l'homme en armure qui rit avant de frapper ; **l'arrêt de 17 h 09**. Aucun chiffre officiel n'a encore été communiqué. |
+| **Canada / Commission mixte internationale** | **Dossier ouvert au J2.** Note du Département d'État. Les États-Unis reconnaissent officiellement l'existence d'un problème de niveau d'eau au titre du traité de 1909. Réponse retenue : « nous procédons à l'évaluation ». **Cecil a exigé la copie à la Commission — il veut qu'il existe une trace numérotée.** |
 | Angstrom Levy | possède les sept secondes manquantes, ne sait pas quoi en faire |
 
 ### Promesses posées non tenues
@@ -147,3 +149,23 @@ Morts cumulés 43 · Goku et Végéta en transit, ki plein, queues intactes, auc
 - **Ray a un tympan crevé** et n'entendra plus normalement avant des heures. Marisol a posé l'appareil sur un toit à Cicero. Elle ne redécollera plus jamais.
 - **Bande : 49 min 11 s. 4 min 12 s inexploitables.**
 - **Personne ne l'a jamais dit à Debbie :** Mark a tenu onze minutes contre Conquest. Ray l'a perdu dans la poussière et ne l'a retrouvé que six jours plus tard, à l'image 61 200.
+
+### Après le ch. 3 — Jour 2, 21 h 00
+
+**Écrit :** `04_CHAPITRES/T1/CH03_le-premier-chiffre.md`, 5 241 mots, focalisation Cecil, J1 04 h 10 → J2 20 h 11.
+
+**Désormais canonique :**
+
+- **Cecil n'a pas vu le cratère et ne le verra pas avant six à neuf jours.** Colonne de vapeur instable, remontées à plus de cent degrés, visibilité nulle, trois drones perdus la première nuit. Les satellites n'ont que la colonne. **Personne sur cette planète ne sait à quoi ça ressemble.**
+- **Le grondement de l'eau s'entend à travers quatre niveaux de béton.** Il n'a pas varié d'un décibel en cinquante et une heures. Il s'arrêtera quand le trou sera plein. Personne n'en parle.
+- **La méthode de comptage** (Ilana Voss, Bureau du recensement) : on ne compte pas les corps, on compte les absences. Six sources croisées — pointages employeurs, validations de titres de transport, stationnement, appels scolaires, charge des relais mobiles, manifestes de vols. Population présente attendue à 16 h 47 un mardi : ~1,2 M sur l'emprise. Marge 40 % à chaud, **plancher définitif 12 %**.
+- **Les listes de disparus sont à jeter.** 180 000 signalements au J1, 400 000 attendus vendredi. Quatorze organismes collectent ; une personne recherchée apparaît jusqu'à quatorze fois. Ce chiffre mesure l'inquiétude, pas les morts. Il s'effondrera, et les journaux croiront à tort que le bilan s'effondre.
+- **Cecil a demandé le coût complet d'une évacuation de la côte Ouest** — trois États, cinquante millions de personnes, préavis 72 h. Livrable vendredi (J5). Personne ne comprend pourquoi. **C'est l'application exacte de R1.**
+- **109 000 morts par minute d'engagement.** Cecil a fait la division à la main et l'a entourée deux fois. Cinq jours d'évacuation = 7 200 minutes. **Aucune quantité de préavis ne sert à quelque chose.** Il ne le dit jamais.
+- **Le lingua franca est posé. Ne plus jamais y revenir.** Idiome commercial administré, non maternel ; recouvrement phonémique partiel avec les langues indo-européennes ; probabilité de l'ordre de un sur plusieurs milliards. Robot l'a consigné le J1 à 15 h 42, **et il y est revenu tous les jours pendant deux ans.** Cecil a pris la date et jeté l'improbabilité.
+- **Abbadie recruté au J1.** Cecil a exigé quarante mots en trois jours, et c'est lui qui écrit la liste des quarante.
+- **Numérotation officielle : SUJET UN** = celui en armure, **parce qu'il est arrivé le premier**. SUJET DEUX = celui en orange. Aucune autre raison. **C'est cette numérotation que Cecil fera abandonner au jour 19.**
+- **Darkwing :** Nolan Grayson est resté au sol trois secondes en trente rencontres, et toute l'équipe en a parlé pendant un mois. Sur la bande, il est au sol dix-neuf fois en huit minutes.
+- **Oliver a produit la seule donnée de comportement du chapitre** : *l'homme en orange ne regarde jamais autour de lui.* Il a mis Nolan dans un immeuble et n'a pas regardé l'immeuble tomber. Quatre-vingt-dix analystes n'avaient pas trouvé ça.
+- **Le premier chiffre a été prononcé à voix haute devant Oliver**, avant le Président, avant le Sénat. Parce que l'enfant est la seule personne que Cecil n'a pas besoin de gérer.
+- **La dernière question d'Oliver — « Il savait pas, hein ? » — reste sans réponse.** Cecil connaît la réponse. Il ne la donne pas.

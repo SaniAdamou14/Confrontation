@@ -60,6 +60,19 @@ Légende : **✓** sait · **~** soupçonne, sans preuve · **✗** ignore · **
 | **Ce qui manque à la bande** | 4 minutes 12 secondes. Dont les onze secondes où l'antenne a perdu le faisceau — c'est-à-dire la mort de Red Rush, qui n'existe donc que sur le master. |
 | **Ce que la GDA a perdu** | Immortal, War Woman, Red Rush, Atom Eve, les deux Grayson. **Il lui reste Darkwing, Aquarus, Martian Man, Green Ghost, Black Samson** — absents ce jour-là pour des raisons banales. C'est tout ce que Cecil possède au jour 1. |
 
+### Précisions établies par le chapitre 3
+
+| Information | État |
+|---|---|
+| **Ce que Cecil sait au J2** | Ce que montre une bande de 49 min 11 s dont 4 min 12 s sont inexploitables. **Rien d'autre.** Ni leur origine, ni leur nature, ni leur nombre, ni leurs intentions, ni leur langue. |
+| **Ce que Cecil a compris et ne dit pas** | Qu'aucune quantité de préavis ne sert à quelque chose. Qu'il n'a ni arme, ni prison, ni levier. Qu'il n'existe pas de rapport de forces — **un rapport de forces suppose deux forces**. |
+| **Ce que Cecil cherche réellement** | Un prix unitaire. Le chiffre des morts est un dénominateur. |
+| **Ce que personne ne sait encore** | Le chiffre. Il n'a été prononcé à voix haute qu'une fois, devant un enfant de huit ans, le J2 à 20 h 08. |
+| **Ce que Robot sait et que nul n'écoute** | Que le recouvrement phonémique est statistiquement impossible. Il le consigne le J1 à 15 h 42 et y revient chaque jour pendant deux ans. |
+| **Ce qu'Oliver sait** | Que l'homme en orange ne regarde jamais autour de lui. **C'est la seule donnée de comportement produite en deux jours**, et elle vient d'un enfant que quatre personnes avaient déjà mal interrogé. |
+| **Ce qu'Oliver ignore** | Que Cecil connaît la réponse à sa question. |
+| **Ce que le Canada sait** | Qu'un niveau d'eau a bougé. Rien d'autre. Le dossier est ouvert, numéroté, et la réponse américaine tient en cinq mots : « nous procédons à l'évaluation ». |
+
 > **Distinction capitale — Goku.** À 17 h 09, il **constate** que les corps ne se relèvent pas. Il ne sait toujours pas que la mort est **définitive** dans ce monde. Ce n'est pas la même information. Il passe les quarante jours suivants à attendre patiemment qu'on organise le retour de tout le monde, parce que c'est ainsi que fonctionne son univers, et personne ne comprend ce qu'il attend. La révélation arrive au tome 2, par Debbie, et **c'est le sommet émotionnel du tome — elle vaut dix combats**.
 >
 > Ne jamais, dans aucun chapitre du tome 1, écrire une phrase focalisée sur Goku qui suppose qu'il sait.
