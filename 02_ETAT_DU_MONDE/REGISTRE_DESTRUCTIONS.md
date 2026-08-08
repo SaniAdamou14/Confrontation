@@ -48,6 +48,27 @@ Toute destruction inscrite ici doit avoir **au moins une conséquence différée
 
 ---
 
+## D-01 bis — LA FRAPPE DU JOUR 2
+
+| | |
+|---|---|
+| **Date** | Jour 2, 11 h 05. Une plaine, 50 km à l'ouest du cratère. |
+| **Auteur** | Les États-Unis. **Ordonnée contre l'avis de Cecil**, qui perd l'arbitrage : 2,4 millions de morts produisent une pression politique à laquelle un directeur d'agence ne résiste pas. |
+| **Composition** | Une munition conventionnelle massive, puis quatre-vingts hommes en formation serrée. |
+| **Résultat** | Végéta laisse la munition toucher — **il mesure**. Puis un mouvement du bras droit à hauteur de hanche. Les quatre-vingts s'éteignent dans le même dixième de seconde, sur dix-huit kilomètres. |
+| **Coût pour Végéta** | Zéro. De la suie qui ne part pas. |
+
+### Conséquences
+
+| Quand | Quoi | Placé ? |
+|---|---|---|
+| J2 | **Végéta en tire que ce monde a montré tout ce qu'il avait.** « On ne lance pas ça en deuxième. » | ✔ ch. 4 |
+| J2 | Et que deux jours entre voir et frapper, c'est une réunion — **donc celui qui commande n'est pas celui qui décide.** Il en déduit l'existence d'un échelon supérieur. | ✔ ch. 4 |
+| Ch. 6 | **À faire exister dans la bouche de Cecil, en une ligne, sans commentaire.** C'est ce qui achève de lui prouver qu'il n'a pas d'arme — et c'est la dernière fois qu'on lui retire un arbitrage. | ❑ |
+| Tome 1-2 | Quatre-vingts familles. Un dossier. Une commission d'enquête parlementaire distincte de celle de Chicago. | ❑ |
+
+---
+
 ## D-02 — L'AGGLOMÉRATION DE L'OZARU
 
 | | |

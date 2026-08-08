@@ -11,6 +11,8 @@ Bible §4.5-1 : **aucune résurrection. Jamais.** Une ligne inscrite ici ne s'ef
 | Repère | Cumul | Source |
 |---|---|---|
 | J0, 16 h 47 | 43 | Conquest seul, avant la déchirure |
+| J0, 17 h 09 – 03 h | **192 sauvés** | Goku, six heures d'extraction dans le cratère. **À porter au crédit, et personne ne le saura jamais.** Sur ~3 000 présences encore vives à 17 h 09. |
+| **J2, 11 h 05** | **+80** | Frappe militaire américaine. Quatre-vingts hommes effacés par Végéta en un mouvement de bras, sur dix-huit kilomètres. Ordonnée contre l'avis de Cecil. |
 | J0, 23 h 59 | ~2 400 000 | Estimation initiale |
 | J4 | ~3 100 000 | Estimation révisée |
 | Tome 2, fin | +200 000 | La stratégie des trente |

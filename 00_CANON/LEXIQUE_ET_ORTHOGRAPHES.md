@@ -29,10 +29,10 @@ Ce fichier existe pour une seule raison : sur 120 chapitres, l'incohérence orth
 
 | Graphie retenue | Note |
 |---|---|
-| **Mark Grayson** | Son nom de héros n'est jamais utilisé par la narration après le jour 0. |
-| **Nolan Grayson** / **Omni-Man** | La presse dit Omni-Man. Debbie dit Nolan. |
+| **Mark** / **Invincible** | Son nom de héros n'est plus prononcé par personne après le jour 0. Le ch. 2 est le dernier endroit du récit où il sort sans faire mal. |
+| **Nolan** / **Omni-Man** | **Voir la règle encadrée ci-dessous.** |
 | **Debbie Grayson** | Jamais « Deborah ». |
-| **Oliver** | Le prénom seul suffit. |
+| **Oliver** | Le prénom seul suffit. **Hybride viltrumite et thraxan** : peau violette, cicatrisation viltrumite — moignon refermé en trente-six heures —, croissance accélérée. **Il dit « Nolan », pas « papa ».** |
 | **Atom Eve** / **Eve** | La narration dit Eve. Les rapports disent Atom Eve. |
 | **Cecil Stedman** | |
 | **Donald Ferguson** | |
@@ -40,7 +40,21 @@ Ce fichier existe pour une seule raison : sur 120 chapitres, l'incohérence orth
 | **Amber Bennett**, **William Clockwell** | |
 | **la GDA** | Article féminin. « la GDA », « à la GDA ». Ne jamais développer le sigle dans la prose. |
 | **Guardians of the Globe** | Conservé en anglais, non traduit, non italiqué. |
-| **Immortal**, **War Woman**, **Red Rush** | Idem. |
+| **Immortal**, **War Woman**, **Red Rush** | Idem. War Woman se bat **à la masse**. |
+| **Darkwing, Aquarus, Martian Man, Green Ghost, Black Samson** | Les cinq survivants. Absents le jour 0. |
+
+> **RÈGLE DE NOMINATION — Nolan / Omni-Man / Grayson.** Erreur commise aux ch. 1 et 3, corrigée.
+>
+> | Qui parle | Ce qu'il dit |
+> |---|---|
+> | Les Viltrumites — Conquest, Anissa, Thragg | **Nolan** |
+> | Oliver | **Nolan** |
+> | Les Guardians, la GDA, Cecil | **Omni-Man** |
+> | Debbie | **Nolan** |
+> | La presse, le public | **Omni-Man** |
+> | Personne | ~~Grayson~~ |
+>
+> « Grayson » est un patronyme terrien qu'il s'est choisi pour tenir vingt ans sur cette planète. Ce n'est ni son nom, ni son grade, et aucun personnage n'a de raison de l'employer. Le mot n'existe que dans un formulaire.
 | **les Mauler Twins** / **les Mauler** | |
 | **Sinclair**, **programme Reanimen** | |
 | **Angstrom Levy** | |

@@ -191,13 +191,19 @@ Chaque tome pose la question sous un angle différent :
 | 4 | *Qu'est-ce qui reste quand on gagne tout ?* — le deuil, l'attachement, Mars |
 | 5 | *Est-ce qu'on peut appartenir à un monde qu'on pourrait détruire ?* — l'intégration |
 
-### 5.2 Moteur — La faim
+### 5.2 Moteur — L'ignorance *(remplace « la faim », v2.1)*
 
-Récurrent, presque chaque chapitre du tome 1. Comique, politique et dramatique à la fois.
+> **CORRECTION STRUCTURELLE.** La version 2.0 faisait de la faim le moteur du tome 1 : Goku chassant dans les Rocheuses, Végéta volant un restaurant. **C'est incompatible avec le régime de puissance.** Deux êtres qui rasent une ville ne chapardent pas, et ils sont l'un comme l'autre trop orgueilleux pour se limiter à ça. Rien ne les empêche d'entrer dans une ville et de prendre ce qu'ils veulent.
 
-- **Goku chasse.** Gibier, pêche, vie dans les Rocheuses. Cohérent avec son enfance.
-- **Végéta prend.** Un restaurant, trois cents dollars de nourriture, il part. Puis un entrepôt. Puis il est filmé. Il devient un fait divers, puis une menace nationale, puis un point à l'ordre du jour d'une session du Congrès.
-- **La GDA propose un contrat d'alimentation.** Nourriture illimitée contre coopération. **C'est la première laisse de Cecil, et elle est faite de calories.**
+**La faim est rétrogradée au rang de physiologie** (R4), pas de moteur. Elle existe, elle est énorme, elle ne pose aucun problème : **personne ne leur refuse rien.** Ce n'est pas du vol, c'est **du tribut**, et un restaurant qui sert sans oser présenter l'addition est infiniment plus glaçant qu'un vol filmé.
+
+**L'épuisement reste réel** (§4.4) mais change d'échelle : ce n'est pas une contrainte quotidienne, c'est la séquelle d'un engagement soutenu sur plusieurs jours. Leur endurance est vaste. Elle est finie. L'Empire finira par trouver ce plancher ; personne ne le trouve au tome 1.
+
+**Le vrai moteur est l'ignorance.** Ils ne savent ni lire, ni où ils sont, ni ce qu'est ce monde, ni ce qu'est une devise, une élection, un procès — ni surtout s'il existe une voie de retour. **C'est la seule chose qu'ils ne peuvent pas prendre par la force.**
+
+- **Goku** a besoin de savoir s'il existe une porte. C'est tout ce qui l'intéresse, et il ne sait pas encore que c'est urgent.
+- **Végéta** a besoin de savoir ce que vaut ce monde, qui le dirige, et ce qu'on peut y conquérir. Et il refuse d'apprendre la langue — faire parler la langue de l'autre, c'est déjà céder.
+- **La GDA est le seul fournisseur possible.** **C'est la première laisse de Cecil, et elle est faite d'information.**
 
 ### 5.3 Moteur — Le vide de Végéta
 
@@ -260,7 +266,7 @@ Ni l'un ni l'autre ne sait ce qu'il est advenu de Namek, de Gohan, de Krillin, d
 
 **Ce que Cecil comprend en quarante-huit heures :** il n'a pas d'arme, pas de prison, pas de levier familial. Il a trois choses, et il les note dans un mémorandum classé OMEGA au jour 4 :
 
-> « Un : ils ont faim, en permanence, et ils ne comprennent rien à notre économie. Deux : l'un des deux se soucie de ce que les gens pensent de lui. Trois : ils se détestent mutuellement plus qu'ils ne nous détestent. Nous travaillerons sur les trois. »
+> « Un : ils ne comprennent rien à ce monde, et ils ont besoin de quelqu'un qui le comprenne. Deux : l'un des deux se soucie de ce que les gens pensent de lui. Trois : ils se détestent mutuellement plus qu'ils ne nous détestent. Nous travaillerons sur les trois. »
 
 **Sa ligne, à placer textuellement au tome 2 :** « Je ne vous demande pas d'être des héros. Je vous demande d'être prévisibles. »
 
@@ -487,7 +493,7 @@ La question : **qu'est-ce qu'on vient de faire ?**
 |---|---|
 | 1-2 | Les sept secondes. Les vingt-deux minutes. Focalisation Conquest, puis un caméraman. |
 | 3 | Le silence d'après. Cecil arrive sur le cratère. Le premier chiffre. |
-| 4-5 | La faim. Goku dans les Rocheuses, Végéta au restaurant. Premier contact radio. |
+| 4-5 | **Les retrouvailles.** Ils s'évaluent. Végéta comprend que Freezer n'est pas derrière lui. **Le pacte : une prémisse commune, deux buts incompatibles** — il veut un siège, Goku veut une porte. Premier contact radio. |
 | 6 | Doctrine OMEGA. Le congélateur. |
 | 7-8 | Debbie exige de parler à celui qui a tué son fils. La confrontation dans le désert. **Il ne s'excuse pas.** Il ne comprend pas encore ce qu'on lui reproche. |
 | 9-11 | Végéta réalise pour la Lune. Il ne dit rien. Entraînement au-dessus du Pacifique. |
@@ -502,7 +508,7 @@ La question : **qu'est-ce qu'on vient de faire ?**
 
 La question : **qu'est-ce qu'on est prêts à faire ?**
 
-- Contrat d'alimentation GDA. Goku signe sans comprendre.
+- **Protocole d'accès GDA.** Cartes, archives, interprète, et l'accès aux travaux sur le retour. Goku signe sans pouvoir le lire. **La laisse est faite d'information.**
 - Allen l'Alien. Deux rencontres miroir.
 - Le débat sur la Lune. Deux chapitres de conseil de sécurité, chiffrés. Ils n'osent pas.
 - **Debbie apprend à Goku que Mark ne reviendra pas.** Il s'effondre dans sa cuisine. Elle ne le console pas. C'est le sommet du tome.

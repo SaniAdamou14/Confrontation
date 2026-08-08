@@ -8,9 +8,9 @@ Version vivante de la bible §13. **Ce fichier prime sur la bible pour tout ce q
 
 ## ÉTAT COURANT
 
-**Date récit :** Jour 2, 21 h 00 — fin du chapitre 3
-**Dernier chapitre écrit :** ch. 3, « Le premier chiffre » (5 241 mots)
-**Chapitres écrits :** 3 / 120
+**Date récit :** Jour 3, 04 h 30 — fin du chapitre 4
+**Dernier chapitre écrit :** ch. 4, « Ce qui doit être arrêté » (5 176 mots)
+**Chapitres écrits :** 4 / 120
 
 ### Compteurs
 
@@ -26,11 +26,13 @@ Version vivante de la bible §13. **Ce fichier prime sur la bible pour tout ce q
 
 | Item | État |
 |---|---|
-| Localisation | au bord du cratère, sur une langue de béton, poussière jusqu'aux genoux |
+| Localisation | une arête, quelque part au nord. Seul depuis 04 h 30. |
 | Ki | plein |
 | Blessures | aucune |
 | Queue | **intacte** |
-| Faim | pas encore un problème. Le devient au ch. 4. |
+| Faim | **jamais un problème.** Il mange sans y penser et pourrait manger le double. Ce n'est pas un moteur. |
+| **Ce qu'il cherche réellement** | **La chose qui répare.** Il tient pour acquis qu'elle existe, comme partout. Il ne se le formule pas. Il est mort une fois et il a attendu un an. **Un an, ce n'est pas grave.** |
+| Ce qu'il a fait J0-J3 | six heures à sortir des gens du cratère : **192 remontés, alignés sur le bord ouest**. Personne n'est venu les chercher. |
 | Ce qu'il a fait | tué Nolan, Mark, Oliver *(non, voir ci-dessous)*, Immortal, War Woman, Eve. **Il a sauvé Eve à la seconde 7 et il l'a tuée dix-neuf minutes plus tard.** |
 | **17 h 09** | **Il s'est arrêté au milieu d'un geste.** Puis il a regardé sa main ouverte, à hauteur de visage. Il n'a plus frappé personne. |
 | Ce qu'il ressent | **aucun remords. De l'incompréhension.** Ces gens auraient dû se relever. |
@@ -45,10 +47,13 @@ Version vivante de la bible §13. **Ce fichier prime sur la bible pour tout ce q
 
 | Item | État |
 |---|---|
-| Localisation | quelque part au nord du cratère. **Non précisé par le ch. 2 — Ray l'a perdu.** |
-| Ki | plein |
-| Blessures | **aucune.** Touché trois fois par Conquest, mis dans la chaussée une fois. Aucune trace. |
-| Ce qu'il a fait | tué Conquest (17 h 04) et Red Rush. **Le souffle de sa sphère a détruit Chicago.** Il n'a rien visé d'autre que Conquest. |
+| Localisation | parti vers le sud à 04 h 30, seul, au-dessus de la couche |
+| Ki | plein — **et tenu.** Il a lâché d'un cran au J2 après la frappe et n'est pas remonté seul : il a été remis en place. Goku l'a vu et croit à de la fatigue. |
+| Blessures | **aucune.** Couvert de suie qui ne part pas. |
+| Ce qu'il a fait | tué Conquest et Red Rush au J0. **Effacé quatre-vingts hommes en un mouvement de bras, sur dix-huit kilomètres, au J2.** |
+| **Ce qu'il sait et n'a pas dit** | Que cette planète a une lune. Établi dans la nuit du J3, en une heure vingt-quatre d'observation, par occultation stellaire. **Il compte une période. Personne ne le sait.** |
+| **Ce qu'il a déduit** | Qu'une espèce non native s'est installée ici il y a plus de vingt ans et s'est reproduite avec la population locale. Qu'elle **ne produit aucune signature** et qu'elle est donc indénombrable. Et qu'entre voir et frapper, ce monde met deux jours — **donc celui qui commande n'est pas celui qui décide.** |
+| **Ce qui l'a traversé au J2** | Freezer n'est pas derrière lui. Il vient de faire la démonstration de vingt-cinq ans et il n'y a personne au-dessus pour la voir. **Non formulé, jamais.** |
 | Équipement | armure de commandement, plastron blanc, épaulettes jaunes — **fissure à l'omoplate gauche**, inchangée |
 | Scouteur | **détruit.** Retiré et lâché à 16 h 47 : 03, cassé en deux au sol près d'une roue de voiture, à l'angle de State et Madison. **Il n'en a plus.** |
 | Queue | **intacte** — enroulée deux fois autour de la taille |
@@ -168,4 +173,25 @@ Morts cumulés 43 · Goku et Végéta en transit, ki plein, queues intactes, auc
 - **Darkwing :** Nolan Grayson est resté au sol trois secondes en trente rencontres, et toute l'équipe en a parlé pendant un mois. Sur la bande, il est au sol dix-neuf fois en huit minutes.
 - **Oliver a produit la seule donnée de comportement du chapitre** : *l'homme en orange ne regarde jamais autour de lui.* Il a mis Nolan dans un immeuble et n'a pas regardé l'immeuble tomber. Quatre-vingt-dix analystes n'avaient pas trouvé ça.
 - **Le premier chiffre a été prononcé à voix haute devant Oliver**, avant le Président, avant le Sénat. Parce que l'enfant est la seule personne que Cecil n'a pas besoin de gérer.
-- **La dernière question d'Oliver — « Il savait pas, hein ? » — reste sans réponse.** Cecil connaît la réponse. Il ne la donne pas.
+- **La dernière question d'Oliver — « Quand est-ce que vous allez le tuer ? » — reste sans réponse.** Elle n'est ni de la colère ni de la peur : c'est une question d'organisation, posée du ton dont on demande à quelle heure passe le camion. Cecil aurait dû répondre *jamais*. **Un enfant à qui on retire ça n'a plus rien ; un enfant à qui on le laisse grandit avec.**
+
+### Après le ch. 4 — Jour 3, 04 h 30
+
+**Écrit :** `04_CHAPITRES/T1/CH04_ce-qui-doit-etre-arrete.md`, 5 176 mots, focalisation Goku, J0 17 h 09 → J3 04 h 30. **Végéta vu de l'extérieur sans exception.**
+
+**Désormais canonique :**
+
+- **Goku est resté six heures dans le cratère.** Trois mille présences à 17 h 09, quatorze cents douze minutes plus tard, quatre cents à la nuit. Il a mis quarante minutes à trouver une méthode d'extraction qui ne tuait personne, puis il a été très rapide : **192 sortis, alignés sur le bord ouest, chacun couché sur le côté.** À 20 h l'eau est entrée et a éteint douze présences d'un coup à sept cents mètres de lui. La dernière s'est éteinte à trois heures du matin ; elle était petite et il avait essayé deux fois.
+- **Personne n'est venu.** Des dizaines de milliers de kis à quinze kilomètres, aucun dans sa direction. Il ne comprend pas — il attend ceux dont c'est le travail, parce qu'il y en a toujours.
+- **Le moteur de Goku est établi : il cherche la chose qui répare.** Il tient son existence pour acquise. Il connaît les délais, ils dépendent de la distance et du nombre. **Il est mort une fois et il a attendu un an. Un an, ce n'est pas grave.** Ce qui l'inquiète, c'est que personne ne prenne les corps, parce que tant qu'on ne prend pas les corps la deuxième partie ne commence pas. **Ne jamais formuler ce raisonnement.**
+- Il a demandé à Végéta si ce monde avait une méthode. **Végéta n'a pas dit non.**
+- **La déduction viltrumite, au J1.** À partir d'une seule information de Goku — le grand en blanc et rouge n'avait aucun ki, le petit en bleu en avait un peu — Végéta reconstruit : espèce non native, installée depuis plus de vingt ans, reproduction avec la population locale, **et indénombrable**. « J'ai passé vingt-cinq ans à me faire une opinion sur des gens avant d'entrer dans une pièce. Enlève ça et il ne nous reste que les yeux, comme à n'importe qui. »
+- **Le tribut.** Ils entrent dans une ville à pied. Quatre cents kis hurlent de partir et personne ne part — l'état de soldats à qui on a donné l'ordre de tenir une ligne, sans qu'aucun ordre ait été donné. Des dizaines de personnes tiennent des appareils à bout de bras, orientés vers eux ; Goku renonce à comprendre le geste. Au restaurant : vingt-deux secondes, puis on apporte tout ce qu'il y a. **Personne ne réclame rien. Personne ne les regarde.** Goku sort mal à l'aise et n'a pas les mots. Végéta trouve ça normal — « c'est le seul rapport que j'aie connu pendant vingt-cinq ans ».
+- **L'enfant au coin de la rue.** Cinq ou six ans, arrêté au milieu du passage, la tête en arrière, sans peur. Goku s'arrête onze secondes et ne dit rien pendant les quatre heures suivantes. *(Première des trois évocations. Le nom n'apparaît pas.)*
+- **La frappe du J2, 11 h 05.** Quatre-vingts kis en formation, précédés d'une munition conventionnelle massive. **Végéta ne l'intercepte pas : il la laisse toucher, parce qu'il mesure.** Puis un mouvement du bras droit à hauteur de hanche, et les quatre-vingts s'éteignent dans le même dixième de seconde sur dix-huit kilomètres. **Ordonnée contre l'avis de Cecil — à faire exister au ch. 6, en une ligne.**
+- **Puis il reste debout onze minutes sans rien faire.** Son ki se desserre d'un cran, sans blessure. Goku a senti ça deux fois dans sa vie : chez un vieil homme qui a quitté une aire de combat en disant qu'il n'en voyait plus l'intérêt, et chez quelqu'un qui venait d'apprendre une nouvelle par téléphone. **Il pense « il est fatigué » et range l'observation.**
+- **La lune, nuit du J3.** Végéta immobile une heure quatre sur la pointe de l'arête. Goku vérifie à l'œil et en ki : rien. Un morceau de ciel sans étoiles, au bord net, qu'il met sur le compte d'un nuage haut. Végéta fait deux fois un geste minuscule du pouce contre les doigts — **celui de quelqu'un qui vérifie un compte.** Goku demande « qu'est-ce que tu regardes ? ». Pas de réponse.
+- **Goku a cherché la lune lui-même** — pour établir un calendrier et savoir combien dure une année ici. Il ne l'a pas trouvée. **Il voulait savoir combien de temps il aurait à attendre.**
+- **LE PACTE.** « Ce monde a quelque chose qu'il me faut. » « À moi aussi. » « Pas la même chose. » « Non. » Puis : *le jour où tu trouves ce que tu cherches, tu ne me demandes rien et tu ne m'attends pas ; le jour où je trouve ce que je cherche, tu ne t'en mêles pas.* — « Et si c'est le même endroit ? » — « **Alors nous aurons une conversation.** »
+- **Ils ont besoin de quelqu'un qui sache lire.** Végéta pose la condition : « quelqu'un qui ait intérêt à nous dire la vérité, ce qui n'existe pas. Donc quelqu'un à qui on puisse retirer quelque chose. » **Il construit la laisse de Cecil par l'autre bout, deux jours avant Cecil.**
+- **Végéta part le premier.** Goku reste, monte à l'endroit exact où l'autre se tenait, et regarde le morceau de ciel sans étoiles. Il n'y a toujours rien.

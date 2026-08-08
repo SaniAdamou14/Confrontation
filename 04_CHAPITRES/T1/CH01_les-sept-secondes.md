@@ -67,11 +67,11 @@ Il faisait chaud sous l'uniforme. Il faisait toujours chaud sous l'uniforme — 
 
 À la septième minute, il a commencé à croire que cette planète n'avait rien.
 
-Le dossier disait le contraire. Le dossier disait qu'un officier de l'Empire était installé ici depuis vingt ans, un nommé Grayson, avec une consigne d'une simplicité insultante, et que la consigne n'était pas exécutée. Un homme seul rend un monde comme celui-ci prêt en une décennie. Vingt ans plus tard la planète tournait encore, pleine, bruyante, avec ses lampes disciplinées au-dessus des carrefours.
+Le dossier disait le contraire. Le dossier disait qu'un officier de l'Empire était installé ici depuis vingt ans — Nolan, un nom que Conquest avait entendu prononcer deux fois en cinq siècles et jamais avec considération — avec une consigne d'une simplicité insultante, et que la consigne n'était pas exécutée. Un homme seul rend un monde comme celui-ci prêt en une décennie. Vingt ans plus tard la planète tournait encore, pleine, bruyante, avec ses lampes disciplinées au-dessus des carrefours.
 
 Deux explications. Une seule intéressante.
 
-Grayson avait échoué.
+Nolan avait échoué.
 
 Ou quelque chose, ici, avait été assez lourd pour l'arrêter.
 
@@ -95,7 +95,7 @@ Le garçon n'a pas répondu. Il regardait la rue derrière lui sur toute sa long
 
 Conquest a attendu la fin de l'addition. Frapper quelqu'un qui compte encore ne rapporte rien.
 
-— Ton père a mis vingt ans à ne pas faire son travail. Tu vas mettre combien de temps à ne pas faire le tien ?
+— Nolan a mis vingt ans à ne pas faire son travail. Tu vas mettre combien de temps à ne pas faire le tien ?
 
 Le garçon est descendu de six mètres.
 
@@ -219,7 +219,7 @@ Conquest a essuyé sa pommette. Il a regardé le sang sur ses doigts pendant deu
 
 Il a marché vers le garçon en parlant. Il a enjambé quelque chose au sol sans regarder ce que c'était.
 
-— L'unité Grayson n'a pas rempli sa mission. Le sujet a produit une descendance hybride sur place, l'a formée, et l'a laissée s'opposer à un officier de l'Empire. Recommandation : réexamen complet du dossier planétaire.
+— L'unité Nolan n'a pas rempli sa mission. Le sujet a produit une descendance hybride sur place, l'a formée, et l'a laissée s'opposer à un officier de l'Empire. Recommandation : réexamen complet du dossier planétaire.
 
 Le garçon avançait toujours, le bras gauche contre le ventre.
 

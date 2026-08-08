@@ -197,9 +197,9 @@ Cecil a laissé passer.
 
 Darkwing s'est arrêté à la porte.
 
-— Vous connaissiez Grayson, a dit Cecil.
+— Vous connaissiez Omni-Man, a dit Cecil.
 
-— Tout le monde connaissait Grayson.
+— Tout le monde connaissait Omni-Man.
 
 — Vous l'avez vu se battre.
 
@@ -221,7 +221,7 @@ La porte s'est refermée.
 
 Trois secondes en trente rencontres, et une équipe entière en avait parlé pendant un mois.
 
-Sur la bande, Grayson était resté au sol dix-neuf fois en huit minutes.
+Sur la bande, Omni-Man était resté au sol dix-neuf fois en huit minutes.
 
 Cecil est resté seul devant la carte et ses cinq punaises, et il a fait le calcul qu'il évitait depuis dix-neuf heures.
 
@@ -611,27 +611,27 @@ La manche gauche du pyjama était repliée et fermée par une épingle.
 
 — Je sais. Ils l'ont dit.
 
-Sa voix était nette. Aucun accent nulle part.
+Sa voix était nette, sans accent d'aucune sorte, et elle avait cette platitude un peu trop régulière des enfants qui ont appris une langue en écoutant des adultes plutôt qu'en jouant avec d'autres enfants.
 
 Cecil a pris la chaise et il s'est assis dessus.
 
-Il ne s'asseyait jamais. Il traitait quatre-vingts pour cent de ses affaires debout, dans des couloirs, parce que debout on abrège. Il s'est assis, et il a mis deux secondes à trouver quoi faire de ses mains.
+Il ne s'asseyait jamais. Il traitait la plus grande part de ses affaires debout, dans des couloirs, sur le principe qu'un homme debout abrège et qu'un homme assis concède. Il s'est assis, et il lui a fallu deux secondes pour décider quoi faire de ses mains.
 
-— On m'a dit que tu ne dormais pas.
+— On me dit que tu ne dors pas.
 
 — Non.
 
 — Tu as mal ?
 
-— Ça a arrêté hier.
+— Ça s'est arrêté hier.
 
-Cecil a regardé l'épingle.
+Cecil a regardé l'épingle qui fermait la manche vide. Trente-six heures. Le rapport médical parlait d'une cicatrisation complète du moignon en trente-six heures, avec une note de bas de page où le chirurgien signalait qu'il n'avait rien à proposer comme explication et qu'il préférait que ce soit écrit.
 
 — Déjà ?
 
-— Ça se referme vite. Ça repoussera pas, par contre. Mon père disait qu'on répare pas ce qui est parti.
+— Ça se referme vite. Ça repoussera pas, par contre. (Il a haussé l'épaule qui lui restait.) Nolan disait qu'on ne répare pas ce qui est parti.
 
-Il l'a dit exactement comme on récite quelque chose qu'on a entendu souvent et qu'on n'a pas fini de comprendre.
+Il avait dit *Nolan*, pas *papa*, et il l'avait dit de la manière dont on cite un supérieur.
 
 — Je voudrais que tu me racontes ce que tu as vu.
 
@@ -641,15 +641,15 @@ Il l'a dit exactement comme on récite quelque chose qu'on a entendu souvent et 
 
 L'enfant a réfléchi. Il a réfléchi longtemps et sérieusement, sans regarder ailleurs, ce que les adultes ne font presque jamais.
 
-— J'étais sur le parking. Le grand, celui avec les rampes en spirale. Papa m'avait dit de rester là.
+— Sur le parking. Le grand, celui qui a les rampes en spirale. On m'avait dit de rester là.
 
-— Il t'a dit ça avant ou après ?
+— Avant ou après ?
 
-— Avant. Il m'a dit reste ici et regarde pas. Après il est parti.
+— Avant. Reste ici et ne regarde pas. Après il est parti.
 
 — Et tu as regardé.
 
-— Oui.
+— Évidemment.
 
 — Qu'est-ce que tu as vu ?
 
@@ -667,7 +667,7 @@ Cecil n'a pas bougé.
 
 — Tu es sûr ?
 
-— Il a mis papa dans un immeuble et il a pas regardé l'immeuble tomber.
+— Il a mis Nolan dans un immeuble et il n'a pas regardé l'immeuble tomber.
 
 Cecil a laissé passer six secondes.
 
@@ -685,7 +685,7 @@ Il avait quatre-vingt-dix analystes et onze démographes et une bande de quarant
 
 L'enfant a secoué la tête.
 
-Puis il a dit :
+Puis il a dit, du même ton dont il avait décrit les rampes en spirale :
 
 — C'est combien ?
 
@@ -699,27 +699,41 @@ Cecil a ouvert la bouche pour dire ce qu'il disait depuis quarante-huit heures, 
 
 L'enfant a hoché la tête.
 
-Il n'a pas eu de réaction. Il n'a pas pleuré, il n'a pas ouvert grand les yeux, il n'a pas demandé si c'était beaucoup.
+Il n'a pas pleuré. Il n'a pas ouvert grand les yeux. Il n'a pas demandé si c'était beaucoup, et Cecil, qui avait annoncé des morts à des familles pendant trente et un ans et qui savait par cœur la demi-seconde de flottement qui précède l'effondrement, n'a rien vu venir du tout — l'information est entrée, elle s'est rangée quelque part, et le visage violet n'a pas bougé d'un muscle.
 
-Il a hoché la tête comme quelqu'un qui range une information à sa place, et Cecil a compris qu'il venait de dire le chiffre à voix haute pour la première fois de sa vie, et qu'il l'avait dit à la seule personne dans ce bâtiment qui n'allait rien en faire.
+Il avait dit le chiffre à voix haute pour la première fois de sa vie. Il l'avait dit avant le Président, avant le Sénat, avant le colonel Aldana qui le lui avait demandé quatre fois, et il l'avait dit à la seule personne du bâtiment qui n'allait rien en faire.
 
-Le grondement passait à travers deux niveaux de béton. Vingt heures onze, jour deux. Il n'avait pas varié depuis cinquante et une heures.
+Le grondement traversait deux niveaux de béton. Vingt heures onze, jour deux, cinquante et une heures sans une variation.
 
 — Monsieur.
 
 — Oui.
 
-— Il savait pas, hein ?
+— Quand est-ce que vous allez le tuer ?
 
-Cecil a regardé l'enfant.
+Cecil n'a pas répondu tout de suite.
 
-Il avait les neuf images en tête. Il les avait en tête depuis la veille au soir et il les aurait en tête pendant vingt ans : le bras en arrière, l'arrêt, le bras qui retombe, et la main ouverte à hauteur de visage qu'un homme regarde comme s'il y avait quelque chose dessus.
+L'enfant ne s'était pas penché en avant, il n'avait pas haussé la voix, et il n'y avait rien sur son visage qui ressemblât à de la colère telle que Cecil savait la lire. C'était pire que de la colère. C'était une question d'organisation. Le garçon demandait une date de la manière dont on demande à quelle heure passe le camion.
 
-Il connaissait la réponse. Il l'avait construite tout seul, à trois heures du matin, devant un écran, et il n'en avait parlé à personne parce qu'elle ne servait à rien.
+Et il attendait vraiment la réponse.
 
-Elle ne servait à rien à lui.
+— Ce n'est pas aussi simple.
 
-Elle aurait servi à cet enfant-là.
+— Vous avez des armes.
+
+— Nous en avons.
+
+— Alors c'est quand ?
+
+Cecil avait passé quarante-huit heures à ne pas prononcer une phrase. Il l'avait esquivée devant deux gouverneurs, devant un secrétaire d'État, devant onze analystes à deux heures du matin, devant un homme sorti d'un égout de Baltimore qui la lui avait servie presque mot pour mot. Il l'avait contournée avec un traité de mille neuf cent neuf et un chiffrage d'évacuation dont personne ne comprenait l'objet.
+
+Il n'allait pas la prononcer maintenant, dans une chambre, devant un enfant de huit ans à qui il venait de laisser croire qu'il existait un calendrier.
+
+Il aurait fallu dire : *jamais*. Il aurait fallu dire qu'il n'y avait pas d'arme, qu'il n'y avait pas de prison, qu'il n'y avait rien du tout dans l'inventaire de la plus grande puissance de cette planète qui pût seulement les faire saigner, et que le mot *tuer*, appliqué à ces deux-là, n'avait aucun contenu.
+
+Un enfant à qui l'on retire ça n'a plus rien.
+
+Un enfant à qui on le laisse grandit avec.
 
 Cecil s'est levé et il a remis la chaise contre le mur, à l'endroit exact où il l'avait prise.
 

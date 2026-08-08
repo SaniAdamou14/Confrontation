@@ -24,19 +24,20 @@ Le bloc de citation est un outil de travail. Décider avant publication s'il res
 |---|---|---|---|---|
 | 1 | Les sept secondes | Conquest | 5 400 | **écrit** · v2 après correction canon · registres à jour |
 | 2 | Vingt-deux minutes | Ray Dombrowski | 5 150 | **écrit** · registres à jour |
-| 3 | Le premier chiffre | Cecil | 5 241 | **écrit** · registres à jour |
-| 4 | *(la faim)* | Goku | — | dossier à écrire |
-| 5-20 | voir `03_PLAN/TOME_1.md` | | | |
+| 3 | Le premier chiffre | Cecil | 5 241 | **écrit** · v2 (noms, Oliver) · registres à jour |
+| 4 | Ce qui doit être arrêté | Goku | 5 176 | **écrit** · registres à jour |
+| 5 | *(le premier contact)* | Abbadie ou Ferguson | — | dossier à écrire |
+| 6-20 | voir `03_PLAN/TOME_1.md` | | | |
 
-### Ce que le ch. 4 hérite
+### Ce que le ch. 5 hérite
 
-- **Jour 3.** Première entrée dans la tête de Goku de tout le récit. Il n'est pas triste : il est **affairé**.
-- **Il ne sait pas que la mort est définitive ici.** Il a constaté que les corps ne se relèvent pas. Ce n'est pas la même chose, et il attend patiemment qu'on organise le retour de tout le monde.
-- **La faim commence.** 15 000 à 25 000 kcal/jour. Pas d'argent, pas de capsules, pas de Bulma.
-- **Première des trois évocations de Gohan en dix chapitres**, amenée par un détail concret — jamais une explication.
-- **Il ne parle pas encore anglais.** Abbadie a trois jours pour livrer quarante mots ; la liste est écrite par Cecil.
-- Végéta réalise pour la lune ce jour-là — **hors champ**, et Goku n'en sait rien.
-- Le grondement de l'eau s'entend encore. Le trou n'est pas plein avant J6-J9.
+- **Le pacte tient.** Ils sont séparés depuis le J3 04 h 30 mais liés par une condition : il leur faut quelqu'un qui sache lire, **et à qui on puisse retirer quelque chose.**
+- **Premier contact radio.** C'est le chapitre où la GDA leur parle pour la première fois. Abbadie a livré ses quarante mots ; **la liste a été écrite par Cecil**, et le choix des quarante est en soi une décision politique — c'est le sujet du chapitre.
+- **Le mensonge d'Abbadie au J5** (F12), qui adoucit une menace de Végéta et sauve une négociation. Cecil le découvre et le promeut.
+- **Végéta refuse d'apprendre l'anglais.** Par principe : parler la langue de l'autre, c'est déjà céder. Abbadie reste donc l'unique canal vers lui pendant des tomes.
+- **Goku apprendra l'anglais parlé à partir du J7**, à vitesse anormale. **Il ne saura toujours pas le lire au tome 2.**
+- La frappe du J2 doit exister au ch. 6, en une ligne, dans la bouche de Cecil.
+- Le trou n'est pas plein avant J6-J9. Le grondement continue.
 
 ---
 

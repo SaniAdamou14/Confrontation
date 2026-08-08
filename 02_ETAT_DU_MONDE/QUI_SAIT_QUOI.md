@@ -73,6 +73,18 @@ Légende : **✓** sait · **~** soupçonne, sans preuve · **✗** ignore · **
 | **Ce qu'Oliver ignore** | Que Cecil connaît la réponse à sa question. |
 | **Ce que le Canada sait** | Qu'un niveau d'eau a bougé. Rien d'autre. Le dossier est ouvert, numéroté, et la réponse américaine tient en cinq mots : « nous procédons à l'évaluation ». |
 
+### Précisions établies par le chapitre 4
+
+| Information | État |
+|---|---|
+| **Ce que Goku croit** | Que ce monde a une méthode pour les morts, et que sa seule difficulté est de trouver qui s'en occupe. **Il ne se le formule pas.** Il connaît les délais ; il a attendu un an, une fois. |
+| **Ce que Goku ignore** | Tout le reste. Il ne connaît aucun nom propre de cette planète, ne sait pas lire, n'a pas de mot pour ce qui l'a dérangé au restaurant, et n'a pas trouvé la lune. |
+| **Ce que Végéta sait seul** | Que la planète a une lune, depuis la nuit du J3. **Il compte une période.** |
+| **Ce que Végéta a déduit et que la GDA ignore** | Qu'une espèce sans signature s'est installée ici il y a plus de vingt ans. Qu'elle est indénombrable. Que l'échelon qui commande n'est pas celui qui décide. |
+| **Ce que Végéta ne sait pas** | Que Conquest l'a entendu parler à un absent. Que Goku a compté ses onze minutes. |
+| **Ce que Goku sait et ne peut pas interpréter** | Que le ki de Végéta a lâché d'un cran au J2 sans blessure, et qu'il a été remis en place au lieu de remonter. Il appelle ça de la fatigue. **Le lecteur sait que c'est Freezer.** |
+| **Ce que personne ne sait** | Que 192 personnes ont été sorties du cratère par celui qui l'a creusé. |
+
 > **Distinction capitale — Goku.** À 17 h 09, il **constate** que les corps ne se relèvent pas. Il ne sait toujours pas que la mort est **définitive** dans ce monde. Ce n'est pas la même information. Il passe les quarante jours suivants à attendre patiemment qu'on organise le retour de tout le monde, parce que c'est ainsi que fonctionne son univers, et personne ne comprend ce qu'il attend. La révélation arrive au tome 2, par Debbie, et **c'est le sommet émotionnel du tome — elle vaut dix combats**.
 >
 > Ne jamais, dans aucun chapitre du tome 1, écrire une phrase focalisée sur Goku qui suppose qu'il sait.

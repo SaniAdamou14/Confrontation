@@ -81,11 +81,21 @@ README.md                        Ce fichier.
 
 | | |
 |---|---|
-| Chapitres écrits | **3 / 120** |
-| Date récit | Jour 2, 21 h 00 |
-| Arbitrages | **Tous tranchés.** Bible corrigée. |
+| Chapitres écrits | **4 / 120** |
+| Date récit | Jour 3, 04 h 30 |
+| Arbitrages | **Tous tranchés.** Bible corrigée (v2.1). |
 | Point ouvert | ⚠ Le scouteur est détruit au ch. 1. Payoff F10 à re-router avant le ch. 14 — voir `FUSILS_DE_TCHEKHOV.md`. |
-| Prochaine action | Dossier préparatoire du **chapitre 4**, focalisation Goku |
+| Prochaine action | Dossier préparatoire du **chapitre 5**, premier contact |
+
+### Révisions de la bible (v2.1)
+
+| Point | Changement |
+|---|---|
+| **§5.2** | « La faim » remplacée par **« L'ignorance »**. Deux êtres qui rasent une ville ne chapardent pas : ce n'est pas du vol, c'est **du tribut**. La faim redescend au rang de physiologie (R4). L'épuisement reste réel mais devient la séquelle d'un engagement de plusieurs jours, pas une contrainte quotidienne. |
+| **§6.1** | Levier n°1 du mémorandum OMEGA : **l'information, pas les calories.** « Ils ne comprennent rien à ce monde, et ils ont besoin de quelqu'un qui le comprenne. » |
+| **§2, §5.4, §13** | Conquest : ~5 000 ans, uniforme de tissu sans plaque, main droite cybernétique. Lune du J0 corrigée. |
+| **§3, §6.3, §10** | Le lac, Anissa au J13, les dix-neuf minutes à 17 h 09, tome 1 sur vingt jours. |
+| **Lexique** | **Règle de nomination Nolan / Omni-Man.** « Grayson » ne sort d'aucune bouche. |
 
 ### Calibrage du registre
 
