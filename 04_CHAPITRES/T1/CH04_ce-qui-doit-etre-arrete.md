@@ -7,7 +7,7 @@
 
 *Au bord du trou. Jour 0, 17 h 09.*
 
-Ce qu'il y avait sous ses pieds n'était plus de la ville. C'était une pente de matière retournée qui descendait vers une lumière orange, et sur toute cette pente, dans les trente premiers mètres de profondeur, il sentait encore quatre cents personnes.
+Sous ses pieds, la pente descendait vers une lumière orange sur une longueur qu'il n'arrivait pas à évaluer — de la matière retournée, du métal tordu, des blocs gros comme des maisons posés de travers les uns sur les autres. Dans les trente premiers mètres de profondeur, il sentait encore quatre cents personnes.
 
 Il les sentait comme on entend une pièce pleine à travers une porte : pas les visages, pas les noms, la charge. Quatre cents présences serrées, brouillées les unes dans les autres, avec des différences de densité qui lui disaient à peu près où elles étaient et à peu près combien il leur restait.
 
@@ -19,7 +19,7 @@ La première dalle qu'il a soulevée devait peser trois cents tonnes et elle est
 
 Ensuite il a été très rapide.
 
-Il en a sorti soixante et onze en deux heures. Il les remontait un par un sur le bord ouest, là où le sol était encore du sol, et il les allongeait sur le côté, un par un, en écartant les gravats du pied pour leur faire de la place.
+Il en a sorti soixante et onze en deux heures. Il les remontait sur le bord ouest, là où le terrain tenait encore, et il les allongeait sur le côté en écartant les gravats du pied pour leur faire de la place.
 
 Neuf étaient éveillés et faisaient du bruit. Les autres, non.
 
@@ -163,7 +163,7 @@ Végéta est resté silencieux six secondes. Goku les a comptées.
 
 — C'est quoi ?
 
-— Une espèce que tu ne peux pas compter. (Il l'a dit sans effort, ce qui ne lui ressemblait pas.) J'ai passé vingt-cinq ans à me faire une opinion sur des gens avant d'entrer dans une pièce. Toi aussi, sauf que tu appelles ça autrement. Enlève ça et il ne nous reste que les yeux, comme à n'importe qui.
+— Une espèce que tu ne peux pas compter. (Il l'a dit sans effort, ce qui ne lui ressemblait pas.) J'ai passé vingt-cinq ans à savoir ce qu'il y avait dans une pièce avant d'y entrer. Toi aussi. Enlève-nous ça et il nous reste les yeux, comme à n'importe qui.
 
 Il a laissé passer un temps.
 
@@ -179,7 +179,11 @@ Goku, lui, a entendu autre chose dessous, quelque chose qui n'était pas dans le
 
 — Alors on cherche autre chose, a dit Goku.
 
-— Nous ne cherchons rien du tout, Kakarotte. Nous ne sommes pas *nous*.
+— On ?
+
+Végéta l'a regardé par-dessus son épaule.
+
+— Il n'y a pas de « on », Kakarotte. Tu es tombé ici en même temps que moi. Ça ne fait pas de nous une équipe.
 
 — Ils vont revenir, les gens du trou ?
 
@@ -215,7 +219,7 @@ Ils ont marché quatre cents mètres et personne n'a couru. Personne n'a crié. 
 
 Il y avait des appareils. Des gens en tenaient devant eux, à hauteur de visage, à bout de bras, immobiles, et le geste revenait partout : dans une porte cochère, sur un balcon, derrière une vitrine, la même posture répétée par des dizaines de personnes qui ne se connaissaient pas. Ils ne s'en servaient pas pour se protéger et ils ne s'en servaient pas pour viser. Ils les tenaient, c'est tout, en les orientant vers eux deux.
 
-Goku a regardé ça pendant deux cents mètres et il a renoncé à comprendre.
+Goku les a regardés faire jusqu'au carrefour suivant sans arriver à deviner à quoi ça servait.
 
 Ce qui l'a occupé davantage, c'est qu'aucun de ces gens ne s'enfuyait, alors que leur ki disait le contraire. Il y avait dans cette rue quatre cents personnes dont le corps entier hurlait de partir, et pas une seule ne partait. Il connaissait cet état-là. Il l'avait senti sur des soldats à qui on avait donné l'ordre de tenir une ligne.
 
@@ -241,7 +245,7 @@ Ils sont restés quarante minutes. Personne n'est parti de la salle et personne 
 
 Il y avait de la nourriture pour trente personnes sur la table et elle a suffi à l'un des deux.
 
-Goku, lui, a mangé sans y penser, ce qu'il faisait toujours, et il aurait pu manger le double sans que ça change quoi que ce soit à sa journée. Ce n'était pas une question. Ça n'avait jamais été une question. La seule fois où la nourriture avait compté dans sa vie, c'était pendant les six jours où il avait porté quelqu'un sur son dos à travers une chaîne de montagnes, et encore, ce qui avait compté ces jours-là n'était pas la nourriture.
+Goku, lui, a mangé sans y penser, comme toujours, et il aurait pu manger le double sans que sa journée en soit modifiée. Il avait passé six jours à traverser une chaîne de montagnes avec quelqu'un sur le dos, sans rien du tout, et il était arrivé de l'autre côté.
 
 Quand ils se sont levés, personne ne leur a rien réclamé.
 
@@ -307,7 +311,7 @@ Végéta ne s'est pas écarté.
 
 Il l'a laissée arriver.
 
-Goku a vu ça et il n'a pas eu le temps de crier quoi que ce soit, et de toute façon il n'aurait pas crié : ce n'était pas de l'inattention, c'était une posture d'évaluation, et on n'interrompt pas quelqu'un qui évalue.
+Goku a vu ça et il n'a pas eu le temps de crier, et de toute façon il n'aurait pas crié. L'autre avait les épaules ouvertes et le menton levé, dans la posture qu'on prend pour jauger la charge d'un coup qu'on a décidé d'encaisser. On n'interrompt pas quelqu'un qui mesure.
 
 L'objet a touché.
 
@@ -501,19 +505,25 @@ Il a rangé ça avec le reste.
 
 — Il faudrait quelqu'un.
 
-— Il faudra quelqu'un. (Il a réfléchi une seconde.) Et il faudra que ce soit quelqu'un qui ait intérêt à nous dire la vérité, ce qui n'existe pas. Donc quelqu'un à qui on puisse retirer quelque chose.
+— Il faudra quelqu'un. (Il a réfléchi une seconde.) Et personne ici n'a intérêt à nous dire la vérité. Alors il faudra en trouver un à qui on puisse retirer quelque chose.
 
 Végéta s'est levé et il a épousseté ce qui restait de suie sur son épaulière droite, sans résultat.
 
-— Une chose, Kakarotte. Le jour où tu trouves ce que tu cherches, tu ne me demandes rien et tu ne m'attends pas. Le jour où je trouve ce que je cherche, tu ne t'en mêles pas.
+— Cherche ce que tu veux. Je m'en fiche.
 
-— Et si c'est le même endroit ?
+— D'accord.
 
-Végéta a mis un temps.
+— Ne me demande rien et ne traîne pas dans mes jambes.
 
-— Alors nous aurons une conversation.
+— Et si on cherche au même endroit ?
 
-Il est parti vers le sud, sans rien ajouter, sans se retourner, et il a pris de l'altitude jusqu'à sortir de la couche.
+Végéta s'est arrêté.
+
+Il n'a pas répondu tout de suite, et quand il a répondu, il l'a fait sans se retourner.
+
+— Alors je m'en ficherai moins.
+
+Il est parti vers le sud et il a pris de l'altitude jusqu'à sortir de la couche.
 
 Goku est resté seul sur l'arête.
 

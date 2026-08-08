@@ -637,7 +637,7 @@ Il avait dit *Nolan*, pas *papa*, et il l'avait dit de la manière dont on cite 
 
 — Ils me l'ont déjà demandé quatre fois.
 
-— Ils te l'ont demandé mal. Ils voulaient que tu leur dises ce qui s'est passé. Moi je veux que tu me dises ce que tu as vu, ce n'est pas pareil. Ce que tu as vu, toi, avec tes yeux, depuis l'endroit où tu étais.
+— Ils te l'ont demandé mal. Ils voulaient que tu leur racontes ce qui s'est passé. Moi je te demande seulement ce que tu as vu, toi, avec tes yeux, depuis l'endroit où tu étais.
 
 L'enfant a réfléchi. Il a réfléchi longtemps et sérieusement, sans regarder ailleurs, ce que les adultes ne font presque jamais.
 

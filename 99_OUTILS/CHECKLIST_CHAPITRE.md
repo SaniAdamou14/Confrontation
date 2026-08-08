@@ -78,7 +78,36 @@ Trois passes : avant, pendant, après. Ne rien sauter.
 
 ---
 
-## LA PASSE DE STYLE — le tic à traquer
+## ⛔ LE TIC N°1 — LA DÉFINITION NÉGATIVE
+
+*Identifié au ch. 1, inscrit dans cette checklist, et reproduit quand même aux ch. 3 et 4. Une règle qu'on n'applique pas ne sert à rien. **Cette passe se fait ligne à ligne, pas en diagonale.***
+
+**Le mécanisme :** au lieu de décrire, je refuse un mot et je fournis un substitut. Le refus fait le travail à la place de l'image.
+
+| Forme | Exemple écrit | Ce qu'il fallait écrire |
+|---|---|---|
+| **Tautologie** | *là où le sol était encore du sol* | *là où le sol était encore ferme* |
+| **Le mot retourné** | *Nous ne sommes pas nous.* | *Il n'y a pas de « on ».* |
+| **La rétractation** | *…c'était les six jours où il avait porté quelqu'un, et encore, ce qui comptait n'était pas la nourriture* | couper la seconde moitié |
+| **L'antithèse formulaire** | *Ce n'était pas de la vitesse. C'était de l'avance.* | *Il ne frappait pas plus vite : il frappait plus tôt.* |
+| **Le verdict abstrait** | *il a renoncé à comprendre* | *il n'a pas compris à quoi ça servait* |
+| **La durée en distance** | *il a regardé ça pendant deux cents mètres* | *il les a regardés faire jusqu'au carrefour* |
+
+**Pourquoi c'est grave.** Ces phrases sonnent comme des aphorismes et ne portent aucune image. Elles ressemblent à des phrases incomplètes. Et surtout : **elles n'appartiennent à personne.** Quand le narrateur, Conquest, Cecil et Végéta emploient tous la même figure, le test de retrait des incises échoue et tout le monde parle de la même voix.
+
+**LES RÈGLES.**
+
+1. **La narration n'emploie jamais « ce n'est pas X, c'est Y ».** Jamais. Elle décrit.
+2. **En dialogue : une seule fois par chapitre**, et seulement quand un personnage en corrige un autre.
+3. **Aucune phrase ne se contredit à l'intérieur d'elle-même.** Si la seconde moitié retire la première, on garde une moitié.
+4. **Aucun mot ne se définit par lui-même.** Si le mot juste existe — *ferme*, *solide*, *intact* —, on l'écrit.
+5. **Aucun verdict abstrait sur un état mental.** Pas de « renoncer à comprendre », « prendre conscience », « réaliser ». On écrit ce que le personnage fait ou cesse de faire.
+
+- [ ] **Passe dédiée obligatoire :** rechercher dans le texte `ce n'est pas`, `ce n'était pas`, `n'est pas pareil`, `et encore`, `sauf que`, `renoncé`, `plus de la`, `encore du`. Chaque occurrence est coupable jusqu'à preuve du contraire.
+
+---
+
+## LA PASSE DE STYLE — les autres tics
 
 *Ajoutée après relecture du chapitre 1. C'est la faute la plus insidieuse du projet : elle ne contredit aucune règle de la bible et elle détruit quand même le texte.*
 

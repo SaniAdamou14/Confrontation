@@ -389,7 +389,7 @@ Il s'est relevé.
 
 À quatre-vingt-dix secondes il ne comptait plus les coups. Il avait pris, dans cette minute et demie, plus que dans les mille années précédentes additionnées, et il commençait à voir comment c'était fabriqué.
 
-Ce n'était pas de la vitesse. C'était de l'avance. L'autre frappait où Conquest allait être, non pas en devinant, mais en n'accordant pas à la situation plus d'une issue possible.
+L'autre ne frappait pas plus vite : il frappait plus tôt. Il visait l'endroit où Conquest allait se trouver, sans rien deviner, en n'accordant à la situation qu'une seule issue possible.
 
 À deux minutes il a renoncé au visage.
 
@@ -431,9 +431,7 @@ L'homme est sorti.
 
 Il n'était pas en colère.
 
-Il y avait sur son visage quelque chose qui n'y était pas trente secondes plus tôt, et ce n'était pas de la colère.
-
-C'était de l'attention.
+Il avait sur le visage quelque chose qui n'y était pas trente secondes plus tôt : il regardait Conquest comme on regarde un mécanisme dont on cherche la pièce qui bouge.
 
 — Voilà, a dit Conquest. Maintenant on travaille.
 
@@ -467,7 +465,7 @@ Il n'y est pas arrivé. Mais en essayant il a vu que l'autre gardait son flanc g
 
 À la huitième minute, il a touché deux fois de suite.
 
-Le premier a porté sur les côtes, à travers la plaque, et quelque chose a cédé là-dedans qui n'était pas de la plaque. Le second est arrivé à la tempe et a fait tourner la tête de l'homme d'un quart.
+Le premier a porté sur les côtes, à travers la plaque, et quelque chose a cédé dessous avec un bruit court. Le second est arrivé à la tempe et a fait tourner la tête de l'homme d'un quart.
 
 Conquest a ri.
 
@@ -487,7 +485,7 @@ Il faisait ça en attendant autre chose.
 
 *Alors il faut te retenir.*
 
-Il a cessé d'essayer de gagner. À vrai dire il n'avait jamais essayé sérieusement — il avait essayé de comprendre, ce qui n'est pas pareil, et il en était maintenant à la troisième chose, celle qu'il n'avait plus pratiquée depuis très, très longtemps : durer.
+Il a cessé d'essayer de gagner. Depuis la première minute il cherchait surtout à comprendre comment l'autre était construit, et il en était maintenant à la seule chose qui lui restait, celle qu'il n'avait plus pratiquée depuis des siècles : durer.
 
 Appuis courts. Trajectoires raccourcies. Plus rien au visage. Les articulations, les épaules, le genou porteur, tout ce qui sur une créature bâtie comme ça devait pouvoir se dérégler.
 
