@@ -7,213 +7,239 @@
 
 *Chicago, State Street. 16 h 28.*
 
-Il est descendu au milieu de la chaussée, entre deux files de voitures arrêtées, et le bitume a cédé sous lui sur trois mètres. Ce n'était pas voulu. Il avait mal évalué la densité du revêtement. Il évaluait mal, sur les mondes neufs, pendant les premières minutes — il fallait toujours un peu de temps pour apprendre ce qui portait et ce qui ne portait pas.
+La chaussée a cédé sous lui sur trois mètres.
 
-Il s'est redressé. Il a fait rouler son épaule droite, celle qui restait plus basse que l'autre, et il a posé la tête de la masse sur le capot d'une voiture, qui s'est affaissée jusqu'à l'essieu.
+Mauvaise évaluation. Il l'a sentie dans les genoux avant de la comprendre — ce revêtement-là avait l'air dense et ne l'était pas, et il s'était enfoncé jusqu'aux chevilles dans une matière noire, tiède, qui sentait le goudron chaud et qui s'accrochait à ses bottes quand il a levé le pied.
 
-Puis il a attendu.
+Il a dégagé l'autre. Il a fait rouler son épaule droite, celle qui restait plus basse, et il a posé la tête de la masse sur le capot d'une voiture. Le capot est descendu jusqu'à l'essieu, sans bruit, comme du beurre.
 
-Il y avait une lumière suspendue au-dessus du carrefour, montée sur un câble, qui changeait de couleur à intervalle régulier. Vert. Orange. Rouge. Il a compté. Vingt-huit secondes de vert. Quatre d'orange. Trente-deux de rouge. Il a trouvé ça remarquablement discipliné pour une espèce qui, à cet instant précis, courait dans huit directions en hurlant.
+Autour de lui la rue s'était vidée d'un coup et continuait pourtant de bouger, très loin, aux deux extrémités, une agitation de fourmilière crevée. Il a laissé le bruit s'installer. Klaxons bloqués. Une alarme d'incendie, quelque part au-dessus, qui n'allait plus s'arrêter de la journée.
 
-Le premier a été un homme en costume gris qui n'a pas couru assez loin. Le deuxième et le troisième étaient ensemble, une main dans l'autre, et il ne les a pas séparés. Il ne mettait aucune intention là-dedans. Il ne s'agissait pas d'eux.
+Au-dessus du carrefour pendait une lampe montée sur un câble, qui passait du vert à l'orange au rouge et recommençait. Vingt-huit secondes. Quatre. Trente-deux.
 
-Il s'agissait de faire du bruit.
+Il a regardé le cycle trois fois.
 
-Sur cent quarante mondes, Conquest avait appris une chose et une seule : personne ne vient quand on appelle. On vient quand on n'a plus le choix. Et pour retirer le choix à une planète, il faut casser quelque chose qu'elle ne peut pas se permettre de laisser casser, à l'endroit exact où tout le monde regarde.
+Puis il s'est mis au travail.
 
-Alors il a marché vers le nord, sur State Street, et il a cassé.
+Le premier était un homme en costume gris qui n'avait pas couru dans la bonne direction. Le deuxième et la troisième s'étaient pris la main quelque part avant de mourir et Conquest ne les a pas séparés — il n'y a pas fait attention, c'est tout, sa botte est passée entre eux et le reste s'est produit.
 
-Méthodiquement. Il y avait une manière de faire ça et il l'avait apprise très tôt : on ne détruit pas au hasard, on détruit *en ligne*. Une ville rasée sur un kilomètre de large ne dit rien à personne — ça ressemble à une catastrophe, et les espèces intelligentes ont toutes une catégorie mentale pour les catastrophes, une case où elles rangent les choses qu'on ne peut pas combattre. Une ville détruite le long d'un axe unique, en avançant, en s'arrêtant, en reprenant, ça ne rentre dans aucune case. Ça a une intention. Et une intention, ça se combat.
+Il ne s'agissait pas d'eux.
 
-C'était toute la difficulté du métier. Il fallait rester lisible.
+Une ville se rend quand elle a compris qu'on ne s'arrêtera pas. Pour qu'elle comprenne, il faut qu'elle voie. Pour qu'elle voie, il faut faire ça sur son axe le plus fréquenté, en avançant, en s'arrêtant, en reprenant — jamais partout à la fois. La destruction dispersée n'appelle personne. Elle a la forme d'un séisme, et les espèces intelligentes ont toutes une case pour les séismes, une case où l'on ne se bat pas, où l'on court et où l'on pleure et où l'on rebâtit ensuite.
 
-Une devanture entière, six étages de verre, est partie vers l'intérieur au lieu de partir vers l'extérieur — il a noté ça, c'était contre-intuitif, il faudrait s'en souvenir. Les mannequins ont continué de sourire sous les décombres. Il y avait un train arrêté sur la structure métallique qui enjambait la rue plus haut, à trente mètres, une longue chose articulée pleine de visages collés aux vitres, et il l'a laissé tranquille. Un train immobilisé était plus utile qu'un train détruit : il retenait deux cents personnes qui, sans lui, seraient déjà loin.
+Il fallait garder une ligne. Il fallait rester lisible.
 
-Vers le sud-ouest, à un kilomètre, il y avait une tour noire beaucoup plus haute que les autres, avec deux antennes. Il l'a regardée un moment. Elle lui donnait l'échelle, et l'échelle disait que cette espèce construisait bien au-dessus de ce dont elle avait besoin, ce qui était toujours le signe qu'elle avait quelque chose à prouver, ce qui était toujours le signe qu'elle avait quelqu'un à qui le prouver.
+Alors il a remonté State Street vers le nord.
 
-Il ne l'a pas touchée. On garde les points de repère. Sinon les gens ne savent plus où ils sont, et les gens qui ne savent plus où ils sont ne se battent pas, ils s'éparpillent.
+La devanture d'un grand magasin, six étages de verre en façade, s'est vidée vers l'intérieur au lieu de gicler dehors — il a noté ça, c'était l'inverse de ce qu'il attendait, il faudrait le retenir. Les mannequins ont continué de sourire sous les gravats, le bras levé, dans des vêtements d'été.
 
-Il y avait de la poussière partout, très vite, et elle s'accrochait à sa moustache. Il l'a essuyée du dos de la main, deux fois. La troisième fois, il a laissé.
+Un train était immobilisé sur la structure métallique qui enjambait la rue à trente mètres. Une longue chose articulée, éclairée de l'intérieur, pleine de visages écrasés contre les vitres.
 
-L'enseigne verticale du théâtre, quatre cents mètres au nord, était rouge et haute, et il a jugé qu'elle tomberait bien. Elle est tombée bien.
+Il l'a laissé.
 
-À la cinquième minute, il y a eu un silence.
+Un train arrêté retient deux cents personnes. Un train détruit les libère.
 
-Il n'a pas duré. Six secondes, peut-être sept — un creux entre deux effondrements, où les alarmes elles-mêmes ont semblé reprendre leur souffle. Dans ce trou-là on entendait très distinctement une chose et une seule : quelqu'un, très loin au sud, qui appelait un prénom. Deux syllabes, répétées, de plus en plus espacées.
+À sept cents mètres au sud-ouest, une tour noire montait bien plus haut que tout le reste, deux antennes plantées dans le plafond de nuages. Il l'a regardée un moment, tête levée, à cause de l'échelle. On construit ce genre de chose quand on a quelqu'un à qui le montrer.
 
-Puis un pan de maçonnerie a cédé quelque part et ça a recouvert le reste.
+Il l'a laissée aussi. On garde les repères. Les gens qui ne savent plus où ils sont ne se battent pas, ils se dispersent.
 
-Conquest avait remarqué ce phénomène sur presque tous les mondes. Il y a toujours un moment de silence au milieu, et il y a toujours quelqu'un dedans qui appelle un nom. Il n'en tirait aucune conclusion. C'était simplement une chose qui arrivait, comme la poussière sur la moustache.
+Il a arraché l'enseigne verticale d'un théâtre, quatre cents mètres plus au nord, une colonne de lettres rouges haute de six étages, et il l'a couchée en travers de la chaussée. Le fracas a rebondi entre les façades pendant plusieurs secondes.
 
-À la sixième minute, il faisait chaud dans l'armure. Il faisait toujours chaud dans l'armure ; le plastron ne respirait pas, et sous les épaulières la sueur s'accumulait à un endroit précis, à la naissance du cou, qu'il ne pouvait pas atteindre. Sur cent quarante mondes, il n'avait jamais trouvé le moyen d'atteindre cet endroit-là.
+La poussière s'était mise dans sa moustache. Il l'a essuyée du dos de la main gauche, deux fois. La troisième fois, il a laissé.
 
-À la septième minute, il a commencé à se demander si cette planète avait quelque chose.
+Il a changé la masse de main.
 
-Le rapport de mission disait que oui. Le rapport de mission disait qu'il y avait ici un officier de l'Empire installé depuis vingt ans, un nommé Grayson, chargé d'un travail simple, et que ce travail n'était pas fait. Un homme seul aurait dû rendre ce monde prêt en une décennie. Vingt ans plus tard, la planète tournait toujours, pleine, bruyante, avec ses lumières disciplinées au-dessus des carrefours.
+La droite ne serrait plus tout à fait comme il aurait voulu. Elle n'avait jamais serré comme il aurait voulu depuis qu'elle était ce qu'elle était : une chose grise, articulée, plus lourde que l'originale de trois cents grammes, qui obéissait parfaitement et ne rapportait rien. Il pouvait broyer une colonne vertébrale avec et ne pas savoir qu'il l'avait fait. Il l'avait mise là-dedans, il l'avait sentie céder par l'épaule et par le coude, mais pas par les doigts.
 
-Il n'y a que deux explications à ça, et l'une des deux est intéressante.
+Il l'a refermée et rouverte, deux fois.
 
-Soit Grayson avait échoué.
+Un Rognarr lui avait pris la vraie, il y avait longtemps de ça, à une époque où il tenait à peine debout et où il crachait du sang noir comme tous les autres. Il n'aimait pas y penser et il y pensait souvent. Cette année-là avait été la dernière fois que quelque chose lui avait fait peur.
 
-Soit quelque chose, ici, avait été assez lourd pour l'arrêter.
+Elle lui manquait pour ça.
 
-À la huitième minute, il en était à quarante-trois. Il tenait le compte parce que le rapport en demanderait un, pas pour une autre raison.
+À la cinquième minute il y a eu un creux.
 
-Et le ciel, au-dessus de lui, s'est ouvert d'un bruit sec.
+Sept secondes, peut-être huit. Les alarmes s'étaient épuisées les unes après les autres, les gens qui pouvaient courir avaient fini de courir, et dans ce trou-là State Street a laissé passer une voix. Une femme, très loin au sud, qui appelait deux syllabes. Elle les a répétées quatre fois, de plus en plus espacées.
 
-Pas déchiré. Ça, c'était plus tard. Fendu par en dessous : quelque chose qui montait de la rue vers les nuages, et qui avait laissé derrière soi un couloir d'air vide qui s'est refermé avec un claquement.
+Un pan de maçonnerie a lâché quelque part et l'a recouverte.
 
-Conquest a levé les yeux, et il a souri, parce qu'il faut bien commencer par sourire.
+Il faisait chaud sous l'uniforme. Il faisait toujours chaud sous l'uniforme — le tissu tenait le corps, tenait la chaleur, et il y avait un point à la naissance de la nuque, sous le col, où la sueur se ramassait et qu'il n'avait jamais pu atteindre en cinq mille ans.
+
+À la septième minute, il a commencé à croire que cette planète n'avait rien.
+
+Le dossier disait le contraire. Le dossier disait qu'un officier de l'Empire était installé ici depuis vingt ans, un nommé Grayson, avec une consigne d'une simplicité insultante, et que la consigne n'était pas exécutée. Un homme seul rend un monde comme celui-ci prêt en une décennie. Vingt ans plus tard la planète tournait encore, pleine, bruyante, avec ses lampes disciplinées au-dessus des carrefours.
+
+Deux explications. Une seule intéressante.
+
+Grayson avait échoué.
+
+Ou quelque chose, ici, avait été assez lourd pour l'arrêter.
+
+À la huitième minute il en était à quarante-trois. Il tenait le compte pour le rapport.
+
+Et le ciel s'est ouvert d'un claquement sec — pas déchiré, ça viendrait plus tard : fendu par en dessous, un couloir d'air creusé de la rue vers les nuages et refermé aussitôt.
+
+Conquest a levé les yeux et il a souri, du sourire de travail, celui qu'il mettait au début.
 
 ---
 
 *16 h 36.*
 
-Le garçon s'est arrêté à douze mètres du sol, un peu trop haut, un peu trop loin, dans une combinaison bleue et jaune qui n'avait pas été conçue pour le combat mais pour être reconnue de loin.
+Le garçon s'est arrêté à douze mètres du sol.
 
-Il était jeune. Pas jeune au sens où on le dit d'un soldat. Jeune au sens où il avait encore les poignets fins.
+Trop haut. Trop loin. Une combinaison bleue et jaune, taillée pour qu'on la reconnaisse de loin et pour rien d'autre, et dedans quelqu'un qui avait encore les poignets fins.
 
 — Tu es le fils, a dit Conquest.
 
-Le garçon n'a rien répondu. Il a regardé la rue derrière Conquest, sur toute sa longueur, et Conquest a vu son visage faire ce qu'ils faisaient tous à ce moment-là — l'addition. Il a attendu qu'elle se termine. Il ne trouvait aucun intérêt à frapper quelqu'un qui était encore en train de compter.
+Le garçon n'a pas répondu. Il regardait la rue derrière lui sur toute sa longueur, et son visage faisait ce qu'ils faisaient tous à cette seconde-là : l'addition.
 
-— Ton père a mis vingt ans à ne pas faire son travail, a dit Conquest. Tu vas mettre combien de temps à ne pas faire le tien ?
+Conquest a attendu la fin de l'addition. Frapper quelqu'un qui compte encore ne rapporte rien.
 
-Le garçon est descendu de six mètres. C'était une erreur. À douze mètres il avait de l'espace pour reculer ; à six il n'avait plus qu'un mur derrière lui.
+— Ton père a mis vingt ans à ne pas faire son travail. Tu vas mettre combien de temps à ne pas faire le tien ?
 
-— Va-t'en, a dit le garçon.
+Le garçon est descendu de six mètres.
 
-Conquest a hoché la tête. Il aimait bien cette phrase. Elle revenait souvent, dans à peu près toutes les langues, et elle voulait toujours dire la même chose : *je n'ai pas de plan.*
+Erreur. À douze il avait de l'espace derrière lui. À six il avait un mur.
+
+— Va-t'en.
+
+Conquest a hoché la tête. Elle revenait souvent, celle-là, dans à peu près toutes les langues, et elle voulait dire la même chose partout : *je n'ai pas de plan.*
 
 Le garçon a chargé.
 
-Il est arrivé vite. Plus vite que ce que Conquest attendait d'un hybride de cet âge, et le coup a porté sur le plastron, sous la clavicule gauche, avec un bruit plein. Conquest a reculé d'un demi-pas pour absorber, par habitude, et il a laissé le deuxième coup arriver aussi.
+Il est arrivé vite — plus vite que ce qu'un hybride de cet âge avait le droit d'être — et le coup a porté sous la clavicule gauche avec un bruit plein, profond, un bruit de chair et pas de plaque. Conquest a reculé d'un demi-pas pour absorber, par vieille habitude. Il a laissé le deuxième arriver aussi.
 
-Puis il a saisi le garçon par le col et l'a mis dans la façade d'en face.
+Puis il l'a pris par le col et l'a mis dans la façade d'en face.
 
-L'immeuble a rendu trois étages. Le garçon est ressorti de la poussière avant que les gravats aient fini de tomber, ce qui était bon, et il est revenu par la droite, ce qui ne l'était pas.
+L'immeuble a rendu trois étages. Le garçon est ressorti de la poussière avant que les gravats aient fini de descendre, ce qui était bon, et il est revenu par la droite, ce qui ne l'était pas.
 
-Conquest l'a laissé venir. Il a incliné la tête pour suivre le mouvement, et quand le poing est arrivé, il n'était plus là où il devait être.
+Conquest a incliné la tête pour suivre l'arc du poing. Quand le poing est arrivé, il n'était plus dessous.
 
-— Tu as bougé ton bras avant ton épaule, a dit Conquest.
+— Ton bras part avant ton épaule.
 
-Le garçon a atterri à quinze mètres, sur le toit d'un véhicule, et s'est relevé.
+Le garçon a atterri quinze mètres plus loin, sur le toit d'un véhicule qui s'est plié en deux, et s'est relevé.
 
 — Quoi ?
 
-— Ton épaule part après ton bras. Ça me prévient. J'ai un dixième de seconde d'avance et je ne fais rien pour le mériter. (Il a fait rouler son épaule droite, encore.) Recommence. Épaule d'abord.
+— L'épaule suit le bras. Ça me prévient. J'ai un dixième de seconde d'avance et je ne fais rien pour la mériter. (Il a fait rouler son épaule droite.) Recommence. L'épaule d'abord.
 
-Le garçon l'a regardé comme si on venait de lui parler dans une autre langue, ce qui, d'une certaine manière, était le cas.
+Le garçon l'a regardé comme si on venait de lui parler dans une langue étrangère.
 
 Puis il a recommencé.
 
-Il a mieux fait. Pas beaucoup. Assez pour que le coup arrive à l'endroit visé, sur la mâchoire, et Conquest a tourné la tête de dix centimètres avec l'impact et l'a ramenée.
+Il a mieux fait. Pas beaucoup. Assez pour que le poing arrive où il visait, sur la mâchoire, et Conquest a tourné la tête de dix centimètres avec l'impact et l'a ramenée à sa place, et quelque chose lui a couru le long de l'os, une vibration fine, presque agréable.
 
 — Voilà, a-t-il dit. Encore.
 
-Le garçon a encaissé le retour dans le ventre et il est parti en arrière sur quarante mètres, en travers du carrefour, jusqu'à une rangée de véhicules qu'il a ouverte comme du papier. Conquest a attendu qu'il se dégage. Ça a pris onze secondes.
+Le retour a pris le garçon au ventre et l'a envoyé en travers du carrefour, à quarante mètres, dans une rangée de véhicules qu'il a ouverte comme un paquet. Conquest a attendu qu'il se dégage. Onze secondes.
 
-— Tu tiens ta respiration, a dit Conquest quand il est revenu. Depuis le début. Tu bloques avant de frapper.
+— Tu bloques ta respiration.
 
-— Ferme-la.
+Le garçon a craché quelque chose de rouge et de solide.
 
-— Tu bloques parce que tu penses que ça te rend plus solide. Ça te rend plus court. Tu as trois coups avant d'être obligé de reprendre, et je te frapperai toujours au quatrième.
+— Depuis le début, a dit Conquest. Tu la bloques avant de frapper. Tu crois que ça te rend plus dur. Ça te rend plus court. Tu as trois coups, ensuite tu es obligé de reprendre, et je te touche au quatrième.
 
 Le garçon a frappé quatre fois.
 
-Conquest l'a laissé faire, il a compté, et au quatrième il l'a pris à la gorge et l'a soulevé.
+Conquest a compté, et au quatrième il l'a saisi à la gorge et l'a soulevé.
 
 — Tu vois.
 
-Il l'a reposé. Il ne l'a pas lâché : reposé, sur ses pieds, en le tenant debout le temps qu'il retrouve son équilibre.
+Il l'a reposé. Pas lâché — reposé, sur ses pieds, et il l'a maintenu debout le temps qu'il retrouve son axe.
 
-Il y a eu une seconde, là, où le garçon aurait pu partir. Il était debout, il avait de l'air, la rue était derrière lui, et l'homme qui le tuait venait de le remettre sur ses jambes.
+Il y a eu une seconde, là. Le garçon était debout, il avait de l'air, la rue était derrière lui, et l'homme qui le tuait venait de le remettre sur ses jambes.
 
 Il n'est pas parti.
 
-— Bien, a dit Conquest.
+Conquest a senti quelque chose bouger très bas dans sa poitrine, une chose sans nom, éteinte depuis si longtemps qu'il n'a pas cherché à l'identifier.
 
-Il y a eu, à ce moment-là, une chose que Conquest a enregistrée sans y donner de nom. Le garçon, entre deux échanges, regardait toujours dans la même direction. Pas vers lui. Vers l'ouest, vers un point de la rue à deux cents mètres, derrière une ligne de voitures renversées.
+— Bien.
 
-Il regardait, il revenait, il frappait.
-
-Conquest a mis un moment à comprendre qu'il ne cherchait pas une issue.
-
-Il vérifiait que quelqu'un était encore là.
+Et pendant les six minutes suivantes, le garçon a fait ce que font les gens qui n'ont pas de plan : il est resté.
 
 ---
 
-*16 h 41.*
+*16 h 42.*
 
-Il a cassé le bras gauche du garçon à la sixième minute, à deux endroits, d'un seul mouvement, en le prenant sous le coude et au-dessus du poignet. C'était la manière propre. Ça ne saignait pas et ça retirait la moitié d'un adversaire sans le retirer entièrement.
+Il lui a rompu le bras gauche en deux endroits d'un seul mouvement, une prise sous le coude et une au-dessus du poignet, en tirant. La manière propre. Ça ne saigne pas et ça retire la moitié d'un adversaire sans le retirer entièrement.
 
-Le garçon a hurlé. Puis il a arrêté de hurler, très vite, ce qui était intéressant, et il est revenu en n'utilisant que le bras droit.
+Le garçon a hurlé.
 
-— Ton père a fait ça devant toi ? a demandé Conquest. Il t'a appris à cogner ?
+Il a arrêté très vite. Ça, c'était neuf.
 
-Pas de réponse.
+Il est revenu du bras droit seulement, en tenant le gauche contre son flanc comme on tient un objet qu'on a fait tomber.
 
-— Il t'a appris à cogner et il ne t'a pas appris à finir. C'est le contraire qu'il fallait.
+— Ton père t'a appris à cogner, a dit Conquest en écartant le poing d'un revers. Il ne t'a pas appris à finir. C'est l'inverse qu'il fallait.
 
-Il l'a pris par la nuque et l'a descendu contre le trottoir. Trois côtes, à l'oreille : un bruit court, mat, comme du bois vert.
+Il l'a pris par la nuque et l'a descendu contre le trottoir.
+
+Trois côtes, à l'oreille. Un bruit court, mat, du bois vert qui plie.
 
 Le garçon s'est relevé.
 
-C'est là que la fille est arrivée.
+Et pendant qu'il se relevait, Conquest l'a vu regarder vers l'ouest.
 
-Elle est venue par le sud, à basse altitude, en rose et blanc, et elle n'a pas parlé du tout. Elle a levé les deux mains et Conquest a été frappé par quelque chose qui n'était ni un poing ni un projectile : une masse compacte apparue à trente centimètres de sa poitrine, dense, chaude, qui l'a soulevé et l'a envoyé à travers le carrefour.
+Il l'avait déjà fait. Six fois, sept — toujours le même point, à deux cents mètres, derrière une ligne de voitures renversées. Entre chaque échange : là-bas, puis ici, puis frapper.
 
-Il a traversé une cabine de verre, un poteau, et il s'est arrêté dans la vitrine d'une banque.
+Ce n'était pas une issue qu'il cherchait.
 
-Il est resté assis là deux secondes, à évaluer.
+Il vérifiait que quelqu'un était encore là.
 
-Ça, c'était nouveau.
+Conquest a tourné la tête pour voir quoi, et la fille est arrivée par le sud.
 
-Il s'est relevé et il est revenu au pas, en secouant le verre de son avant-bras, et la fille lui a envoyé le reste. Tout le reste, d'un coup, sans économie : le sol s'est ouvert sous lui, une chose lourde et sans forme s'est refermée sur son torse, l'air lui-même est devenu solide sur une distance de vingt mètres.
+Rose et blanc, à basse altitude, sans un mot. Elle a levé les deux mains et il a été frappé par quelque chose qui n'était ni un poing ni un projectile : une masse compacte apparue à trente centimètres de sa poitrine, dense, chaude, née de rien, qui l'a soulevé et l'a expédié en travers du carrefour.
 
-Ça a duré onze secondes.
+Une cabine de verre. Un poteau. La vitrine d'une banque.
 
-Il a compté, parce qu'un chiffre est un chiffre.
+Il est resté assis là-dedans deux secondes, sous une pluie de verre feuilleté, à faire le tri.
 
-Quand ça s'est arrêté, il avait un genou en terre et une éraflure sur la joue droite, la première depuis Ourkhal, et la fille était debout à quarante mètres, les bras le long du corps, en train de comprendre qu'elle n'avait plus rien.
+Ça, c'était neuf aussi.
 
-— Tu aurais dû tout garder pour la fin, a dit Conquest.
+Il s'est relevé et il est revenu au pas, en secouant les éclats de son avant-bras, et elle lui a envoyé le reste.
 
-Il ne disait pas ça méchamment. C'était la vérité, et personne d'autre n'allait la lui dire.
+Tout. D'un bloc, sans rien garder : le sol s'est ouvert sous lui, quelque chose de lourd et de sans forme s'est refermé sur son torse, l'air est devenu solide sur vingt mètres de long. Il a senti la pression trouver ses côtes et appuyer.
 
-Elle est tombée avant qu'il ne la touche. Simplement : les genoux, puis les mains, puis le côté. Elle a roulé sur trois mètres et elle n'a plus bougé.
+Onze secondes.
+
+Il a compté parce qu'un chiffre est un chiffre, et parce que pendant onze secondes il a eu du mal à respirer, et que ça faisait un moment.
+
+Quand ça s'est arrêté il avait un genou en terre et une entaille sur la pommette droite, la première depuis Ourkhal, et la fille était debout à quarante mètres, les bras le long du corps, en train de découvrir qu'elle n'avait plus rien du tout.
+
+— Tu aurais dû garder la moitié.
+
+Il ne le disait pas méchamment. C'était vrai, et personne d'autre n'allait le lui dire.
+
+Elle est tombée avant qu'il ne la touche. Les genoux, les mains, le côté. Elle a roulé sur trois mètres et n'a plus bougé.
 
 Le garçon a crié un nom.
 
-Conquest ne l'a pas retenu.
-
-Il s'est essuyé la joue. Il a regardé le sang sur ses doigts pendant deux secondes, avec une espèce d'attention polie, comme on regarde une facture, et il a porté la main à son oreille.
+Conquest a essuyé sa pommette. Il a regardé le sang sur ses doigts pendant deux secondes, avec une attention polie, comme on regarde une note d'hôtel. Puis il a porté la main gauche à son oreille.
 
 — Ici Conquest. Enregistrement, priorité basse.
 
-Il a marché vers le garçon pendant qu'il parlait. Il a enjambé quelque chose au sol, sans regarder ce que c'était.
+Il a marché vers le garçon en parlant. Il a enjambé quelque chose au sol sans regarder ce que c'était.
 
-— L'unité Grayson n'a pas rempli sa mission. Le sujet a établi une descendance hybride sur place, en a fait un opérateur de terrain et l'a laissé s'opposer à un officier de l'Empire. Recommandation : réévaluation complète du dossier de la planète.
+— L'unité Grayson n'a pas rempli sa mission. Le sujet a produit une descendance hybride sur place, l'a formée, et l'a laissée s'opposer à un officier de l'Empire. Recommandation : réexamen complet du dossier planétaire.
 
-Le garçon avait remis son bras gauche contre son ventre, en le tenant de l'autre main, et il avançait quand même.
+Le garçon avançait toujours, le bras gauche contre le ventre.
 
-— Pertes locales à cette heure : quarante-trois. Résistance rencontrée : deux unités. La première est en cours de neutralisation. La seconde est au sol, réserve épuisée.
+— Pertes locales à cette heure : quarante-trois. Résistance rencontrée : deux unités. La première est en cours de neutralisation. La seconde est au sol, épuisée.
 
-Il s'est arrêté à cinq mètres du garçon.
+Il s'est arrêté à cinq mètres de lui.
 
 — Rien à signaler.
 
 Il a coupé.
 
-Et parce qu'il ne restait plus rien à évaluer, parce que le garçon tenait encore debout uniquement pour une raison que Conquest connaissait par cœur et qui n'avait jamais sauvé personne, il a fait ce qu'il faisait toujours à la fin.
+Et parce qu'il n'y avait plus rien à évaluer, parce que le garçon ne tenait debout que pour une raison qu'il connaissait par cœur et qui n'avait jamais sauvé personne, il a fait ce qu'il faisait toujours à la fin.
 
 Il a cessé de voler.
 
-Il a posé les deux pieds sur la chaussée et il a marché vers lui.
+Il a posé les deux pieds sur le bitume et il a marché.
 
-Voler, c'est se dépêcher. Se dépêcher, c'est admettre qu'il y a une urgence.
+Voler, c'est se dépêcher.
 
-Il a compté ses pas. Il en était à onze quand le ciel s'est déchiré au-dessus de State Street.
+Il en était à onze pas quand le ciel s'est déchiré au-dessus de State Street.
 
 ---
 
@@ -221,79 +247,89 @@ Il a compté ses pas. Il en était à onze quand le ciel s'est déchiré au-dess
 
 **Seconde zéro.**
 
-Une façade entière, sur sa gauche, est partie vers l'extérieur.
+La façade sur sa gauche est partie vers l'extérieur.
 
-Pas soufflée. Traversée. Le verre est sorti du bâtiment en une seule nappe, à plat, en gardant un instant la forme des fenêtres, et quelque chose est passé au travers et s'est arrêté net en l'air à quinze mètres du sol.
+Pas soufflée : traversée. Le verre est sorti du bâtiment en une seule nappe, à plat, en gardant une fraction de seconde la forme des fenêtres, et quelque chose est passé au travers et s'est arrêté à quinze mètres du sol.
 
-Conquest a arrêté son pied à mi-course et l'a reposé sans le poser tout à fait.
+Le pied de Conquest est resté en l'air.
 
-Il faut comprendre ce que ça veut dire, s'arrêter net.
+*Arrêté.*
 
-Un corps qui vole a une masse. Une masse qui s'arrête doit envoyer son élan quelque part — dans les jambes, dans l'air, dans un mur. Il y a toujours un dépassement, un demi-mètre, un frémissement, quelque chose qui rattrape. Conquest avait vu voler des milliers d'êtres, de toutes les tailles, et pas un seul n'était jamais passé de la vitesse à l'immobilité sans que le monde autour n'ait à s'en occuper.
+Une masse qui s'arrête doit se débarrasser de son élan. Elle le passe aux jambes, à l'air, à un mur. Il y a un dépassement, un frémissement, une demi-seconde où le corps rattrape ce qu'il vient de faire. Conquest avait vu voler des millions de choses.
 
-Celui-ci est passé de l'un à l'autre comme on ferme une porte.
+Celui-ci était passé de la vitesse à l'immobilité de la même façon qu'on repose un verre.
 
-L'homme était petit. Ça a été la deuxième chose. Petit, épais, campé dans le vide comme sur un plancher — pas en vol. Conquest volait depuis quatre-vingts ans et il savait à quoi ressemblait un corps qui vole : ça corrige en permanence, ça respire par petites poussées, ça flotte un peu. Celui-ci ne corrigeait rien. Il était debout sur quelque chose qui n'existait pas.
+Il était petit. Épais. Campé sur rien, à hauteur du deuxième étage, dans une posture d'homme debout sur un sol.
 
 **Seconde un.**
 
-L'armure. Blanche au plastron, jaune aux épaules, une coupe que Conquest ne connaissait pas mais qui parlait clair : un uniforme de service, pas un costume. Un costume, c'est fait pour qu'on vous reconnaisse — le garçon avait un costume, bleu et jaune, visible à un kilomètre. Un uniforme, c'est fait pour qu'on sache à quel échelon vous êtes. Quelqu'un, quelque part, produisait ça en série pour des gens qui en avaient l'usage. Il y avait donc des gens. Il y avait donc un échelon au-dessus, et un échelon en dessous.
+Du plastron. Blanc, rigide, articulé aux épaules par deux pièces jaunes qui n'étaient pas là pour la décoration.
 
-Conquest a eu très exactement le temps de trouver ça rassurant. Une hiérarchie, ça se comprend. Ça s'attaque.
+De la plaque. Conquest n'avait pas porté de plaque depuis des siècles et il en connaissait le raisonnement par cœur : on met de la coque sur un corps quand le corps ne suffit pas. C'était l'aveu le plus franc qu'on puisse coudre sur soi.
 
-Et à l'omoplate gauche, une fissure. Nette, ancienne, non réparée.
+Sauf que ça avait été taillé, ajusté, produit. Le garçon portait un costume — visible à un kilomètre, fait pour qu'on le reconnaisse. Ça, c'était un uniforme. On sait où se situe celui qui le porte.
 
-Il l'a vue et il en a tiré une conclusion, et la conclusion était fausse.
+Il y avait donc un dessus. Il y avait donc un dessous.
+
+Il a eu le temps de trouver ça rassurant.
+
+Puis il a vu la fêlure à l'omoplate gauche. Nette, ancienne, jamais reprise.
 
 *On l'a déjà touché.*
 
-Quatre-vingts ans de service, et c'est cette phrase-là qu'il a pensée. Elle est venue toute seule, avec un plaisir sourd, physique, à hauteur du sternum. *On l'a déjà touché.* Donc on peut. Donc il y a un endroit dans l'univers où quelqu'un a mis un poing sur cet homme-là, et si quelqu'un l'a fait, alors ce n'est pas une chose, c'est un adversaire.
+Cinq mille ans, et c'est cette phrase-là qui est montée, avec une chaleur basse et courte à hauteur du sternum. On l'a déjà touché. Donc on peut. Donc il y a un endroit dans l'univers où quelqu'un a posé un poing sur cet homme-là, et ce qui a été fait une fois se refait.
 
-Il n'a pas envisagé une seconde que l'armure ait pu se fissurer contre autre chose qu'un poing. Ni que l'homme l'ait gardée telle quelle non pas parce qu'il ne pouvait pas la réparer, mais parce que ça ne l'intéressait pas.
+Il n'a pas envisagé que la fêlure ait pu venir d'autre chose qu'un poing.
+
+Ni qu'on l'ait gardée par indifférence.
 
 **Seconde deux.**
 
-Une queue.
+Une queue est sortie de derrière lui et s'est enroulée deux fois autour de sa taille, posément, comme on range un outil dont on n'a plus besoin.
 
-Elle est sortie de derrière lui et s'est enroulée deux fois autour de sa taille, sans se presser, comme on range un outil.
+Conquest en avait vu, des bipèdes à queue. Elles servaient à l'équilibre. Elles suivaient le corps, elles traînaient, elles réagissaient.
 
-Conquest a vu des espèces bipèdes avec des queues. Douze, peut-être quinze. Elles servaient à l'équilibre, elles pendaient, elles suivaient le corps. Celle-ci ne suivait pas le corps. Elle avait décidé quelque chose et elle s'était rangée.
+Celle-ci avait décidé quelque chose et s'était rangée.
 
-Il a regardé le visage ensuite, et le visage était fermé, et les yeux ne le regardaient pas comme on regarde un adversaire.
+Il a regardé le visage après. Fermé, jeune sous une ligne de cheveux dressés, les mâchoires au repos. Et les yeux ne le regardaient pas comme on regarde un adversaire.
 
 Ils le regardaient comme on regarde un chiffre en bas d'une colonne.
 
 C'est là que Conquest a souri.
 
-Pas le sourire de travail, celui qu'il mettait pour les mondes neufs. L'autre. Celui qu'il n'avait pas eu depuis quatre-vingts ans, dont il avait à peu près oublié la mécanique, et qui a tiré à un endroit de sa joue là où il y avait maintenant du sang séché.
+Pas celui du début. L'autre. Celui dont il avait oublié la mécanique, qui a tiré sur une peau sèche et ridée, sur du sang qui commençait à sécher, et qui a découvert ses dents mal plantées.
 
-Sa poitrine s'est desserrée d'un cran. Il n'avait pas su qu'elle était serrée.
+Sa poitrine s'est desserrée d'un cran.
+
+Il ne savait pas qu'elle était serrée. Il ne savait plus depuis combien de temps.
 
 **Seconde trois.**
 
-L'homme portait un appareil sur l'oreille gauche. Une lentille en travers de l'œil. Il l'a effleuré du doigt, une fois. La lentille a changé de couleur.
+Un appareil sur l'oreille gauche. Une lentille en travers de l'œil.
 
-Il a regardé Conquest à travers.
+L'homme l'a effleuré. La lentille a changé de couleur. Il a regardé Conquest à travers.
 
-Puis il a retiré l'appareil et l'a laissé tomber.
+Puis il a ouvert la main.
 
-Il n'a pas jeté. Il a ouvert la main.
+Il n'a pas jeté. Il a ouvert la main, et l'objet est tombé.
 
-Conquest a suivi la chute — deux secondes pleines, l'objet a tourné trois fois sur lui-même avant de toucher le bitume et de se casser en deux près d'une roue de voiture — et quand il a relevé les yeux, l'homme était toujours immobile au même endroit, et il attendait.
+Deux secondes. Trois tours sur lui-même. Il s'est ouvert en deux contre le bitume, près d'une roue de voiture, avec un bruit de coquille.
+
+Quand Conquest a relevé les yeux, l'homme était toujours au même endroit, immobile, et il attendait.
 
 Il attendait quelque chose de précis, et ce n'était pas un coup.
 
 **Seconde quatre.**
 
-— Tu voles, a dit Conquest.
+— Tu voles.
 
-Sa voix a porté. Il n'avait pas eu besoin de la forcer ; il ne la forçait jamais, il avait remarqué très tôt que les gens entendent mieux ce qu'on leur dit doucement.
+Il n'a pas forcé la voix. Il ne la forçait jamais. Les gens entendent mieux ce qu'on leur dit doucement.
 
 — Tu n'as pas peur. Et tu n'es pas d'ici.
 
 L'homme n'a pas bougé.
 
-Conquest a indiqué le garçon du menton, sans le regarder — le garçon était à quatre mètres derrière lui, à genoux maintenant, en train de tenir son bras.
+Conquest a indiqué le garçon du menton, sans le regarder — à genoux, quatre mètres derrière lui, tenant son bras.
 
 — Attends ton tour, ou prends le sien.
 
@@ -301,31 +337,29 @@ Conquest a indiqué le garçon du menton, sans le regarder — le garçon était
 
 L'homme a ri.
 
-Un seul son. Court, sec, projeté par le nez plus que par la gorge, et fini avant d'avoir commencé.
+Un seul son. Court, sec, sorti par le nez, terminé avant d'avoir commencé.
 
-Conquest a beaucoup entendu rire, dans sa vie. Des rires de bravade, des rires de terreur, des rires de gens qui viennent de comprendre. Il les connaissait tous et il savait ce que chacun annonçait.
+Conquest avait entendu rire. Des rires de bravade, de terreur, de gens qui viennent de comprendre. Il les connaissait tous et savait ce que chacun annonçait.
 
 Celui-là n'était adressé à personne dans cette rue.
 
 **Seconde six.**
 
-L'homme a dit quelque chose.
+L'homme a parlé.
 
-C'était court. Trois membres de phrase, séparés par des silences égaux, dans une langue que Conquest n'avait jamais entendue et dont il n'a pas saisi un seul mot.
+Trois membres de phrase, séparés par des silences égaux, dans une langue qui n'existait dans aucun des relevés que Conquest avait dû apprendre en cinq millénaires. Pas un mot ne lui est parvenu.
 
-Mais il a saisi le ton, et le ton était celui de quelqu'un qui répond.
+Le ton, si.
 
-Pas qui provoque. Pas qui menace. Qui *répond* — qui reprend une conversation entamée ailleurs, avec quelqu'un d'autre, sur un sujet dont Conquest ne faisait pas partie.
+Et le ton était celui de quelqu'un qui *répond*. Qui reprend une phrase entamée ailleurs, avec un autre, sur un sujet où Conquest ne figurait pas. Il y avait même, à la fin, cette inflexion mince que prennent les gens qui citent — une voix étrangère remise dans une bouche qui la déteste.
 
-Il y avait même, à la fin de la troisième phrase, cette inflexion très particulière que prennent les gens quand ils citent quelqu'un. Une imitation. Une phrase de quelqu'un d'autre, remise dans une bouche qui la déteste.
+Conquest a tourné la tête vers l'ouest.
 
-Conquest a tourné la tête vers l'ouest, vers la direction d'où venait l'homme, parce qu'il fallait bien qu'il y ait quelqu'un derrière.
-
-Il n'y avait que la façade éventrée, la poussière, et le feu de circulation à l'angle qui venait de repasser au vert.
+Il n'y avait que la façade éventrée, la poussière en suspension, et la lampe du carrefour qui repassait au vert.
 
 Il a regardé deux secondes de trop.
 
-Il ne s'en est pas voulu ensuite — il n'a pas eu le temps de s'en vouloir — mais s'il avait eu ce temps, il aurait su exactement ce qui venait de se passer : depuis quatre-vingts ans, personne ne lui avait jamais donné une raison de regarder ailleurs.
+Cinq mille ans que personne ne lui avait donné une raison de regarder ailleurs.
 
 **Seconde sept.**
 
@@ -335,65 +369,69 @@ Le coup est arrivé pendant qu'il avait encore la tête tournée.
 
 *16 h 47.*
 
-Il a compris la distance avant de comprendre la douleur.
+Il a compris la distance avant la douleur.
 
-Il était à l'angle de State et Madison. Il s'est arrêté quatre cents mètres plus loin, dans le sens de la longueur de la rue, après avoir traversé une chose qui devait être un bus et deux murs porteurs, et pendant tout le trajet il n'a pas touché le sol une seule fois.
+Il était à l'angle de State et Madison. Il s'est arrêté quatre cents mètres au nord, dans l'axe de la rue, après un autobus et deux murs porteurs, et sur tout le trajet il n'a pas touché le sol une seule fois.
 
-Sur cent quarante mondes, personne ne l'avait déplacé de plus de trente mètres.
+Personne ne l'avait jamais déplacé de plus de trente mètres.
 
-Il s'est relevé. Ça a pris du temps. Il a mis une main à plat sur le bitume et il a poussé, et son bras a fonctionné, et il a trouvé ça très bien.
+Se relever a pris du temps. Il a mis la main gauche à plat, il a poussé, le bras a fonctionné, et il a trouvé ça très bien.
 
-L'homme n'avait pas bougé de son morceau de ciel.
+L'autre n'avait pas quitté son morceau de ciel.
 
-Conquest est reparti vers lui.
+Conquest est reparti vers lui au pas de course, trois cents mètres dans une rue pleine de choses arrachées, et il a lancé la masse et le poing dans le même mouvement.
 
-Il n'a pas volé. Il a couru, sur trois cents mètres, dans une rue pleine de choses cassées, et il a lancé la masse en même temps que le poing.
+La masse est partie ailleurs. Le poing a porté.
 
-La masse est partie ailleurs. Le poing a touché.
-
-C'était la première fois qu'il touchait, et l'homme a reculé de vingt centimètres, et Conquest a eu tout juste le temps d'enregistrer *vingt centimètres* avant que le sol ne lui arrive dans le dos.
+L'homme a reculé de vingt centimètres. Conquest a eu le temps d'enregistrer *vingt centimètres* avant que le bitume ne lui arrive dans le dos.
 
 Il s'est relevé.
 
-À quatre-vingt-dix secondes, il avait cessé de compter les coups. Il avait été frappé plus fort, dans cette minute et demie, que dans les quatre-vingts années précédentes additionnées, et il commençait à voir comment c'était fait.
+À quatre-vingt-dix secondes il ne comptait plus les coups. Il avait pris, dans cette minute et demie, plus que dans les mille années précédentes additionnées, et il commençait à voir comment c'était fabriqué.
 
-Ça n'était pas rapide, en fait. C'était *tôt*. L'homme frappait à l'endroit où Conquest allait être, non pas parce qu'il devinait, mais parce qu'il ne considérait pas qu'il y ait plusieurs possibilités.
+Ce n'était pas de la vitesse. C'était de l'avance. L'autre frappait où Conquest allait être, non pas en devinant, mais en n'accordant pas à la situation plus d'une issue possible.
 
-À deux minutes, il a arrêté d'essayer de le toucher au visage.
+À deux minutes il a renoncé au visage.
 
-À trois minutes, il a cessé de reculer.
+À trois minutes il a cessé de reculer. La distance ne protégeait de rien — l'autre franchissait quinze mètres dans le temps qu'il mettait à en faire un. Autant rester où l'on tombe.
 
-Ce n'était pas du courage. Reculer avait un coût et rapportait zéro : la distance ne le protégeait de rien, puisque l'autre franchissait quinze mètres dans le temps qu'il mettait à en franchir un. Autant rester là où on tombe.
+Alors une chose s'est ouverte dans sa tête, très lentement, comme une porte qu'il croyait murée depuis des siècles.
 
-Il est resté là où il tombait.
+Le pied gauche partait toujours le premier.
 
-Et quelque chose s'est mis à s'ouvrir dans sa tête, très lentement, comme une porte qu'on aurait crue murée : les appuis de l'autre. Le pied gauche toujours en premier. Une préférence pour la droite quand il y avait un obstacle à contourner. Un temps mort, minuscule, d'un quart de seconde, entre le moment où il décidait et le moment où il partait — un temps mort de gens qui choisissent leur coup au lieu de le lâcher.
+La droite quand il fallait contourner.
 
-À la quatrième minute, Conquest a exploité le temps mort.
+Et un temps mort. Un quart de seconde entre la décision et le départ. Le temps mort des gens qui choisissent leur coup au lieu de le lâcher.
 
-Il a pris l'autre par la cheville et l'a mis dans la chaussée.
+À la quatrième minute, Conquest a pris le temps mort.
 
-Le bitume a fait un cratère de six mètres. La rue s'est fendue jusqu'au carrefour suivant. Quelque part au nord, très loin, une rangée entière de fenêtres a cédé d'un seul mouvement, avec un bruit d'averse.
+Il l'a saisi par la cheville et l'a mis dans la chaussée.
 
-Conquest a levé la masse — elle était revenue dans sa main, il ne savait plus quand — et il a frappé dans le trou.
+Le bitume s'est ouvert sur six mètres. La fracture a couru jusqu'au carrefour suivant. Très loin au nord, une rangée entière de fenêtres a lâché d'un seul mouvement, avec un bruit d'averse.
 
-Trois fois.
+La masse était revenue dans sa main. Il ne savait pas quand.
 
-Entre le deuxième et le troisième coup, il y a eu un silence.
+Il a frappé dans le trou.
 
-Toute la rue s'est tue en même temps. Les alarmes avaient fini leurs batteries, les gens qui pouvaient courir avaient fini de courir, et pendant à peu près quatre secondes State Street n'a produit aucun son, sauf un ruissellement de gravier quelque part sur la gauche et le tic du feu de circulation qui changeait de couleur pour personne.
+Une fois. Deux.
 
-Conquest avait la masse en l'air. Il ne l'a pas baissée.
+Et entre le deuxième coup et le troisième, il y a eu un silence.
 
-Il écoutait.
+La rue s'est tue en même temps. Les alarmes avaient rendu leurs batteries, ceux qui pouvaient courir avaient fini, et pendant quatre secondes State Street n'a plus rien produit — sauf un ruissellement de gravier sur la gauche, et le déclic de la lampe qui changeait de couleur pour personne.
 
-Ce n'était pas la première fois qu'il entendait ça. C'était la première fois depuis très longtemps qu'il l'entendait avec, au fond du trou, quelque chose qui respirait encore.
+Conquest a gardé la masse en l'air.
 
-À la troisième, une main est sortie du cratère et a arrêté la masse à mi-course, et Conquest a senti l'onde remonter dans son poignet, son coude, son épaule, jusqu'à cet endroit à la naissance du cou qu'il n'avait jamais pu atteindre.
+Il écoutait le fond du trou.
 
-L'homme est sorti du trou.
+Ça respirait.
 
-Il n'était pas en colère. C'est ça qui a plu à Conquest. Il y avait quelque chose de neuf sur son visage, quelque chose qui n'y était pas trente secondes plus tôt, et ce n'était pas de la colère.
+Le troisième coup a été arrêté à mi-course par une main sortie du cratère, et l'onde est remontée dans son poignet, son coude, son épaule, jusqu'à ce point sous le col qu'il n'avait jamais pu atteindre.
+
+L'homme est sorti.
+
+Il n'était pas en colère.
+
+Il y avait sur son visage quelque chose qui n'y était pas trente secondes plus tôt, et ce n'était pas de la colère.
 
 C'était de l'attention.
 
@@ -403,73 +441,75 @@ C'était de l'attention.
 
 *16 h 52.*
 
-À la sixième minute, il a perdu la masse.
+À la sixième minute il a perdu la masse.
 
-Pas cassée. Perdue. Elle est partie vers l'est, en tournant, et il ne l'a pas suivie des yeux parce qu'il avait autre chose à faire, et quand il a pensé à la chercher, plus tard, il n'a pas retrouvé la direction.
+Pas brisée. Perdue. Elle est partie vers l'est en tournant sur elle-même, il ne l'a pas suivie des yeux, et quand il a pensé à la chercher il n'a pas retrouvé la direction.
 
-Il s'était appuyé sur ce poids pendant quatre-vingts ans. Son épaule droite était plus basse que la gauche à cause d'elle. Sans elle, il s'est aperçu que son bras droit montait trop haut, à chaque coup, de dix centimètres.
+Il s'était appuyé sur ce poids pendant des siècles. Son épaule droite était plus basse à cause d'elle. Sans elle, son bras montait de dix centimètres de trop.
 
-Il a corrigé.
+Il a corrigé en deux échanges.
 
-Ça lui a pris deux échanges. Au troisième, son bras droit partait à la bonne hauteur, et il a eu, pendant une fraction de seconde, une sensation qu'il n'arrivait pas à situer et qui datait d'avant. Un allongement. Une facilité. Son corps venait de désapprendre en six minutes une habitude de quatre-vingts ans, et il s'est demandé, très brièvement, combien d'autres choses il traînait comme ça sans le savoir.
+Au troisième, le bras partait juste, et il a eu une sensation qu'il n'arrivait pas à situer et qui datait d'avant tout : un allongement. De la place. Son corps venait de désapprendre en six minutes une habitude de mille ans.
 
-Il n'a pas eu le loisir d'y réfléchir. C'est une des choses que ce combat lui a prises, et pas la moindre : le temps de réfléchir.
+Il n'a pas eu le loisir d'y penser. C'est une des choses que ce combat lui a prises, et pas la moindre.
 
 À la septième minute, il a compris comment l'autre respirait.
 
-Ce n'était pas une respiration de combat. C'était une respiration de travail — lente, régulière, indifférente à l'effort, la respiration d'un homme qui déplace des caisses. Elle ne s'accélérait pas quand il frappait. Elle ne s'accélérait pas quand il encaissait.
+Ce n'était pas une respiration de combat. C'était une respiration de travail. Lente, égale, indifférente à l'effort, la respiration d'un homme qui déplace des caisses depuis le matin. Elle ne montait pas quand il frappait. Elle ne montait pas quand il encaissait.
 
-Elle s'était accélérée une fois, une seule, à la quatrième minute, quand Conquest l'avait mis dans la chaussée.
+Elle était montée une fois.
 
-Alors Conquest a passé la minute suivante à essayer de le remettre dans la chaussée.
+À la quatrième minute, dans le trou.
 
-Il n'y est pas arrivé. Mais il a appris, en essayant, que l'autre protégeait son flanc gauche d'un demi-degré de plus que son flanc droit, et que ce demi-degré ne venait pas de la fissure dans son armure, et qu'il faudrait un jour que quelqu'un se demande d'où il venait.
+Conquest a passé la minute suivante à essayer de l'y remettre.
+
+Il n'y est pas arrivé. Mais en essayant il a vu que l'autre gardait son flanc gauche un demi-degré de plus que le droit, que ce demi-degré n'avait rien à voir avec la fêlure du plastron, et qu'il faudrait un jour que quelqu'un cherche d'où il venait.
 
 À la huitième minute, il a touché deux fois de suite.
 
-Le premier coup a porté sur les côtes, à travers l'armure, et il a entendu quelque chose céder là-dedans qui n'était pas la plaque. Le deuxième est arrivé sur la tempe et a fait tourner la tête de l'homme d'un quart.
+Le premier a porté sur les côtes, à travers la plaque, et quelque chose a cédé là-dedans qui n'était pas de la plaque. Le second est arrivé à la tempe et a fait tourner la tête de l'homme d'un quart.
 
 Conquest a ri.
 
-C'est venu tout seul, du ventre, et ça lui a fait mal aux côtes — les siennes, il avait des choses cassées de son côté aussi, depuis la troisième minute, et il ne s'en était pas occupé.
+C'est venu du ventre, tout seul, et ça lui a fait très mal — il avait des choses cassées de son côté depuis la troisième minute et il ne s'en était pas occupé.
 
-L'homme a ramené sa tête à sa place et l'a regardé.
+L'autre a ramené sa tête à sa place et l'a regardé.
 
-Puis il a dit quelque chose. Deux mots. Toujours cette langue.
+Puis il a dit deux mots.
 
-Et Conquest a ri une deuxième fois, plus fort, parce qu'il avait enfin compris ce qui l'amusait tant.
+Conquest a ri une seconde fois, plus fort, parce qu'il venait enfin de mettre un nom sur ce qui l'amusait tant.
 
 Cet homme s'ennuyait.
 
-Il ne s'ennuyait pas de la façon dont Conquest s'ennuyait, lui, depuis quatre-vingts ans — cette chose grise, patiente, qui s'installe et qui reste. Il s'ennuyait de la façon dont on s'ennuie dans une file d'attente. Avec impatience. Avec un rendez-vous ailleurs.
+Pas de la façon dont lui s'ennuyait — cette chose grise et patiente qui s'installe et qui reste et qui devient une pièce de la maison. Non : il s'ennuyait comme on s'ennuie dans une file. Avec impatience. Avec un rendez-vous ailleurs.
 
-Il était en train de faire ça en attendant autre chose.
+Il faisait ça en attendant autre chose.
 
-*Bien*, a pensé Conquest. *Bien. Alors il faut te retenir.*
+*Alors il faut te retenir.*
 
-Il a arrêté d'essayer de gagner. Il n'avait jamais essayé sérieusement, à vrai dire — il avait essayé de comprendre, ce qui est différent, et il en était maintenant à cette phase qu'il n'avait plus connue depuis très longtemps où l'on n'essaie plus que de durer.
+Il a cessé d'essayer de gagner. À vrai dire il n'avait jamais essayé sérieusement — il avait essayé de comprendre, ce qui n'est pas pareil, et il en était maintenant à la troisième chose, celle qu'il n'avait plus pratiquée depuis très, très longtemps : durer.
 
-Il a durci les appuis. Il a raccourci les trajectoires. Il a arrêté de frapper au visage et il a commencé à frapper les articulations, les épaules, le genou d'appui, tout ce qui, sur une créature bâtie comme ça, devait pouvoir se dérégler.
+Appuis courts. Trajectoires raccourcies. Plus rien au visage. Les articulations, les épaules, le genou porteur, tout ce qui sur une créature bâtie comme ça devait pouvoir se dérégler.
 
-Ça a marché pendant environ quarante secondes.
+Ça a tenu quarante secondes.
 
-À la onzième minute, l'homme lui a enfoncé la mâchoire.
+À la onzième minute, l'autre lui a enfoncé la mâchoire.
 
-Un seul coup, remonté depuis la hanche, et Conquest est parti en arrière et s'est arrêté contre un pilier de la structure métallique qui portait le train, à trente mètres de hauteur. Le pilier a plié. Le train, au-dessus, a glissé de deux mètres et s'est arrêté.
+Un coup remonté de la hanche. Conquest est parti en arrière et s'est planté dans un pilier du viaduc, trente mètres au-dessus de la rue. Le pilier a plié. Le train, là-haut, a glissé de deux mètres et s'est arrêté.
 
-Il est resté là, coincé dans le métal tordu.
+Il est resté accroché dans le métal tordu.
 
-Sa mâchoire ne se refermait plus au même endroit. Ses dents se rencontraient de travers, à droite, et l'œil de ce côté ne suivait plus tout à fait : quand il tournait la tête, l'image mettait un peu de temps à venir.
+Sa mâchoire ne se refermait plus au même endroit. Ses dents se rencontraient de travers, à droite, et de ce côté l'œil ne suivait plus tout à fait : quand il tournait la tête, l'image arrivait après.
 
 Il a essayé de rire.
 
-Ça n'a pas marché. Ce n'est pas sorti comme un rire, c'est sorti comme un bruit d'air dans un tuyau fendu, trois fois de suite, et ça a fait quelque chose de très douloureux dans ses côtes.
+Ce n'est pas sorti comme un rire. C'est sorti comme de l'air dans un tuyau fendu, trois fois, et ça a réveillé les côtes.
 
 Il a ri quand même.
 
-Il s'est décroché du pilier, il est retombé sur la chaussée, il a plié les genoux pour amortir et ils ont tenu.
+Il s'est décroché, il est retombé sur la chaussée, il a plié les genoux pour amortir. Ils ont tenu.
 
-Et c'est en se relevant qu'il l'a vu.
+C'est en se relevant qu'il l'a vu.
 
 ---
 
@@ -477,39 +517,41 @@ Et c'est en se relevant qu'il l'a vu.
 
 Il y avait un deuxième homme dans la rue.
 
-Il était arrivé pendant. Conquest ne savait pas quand — il y avait eu un moment, vers la troisième minute, où quelque chose était tombé du ciel derrière lui et où il n'avait pas eu le loisir de se retourner.
+Arrivé pendant. Vers la troisième minute, quelque chose était tombé du ciel derrière lui et il n'avait pas eu le loisir de se retourner.
 
-Celui-ci était plus grand. Vêtu d'orange, d'une étoffe simple, sans plaque, sans rien. Il avait des cheveux invraisemblables et une queue lui aussi, qui pendait, celle-là, normalement, comme une queue.
+Celui-ci était plus grand. Vêtu d'orange, une étoffe simple, sans plaque, sans insigne, sans rien. Des cheveux invraisemblables. Une queue lui aussi, mais qui pendait, celle-là, normalement, comme une queue.
 
-Il n'était pas en train de se battre.
+Il ne se battait pas.
 
-Il était en train de porter la fille en rose.
+Il portait la fille en rose.
 
-Conquest l'a regardé faire, et pendant trois secondes entières il n'a plus été dans son propre combat.
+Conquest l'a regardé faire, et pendant trois secondes pleines il est sorti de son propre combat.
 
-L'homme en orange traversait la rue vers l'ouest — dans la mauvaise direction, à contre-courant de tout ce qui bougeait encore — en tenant le corps de la fille contre lui, un bras sous les genoux, un bras dans le dos, la tête calée contre son épaule pour qu'elle ne ballotte pas.
+L'homme en orange traversait la rue vers l'ouest, à contre-courant de tout ce qui bougeait encore, le corps de la fille contre lui, un bras sous les genoux, un bras dans le dos, la tête calée contre son épaule pour qu'elle ne ballotte pas.
 
-*Pour qu'elle ne ballotte pas.*
+Pour qu'elle ne ballotte pas.
 
-Il l'a déposée derrière une ligne de béton, à deux cents mètres. Il l'a posée sur le côté, pas sur le dos. Il a écarté un morceau de tôle du bout du pied pour lui faire de la place.
+Il l'a déposée derrière une ligne de béton, à deux cents mètres. Sur le côté. Pas sur le dos. Il a écarté une tôle du bout du pied pour lui faire de la place.
 
-Et il s'est relevé, et il a regardé autour de lui, et il avait l'air perdu.
+Puis il s'est relevé, il a regardé autour de lui, et il avait l'air perdu.
 
-Conquest a essayé de faire tenir ça avec le reste et ça n'a pas tenu.
+Conquest a essayé de faire tenir ça avec le reste. Ça n'a pas tenu.
 
-Il y avait deux êtres dans cette rue qui déplaçaient un officier de l'Empire sur quatre cents mètres d'un revers de poignet. Il y en avait donc, quelque part, une population, une hiérarchie, une doctrine. Une doctrine produit des gestes. Les gestes se ressemblent. C'est comme ça qu'on lit une espèce.
+Deux êtres, dans cette rue, déplaçaient un officier de l'Empire sur quatre cents mètres d'un mouvement de poignet. Il y avait donc une population, une hiérarchie, une doctrine. Une doctrine fabrique des gestes, et les gestes se ressemblent. C'est comme ça qu'on lit une espèce en une journée.
 
-L'un des deux venait de porter une ennemie hors du champ de tir comme on porte quelqu'un de sa propre famille.
+L'un des deux venait de porter une ennemie hors du champ de tir comme on porte quelqu'un des siens.
 
-Et l'autre était en train de le regarder faire, lui aussi, depuis son morceau de ciel — Conquest a vu sa tête pivoter, et il a vu, très nettement, ce qu'il y avait sur ce visage-là.
+Et l'autre le regardait faire depuis son morceau de ciel — Conquest a vu la tête pivoter, et il a vu très nettement ce qu'il y avait sur ce visage.
 
-Du mépris.
+Du dégoût.
 
-Alors ils n'étaient pas deux exemplaires de la même chose.
+Ils n'étaient pas deux exemplaires de la même chose.
 
-C'était une information. C'était même la meilleure information de la journée, et elle valait mieux que tout le reste du rapport, et il a porté la main à son oreille.
+C'était une information. C'était même la seule qui vaille depuis le début de la journée, elle valait mieux que tout le reste du rapport, et il a porté la main à son oreille.
 
-L'appareil n'y était plus. Il ne savait pas depuis quand.
+L'appareil n'y était plus.
+
+Il ne savait pas depuis quand.
 
 Il a laissé retomber son bras.
 
@@ -517,38 +559,42 @@ Il a laissé retomber son bras.
 
 *17 h 03.*
 
-L'homme en armure est redescendu à sa hauteur.
+L'homme est redescendu à sa hauteur.
 
-Ça, il ne l'avait pas encore fait. Depuis seize minutes il tenait ce mètre ou ces quinze mètres au-dessus de la chaussée, et là il est venu poser les pieds sur le bitume, à six pas, et il a regardé Conquest sans rien dire.
+Il ne l'avait pas encore fait. Depuis seize minutes il tenait son mètre ou ses quinze mètres au-dessus de la chaussée, et là il est venu poser les pieds sur le bitume, à six pas, et il l'a regardé sans rien dire.
 
-Conquest a compris ce que ça voulait dire. Il aurait fait pareil.
+Conquest a compris. Il aurait fait pareil.
 
-Il s'est mis debout correctement. Il a redressé son épaule droite — sans la masse, elle remontait toute seule, c'était étrange — et il a essuyé sa moustache du dos de la main, une dernière fois, et la poussière est restée.
+Il s'est mis debout correctement. Il a redressé l'épaule droite — sans la masse elle remontait toute seule, c'était encore étrange — et il a essuyé sa moustache du dos de la main gauche. La poussière est restée.
 
 Il aurait voulu dire quelque chose.
 
-Pas une phrase de fin ; il n'en avait jamais eu, et les gens qui en ont sont ceux qui ont eu le temps d'y penser. Non : il aurait voulu poser une question. Une seule. Sur celui en orange, sur la fille, sur le fait qu'on puisse porter quelqu'un comme ça dans une rue pareille.
+Pas une phrase de fin. Il n'en avait jamais eu ; on n'en a que si on y a pensé avant. Une question. Une seule, sur celui en orange, sur la fille, sur le fait qu'on puisse porter quelqu'un comme ça dans une rue pareille.
 
 Il n'y avait personne pour traduire.
 
 L'homme a levé la main droite, paume vers le haut.
 
-Il y a eu une chose ronde au-dessus de sa paume, de la taille d'une voiture, apparue sans être venue de quelque part. Elle n'avait pas de poids. C'est ce que Conquest a trouvé le plus difficile à admettre, dans les deux secondes qui lui restaient : elle était énorme et le poignet qui la portait ne compensait rien.
+Il y a eu une chose ronde au-dessus de cette paume, de la taille d'une voiture, qui n'était venue d'aucune direction. Elle n'avait pas de poids. C'est ce que Conquest a eu le plus de mal à admettre, dans les deux secondes qui lui restaient : elle était énorme et le poignet qui la portait ne compensait rien.
 
-Il n'a pas eu peur. Il a vérifié, honnêtement, comme on tâte une dent — il a cherché la peur, à l'endroit où elle aurait dû être, et il n'y avait rien.
+La lumière est arrivée sur les façades avant la chaleur. Toute la rue est devenue blanche, d'un blanc plat, sans ombres, et les vitres restantes ont commencé à chanter.
 
-Il y avait autre chose, très loin dessous, qu'il n'a pas eu le temps de nommer et qui ressemblait à ce qu'on ressent quand on pose enfin quelque chose de lourd.
+Il a cherché la peur.
+
+Honnêtement, à l'endroit où elle devait être, comme on tâte une dent. Il n'y avait rien.
+
+Il y avait autre chose, très bas dessous, qu'il n'a pas eu le temps de nommer et qui ressemblait à ce qu'on éprouve en posant enfin une charge.
 
 L'homme n'a rien dit.
 
-Pas un mot, pas un nom, pas une raison. Il a ouvert la main comme il avait ouvert la main pour l'appareil, deux secondes plus tôt et seize minutes plus tôt, avec exactement le même geste, avec exactement le même intérêt.
+Pas un mot, pas un nom, pas une raison. Il a ouvert la main comme il avait ouvert la main pour l'appareil, seize minutes plus tôt, du même geste exactement, avec le même intérêt.
 
 Et parce que ce n'était pas là que Conquest voulait regarder, il a tourné la tête vers l'ouest.
 
-L'homme en orange était debout à côté de la fille, à deux cents mètres, derrière sa ligne de béton. Il ne regardait pas dans la bonne direction. Il regardait le ciel au-dessus des toits, la tête un peu penchée, comme quelqu'un qui cherche à savoir quelle heure il est.
+L'homme en orange était debout près de la fille, à deux cents mètres, derrière sa ligne de béton. Il ne regardait pas dans la bonne direction. Il regardait le ciel au-dessus des toits, la tête un peu penchée, comme quelqu'un qui cherche à savoir l'heure.
 
-Il avait fait quatre cents mètres pour poser quelqu'un sur le côté et il n'en tirait rien.
+Quatre cents mètres pour déposer quelqu'un sur le côté, et il n'en tirait rien.
 
 *Pourquoi.*
 
-Le feu de circulation, à l'angle, est passé au vert.
+Au carrefour, la lampe est passée au vert.

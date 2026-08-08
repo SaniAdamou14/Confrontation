@@ -81,11 +81,11 @@ README.md                        Ce fichier.
 
 | | |
 |---|---|
-| Chapitres écrits | **1 / 120** |
-| Date récit | Jour 0, 17 h 04 — il reste cinq minutes aux vingt-deux minutes |
-| Arbitrages critiques | **Tranchés.** Bible corrigée en conséquence. |
+| Chapitres écrits | **2 / 120** |
+| Date récit | Jour 0, 17 h 26. Les vingt-deux minutes sont terminées. |
+| Arbitrages | **Tous tranchés.** Oliver survit, les Guardians survivants sont fixés. Bible corrigée. |
 | Point ouvert | ⚠ Le scouteur est détruit au ch. 1. Payoff F10 à re-router avant le ch. 14 — voir `FUSILS_DE_TCHEKHOV.md`. |
-| Prochaine action | Dossier préparatoire du **chapitre 2**, focalisation Ray Dombrowski |
+| Prochaine action | Dossier préparatoire du **chapitre 3**, focalisation Cecil |
 
 ### Décisions canoniques ajoutées à la bible
 

@@ -17,6 +17,15 @@ Toute destruction inscrite ici doit avoir **au moins une conséquence différée
 | **Morts** | 2,4 M (J0) → 3,1 M (J4) |
 | **Corps récupérés** | Quasi aucun |
 
+### Ce que le ch. 2 a établi ✔
+
+- **La tour noire à deux antennes** (repère laissé debout par Conquest) est restée dessinée en gris dans le blanc de l'explosion pendant un quart de seconde. Elle était à un kilomètre du point zéro.
+- **Le viaduc et le train** sont tombés avant la sphère, à ~16 h 58, pendant le combat. Environ deux cents morts. Chute de trente mètres d'un bloc, sans basculer.
+- **Délai lumière → souffle à 2 km : six secondes.** Six secondes pendant lesquelles il ne se passe rien.
+- **Le lac s'est retiré du rivage avant de revenir.** Ligne noire reculant vers l'est, coques couchées, kilomètres de vase à l'air libre. Puis le retour.
+- **Le feu de circulation de State & Madison a continué son cycle** après la mort de tout ce qui l'entourait, avant de disparaître avec le reste.
+- **Aucun chiffre n'est prononcé dans le chapitre.** Personne n'en a. Le seul chiffre est technique : 49 min 11 s de bande, dont 4 min 12 s inexploitables.
+
 ### Conséquences immédiates (tome 1)
 
 - **Le lac Michigan s'engouffre dans le cratère.** ✔ Canonique, bible §3. Vapeur massive : le site est invisible pendant plusieurs jours, aucune reconnaissance aérienne possible. **C'est pourquoi le premier chiffre met deux jours à venir — Cecil ne cache rien au chapitre 3, il ne sait pas.** En une semaine, le cratère est plein : Chicago est une baie.

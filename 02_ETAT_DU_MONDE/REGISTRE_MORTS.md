@@ -25,15 +25,18 @@ Bible §4.5-1 : **aucune résurrection. Jamais.** Une ligne inscrite ici ne s'ef
 |---|---|---|---|
 | 43 civils non nommés | Conquest, phase initiale. **Ch. 1 :** un homme en costume gris qui n'a pas couru assez loin ; deux personnes qui se tenaient la main et qu'il n'a pas séparées ; le reste hors champ. | Conquest | 16 h 28 – 16 h 36 |
 | **Conquest** ✔ *écrit ch. 1* | Sphère d'énergie lâchée sans un mot. Traversé, désintégré. Aucun corps. Il regardait ailleurs — vers Goku, à deux cents mètres. | Végéta | 17 h 04 |
-| **Nolan Grayson** (Omni-Man) | Traversé de part en part | Goku | ~16 h 51 – 17 h 09 |
-| **Mark Grayson** | Enfoncé dans le sol jusqu'aux épaules. Pas de corps récupérable. | Goku | ~17 h 05 |
-| **Immortal** | Fendu en deux par une onde qui ne le visait pas | Goku | ~16 h 56 |
-| **War Woman** | Effacée | Goku | ~16 h 57 |
-| **Red Rush** | Réduit en brouillard par un revers agacé. Il était assez rapide pour presque toucher Végéta. | Végéta | ~16 h 58 |
-| **Atom Eve** | Tuée en tentant un bouclier, après avoir repris connaissance | Goku | ~17 h 07 |
+| **Nolan Grayson** (Omni-Man) ✔ *ch. 2* | Traversé de part en part. Vu tomber à genoux à 16 h 53. | Goku | ~16 h 51 – 17 h 09 |
+| **Mark Grayson** ✔ *ch. 2* | Entré dans la poussière à 16 h 53, n'en est pas ressorti. Enfoncé dans le sol jusqu'aux épaules. Pas de corps récupérable. **Ray ne l'a pas vu mourir et l'a retrouvé six jours plus tard, à l'image 61 200.** | Goku | ~16 h 53 |
+| **Immortal** ✔ *ch. 2* | Une ligne blanche, très fine, très droite, qui a traversé Immortal et deux immeubles derrière lui. Deux morceaux qui tombent. | Goku | ~16 h 55 |
+| **War Woman** ✔ *ch. 2* | Effacée. **Rien sur la bande** : image 4 la masse est en l'air, image 6 il n'y a plus ni masse ni personne. Cratère de 30 m, vide. | Goku | ~16 h 56 |
+| **Red Rush** ✔ *ch. 2* | Un geste de la main, comme on chasse quelque chose devant sa bouche. Brume rose sur 50 m, restée en suspension faute de vent. **Filmé net et immobile pour la première et dernière fois.** | Végéta | ~16 h 58 |
+| **~200 passagers du train** ✔ *ch. 2* | Viaduc effondré. Pilier lâché après vingt minutes. Chute de 30 m d'un bloc. **Conquest les avait épargnés par calcul.** | dommage collatéral, combat Végéta / Conquest | ~16 h 58 |
+| **Atom Eve** ✔ *ch. 2* | Réveillée, debout, a monté un bouclier rose. Goku reculait ; son épaule est entrée dans la plaque. **Il ne l'a pas frappée.** Le plan sur le béton vide qui suit est l'un des plus diffusés de l'histoire de la télévision américaine. | Goku | ~16 h 59 |
 | ~2,4 M puis 3,1 M de civils | Souffle de la sphère + effondrement du centre-ville | Végéta | 17 h 04 + |
 
-**Oliver** — bras arraché. **[À TRANCHER : survit-il ? Recommandation : oui.]** Voir `POINTS_A_ARBITRER.md` §3.
+**Oliver** — ✔ **SURVIT.** Tranché par le ch. 2. Vu à 17 h 01 sur le toit d'un parking de Wabash, à quatre cents mètres du carrefour : assis, un bras, peau violette, cheveux noirs raides coupés au menton. **Il ne pleurait pas.** Il regardait le combat comme on regarde par la fenêtre d'un train. Marisol a refusé d'y aller.
+
+**Guardians absents ce jour-là** — ✔ tranché par le ch. 2 : Darkwing, Aquarus, Martian Man, Green Ghost, Black Samson. Trois seulement sont arrivés par l'ouest à 16 h 54. Les autres étaient ailleurs pour des raisons banales. **La banalité de leur survie vaut mieux que l'héroïsme.** Ils reviennent au tome 2 — c'est tout ce qui reste à Cecil.
 
 ---
 
@@ -41,8 +44,10 @@ Bible §4.5-1 : **aucune résurrection. Jamais.** Une ligne inscrite ici ne s'ef
 
 Elles doivent exister dans le registre et **jamais** dans la prose. Le lecteur les trouve seul, ou pas.
 
-- **Goku sauve Eve à la seconde 7. Goku tue Eve dix-neuf minutes plus tard.** C'est l'ironie centrale du jour 0. Aucun personnage ne la formule. Jamais. Sur cinq tomes.
-- Red Rush est le seul Terrien à avoir presque touché un Saiyan. Personne ne le saura : il n'y a plus personne pour le raconter, et Végéta n'a pas remarqué.
+- **Goku sauve Eve à la seconde 7. Goku tue Eve douze minutes plus tard.** C'est l'ironie centrale du jour 0. Aucun personnage ne la formule. Jamais. Sur cinq tomes.
+- Red Rush est le seul Terrien à avoir presque touché un Saiyan. Personne ne le saura : il n'y a plus personne pour le raconter, et Végéta n'a pas remarqué. **Sa mort est aussi la seule image nette de lui en vingt-six ans de carrière de Ray.**
+- Conquest a épargné le train par calcul tactique. Le train est tombé pendant le combat qu'il avait provoqué.
+- Ray a filmé la mort de tous les gens qu'il avait passé sa vie à filmer, et il n'a pas manqué un cadre.
 - Conquest, qui cherchait une mort digne depuis quatre-vingts ans, l'obtient sans un mot et sans savoir pourquoi.
 - Mark tient onze minutes contre Conquest. Il meurt en moins de dix secondes contre Goku.
 

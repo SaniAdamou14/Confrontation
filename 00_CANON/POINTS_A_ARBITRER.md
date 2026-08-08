@@ -58,27 +58,31 @@ Trois raisons : ça respecte l'ordre des chapitres déjà écrit dans la bible ;
 
 ---
 
-## ❑ 3. Le sort d'Oliver
+## ✔ 3. Le sort d'Oliver — TRANCHÉ (ch. 2)
 
 **Les faits.** §3 : « Oliver perd un bras sur un coup de pied qui n'était pas destiné à le blesser gravement. » Rien de plus. §7.4 dit de Debbie qu'elle est « mère de rien » — mais Oliver n'est pas son fils.
 
 **Enjeu.** Un Oliver survivant est le seul témoin viltrumite-humain du jour 0, un enfant amputé, et une bombe pour le tome 5 (il grandit, il est à moitié de la race qui va tenir trente villes en otage, et il a un motif personnel). Un Oliver mort simplifie et alourdit le compte.
 
-**Recommandation.** Il survit. C'est le personnage le plus utile du récit à long terme, et un enfant à un bras dans le champ d'une caméra fait plus de dégâts à l'image des Saiyans que dix mille morts anonymes. À placer en garde de la GDA dès le J1.
+**Recommandation.** Il survit. C'est le personnage le plus utile du récit à long terme, et un enfant à un bras dans le champ d'une caméra fait plus de dégâts à l'image des Saiyans que dix mille morts anonymes.
 
-**Décision :** _____________
+**✔ DÉCISION — il survit.** Établi par le ch. 2 : vu à 17 h 01 sur le toit d'un parking de Wabash, assis, un bras, **la peau violette**, cheveux noirs raides coupés au menton. Il ne pleurait pas. Il regardait le combat comme on regarde par la fenêtre d'un train. Ray l'a filmé et Marisol a refusé d'y aller.
+
+**Canon vérifié :** Oliver est le fils de Nolan et d'une Thraxane. Sa peau violette vient de cette hybridation ; elle rosira à mesure que la part viltrumite s'imposera. Il grandit plus vite qu'un humain. **Quelqu'un devra aller le chercher au ch. 3.**
 
 ---
 
-## ❑ 4. Les autres Guardians of the Globe
+## ✔ 4. Les autres Guardians of the Globe — TRANCHÉ (ch. 2)
 
 **Les faits.** §3 nomme quatre morts : Immortal, War Woman, Red Rush, Eve. L'équipe en compte davantage.
 
 **Enjeu.** Mineur pour le chapitre 1, structurant pour le tome 2 : s'il reste des Guardians vivants, la Terre a encore une force para-humaine et Cecil a des pions. Sinon, il n'a que des soldats et un budget.
 
-**Recommandation.** Deux ou trois survivants, absents ce jour-là pour des raisons banales (une mission ailleurs, un arrêt maladie, un congé). La banalité de leur survie est plus cruelle que l'héroïsme. Ils passent le tome 1 hors champ et reviennent au tome 2.
+**✔ DÉCISION.** Trois seulement sont arrivés par l'ouest à 16 h 54 : **Immortal, War Woman, Red Rush.** Tous les trois morts.
 
-**Décision :** _____________
+**Survivants**, absents ce jour-là pour des raisons banales — une mission ailleurs, un arrêt maladie, un congé : **Darkwing, Aquarus, Martian Man, Green Ghost, Black Samson.** La banalité de leur survie est plus cruelle que l'héroïsme. Ils passent le tome 1 hors champ et reviennent au tome 2.
+
+**Ce que ça donne à Cecil au jour 1 :** cinq para-humains, dont un sans pouvoir, un souverain sous-marin et un Martien. C'est tout. Il le sait avant tout le monde et il ne le dira à personne.
 
 ---
 

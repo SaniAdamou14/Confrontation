@@ -48,6 +48,18 @@ Légende : **✓** sait · **~** soupçonne, sans preuve · **✗** ignore · **
 | **Ce que Végéta ignore** | Que Conquest l'a entendu parler à quelqu'un qui n'était pas là. |
 | **Ce que personne ne sait** | Que Végéta protège son flanc gauche d'un demi-degré de plus que le droit. Le seul être qui l'ait remarqué est mort onze minutes plus tard. |
 
+### Précisions établies par le chapitre 2
+
+| Information | État |
+|---|---|
+| **Ce que le public possède** | Trois images, sorties en direct avant toute décision éditoriale : l'homme en orange qui porte la fille et la couche **sur le côté** ; l'homme en armure qui rit avant de frapper ; **l'arrêt de 17 h 09**. |
+| **L'erreur fondatrice** | Le monde conclut que l'homme en orange a **choisi** d'épargner la ville. Il s'est arrêté parce qu'il venait de comprendre que les corps ne se relèvent pas. **Ces deux choses n'ont rien à voir. Le récit ne corrige jamais.** C'est de cette erreur que naîtront les Témoins de l'Orange et une partie de la sympathie publique pour Goku. |
+| **Ce que Ray sait** | Rien. Il n'a compris aucune seconde de sa journée et n'en comprendra jamais aucune. **Il a un fichier, pas une opinion** — c'est ce qui le rendra incontestable au tome 5. |
+| **Ce que Ray ignore encore** | Que Mark est mort dans sa poussière à 16 h 53. Il le découvre six jours plus tard, seul, à trois heures du matin. |
+| **Ce que personne ne saura jamais** | Que Mark a tenu onze minutes contre Conquest. Le seul témoin est mort à 17 h 04, et le second l'a perdu dans un nuage. **Personne ne le dira à Debbie.** |
+| **Ce qui manque à la bande** | 4 minutes 12 secondes. Dont les onze secondes où l'antenne a perdu le faisceau — c'est-à-dire la mort de Red Rush, qui n'existe donc que sur le master. |
+| **Ce que la GDA a perdu** | Immortal, War Woman, Red Rush, Atom Eve, les deux Grayson. **Il lui reste Darkwing, Aquarus, Martian Man, Green Ghost, Black Samson** — absents ce jour-là pour des raisons banales. C'est tout ce que Cecil possède au jour 1. |
+
 > **Distinction capitale — Goku.** À 17 h 09, il **constate** que les corps ne se relèvent pas. Il ne sait toujours pas que la mort est **définitive** dans ce monde. Ce n'est pas la même information. Il passe les quarante jours suivants à attendre patiemment qu'on organise le retour de tout le monde, parce que c'est ainsi que fonctionne son univers, et personne ne comprend ce qu'il attend. La révélation arrive au tome 2, par Debbie, et **c'est le sommet émotionnel du tome — elle vaut dix combats**.
 >
 > Ne jamais, dans aucun chapitre du tome 1, écrire une phrase focalisée sur Goku qui suppose qu'il sait.

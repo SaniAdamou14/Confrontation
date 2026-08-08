@@ -22,17 +22,19 @@ Le bloc de citation est un outil de travail. Décider avant publication s'il res
 
 | Ch. | Titre | Focal | Mots | Statut |
 |---|---|---|---|---|
-| 1 | Les sept secondes | Conquest | 6 026 | **écrit** · registres à jour |
-| 2 | Vingt-deux minutes | Ray Dombrowski | — | dossier à écrire |
-| 3-20 | voir `03_PLAN/TOME_1.md` | | | |
+| 1 | Les sept secondes | Conquest | 5 400 | **écrit** · v2 après correction canon · registres à jour |
+| 2 | Vingt-deux minutes | Ray Dombrowski | 5 150 | **écrit** · registres à jour |
+| 3 | *(le premier chiffre)* | Cecil | — | dossier à écrire |
+| 4-20 | voir `03_PLAN/TOME_1.md` | | | |
 
-### Ce que le ch. 2 doit reprendre du ch. 1
+### Ce que le ch. 3 hérite
 
-- **Le feu de circulation** de State & Madison, cycle de 64 secondes. Objet de couture, vu de loin cette fois. Ne pas le souligner.
-- **Le train** sur le viaduc, deux cents personnes dedans.
-- **La tour noire à deux antennes** au sud-ouest — décider si elle tient.
-- **17 h 09 :** Ray voit l'homme en orange s'arrêter net au milieu d'un geste. Personne ne comprend pourquoi. Le monde en conclura qu'il a épargné la ville. C'est faux et ce n'est jamais corrigé.
-- Ray connaît les Guardians à la démarche. Il ne connaît pas leurs noms de famille.
+- **Personne n'a de chiffre.** Le site est sous un mur de vapeur visible à cent kilomètres, aucune reconnaissance aérienne possible. Cecil ne cache rien : il ne sait pas.
+- **Cecil n'a plus que cinq Guardians**, absents le jour 0 pour des raisons banales : Darkwing, Aquarus, Martian Man, Green Ghost, Black Samson.
+- **Le monde a déjà vu.** Les trois images de Ray sont sorties en direct. Tout ce que Cecil dira arrive après elles.
+- **Un enfant violet à un bras** est quelque part sur un toit de Wabash, et quelqu'un devra aller le chercher.
+- **Le lingua franca se pose au ch. 3, une fois, et on n'y revient plus** (bible §4.3).
+- Le premier chiffre est prononcé ici. **À qui, et pourquoi à cette personne-là, importe plus que le chiffre.**
 
 ---
 

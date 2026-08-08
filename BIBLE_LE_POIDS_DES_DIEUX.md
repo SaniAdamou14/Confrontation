@@ -74,11 +74,11 @@ Le ciel se déchire au-dessus de State Street.
 
 Scène fondatrice. Elle fixe tous les alignements.
 
-**Seconde 0.** Végéta traverse une façade vitrée, se rétablit à quinze mètres du sol. Il voit un homme à moustache en armure blanche et rouge, une masse à la main, debout sur un cratère. Un gamin en bleu et jaune qui crache du sang.
+**Seconde 0.** Végéta traverse une façade vitrée, se rétablit à quinze mètres du sol. Il voit un vieillard immense à moustache, en uniforme viltrumite blanc et rouge — **du tissu, jamais de plaque** —, une masse dans une main droite en métal, debout sur un cratère. Un gamin en bleu et jaune qui crache du sang.
 
 Végéta ne cherche pas à comprendre. Il **évalue**. Un dominant, un dominé. Sa lecture est immédiate et juste.
 
-**Secondes 1-3.** Conquest lève les yeux. Une race qu'il ne connaît pas. Une queue. Il sourit — le premier vrai sourire depuis quatre-vingts ans.
+**Secondes 1-3.** Conquest lève les yeux. Une race qu'il ne connaît pas. Une queue. Il sourit — **le premier vrai sourire depuis deux mille ans.** *(Conquest a environ cinq mille ans. Toute durée le concernant se compte en siècles ou en millénaires, jamais en décennies.)*
 
 **Seconde 4.** Conquest, sans hausser le ton : « Tu voles. Tu n'as pas peur. Et tu n'es pas d'ici. » Un geste du menton vers Mark. « Attends ton tour, ou prends le sien. »
 
@@ -145,6 +145,8 @@ La nuance est décisive et doit être tenue partout : ils **peuvent** être bles
 ### 4.3 Ce que les Saiyans ne peuvent PAS faire
 
 C'est cette liste qui fabrique le récit. Elle doit être respectée avec rigueur.
+
+0. **RAPPEL DE CANON VILTRUMITE.** Corps biologiquement indiscernables de l'humain, bâtis sur des atomes à propriétés variables ; ils captent l'énergie ambiante. **Ils se renforcent avec l'âge et surtout avec l'adversité — chaque blessure grave dont ils réchappent les rend plus forts.** Espérance de vie de plusieurs millénaires, le vieillissement ralentissant avec le temps. Uniformes de tissu, individualisés, **jamais de plaque**. Faiblesse connue : **les sons de très haute fréquence**, qui provoquent douleur, désorientation, perte d'équilibre, et à forte intensité des lésions neurologiques mortelles. Voir `00_CANON/LEXIQUE_ET_ORTHOGRAPHES.md`.
 
 1. **Sentir un Viltrumite.** Aucun ki. Pour un Saiyan, un Viltrumite est un **trou dans la perception**. Ils sont donc surprenables — la seule chose qui les a jamais rendus surprenables de leur vie. Un scouteur affiche 0 face à Thragg ; Végéta croira d'abord à une panne, et c'est comme ça qu'il comprend.
 2. **Être partout.** La Terre a 510 millions de km². Deux êtres, aussi puissants soient-ils, ne couvrent pas une planète. **C'est la faille que l'Empire va exploiter.**

@@ -68,11 +68,25 @@
 
 ---
 
-## 6. Oliver
+## 6. Oliver ✔ *survit*
 
 | Depuis | Blessure | Note |
 |---|---|---|
-| J0 | Bras arraché | Coup de pied qui n'était pas destiné à blesser gravement. **[Survie à trancher — recommandation : oui]** |
+| J0, ~16 h 52 | **Bras arraché.** Définitif. | Coup de pied qui ne visait pas à blesser gravement. Il a huit ans environ, la peau violette, les cheveux noirs raides coupés au menton. Sa croissance est plus rapide que celle d'un humain. |
+| J0, 17 h 01 | Assis sur le toit d'un parking de Wabash, à 400 m du carrefour. Conscient. **Il ne pleure pas.** | Filmé par Ray. Personne ne vient le chercher pendant le chapitre. |
+
+**Trace permanente et fusil long.** Un enfant amputé, à moitié de l'espèce qui tiendra trente villes en otage au tome 2, avec un motif personnel et le temps de grandir. Voir `POINTS_A_ARBITRER.md` §3.
+
+---
+
+## 6 bis. Ray Dombrowski
+
+| Depuis | Blessure / état | Durée | Trace |
+|---|---|---|---|
+| J0, 17 h 04 + 6 s | **Tympan droit crevé.** Saigne sous l'oreille. | Acouphène continu, voix perçues comme sous l'eau pendant des heures. | À décider : perte auditive permanente ? **Recommandation : oui, partielle.** L'homme dont le métier était de tout voir finit sourd d'une oreille. |
+| J0 | Aucune blessure visible ailleurs. | | |
+
+**Marisol Ávila** — indemne. Elle a posé l'appareil sur un toit d'entrepôt à Cicero, train arrière touché mal, glissade de deux mètres contre un bloc de ventilation. **Elle ne redécollera plus jamais.**
 
 ---
 

@@ -78,6 +78,32 @@ Trois passes : avant, pendant, après. Ne rien sauter.
 
 ---
 
+## LA PASSE DE STYLE — le tic à traquer
+
+*Ajoutée après relecture du chapitre 1. C'est la faute la plus insidieuse du projet : elle ne contredit aucune règle de la bible et elle détruit quand même le texte.*
+
+**Le tic :** la narration explique sa propre logique juste après l'avoir montrée. Elle pose un fait, puis elle ajoute une glose qui dit au lecteur comment le comprendre.
+
+| Forme | Exemple à ne plus écrire |
+|---|---|
+| La cause ajoutée | *« Il a tourné la tête vers l'ouest, parce qu'il fallait bien qu'il y ait quelqu'un derrière. »* |
+| La rétractation | *« Il ne s'en est pas voulu — il n'a pas eu le temps de s'en vouloir. »* |
+| La leçon de choses | *« Il savait à quoi ressemblait un corps qui vole : ça corrige en permanence, ça respire par petites poussées, ça flotte un peu. »* |
+| La maxime d'expérience | *« Il avait remarqué ce phénomène sur presque tous les mondes. »* |
+| Le sens explicité | *« C'est du mépris, et c'est important. »* |
+
+**Pourquoi c'est mortel ici.** Le récit est bâti sur R1 et R6 : personne ne dit ce qu'il veut vraiment, le lecteur déduit. Une narration qui glose fait exactement l'inverse — elle prend le lecteur pour quelqu'un qui ne suivrait pas. Le texte perd sa crédibilité au moment précis où il devrait être le plus dense.
+
+**Le remède : la juxtaposition.** Poser le fait, couper. Laisser le motif dans le geste plutôt que dans la subordonnée. Si la raison compte, elle doit passer par une perception physique du focal, pas par un commentaire.
+
+- [ ] **Passe dédiée :** relire le chapitre en cherchant uniquement les « parce que », « c'est que », « il savait que », « ça voulait dire que », les tirets qui rétractent, et les phrases qui commencent par « C'est ». Chacune est suspecte. La plupart se suppriment sans perte.
+- [ ] Aucune maxime générale sur « les espèces », « les gens », « tous les mondes ».
+- [ ] Le verbe est-il le plus précis disponible ? *Casser* est presque toujours la mauvaise réponse — éventrer, coucher, faucher, ouvrir, démonter, crever, arracher.
+- [ ] Le même verbe ou la même tournure ne revient pas trois fois dans le chapitre comme un refrain involontaire.
+- [ ] Le lecteur est-il **dans l'instant** ou en train de se faire raconter l'instant ?
+
+---
+
 ## Les dix fautes capitales
 
 Bible §12, à relire avant chaque chapitre.

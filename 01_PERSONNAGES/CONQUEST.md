@@ -2,7 +2,22 @@
 
 **Focalisation du chapitre 1 en entier.** Format : noyau / fracture / voix / interdits / calibrage, comme la bible §7.
 
-Base canonique : bible §2, §3, §4.2 (rang B+), §6.3.
+Base canonique : bible §2, §3, §4.2 (rang B+), §6.3 — **complétée par vérification du canon Invincible**, voir §0 ci-dessous.
+
+---
+
+## 0. FICHE CANON — à ne plus jamais se tromper
+
+| | |
+|---|---|
+| **Âge** | **Environ cinq mille ans.** Toute durée le concernant se compte en siècles ou en millénaires. **Jamais en décennies.** |
+| **Physique** | Environ deux mètres. Corps massif, musculature énorme — et **une apparence de vieillard** : rides profondes, cheveux gris clairsemés, calvitie avancée, dents mal plantées. Les Viltrumites vieillissent de plus en plus lentement ; il a l'air d'un vieil homme depuis très longtemps. |
+| **Tenue** | **Uniforme viltrumite en tissu, blanc et rouge. AUCUNE PLAQUE, AUCUN PLASTRON.** Les Viltrumites ne portent pas d'armure : leur corps est l'armure. Uniformes individualisés dans le canon comic. La moustache est un marqueur culturel de l'Empire. |
+| **Main droite** | **Prothèse cybernétique.** Il a perdu la vraie face à un Rognarr, pendant l'affaiblissement provoqué par le virus Scourge. Elle obéit parfaitement et **ne transmet aucune sensation**. |
+| **Arme** | Une masse. Contrainte volontaire, pas nécessité. |
+| **Physiologie** | Corps indiscernable de l'humain, bâti sur des atomes à propriétés variables ; capte l'énergie ambiante. **Se renforce avec l'âge et surtout avec l'adversité : chaque blessure grave dont il réchappe le rend plus fort.** |
+| **Faiblesse d'espèce** | **Les sons de très haute fréquence** : douleur, désorientation, perte d'équilibre, et à forte intensité lésions neurologiques mortelles. La Terre ne le sait pas encore. **Fusil de Tchekhov majeur.** |
+| **Statut dans l'Empire** | Parmi les plus puissants, derrière Thragg. Sa brutalité ne vient pas de l'adhésion à la cause mais du sadisme, **au point que les autres Viltrumites le craignent.** D'où une solitude totale. |
 
 ---
 
@@ -10,17 +25,23 @@ Base canonique : bible §2, §3, §4.2 (rang B+), §6.3.
 
 Conquest ne cherche pas à gagner. **Il cherche à perdre, et il ne le sait pas.**
 
-Quatre-vingts ans d'écrasement de mondes qui ne peuvent pas lui répondre. Il n'a plus le souvenir d'un effort. Sa masse n'est pas une arme, c'est un handicap qu'il s'impose : il se bat avec un objet encombrant pour se donner une contrainte, parce que sans contrainte il ne sent plus rien. Personne dans l'Empire ne l'a compris, et lui non plus.
+Cinq millénaires passés à écraser des mondes qui ne peuvent pas répondre. Il n'a plus le souvenir d'un effort. Sa masse n'est pas une arme, c'est un handicap qu'il s'impose : il se bat avec un objet encombrant pour se donner une contrainte, parce que sans contrainte il ne sent plus rien.
 
 Il n'est pas sadique par goût de la douleur. Il est sadique **par méthode** : la douleur est le seul instrument qui lui reste pour vérifier si quelqu'un, en face, a quelque chose en réserve. Chaque victime est un test qu'il espère rater.
+
+> **Le canon donne à ça une base physiologique, et il faut s'en servir.** Un Viltrumite se renforce avec l'adversité. Conquest a passé cinq mille ans à devenir plus fort à chaque blessure — donc de plus en plus seul, de plus en plus loin de tout ce qui pourrait l'atteindre. **Sa force est la cause de son ennui, et elle croît.** Il ne peut pas s'en sortir : plus il cherche, plus il s'éloigne.
 
 ---
 
 ## Fracture
 
-Il est un soldat d'un empire de moins de cinquante individus, et il n'a pas le droit de mourir. Chaque Viltrumite est irremplaçable (§6.3). Sa vie entière est une mission de valeur, ce qui la rend sans valeur pour lui.
+Il est le soldat d'un empire de moins de cinquante individus, et il n'a pas le droit de mourir. Chaque Viltrumite est irremplaçable (§6.3). Sa vie entière est une mission de valeur, ce qui la rend sans valeur pour lui.
 
-**Le sourire de la seconde 1-3 est le point le plus important du chapitre.** « Premier vrai sourire depuis quatre-vingts ans » (§2). Ce n'est pas de la cruauté anticipée. C'est du **soulagement**. Un être vient d'apparaître qui n'est pas d'ici, qui ne tremble pas, et qui pourrait le tuer. Il attend ça depuis huit décennies.
+Et ceux de sa propre espèce le craignent. Il n'a personne. Pas au sens sentimental — au sens opérationnel : il n'y a pas un être vivant dans l'univers connu avec qui il puisse faire quoi que ce soit.
+
+**Le sourire de la seconde 1-3 est le point le plus important du chapitre.** Ce n'est pas de la cruauté anticipée. C'est du **soulagement**. Un être vient d'apparaître qui n'est pas d'ici, qui ne tremble pas, et qui pourrait le tuer.
+
+**La main qui ne sent rien est le second axe.** Il l'a perdue à l'unique époque où il a été faible, malade, où il crachait du sang comme les autres. C'est la dernière fois que quelque chose lui a fait peur, et il y pense souvent. **Elle lui manque pour cette raison-là.**
 
 Tout le chapitre 1 doit être écrit pour rendre ce sourire lisible. Si le lecteur, à la seconde 3, ne comprend pas que Conquest est heureux, le chapitre a échoué.
 
