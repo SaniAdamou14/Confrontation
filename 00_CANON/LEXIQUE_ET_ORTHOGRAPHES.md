@@ -36,6 +36,16 @@ Ce fichier existe pour une seule raison : sur 120 chapitres, l'incohérence orth
 | **Atom Eve** / **Eve** | La narration dit Eve. Les rapports disent Atom Eve. |
 | **Cecil Stedman** | |
 | **Donald Ferguson** | |
+| **Dr Théo Abbadie** | Jamais « Theodore ». Focal du ch. 5. **La narration l'appelle Abbadie ; Cecil dit « docteur ».** Dans ses propres notes, Végéta est **« l'informateur »**. |
+| **major Dana Rennick** | « Rennick » en scène. Le prénom n'a jamais servi. |
+| **Mendes** | Second interprète, Fort Bliss. Pas de prénom, pas de scène. |
+| **Ostrowski** | Officier du canal depuis le J4. Pas de prénom. C'est lui qui monte l'écart entre la bande et la transcription. |
+| **D. A. Sinclair** | La narration dit **Sinclair**. Cecil dit « fiston » une seule fois, au ch. 6. **Programme Reanimen**, majuscule, jamais développé. |
+| **les Mauler** | Article défini, invariable, jamais « les jumeaux Mauler ». Ils se distinguent uniquement par la position : *celui de gauche*, *celui de droite*. **Ne jamais trancher lequel est l'original.** |
+| **le bassin** | Le cratère plein, à partir du J6. **Il n'a pas de nom officiel avant longtemps** — les documents disent *bassin d'effondrement*. Cecil a refusé d'en donner un le J6 au matin. |
+| **SUJET UN** / **SUJET DEUX** | Petites capitales, sans italique. UN = celui en armure, **parce qu'il est arrivé le premier**. DEUX = celui en orange. Numérotation officielle du J1 au **J19**. Aucun document de la GDA n'emploie autre chose avant cette date. |
+| **Tres Palomas** | Nouveau-Mexique, 4 118 habitants. Sans accent, comme sur les panneaux. |
+| **la crête de la Tinaja** | À 900 m à la verticale de Tres Palomas. Article et minuscule à « crête ». |
 | **Robot** / **Rudolph Connors** | Robot en scène, Connors dans les documents. |
 | **Amber Bennett**, **William Clockwell** | |
 | **la GDA** | Article féminin. « la GDA », « à la GDA ». Ne jamais développer le sigle dans la prose. |

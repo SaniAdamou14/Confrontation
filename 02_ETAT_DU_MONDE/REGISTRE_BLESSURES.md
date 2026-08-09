@@ -27,6 +27,7 @@
 | J0 | Fissure à l'omoplate gauche — **de l'armure**, pas de lui | permanente jusqu'à remplacement | Il ne la fera pas réparer. Voir note. |
 | J0, 16 h 47 | **Scouteur détruit.** Retiré et lâché à la seconde 3, cassé au sol. | définitif | Il n'a plus aucun instrument de mesure. |
 | J0, 17 h 04 | **Aucune blessure.** Dix-sept minutes de combat, trois coups encaissés, une mise au sol. Rien. | — | — |
+| J2, 11 h 05 | Suie. Une munition conventionnelle massive encaissée volontairement. | **elle ne part pas** | ✔ ch. 5 : au J4, la suie couvre le plastron en couche fine et uniforme, sèche, grise mate. **Elle est entrée dans la fissure de l'omoplate et s'y est installée.** |
 | Tome 3 | Œil perdu (Thragg) | définitif | **oui** |
 | Tome 3 | Bras (Thragg) | 4 mois de convalescence | **oui** |
 
@@ -87,6 +88,22 @@
 | J0 | Aucune blessure visible ailleurs. | | |
 
 **Marisol Ávila** — indemne. Elle a posé l'appareil sur un toit d'entrepôt à Cicero, train arrière touché mal, glissade de deux mètres contre un bloc de ventilation. **Elle ne redécollera plus jamais.**
+
+---
+
+## 6 ter. Théo Abbadie ✔ *ch. 5*
+
+| Depuis | Blessure / état | Durée | Trace |
+|---|---|---|---|
+| J1 | Dix-huit heures par jour, sommeil sur une chaise | continu | — |
+| J4, 07 h | **Voix atteinte.** Rugosité au-dessus du larynx. Il en connaît la suite et se donne quarante-huit heures. | — | — |
+| J4, 03 h | La voix descend d'un ton et sort par le fond de la gorge | — | — |
+| J5, 06 h 50 | Lèvres fendues aux deux commissures, plus de salive, onze degrés et du vent à 1 800 m | — | — |
+| J5, 18 h 10 | **Un son sur deux.** Il a cessé d'essayer. | quelques jours | — |
+
+**L'outil est le corps.** Chez Abbadie, R4 passe par la voix : c'est le seul organe qui produise du sens dans ce récit, et il lâche exactement au moment où la phrase la plus importante doit être dite. **Végéta l'entend lâcher et ralentit son débit de moitié.** Personne d'autre sur la crête ne remarque quoi que ce soit.
+
+**À tenir :** il ne récupère pas en une nuit. Au ch. 6-7, il parle encore mal.
 
 ---
 

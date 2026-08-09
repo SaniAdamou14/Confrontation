@@ -26,17 +26,21 @@ Le bloc de citation est un outil de travail. Décider avant publication s'il res
 | 2 | Vingt-deux minutes | Ray Dombrowski | 5 150 | **écrit** · registres à jour |
 | 3 | Le premier chiffre | Cecil | 5 241 | **écrit** · v2 (noms, Oliver) · registres à jour |
 | 4 | Ce qui doit être arrêté | Goku | 5 176 | **écrit** · registres à jour |
-| 5 | *(le premier contact)* | Abbadie ou Ferguson | — | dossier à écrire |
-| 6-20 | voir `03_PLAN/TOME_1.md` | | | |
+| 5 | Les quarante mots | Théo Abbadie | 5 650 | **écrit** · v2 (durcissement) · registres à jour |
+| 6 | Ce qu'on écrit | Cecil | 5 108 | **écrit** · registres à jour |
+| 7-20 | voir `03_PLAN/TOME_1.md` | | | |
 
-### Ce que le ch. 5 hérite
+### Ce que le ch. 6 hérite
 
-- **Le pacte tient.** Ils sont séparés depuis le J3 04 h 30 mais liés par une condition : il leur faut quelqu'un qui sache lire, **et à qui on puisse retirer quelque chose.**
-- **Premier contact radio.** C'est le chapitre où la GDA leur parle pour la première fois. Abbadie a livré ses quarante mots ; **la liste a été écrite par Cecil**, et le choix des quarante est en soi une décision politique — c'est le sujet du chapitre.
-- **Le mensonge d'Abbadie au J5** (F12), qui adoucit une menace de Végéta et sauve une négociation. Cecil le découvre et le promeut.
-- **Végéta refuse d'apprendre l'anglais.** Par principe : parler la langue de l'autre, c'est déjà céder. Abbadie reste donc l'unique canal vers lui pendant des tomes.
-- **Goku apprendra l'anglais parlé à partir du J7**, à vitesse anormale. **Il ne saura toujours pas le lire au tome 2.**
-- La frappe du J2 doit exister au ch. 6, en une ligne, dans la bouche de Cecil.
+- **La découverte du mensonge (F12).** Deux lignes, aucun commentaire, au même endroit que la frappe du J2. Cecil ne sanctionne pas et promeut — **non parce qu'Abbadie a menti, mais parce que le mensonge prouve qu'il possède plus de langue que la liste.**
+- **La frappe du J2 doit exister ici**, en une ligne, dans la bouche de Cecil. C'est la dernière fois qu'on lui retire un arbitrage.
+- **OMEGA est daté du J4** — le jour même de la liste des quarante. Le lecteur doit pouvoir faire le rapprochement seul. **Ne pas le souligner.**
+- **Cecil a perdu deux agents en quatre secondes au J4 et il a renvoyé un homme seul le lendemain.** C'est la démonstration qui produit OMEGA, pas un raisonnement. Personne n'est monté chercher les corps de la crête — à écrire une fois, en passant.
+- **La ville est restée habitée après quatre morts.** Arbitrage de Cecil, arithmétiquement correct, jamais justifié devant personne. Il ne s'en explique pas au ch. 6 non plus ; la question revient aux auditions.
+- **Le congélateur** (F1) : sang, fragments d'armure, cheveux, récupérés sur le champ de bataille au J6. Une demi-page, sans emphase.
+- **Végéta refuse d'apprendre l'anglais.** Établi au ch. 5 par un registre grammatical, jamais par une déclaration. Abbadie reste l'unique canal vers lui pendant des tomes.
+- **Goku apprendra l'anglais parlé à partir du J7**, à vitesse anormale. **Il ne saura toujours pas le lire au tome 2.** Il n'a toujours été contacté par personne.
+- **Abbadie parle encore mal.** La voix ne revient pas en une nuit.
 - Le trou n'est pas plein avant J6-J9. Le grondement continue.
 
 ---

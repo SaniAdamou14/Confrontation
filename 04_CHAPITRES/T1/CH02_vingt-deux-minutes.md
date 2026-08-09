@@ -205,13 +205,13 @@ Ray ne l'avait jamais vu se relever. Il ne l'avait jamais vu à terre.
 
 Omni-Man est reparti.
 
-Il a pris de la hauteur — cinquante mètres, soixante — et il est redescendu à la verticale, et cette fois Ray a eu le choc dans le cadre. Le sol a fait un anneau. La poussière est partie en cercle parfait sur deux cents mètres, si vite que le cercle est resté visible une seconde entière, comme la ride d'une pierre dans l'eau.
+Il a pris de la hauteur — cinquante mètres, soixante — et il est redescendu à la verticale, et cette fois Ray a eu le choc dans le cadre. Le sol a fait un anneau. La poussière est partie en cercle parfait sur deux cents mètres, si vite que le cercle est resté visible une seconde entière avant de se défaire.
 
 Il a poussé au centre de l'anneau.
 
 L'homme en orange était debout dedans, un bras levé au-dessus de sa tête, et il tenait le poing d'Omni-Man dans sa main.
 
-Il le tenait comme on rattrape une clé qu'on vous lance.
+Rien ne bougeait dans le cadre. Ni l'épaule, ni le coude, ni le poignet.
 
 Ray a entendu quelqu'un souffler dans son oreille gauche. Il ne savait pas si c'était la régie, Marisol, ou lui.
 
@@ -349,7 +349,7 @@ Une fraction de seconde, dans le coin haut droit du cadre, à l'arrêt, net, en 
 
 Il était magnifique. Il avait l'air jeune.
 
-L'homme en armure a fait un geste de la main, comme on chasse quelque chose devant sa bouche.
+L'homme en armure a passé la main devant son visage, de gauche à droite, une fois.
 
 Il n'y a plus eu de Red Rush.
 
@@ -541,7 +541,7 @@ Au milieu. Le bras en arrière, le poids devant, la mécanique entière figée �
 
 Puis il a laissé retomber le bras.
 
-Il a regardé sa main. Ray l'a eu en gros plan, la main ouverte à hauteur de visage, les doigts un peu écartés, et l'homme la regardait comme quelqu'un qui vient de trouver quelque chose dessus.
+Il a regardé sa main. Ray l'a eu en gros plan, la main ouverte à hauteur de visage, les doigts un peu écartés. Il l'a tenue là. Le cadre n'a pas bougé pendant quatre secondes et la main non plus.
 
 Il ne s'est plus rien passé.
 

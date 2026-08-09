@@ -107,6 +107,61 @@ Trois passes : avant, pendant, après. Ne rien sauter.
 
 ---
 
+## ⛔ LE TIC N°2 — LA COMPARAISON « COMME ON »
+
+*Identifié après le ch. 5, sur relevé. **Trente-deux occurrences sur cinq chapitres.** Passe de rattrapage effectuée après le ch. 6 : **32 → 10, deux par chapitre, aucune dette restante.***
+
+| Ch. | Avant | Après | Les deux gardées, et pourquoi elles appartiennent au focal |
+|---|---|---|---|
+| 1 | 11 | **2** | *comme on range un outil* (la queue, F5) · *comme on regarde un chiffre en bas d'une colonne* — Conquest évalue et transmet des rapports. Registre d'inventaire. |
+| 2 | 6 | **2** | *il volait comme quelqu'un qui apprend à conduire* · *comme on regarde par la fenêtre d'un train* — Ray reconnaît les gens à leur façon de se déplacer. Registre du mouvement. |
+| 3 | 3 | **2** | *de la manière dont on cite un supérieur* · *de la manière dont on demande à quelle heure passe le camion* — Cecil pense en hiérarchie et en calendrier. |
+| 4 | 7 | **2** | *comme on entend une pièce pleine à travers une porte* (le ki) · *comme on met de l'eau dehors pour un animal* — perception et enfance rurale. |
+| 5 | 3 | **2** | Un rappel interne au chapitre, une observation de bureau. |
+| 6 | — | **0** | — |
+
+**Ce que les réécritures ont donné.** Presque toutes les suppressions ont produit une phrase meilleure, parce qu'une comparaison retirée oblige à décrire le geste : *le poignet n'a pas suivi* · *ses épaules sont descendues d'un centimètre* · *ils s'étaient arrêtés dessus et ils attendaient* · *le cadre n'a pas bougé pendant quatre secondes et la main non plus.* **C'est la preuve que le tic remplaçait le travail.**
+
+**Le mécanisme :** au lieu de décrire un geste, je le rends par une analogie de la vie ordinaire. *comme on range un outil · comme on regarde une note d'hôtel · comme on met de l'eau dehors pour un animal · comme on regarde par la fenêtre d'un train.*
+
+**Prises une à une, la plupart sont bonnes.** C'est le nombre qui tue. Trente-deux fois, c'est une manie d'auteur — et surtout : **Conquest, Ray, Cecil, Goku et Abbadie pensent tous dans la même figure.** Le test de retrait des incises échoue au niveau de la narration elle-même. C'est exactement la faute du tic n°1, par un autre chemin.
+
+**LES RÈGLES.**
+
+1. **Deux par chapitre. Maximum.** On garde les deux meilleures et on réécrit les autres en geste concret.
+2. **Une comparaison doit appartenir au focal.** Ray compare avec du matériel et des cadrages. Cecil avec des lignes de tableau. Abbadie avec des relevés de terrain. Goku avec des corps et des distances. **Si la comparaison pourrait sortir d'un autre personnage, elle est fausse.**
+3. **Aucune comparaison dans la bouche de Végéta.** Il ne compare pas, il classe.
+4. **Jamais deux dans le même paragraphe. Jamais deux dans la même page.**
+
+- [ ] **Passe dédiée obligatoire :** rechercher `comme on`, `comme quelqu'un qui`, `de la façon dont`, `de la manière dont`, `du ton dont`. Compter. **Au-dessus de deux, couper.**
+
+---
+
+## ⛔ LE TIC N°3 — LA RÉPLIQUE QUI SONNE ET QUI NE VEUT RIEN DIRE
+
+*Signalé par le lecteur après le ch. 5, et il avait raison.*
+
+**Le mécanisme :** une réplique construite avec le rythme d'une formule mémorable, mais dont le sens ne tient pas si on la lit littéralement. Elle passe à l'oreille et elle casse l'immersion à la relecture.
+
+| Écrit | Le défaut | Corrigé en |
+|---|---|---|
+| *« Nous avons beaucoup à faire et tu vas être long. »* | *être long* n'est pas prédicable comme ça. Faux français, rythme de traduction. | *« J'ai des questions et tu es lent. »* |
+| *« Tes prédécesseurs ont mis quatre générations. »* | **Référent vide.** Abbadie n'a pas de prédécesseurs. | *« Sur la plupart des mondes, il faut deux générations avant que quelqu'un accepte de faire ça. »* |
+| *« la vérité était fabriquée par l'écart entre elles »* | Maxime, et l'image ne tient pas : un écart ne fabrique rien. | *« Puis il regarda l'écart. »* |
+| *« immobile de la façon dont il était immobile »* | Tautologie pure — voir tic n°1. | Une position décrite. |
+| *« le rire d'un homme à qui l'on vient de servir quelque chose d'inattendu et de correct »* | Trois abstractions empilées, aucune image. | *« Il s'arrêta net. »* |
+
+**LES RÈGLES.**
+
+1. **Test littéral.** Prendre la réplique hors contexte et se demander : *cette phrase, dite par quelqu'un dans une cuisine, veut-elle dire quelque chose ?* Si non, elle est fausse, même si elle sonne bien.
+2. **Test du référent.** Chaque *ça*, *ce*, *les autres*, *les prédécesseurs*, *cette chose* doit désigner un objet nommé dans les vingt lignes précédentes. Sinon, nommer ou couper.
+3. **Une réplique n'est pas un titre de chapitre.** Si elle a le rythme d'un aphorisme, elle est suspecte par défaut.
+4. **Personne ne parle en formules, sauf pour se moquer** — et alors c'est le personnage qui fabrique la formule, pas moi.
+
+- [ ] **Passe dédiée obligatoire :** relire **tous les dialogues seuls**, sans la narration autour, à voix haute. Ce qui ne se dit pas à voix haute sans buter est faux.
+
+---
+
 ## LA PASSE DE STYLE — les autres tics
 
 *Ajoutée après relecture du chapitre 1. C'est la faute la plus insidieuse du projet : elle ne contredit aucune règle de la bible et elle détruit quand même le texte.*

@@ -16,7 +16,7 @@ Chapitres 1 à 20. Jours 0 à 20 *(bible §10 dit « dix-sept jours » — voir 
 | 2 | J0 | **Ray Dombrowski**, caméraman | Hélicoptère, 2 km O | Les vingt-deux minutes. Le cratère. |
 | 3 | J1-2 | **Cecil** | Le cratère, le QG | Le silence d'après. Le premier chiffre. |
 | 4 | J3-4 | **Goku** | Rocheuses | La faim. La chasse. |
-| 5 | J4-5 | **Abbadie** ou **Ferguson** | Restaurant, entrepôt, QG | Végéta prend. Premier contact radio. |
+| 5 | J4-5 | **Abbadie** | QG, une crête au-dessus d'une petite ville | Les quarante mots. Premier contact, au sol, en face. |
 | 6 | J6 | **Cecil** | QG | Doctrine OMEGA. Le congélateur. |
 | 7 | J7-8 | **Debbie** | Sa maison, la route | Elle exige de parler à celui qui a tué son fils. |
 | 8 | J8 | **Debbie** | Le désert | La confrontation. **Il ne s'excuse pas.** |
@@ -80,8 +80,10 @@ Dossier préparatoire complet : `05_ATELIER/CH01_DOSSIER_PREPARATOIRE.md`.
 
 - **Ch. 4 : première entrée dans la tête de Goku.** Il chasse dans les Rocheuses. Il n'est pas triste, il est *affairé*. Le lecteur découvre avec effroi qu'il n'a pas compris ce qui s'est passé.
 - Trois fois en dix chapitres, un détail concret ramène Gohan. **La première est ici.**
-- **Ch. 5 : Végéta prend.** Restaurant, trois cents dollars, il part. Puis l'entrepôt. Puis il est filmé. Vu de l'extérieur — jamais de son point de vue avant le ch. 16.
-- Premier contact radio. Le mensonge d'Abbadie (F12).
+- **Ch. 5 : le premier contact.** Dossier complet : `05_ATELIER/CH05_DOSSIER_PREPARATOIRE.md`. Focalisation **Abbadie**, J4-J5. Le matériau « restaurant / trois cents dollars / entrepôt » est **abandonné** : périmé par la révision v2.1 (§5.2, « l'ignorance » remplace « la faim ») et déjà dépensé au ch. 4 sous forme de tribut.
+- **La liste des quarante mots**, écrite par Cecil, est le sujet du chapitre : ce qu'il rend traduisible et ce qu'il laisse hors de la langue.
+- **La GDA parle à Végéta seul**, au sol, en face, sans vitre. Goku n'apparaît pas. Vu de l'extérieur — jamais de son point de vue avant le ch. 16.
+- Le mensonge d'Abbadie (F12). **Cecil le découvre au ch. 6**, en deux lignes.
 
 ### Ch. 6 — OMEGA
 **Focalisation : Cecil. J6.**

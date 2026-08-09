@@ -79,7 +79,7 @@ Végéta n'a pas tourné la tête.
 
 — Je sais ce que tu faisais.
 
-Il l'a dit sans mépris particulier, du ton dont on constate un temps de trajet, et Goku a compris qu'il l'avait suivi de loin pendant une partie de la nuit.
+Il l'a dit à plat, sans appuyer, et Goku a compris qu'il l'avait suivi de loin pendant une partie de la nuit.
 
 — Ils vont venir les chercher ? a demandé Goku.
 
@@ -215,7 +215,7 @@ Goku a senti la ville se retourner sur eux en quinze secondes. Ce n'était pas v
 
 Ici, elle n'a rien précédé.
 
-Ils ont marché quatre cents mètres et personne n'a couru. Personne n'a crié. Une femme a pris son fils par le poignet et est entrée dans un magasin sans se retourner, et deux hommes se sont écartés du trottoir sur le passage de Végéta comme on s'écarte devant un chariot.
+Ils ont marché quatre cents mètres et personne n'a couru. Personne n'a crié. Une femme a pris son fils par le poignet et est entrée dans un magasin sans se retourner, et deux hommes se sont écartés du trottoir sur le passage de Végéta, de trois pas, puis se sont remis en marche derrière lui.
 
 Il y avait des appareils. Des gens en tenaient devant eux, à hauteur de visage, à bout de bras, immobiles, et le geste revenait partout : dans une porte cochère, sur un balcon, derrière une vitrine, la même posture répétée par des dizaines de personnes qui ne se connaissaient pas. Ils ne s'en servaient pas pour se protéger et ils ne s'en servaient pas pour viser. Ils les tenaient, c'est tout, en les orientant vers eux deux.
 
@@ -321,11 +321,11 @@ Le ki de Végéta n'avait pas varié d'un cheveu.
 
 Il est ressorti du nuage en marchant sur rien, entièrement noir de suie, et il a regardé la formation qui arrivait, et il a fait un mouvement du bras droit.
 
-Un seul. De faible amplitude, à hauteur de hanche, comme on écarte une branche.
+Un seul. De faible amplitude, à hauteur de hanche. Le poignet n'a pas suivi.
 
 Les quatre-vingts kis se sont éteints ensemble.
 
-Pas un à un : ensemble, dans le même dixième de seconde, sur une largeur de dix-huit kilomètres. Goku l'a senti comme on sentirait qu'on vient de couper le courant dans un immeuble entier.
+Pas un à un : ensemble, dans le même dixième de seconde, sur une largeur de dix-huit kilomètres. Goku l'a senti dans la poitrine, une seule fois, et la place qu'ils occupaient est restée vide.
 
 Puis il y a eu le bruit, longtemps après.
 
@@ -387,7 +387,7 @@ Ils s'étaient posés là parce que c'était haut, dégagé, et loin de toute co
 
 Le ciel s'était dégagé pour la première fois depuis trois jours.
 
-Goku s'était allongé sur le dos, les mains derrière la nuque, et il faisait ce qu'il faisait toujours quand il n'avait rien à faire : il balayait.
+Goku s'était allongé sur le dos, les mains derrière la nuque, et il balayait.
 
 Il élargissait la portée par paliers, en laissant chaque palier s'installer avant de pousser le suivant. À trente kilomètres, il tenait les individus un par un et il aurait pu dire lesquels dormaient. À cent, les familles se fondaient et il ne lisait plus que des foyers. À trois cents, deux grandes agglomérations, chacune avec cette texture particulière des concentrations humaines, granuleuse, en mouvement lent, avec des courants dedans. À six cents, une autre, plus petite et plus dense au centre. À neuf cents, tout devenait une seule pression continue et il perdait le grain.
 

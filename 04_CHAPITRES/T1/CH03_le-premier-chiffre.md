@@ -309,7 +309,7 @@ Robot a repassé.
 
 Il a fait couper.
 
-La lumière est revenue. Robot est resté immobile de la façon dont il restait immobile, sans se balancer, sans respirer, sans rien faire de ce que font les gens qui attendent.
+La lumière est revenue. Robot n'avait pas bougé — pas de balancement, pas de respiration, rien de ce que font les gens qui attendent.
 
 — Monsieur le directeur. J'ai un résultat préliminaire sur la langue.
 
@@ -713,7 +713,7 @@ Le grondement traversait deux niveaux de béton. Vingt heures onze, jour deux, c
 
 Cecil n'a pas répondu tout de suite.
 
-L'enfant ne s'était pas penché en avant, il n'avait pas haussé la voix, et il n'y avait rien sur son visage qui ressemblât à de la colère telle que Cecil savait la lire. C'était pire que de la colère. C'était une question d'organisation. Le garçon demandait une date de la manière dont on demande à quelle heure passe le camion.
+L'enfant ne s'était pas penché en avant et il n'avait pas haussé la voix. Il n'y avait pas de colère sur son visage. Cecil savait la lire, et elle n'y était pas. C'était pire que de la colère. C'était une question d'organisation. Le garçon demandait une date de la manière dont on demande à quelle heure passe le camion.
 
 Et il attendait vraiment la réponse.
 

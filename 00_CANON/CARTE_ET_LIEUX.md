@@ -64,8 +64,11 @@ Ce que ça implique :
 | Lieu | Chapitres | Notes |
 |---|---|---|
 | **Les Rocheuses** | 4-5 | Goku chasse. Cohérent avec son enfance. Altitude, froid, gibier. Il ne vole pas tout le temps — marcher est moins fatigant que voler quand on n'a pas mangé. |
-| **Le restaurant** | 4-5 | Végéta prend. Trois cents dollars de nourriture. Il part. Lieu générique, périphérie, parking. Personne ne le filme ici — c'est à l'entrepôt qu'on le filme. |
-| **L'entrepôt** | 5 | Plateforme logistique alimentaire. Caméras de sécurité. La vidéo fuite. Il devient un fait divers, puis une menace nationale, puis un point à l'ordre du jour du Congrès. |
+| ~~**Le restaurant**~~ | ~~4-5~~ | **Abandonné.** Périmé par la révision v2.1 (§5.2) et dépensé au ch. 4 sous forme de tribut, dans une ville non nommée. |
+| ~~**L'entrepôt**~~ | ~~5~~ | **Abandonné** avec le précédent. |
+| **Tres Palomas, Nouveau-Mexique** ✔ *ch. 5* | 5 | Comté de Sandoval. **4 118 au recensement, 4 114 depuis vendredi.** Route nord, commerces, un générateur à l'est, des chiens, un klaxon vers une heure du matin, des lampadaires qui s'allument par rangées du nord vers le sud. **Classée « en maintien » après les quatre morts : les gens sont restés chez eux.** Voir `REGISTRE_DESTRUCTIONS.md` D-00. |
+| **La crête de la Tinaja** ✔ *ch. 5* | 5 | Arête nue, orientée est-ouest, à 900 m à la verticale de Tres Palomas. **Selle d'accès à l'est — c'est là que Rennick et le lieutenant sont morts, et ils y restent.** Onze degrés et vent de nord la nuit. Une dalle plate à douze mètres sous l'arête. Végéta s'assied du côté du vide. |
+| **Fort Bliss** | 5, tome 2 | Où l'on gare Mendes, et ses onze jours de retard. |
 | **Le cratère** | 3 | Cecil y arrive. Sous la brume, si on retient §3. Le premier chiffre est prononcé ici. |
 | **Le QG de la GDA** | 3, 6, 12-13 | Souterrain. Cecil, Robot, Sinclair. Le congélateur est ici à partir du J6. |
 | **Le désert** | 7-8 | La confrontation Debbie / Goku. Choisi par la GDA : loin de tout, rien à casser, tout est visible à un kilomètre. Debbie a exigé qu'il n'y ait pas de vitre entre eux. |

@@ -81,11 +81,12 @@ README.md                        Ce fichier.
 
 | | |
 |---|---|
-| Chapitres écrits | **4 / 120** |
-| Date récit | Jour 3, 04 h 30 |
+| Chapitres écrits | **6 / 120** |
+| Date récit | Jour 6, 23 h 40 |
 | Arbitrages | **Tous tranchés.** Bible corrigée (v2.1). |
 | Point ouvert | ⚠ Le scouteur est détruit au ch. 1. Payoff F10 à re-router avant le ch. 14 — voir `FUSILS_DE_TCHEKHOV.md`. |
-| Prochaine action | Dossier préparatoire du **chapitre 5**, premier contact |
+| Prochaine action | Dossier préparatoire du **chapitre 7** — Debbie exige de parler à celui qui a tué son fils |
+| Passes de style | ✔ Tic n°2 (`comme on…`) rattrapé sur les ch. 1-6 : **32 → 10, deux par chapitre.** Aucune dette restante. |
 
 ### Révisions de la bible (v2.1)
 

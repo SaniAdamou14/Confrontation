@@ -2,7 +2,7 @@
 
 Créations nécessaires au récit, absentes des deux univers sources. Chacune répond à un besoin structurel identifié dans la bible.
 
-**Statut :** §0 et §1 **validés**. Les autres sont des propositions ; elles peuvent attendre.
+**Statut :** §0, §1, §4 et §4 bis **validés** (écrits, donc canoniques). §2 et §3 sont des propositions ; elles peuvent attendre.
 
 ---
 
@@ -98,7 +98,7 @@ Le jour 0, il les filme pour la dernière fois. Il filme leur mort à tous les q
 
 ---
 
-## 4. L'INTERPRÈTE DE LA GDA
+## 4. DR THÉO ABBADIE — focalisation du chapitre 5 ✔ **validé**
 
 **Besoin.** Bible §4.3 : la communication passe par un interprète GDA les six premiers jours.
 
@@ -109,6 +109,48 @@ Le jour 0, il les filme pour la dernière fois. Il filme leur mort à tous les q
 **Voix.** Il demande toujours des précisions avant de traduire, ce qui exaspère tout le monde. Il a raison à chaque fois.
 
 **Sortie de scène.** Il devient inutile au jour 7, quand Goku apprend l'anglais parlé. **Il reste employé.** Parce que Végéta, lui, refuse d'apprendre l'anglais — non par incapacité, par principe. Faire parler la langue de l'autre, c'est déjà céder. Abbadie reste donc l'unique canal vers Végéta pendant des tomes, ce qui fait de lui l'homme le plus exposé de la planète.
+
+### Établi par le chapitre 5 — canonique
+
+**Quarante-quatre ans.** Vingt ans de terrain, huit pays. Il a signé quatre cents fois la mention *conforme à ce qui a été dit*.
+
+**Son outil est sa voix, et R4 passe par elle.** Quatre jours à dix-huit heures la détruisent : rugosité au larynx au J4 au matin, un ton en dessous dans la nuit, un son sur deux au soir du J5. Elle ne revient pas en une nuit.
+
+**Sa méthode est visible et ne se négocie pas.** Il fait répéter. Onze fois en deux heures, avec la même formule, devant un homme qui a effacé quatre-vingts personnes trois jours plus tôt. Chaque demande de répétition est un risque qu'il prend et il le prend à chaque fois.
+
+**Son angle mort est total.** Aucun moyen d'évaluer une menace physique. Il voit un homme petit, sale, immobile, qui a l'air d'attendre un train. Il classe la queue en morphologie comparée et referme la case.
+
+**Ce qu'il appelle « l'informateur ».** Terme d'enquête de terrain. La GDA l'inscrit dans une case où il veut dire autre chose. **Le récit ne le souligne jamais.**
+
+**Sa fracture.** Il est payé pour être exact et il a menti au moment exact où l'exactitude comptait le plus. Il ne s'en explique à personne. Il écrit la vérité à la main, sous la liste, et il la numérote. **Il ne détruit pas la feuille.** Voir F32.
+
+**Interdit.** Il ne se justifie pas, il ne délibère pas à voix haute, il ne transpire pas dans le texte. Il traduit dans le rythme, puis il a froid, puis il demande de l'eau.
+
+---
+
+## 4 bis. LES DEUX FIGURES DU CHAPITRE 5
+
+**Major Dana Rennick** — ✝ **morte le J4 à 17 h 44, quatre secondes après le début du premier contact.** Officier de la GDA. Elle a écrit elle-même la procédure de contact la veille au soir, ligne par ligne, après avoir eu au téléphone les dix survivants de Tres Palomas. Elle pose les questions par séries courtes ; elle corrige la position de quelqu'un avant de lui répondre ; elle sait quand elle perd et elle continue de travailler proprement. Elle a répété trois fois la même phrase en anglais dans le vide, la troisième pour elle-même.
+
+**Ce qui la tue est son métier.** *« Monsieur, je suis l'officier responsable de ce contact. Toute demande passe par— »* Elle revendique un rang dans un monde où le rang et l'utilité sont deux choses différentes. **Elle n'a pas fini sa phrase, et on demandera à Abbadie le mot exact auquel elle s'est arrêtée.**
+
+**Interdit.** Aucun héroïsme, aucune dernière pensée, aucun ralenti. Elle avance d'un demi-pas et elle parle, et c'est tout ce qu'on saura d'elle. **Personne ne monte chercher son corps.** Elle reste à six mètres d'Abbadie pendant quatorze heures.
+
+**Le lieutenant** — non nommé, portait le boîtier de liaison, mort dans le même souffle. **Abbadie n'a jamais appris son nom** et s'en aperçoit à la page trente-quatre de son carnet.
+
+**Mendes** — second interprète, Fort Bliss, **onze jours de retard sur Abbadie**, jamais rattrapables. Cecil exige qu'il reste à onze et pas à douze. Il n'apparaît pas et il n'a pas de prénom pour l'instant. **Il devient nécessaire le jour où Abbadie devient indisponible.** Pas avant le tome 2.
+
+---
+
+## 4 quater. LES FIGURES DU CHAPITRE 6
+
+**Ostrowski** — officier du canal depuis le samedi soir. Il monte lui-même la chemise au directeur au lieu de l'envoyer, **parce qu'il a compris ce qu'elle vaut et qu'il ne veut pas la porter seul.** Il pose une fois la question qu'il ne devrait pas poser — *si le docteur Abbadie a rendu autre chose que ce qui a été dit* — et il se fait couper. Il compte dix-neuf demandes de répétition sur quatorze heures d'audio et il rapporte le chiffre sans commentaire. **Pas de prénom. Il peut revenir.**
+
+**Le maire adjoint du comté de Sandoval** — quatre appels depuis samedi. Il ne demande pas d'opinion, il demande un document signé. **Il ne l'obtient pas.** Il repart avec quatre lignes, un numéro de dossier et aucun verbe à l'impératif. **Il est celui qui posera la question aux auditions des ch. 12-13, ou celui qui la fera poser.**
+
+**Rappel canon — Sinclair et les Mauler ne sont pas des créations.** Ils appartiennent à l'univers d'Invincible et leurs contraintes sont vérifiées :
+- **Sinclair** a été arrêté puis employé par la GDA, à la condition que ses ReAnimen soient faits de **cadavres et non de vivants**. C'est sa laisse et il s'y tient. Il ne se repent de rien et il ne s'excuse jamais. **Il demande toujours moins que ce qu'il veut.**
+- **Les Mauler** sont un homme et son clone, détenus dans les installations de la GDA, **qui se disputent depuis toujours lequel est l'original** — et depuis la mort définitive de l'original, lequel est le premier clone. Ils sont géants, méprisants, et ce sont les gens les plus intelligents de n'importe quelle pièce où on les amène. **Ne jamais trancher la question de l'original.**
 
 ---
 

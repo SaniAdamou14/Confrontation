@@ -167,7 +167,7 @@ Le garçon a hurlé.
 
 Il a arrêté très vite. Ça, c'était neuf.
 
-Il est revenu du bras droit seulement, en tenant le gauche contre son flanc comme on tient un objet qu'on a fait tomber.
+Il est revenu du bras droit seulement. Le gauche était plaqué contre son flanc, l'avant-bras à l'horizontale, la main ouverte.
 
 — Ton père t'a appris à cogner, a dit Conquest en écartant le poing d'un revers. Il ne t'a pas appris à finir. C'est l'inverse qu'il fallait.
 
@@ -213,7 +213,7 @@ Elle est tombée avant qu'il ne la touche. Les genoux, les mains, le côté. Ell
 
 Le garçon a crié un nom.
 
-Conquest a essuyé sa pommette. Il a regardé le sang sur ses doigts pendant deux secondes, avec une attention polie, comme on regarde une note d'hôtel. Puis il a porté la main gauche à son oreille.
+Conquest a essuyé sa pommette. Il a regardé le sang sur ses doigts pendant deux secondes, avec une attention polie. Il l'a étalé entre le pouce et l'index, puis il a essuyé la main sur sa cuisse et il a porté la gauche à son oreille.
 
 — Ici Conquest. Enregistrement, priorité basse.
 
@@ -231,7 +231,7 @@ Il s'est arrêté à cinq mètres de lui.
 
 Il a coupé.
 
-Et parce qu'il n'y avait plus rien à évaluer, parce que le garçon ne tenait debout que pour une raison qu'il connaissait par cœur et qui n'avait jamais sauvé personne, il a fait ce qu'il faisait toujours à la fin.
+Il n'y avait plus rien à évaluer. Le garçon tenait debout pour une raison que Conquest connaissait par cœur et qui n'avait jamais sauvé personne.
 
 Il a cessé de voler.
 
@@ -291,7 +291,7 @@ Conquest en avait vu, des bipèdes à queue. Elles servaient à l'équilibre. El
 
 Celle-ci avait décidé quelque chose et s'était rangée.
 
-Il a regardé le visage après. Fermé, jeune sous une ligne de cheveux dressés, les mâchoires au repos. Et les yeux ne le regardaient pas comme on regarde un adversaire.
+Il a regardé le visage après. Fermé, jeune sous une ligne de cheveux dressés, les mâchoires au repos. Les yeux ne cherchaient rien sur lui. Ils s'étaient arrêtés dessus et ils attendaient.
 
 Ils le regardaient comme on regarde un chiffre en bas d'une colonne.
 
@@ -431,7 +431,7 @@ L'homme est sorti.
 
 Il n'était pas en colère.
 
-Il avait sur le visage quelque chose qui n'y était pas trente secondes plus tôt : il regardait Conquest comme on regarde un mécanisme dont on cherche la pièce qui bouge.
+Il avait sur le visage quelque chose qui n'y était pas trente secondes plus tôt. Ses yeux se déplaçaient d'un point à un autre sur le corps de Conquest — l'épaule, la hanche, l'épaule — et ils s'arrêtaient à chaque fois une fraction de seconde de trop.
 
 — Voilà, a dit Conquest. Maintenant on travaille.
 
@@ -479,7 +479,7 @@ Conquest a ri une seconde fois, plus fort, parce qu'il venait enfin de mettre un
 
 Cet homme s'ennuyait.
 
-Pas de la façon dont lui s'ennuyait — cette chose grise et patiente qui s'installe et qui reste et qui devient une pièce de la maison. Non : il s'ennuyait comme on s'ennuie dans une file. Avec impatience. Avec un rendez-vous ailleurs.
+Son ennui à lui était gris et patient. Il s'installait, il restait, il devenait une pièce de la maison. Celui d'en face était pressé. Il regardait au-delà de lui, par-dessus son épaule, vers l'ouest, et il y revenait entre les échanges.
 
 Il faisait ça en attendant autre chose.
 
@@ -537,7 +537,7 @@ Conquest a essayé de faire tenir ça avec le reste. Ça n'a pas tenu.
 
 Deux êtres, dans cette rue, déplaçaient un officier de l'Empire sur quatre cents mètres d'un mouvement de poignet. Il y avait donc une population, une hiérarchie, une doctrine. Une doctrine fabrique des gestes, et les gestes se ressemblent. C'est comme ça qu'on lit une espèce en une journée.
 
-L'un des deux venait de porter une ennemie hors du champ de tir comme on porte quelqu'un des siens.
+L'un des deux venait de sortir une ennemie du champ de tir en la tenant sous les épaules et sous les genoux.
 
 Et l'autre le regardait faire depuis son morceau de ciel — Conquest a vu la tête pivoter, et il a vu très nettement ce qu'il y avait sur ce visage.
 
@@ -579,17 +579,17 @@ La lumière est arrivée sur les façades avant la chaleur. Toute la rue est dev
 
 Il a cherché la peur.
 
-Honnêtement, à l'endroit où elle devait être, comme on tâte une dent. Il n'y avait rien.
+Honnêtement, à l'endroit où elle devait être. Il a appuyé dessus. Il n'y avait rien.
 
-Il y avait autre chose, très bas dessous, qu'il n'a pas eu le temps de nommer et qui ressemblait à ce qu'on éprouve en posant enfin une charge.
+Il y avait autre chose, très bas dessous, qu'il n'a pas eu le temps de nommer, et ses épaules sont descendues d'un centimètre.
 
 L'homme n'a rien dit.
 
 Pas un mot, pas un nom, pas une raison. Il a ouvert la main comme il avait ouvert la main pour l'appareil, seize minutes plus tôt, du même geste exactement, avec le même intérêt.
 
-Et parce que ce n'était pas là que Conquest voulait regarder, il a tourné la tête vers l'ouest.
+Conquest a tourné la tête vers l'ouest.
 
-L'homme en orange était debout près de la fille, à deux cents mètres, derrière sa ligne de béton. Il ne regardait pas dans la bonne direction. Il regardait le ciel au-dessus des toits, la tête un peu penchée, comme quelqu'un qui cherche à savoir l'heure.
+L'homme en orange était debout près de la fille, à deux cents mètres, derrière sa ligne de béton. Il ne regardait pas dans la bonne direction. Il regardait le ciel au-dessus des toits, la tête un peu penchée sur le côté.
 
 Quatre cents mètres pour déposer quelqu'un sur le côté, et il n'en tirait rien.
 

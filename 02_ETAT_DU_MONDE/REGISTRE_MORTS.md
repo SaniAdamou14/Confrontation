@@ -15,6 +15,8 @@ Bible §4.5-1 : **aucune résurrection. Jamais.** Une ligne inscrite ici ne s'ef
 | **J2, 11 h 05** | **+80** | Frappe militaire américaine. Quatre-vingts hommes effacés par Végéta en un mouvement de bras, sur dix-huit kilomètres. Ordonnée contre l'avis de Cecil. |
 | J0, 23 h 59 | ~2 400 000 | Estimation initiale |
 | J4 | ~3 100 000 | Estimation révisée |
+| **J3, 11 h 40 – 12 h 22** | **+4** | **Tres Palomas, Nouveau-Mexique.** Végéta descend chercher quelqu'un qui sache lire. Il retient quatorze personnes en quarante-deux minutes et leur fait lire à voix haute des imprimés. Il en relâche dix. **À 12 h 18 il en tenait encore quatre, et l'expérience était terminée.** Aucune colère. |
+| **J4, 17 h 44** | **+2** | **Crête de la Tinaja.** Le major Dana Rennick et un lieutenant non nommé, sur la selle est, en quatre secondes. Un mouvement du bras droit, deux fois, dans le même souffle. **Cause de la mort de Rennick : elle a déclaré être l'officier responsable.** Il cherchait celui qui fait parler les marques ; il a gardé celui-là et il a jeté le reste. |
 | Tome 2, fin | +200 000 | La stratégie des trente |
 
 **Total à la fin du tome 2 : environ 3,3 millions.** Le chiffre est un personnage. Il doit être prononcé rarement et toujours par quelqu'un qui a une raison de le prononcer.
@@ -31,10 +33,30 @@ Bible §4.5-1 : **aucune résurrection. Jamais.** Une ligne inscrite ici ne s'ef
 | **Mark Grayson** ✔ *ch. 2* | Entré dans la poussière à 16 h 53, n'en est pas ressorti. Enfoncé dans le sol jusqu'aux épaules. Pas de corps récupérable. **Ray ne l'a pas vu mourir et l'a retrouvé six jours plus tard, à l'image 61 200.** | Goku | ~16 h 53 |
 | **Immortal** ✔ *ch. 2* | Une ligne blanche, très fine, très droite, qui a traversé Immortal et deux immeubles derrière lui. Deux morceaux qui tombent. | Goku | ~16 h 55 |
 | **War Woman** ✔ *ch. 2* | Effacée. **Rien sur la bande** : image 4 la masse est en l'air, image 6 il n'y a plus ni masse ni personne. Cratère de 30 m, vide. | Goku | ~16 h 56 |
-| **Red Rush** ✔ *ch. 2* | Un geste de la main, comme on chasse quelque chose devant sa bouche. Brume rose sur 50 m, restée en suspension faute de vent. **Filmé net et immobile pour la première et dernière fois.** | Végéta | ~16 h 58 |
+| **Red Rush** ✔ *ch. 2* | La main passée devant le visage, de gauche à droite, une fois. Brume rose sur 50 m, restée en suspension faute de vent. **Filmé net et immobile pour la première et dernière fois.** | Végéta | ~16 h 58 |
 | **~200 passagers du train** ✔ *ch. 2* | Viaduc effondré. Pilier lâché après vingt minutes. Chute de 30 m d'un bloc. **Conquest les avait épargnés par calcul.** | dommage collatéral, combat Végéta / Conquest | ~16 h 58 |
 | **Atom Eve** ✔ *ch. 2* | Réveillée, debout, a monté un bouclier rose. Goku reculait ; son épaule est entrée dans la plaque. **Il ne l'a pas frappée.** Le plan sur le béton vide qui suit est l'un des plus diffusés de l'histoire de la télévision américaine. | Goku | ~16 h 59 |
 | ~2,4 M puis 3,1 M de civils | Souffle de la sphère + effondrement du centre-ville | Végéta | 17 h 04 + |
+
+---
+
+## 2 bis. Morts nommés — jours 3 à 5 ✔ *ch. 5*
+
+| Nom | Cause | Tué par | Heure |
+|---|---|---|---|
+| **Quatre habitants de Tres Palomas** — noms, âges et *support présenté au moment du décès* consignés en annexe du rapport de vendredi : une carte routière, la page économique d'un quotidien, une carte de restaurant plastifiée, **un cahier d'exercices de cours élémentaire.** | Ils lisaient à voix haute, correctement, dans une langue inutilisable. Ils étaient encore dans ses mains quand il a compris que le problème n'était pas eux. | Végéta | J3, 12 h 18 |
+| **Major Dana Rennick**, GDA | « Monsieur, je suis l'officier responsable de ce contact. Toute demande passe par— » **Elle n'a pas fini sa phrase, et on a demandé à Abbadie le mot exact auquel elle s'était arrêtée.** | Végéta | J4, 17 h 44 |
+| **Un lieutenant, non nommé** | Il portait le boîtier de liaison. Le boîtier a fini dix mètres plus bas dans les cailloux **en continuant d'émettre toute la nuit.** Abbadie n'avait jamais appris son nom. | Végéta | J4, 17 h 44 |
+
+**Jour 6 — aucun mort nouveau.** À inscrire quand même : le J6 est le jour où la Terre confirme physiquement qu'elle n'aura pas de corps. Six heures de fouille sur deux kilomètres carrés du secteur ouest, quatre sachets, et rien d'humain dedans. **La ligne « corps rendus aux familles : 0 » cesse d'être une estimation.**
+
+**Les corps de la crête sont relevés le J6.** La demande dormait depuis le dimanche matin à trois niveaux de validation, parce qu'aucun bureau ne voulait envoyer des hommes sur une crête où quelque chose était encore assis. Cecil barre les deux niveaux restants, raye la case *sur site* et écrit l'heure. **Rennick et le lieutenant auront passé un peu moins de deux jours sur la selle est.**
+
+**Les dix relâchés de Tres Palomas.** Retenus, écoutés jusqu'au bout, puis lâchés au milieu d'une phrase. Rennick les a tous eus au téléphone dans la nuit du jeudi au vendredi pour écrire sa procédure. **Ils vivront tous, et c'est le pire témoignage disponible pour le tome 5.**
+
+**Ce que personne ne fait.** Personne ne monte chercher les deux corps de la crête. Abbadie passe quatorze heures à six mètres d'eux, dans le froid, et déplie une couverture qui en a touché une autre.
+
+---
 
 **Oliver** — ✔ **SURVIT.** Tranché par le ch. 2. Vu à 17 h 01 sur le toit d'un parking de Wabash, à quatre cents mètres du carrefour : assis, un bras, peau violette, cheveux noirs raides coupés au menton. **Il ne pleurait pas.** Il regardait le combat comme on regarde par la fenêtre d'un train. Marisol a refusé d'y aller.
 

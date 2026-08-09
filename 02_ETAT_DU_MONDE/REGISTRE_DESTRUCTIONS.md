@@ -26,6 +26,14 @@ Toute destruction inscrite ici doit avoir **au moins une conséquence différée
 - **Le feu de circulation de State & Madison a continué son cycle** après la mort de tout ce qui l'entourait, avant de disparaître avec le reste.
 - **Aucun chiffre n'est prononcé dans le chapitre.** Personne n'en a. Le seul chiffre est technique : 49 min 11 s de bande, dont 4 min 12 s inexploitables.
 
+### Ce que le ch. 6 a établi ✔
+
+- **Fin de remplissage : jour 6, 04 h 50.** Le grondement baisse à 04 h 11 et devient inaudible à 04 h 50, après cinq jours sans varier. **Il ne revient jamais.**
+- **Géométrie définitive :** bassin d'effondrement en communication permanente avec le lac Michigan, ~9 km de diamètre, ~340 m au centre, marge 40 m. **Aucun nom officiel** — Cecil refuse d'en donner un le matin même. « Il en faudra un dans six mois. Pas ce matin. »
+- **Première image nette : J6, 23 h 12.** Eau noire, immobile, ronde. Bord net sur toute la circonférence, sans plage et sans débris flottants. À l'ouest, une trame de rues qui va jusqu'à la ligne et s'arrête dessus. Aucune fumée, rien de vertical. **Cecil la regarde onze secondes.**
+- **LE SITE EST VIDE.** Six heures, douze personnes, deux kilomètres carrés, secteur ouest — le seul endroit où le souffle a poussé de la matière au lieu de la vaporiser. Récolte totale : **quatre sachets.** Aucun gravat, aucun mobilier, aucun véhicule, aucun tissu. « Personne n'a eu besoin de se baisser plus de quatre fois. »
+- **Le chiffre définitif de ce qui est parti dans le trou** part à la Commission mixte internationale le J6 au matin, avec le numéro de dossier (F22).
+
 ### Conséquences immédiates (tome 1)
 
 - **Le lac Michigan s'engouffre dans le cratère.** ✔ Canonique, bible §3. Vapeur massive : le site est invisible pendant plusieurs jours, aucune reconnaissance aérienne possible. **C'est pourquoi le premier chiffre met deux jours à venir — Cecil ne cache rien au chapitre 3, il ne sait pas.** En une semaine, le cratère est plein : Chicago est une baie.
@@ -66,6 +74,39 @@ Toute destruction inscrite ici doit avoir **au moins une conséquence différée
 | J2 | Et que deux jours entre voir et frapper, c'est une réunion — **donc celui qui commande n'est pas celui qui décide.** Il en déduit l'existence d'un échelon supérieur. | ✔ ch. 4 |
 | Ch. 6 | **À faire exister dans la bouche de Cecil, en une ligne, sans commentaire.** C'est ce qui achève de lui prouver qu'il n'a pas d'arme — et c'est la dernière fois qu'on lui retire un arbitrage. | ❑ |
 | Tome 1-2 | Quatre-vingts familles. Un dossier. Une commission d'enquête parlementaire distincte de celle de Chicago. | ❑ |
+
+---
+
+## D-00 — TRES PALOMAS ET LA CRÊTE DE LA TINAJA ✔ *ch. 5*
+
+| | |
+|---|---|
+| **Date** | Jour 3, 11 h 40 → jour 5, 08 h |
+| **Auteur** | Végéta, seul |
+| **Étendue matérielle** | **Nulle. Pas un mur, pas une vitre.** |
+| **Morts** | **6.** Quatre habitants au J3. Deux agents de la GDA au J4. |
+| **Habitants** | 4 118 au recensement. **4 114 depuis vendredi.** Départs individuels : non comptés. |
+
+**Ce qui s'est passé le J3.** Il descend par la route nord, à pied, sans rien détruire sur le trajet. Il arrête des gens un à un, leur présente des imprimés et leur montre sa propre bouche. Ils lisent à voix haute, en anglais et en espagnol. Il écoute chaque lecture jusqu'au bout. **Quatorze personnes en quarante-deux minutes.** À 12 h 18 il arrête, il en tient encore quatre, il les supprime, il remonte sur la crête et ne bouge plus.
+
+**Ce qu'il cherchait.** Quelqu'un qui sache lire — la condition qu'il a posée lui-même au ch. 4. Il découvre que tout le monde sait lire ici, et que ça ne sert à rien : il lui faut **les deux choses dans le même corps**, la lecture et sa langue. Ce corps n'existait pas dans cette ville. Il existera le lendemain, et il montera à lui tout seul.
+
+**Ce qui s'est passé le J4, 17 h 44.** Trois personnes montent. Il demande laquelle fait parler les marques. Rennick déclare être l'officier responsable. Un mouvement du bras droit, court, à hauteur de poitrine, deux fois, dans le même souffle. Il garde l'interprète.
+
+**Le registre exact.** Aucune colère, aucun avertissement, aucune démonstration. **Il trie.** C'est le tri qui est insoutenable, et il ne doit jamais être commenté par la narration.
+
+**La décision de non-évacuation.** La ville est classée **« en maintien » après les quatre morts.** Trois agents interrogés séparément donnent trois réponses qui ne se recoupent pas. Passage à la radio locale, vendredi après-midi, deux fois : *ne rien changer à vos habitudes*. **C'est l'arbitrage de Cecil et il est arithmétiquement correct** — 109 000 par minute, aucun préavis ne sert à rien, et déplacer quatre mille personnes autour de ça revient à les déplacer. Il ne le justifie devant personne.
+
+### Conséquences
+
+| Quand | Quoi | Placé ? |
+|---|---|---|
+| **Ch. 6** | Cecil a perdu deux agents en quatre secondes et il renvoie un homme seul le lendemain. **C'est la démonstration qui produit OMEGA, pas un raisonnement.** Une ligne, sans commentaire. | ❑ |
+| Ch. 6 | Personne n'est monté chercher les corps de la crête. À écrire une fois, en passant. | ❑ |
+| Ch. 10 | **Ferguson lit ce dossier avant d'être affecté à Goku.** Il accepte quand même. | ❑ |
+| Ch. 12-13 | Auditions. La question qui tue n'est pas « pourquoi les avez-vous laissés mourir » — c'est **« pourquoi la ville était-elle encore habitée le samedi »**. | ❑ |
+| **Tome 2** | La stratégie des trente est Tres Palomas répété trente fois. **Le lecteur a déjà vu le dispositif tourner à l'échelle d'un village.** | ❑ |
+| Tome 5 | **Les dix relâchés témoignent.** Ils ont été écoutés jusqu'au bout puis lâchés au milieu d'une phrase. Aucun ne sait dire pourquoi lui. | ❑ |
 
 ---
 
