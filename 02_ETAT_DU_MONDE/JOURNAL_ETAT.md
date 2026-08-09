@@ -8,9 +8,9 @@ Version vivante de la bible §13. **Ce fichier prime sur la bible pour tout ce q
 
 ## ÉTAT COURANT
 
-**Date récit :** Jour 6, 23 h 40 — fin du chapitre 6
-**Dernier chapitre écrit :** ch. 6, « Ce qu'on écrit » (5 108 mots)
-**Chapitres écrits :** 6 / 120
+**Date récit :** Jour 8, ~09 h 40 — fin du chapitre 7
+**Dernier chapitre écrit :** ch. 7, « Les visites » (5 483 mots)
+**Chapitres écrits :** 7 / 120
 
 ### Compteurs
 
@@ -26,8 +26,9 @@ Version vivante de la bible §13. **Ce fichier prime sur la bible pour tout ce q
 
 | Item | État |
 |---|---|
-| Localisation | quelque part au nord. Seul depuis le J3, 04 h 30. **La GDA a perdu sa trace le J3 au matin et ne l'a pas retrouvée.** |
-| Contact | **aucun. Personne ne lui a parlé. Il ignore tout du chapitre 5.** |
+| Localisation | **Comté de Luna, Nouveau-Mexique**, depuis le J7 au soir. Une route de service qui part de la 26, quatorze kilomètres, elle ne mène nulle part. |
+| **Ce qu'il a fait au J7** | **Il est redescendu tout seul, à 13 h 10, près d'un relais routier de la 25, devant onze personnes.** Il n'a touché à rien et n'a blessé personne. Il a parlé longuement à un homme qui remplissait un réservoir, dans une langue que cet homme ne comprenait pas. Quand il a vu qu'on ne le comprenait pas, **il s'est assis sur le muret et il a attendu quatre heures.** La GDA est arrivée à 17 h 20 : **il s'est levé pour les saluer.** |
+| Contact | **établi le J7 à 17 h 20.** Aucun interprète disponible — Abbadie est sur la crête de la Tinaja. **Personne ne sait ce qu'il veut.** Il ignore tout du chapitre 5. |
 | Ki | plein |
 | Blessures | aucune |
 | Queue | **intacte** |

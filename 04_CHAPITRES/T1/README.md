@@ -22,13 +22,16 @@ Le bloc de citation est un outil de travail. Décider avant publication s'il res
 
 | Ch. | Titre | Focal | Mots | Statut |
 |---|---|---|---|---|
-| 1 | Les sept secondes | Conquest | 5 400 | **écrit** · v2 après correction canon · registres à jour |
-| 2 | Vingt-deux minutes | Ray Dombrowski | 5 150 | **écrit** · registres à jour |
-| 3 | Le premier chiffre | Cecil | 5 241 | **écrit** · v2 (noms, Oliver) · registres à jour |
-| 4 | Ce qui doit être arrêté | Goku | 5 176 | **écrit** · registres à jour |
-| 5 | Les quarante mots | Théo Abbadie | 5 650 | **écrit** · v2 (durcissement) · registres à jour |
-| 6 | Ce qu'on écrit | Cecil | 5 108 | **écrit** · registres à jour |
-| 7-20 | voir `03_PLAN/TOME_1.md` | | | |
+| 1 | Les sept secondes | Conquest | 5 410 | **écrit** · v3 (armure, scouteur, langue) · registres à jour |
+| 2 | Vingt-deux minutes | Ray Dombrowski | 5 239 | **écrit** · **v3 — recasting du jour 0** · registres à jour |
+| 3 | Le premier chiffre | Cecil | 5 522 | **écrit** · v3 (Dupli-Kate, les cinq punaises) · registres à jour |
+| 4 | Ce qui doit être arrêté | Goku | 5 151 | **écrit** · v3 (langue) · registres à jour |
+| 5 | Les quarante mots | Théo Abbadie | 5 868 | **écrit** · **v3 — ramené au passé composé** · registres à jour |
+| 6 | Ce qu'on écrit | Cecil | 5 113 | **écrit** · registres à jour |
+| 7 | Les visites | Debbie Grayson | 5 483 | **écrit** · registres à jour |
+| 8-20 | voir `03_PLAN/TOME_1.md` | | | |
+
+> **Tous les chapitres sont au passé composé** (`99_OUTILS/CHARTE_DE_LANGUE.md` §1) et conformes au recasting du jour 0 (`00_CANON/ARBITRAGE_CANON_V3.md`).
 
 ### Ce que le ch. 6 hérite
 

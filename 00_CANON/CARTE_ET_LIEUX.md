@@ -74,7 +74,7 @@ Ce que ça implique :
 | **Le désert** | 7-8 | La confrontation Debbie / Goku. Choisi par la GDA : loin de tout, aucune structure à détruire, un kilomètre de vue dégagée dans toutes les directions. **Debbie a posé une condition et n'en a pas posé d'autre : aucune paroi entre eux.** |
 | **Le Capitole** | 12-13 | Auditions. Cecil ment sous serment. |
 | **Au-dessus du Pacifique** | 9-11 | Entraînement. Aucun témoin, sauf des satellites et une flotte qui n'a pas le droit de tirer. |
-| **La maison des Grayson** | 19-20 | Banlieue résidentielle. Une cuisine, un placard, un carton dans un garage. Fin de tome sur une porte qui se referme. |
+| **La maison des Grayson** | **7**, 19-20 | Banlieue résidentielle. Une cuisine, un placard, un carton dans un garage. **Elle entre au ch. 7, pas au ch. 19** : chauffage réglé pour quatre personnes, deux dedans, et une pile de vêtements qu'on rouvre. Fin de tome sur une porte qui se referme. |
 | **L'agglomération de l'Ozaru** | 17-18 | **Non nommée par la bible. À choisir.** Contrainte : elle doit être ailleurs que Chicago, et assez grande pour que le bilan soit catastrophique sans égaler le J0. |
 
 ---

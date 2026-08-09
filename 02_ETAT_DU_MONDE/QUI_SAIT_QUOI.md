@@ -109,6 +109,17 @@ Légende : **✓** sait · **~** soupçonne, sans preuve · **✗** ignore · **
 | **Ce que la GDA a perdu** | La trace de **SUJET DEUX**, depuis le J3 au matin. Personne sur la crête ne s'y intéresse. |
 | **Ce que Goku sait de tout ceci** | **Rien.** Il n'a pas été contacté, il n'a été ni vu ni localisé, et personne ne lui a parlé. |
 
+### Précisions établies par le chapitre 7
+
+| Information | État |
+|---|---|
+| **Ce que Debbie sait** | Que la GDA avait perdu SUJET DEUX du J3 au J7 — un officier de permanence le lui a lâché par oui ou par non. Que celui-ci est redescendu seul, qu'il n'a blessé personne et qu'il a attendu quatre heures assis sur un muret. Et **qu'il a sorti cent quatre-vingt-douze personnes du cratère à la main, le premier jour, et qu'il les a alignées.** Cecil le lui a donné lui-même, à 22 h 50, sans le commenter. |
+| **Ce que Debbie croit avoir obtenu** | Un entretien arraché par insistance. **Elle a préparé six arguments et n'en a utilisé aucun.** Elle a senti l'écart pendant l'appel et l'a mis de côté sans le nommer. |
+| **Ce que Cecil mesure et ne dit pas** | La **ligne deux d'OMEGA** — *l'un des deux se soucie de ce que les gens pensent de lui*. Il n'a aucun autre moyen de la vérifier. Il a demandé **deux fois** combien de temps elle comptait rester en face de lui. **Debbie est un instrument de mesure et personne ne la détrompera avant le tome 2.** |
+| **Ce que Debbie a obtenu et qui compte** | **Aucune paroi.** Elle a refusé le véhicule de la GDA et conduit elle-même. Cecil lui a expliqué que la vitre servait à rendre la scène filmable, et elle a répondu que c'était précisément pour ça qu'elle n'en voulait pas. |
+| **Ce que Debbie ignore et doit ignorer** | Que Végéta existe, qu'il a un interprète, qu'un mémorandum existe. Que Mark a tenu onze minutes contre Conquest — **personne ne le lui dira jamais.** |
+| **Ce qu'Oliver a établi sans le savoir** | Que **Nolan est vivant**, au présent, deux fois. La seconde fois, Debbie a ouvert la bouche pour le reprendre et s'est aperçue qu'il n'y avait rien à reprendre. |
+
 ### Précisions établies par le chapitre 6
 
 | Information | État |
