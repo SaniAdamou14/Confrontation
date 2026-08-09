@@ -60,7 +60,8 @@ Dossier préparatoire complet : `05_ATELIER/CH01_DOSSIER_PREPARATOIRE.md`.
 
 - La règle de combat n°2 dans son état pur : deux kilomètres, une focale, une cabine de tôle.
 - Il fabrique, sans le savoir, **les deux images** qui diviseront le monde en deux camps pendant six semaines (F14).
-- Les Grayson, les Guardians, Eve. Vus de trop loin pour comprendre qui meurt.
+- Mark, les trois Gardiens qui restaient, Eve. Vus de trop loin pour comprendre qui meurt.
+- **Omni-Man ne vient pas.** Ray tient onze secondes de ciel vide et il doit le dire à l'antenne. C'est le seul moment de la journée qu'il se reproche.
 - **17 h 09 : Goku s'arrête.** Ray ne comprend pas pourquoi et ne le comprendra jamais. Le lecteur, si.
 - Le souffle. L'atterrissage en catastrophe à Cicero. La surdité.
 - **Le lac.** S'il entre dans le cratère, Ray est le premier être humain à le voir, à travers un pare-brise fendu.
@@ -96,10 +97,11 @@ Dossier préparatoire complet : `05_ATELIER/CH01_DOSSIER_PREPARATOIRE.md`.
 ### Ch. 7-8 — Le désert
 **Focalisation : Debbie. J7-J8.**
 
-- Elle exige. Elle obtient. Elle a exigé qu'il n'y ait pas de vitre entre eux.
+- Elle exige. Elle obtient. Elle a posé une condition et n'en a pas posé d'autre : **aucune paroi entre eux.**
 - **Il ne s'excuse pas. Il ne comprend pas encore ce qu'on lui reproche.** Voir §7.1, calibrage temporel : au J8, la culpabilité n'est pas formée.
 - Elle repart avec quelque chose de pire qu'un refus : une incompréhension polie.
 - **Ne jamais laisser croire que Goku nie la mort de Mark.** Il la considère comme réversible. Ce n'est pas la même chose, et c'est infiniment pire à entendre.
+- **Ce que Debbie porte, et que le recasting v3 lui donne** : son fils est mort et il n'y a pas de corps ; **son mari est vivant, détenu hors de la Terre, sans adresse et sans moyen d'être prévenu** ; et il lui reste Oliver, deux ans dans un corps de neuf, amputé du bras gauche, qui l'appelle par son prénom. Elle ne peut annoncer la mort de Mark à personne qui compte. Voir `00_CANON/ARBITRAGE_CANON_V3.md` §4.
 
 ---
 

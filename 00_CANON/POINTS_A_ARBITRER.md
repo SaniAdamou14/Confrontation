@@ -12,7 +12,7 @@ Format : ❑ non tranché · ✔ tranché (décision reportée dans la bible et 
 > | 2 | Phase lunaire J0 = **croissant décroissant très fin, quasi invisible**. §13 et §5.4 corrigées. Détection au J3 par occultation stellaire. |
 > | 5 | **Le lac entre. Chicago devient une baie.** §3 complétée. |
 > | 6 | Les dix-neuf minutes s'achèvent à **17 h 09**. §3 complétée. |
-> | 9 | Caméraman **original, validé** : Ray Dombrowski. Il survit. Ancré dans la texture d'Invincible : sa carrière entière consiste à filmer les Guardians. |
+> | 9 | Caméraman **original, validé** : Ray Dombrowski. Il survit. Ancré dans la texture d'Invincible : sa carrière entière consiste à filmer les Gardiens. |
 
 ---
 
@@ -60,7 +60,9 @@ Trois raisons : ça respecte l'ordre des chapitres déjà écrit dans la bible ;
 
 ## ✔ 3. Le sort d'Oliver — TRANCHÉ (ch. 2)
 
-**Les faits.** §3 : « Oliver perd un bras sur un coup de pied qui n'était pas destiné à le blesser gravement. » Rien de plus. §7.4 dit de Debbie qu'elle est « mère de rien » — mais Oliver n'est pas son fils.
+**Les faits.** §3 : « Oliver perd un bras sur un coup de pied qui n'était pas destiné à le blesser gravement. » Rien de plus.
+
+> **⚠ CORRIGÉ PAR `ARBITRAGE_CANON_V3.md`.** La v2 de ce paragraphe s'appuyait sur une erreur : « Debbie est mère de rien, Oliver n'est pas son fils. » **Canon : Debbie est la belle-mère légale d'Oliver et sa mère de fait depuis la mort d'Andressa.** Elle l'élève. Ce n'est donc pas un enfant qu'on lui amène — c'est le sien qu'on lui ramène amputé.
 
 **Enjeu.** Un Oliver survivant est le seul témoin viltrumite-humain du jour 0, un enfant amputé, et une bombe pour le tome 5 (il grandit, il est à moitié de la race qui va tenir trente villes en otage, et il a un motif personnel). Un Oliver mort simplifie et alourdit le compte.
 
@@ -72,17 +74,17 @@ Trois raisons : ça respecte l'ordre des chapitres déjà écrit dans la bible ;
 
 ---
 
-## ✔ 4. Les autres Guardians of the Globe — TRANCHÉ (ch. 2)
+## ✔ 4. Les autres Gardiens du Globe — RETRANCHÉ (`ARBITRAGE_CANON_V3.md`)
 
-**Les faits.** §3 nomme quatre morts : Immortal, War Woman, Red Rush, Eve. L'équipe en compte davantage.
+> **⚠ La v2 de cette décision est annulée.** Elle faisait mourir War Woman et Red Rush au jour 0. **Tous deux sont morts des années plus tôt**, dans le massacre des Gardiens par Omni-Man. Ils ne peuvent pas être là.
 
-**Enjeu.** Mineur pour le chapitre 1, structurant pour le tome 2 : s'il reste des Guardians vivants, la Terre a encore une force para-humaine et Cecil a des pions. Sinon, il n'a que des soldats et un budget.
+**Les faits, corrigés.** Quelques jours avant le jour 0, la Terre a subi la **Guerre Invincible** — des dizaines de doubles de Mark venus d'autres réalités, des centaines de milliers de morts. L'équipe en sort démolie.
 
-**✔ DÉCISION.** Trois seulement sont arrivés par l'ouest à 16 h 54 : **Immortal, War Woman, Red Rush.** Tous les trois morts.
+**✔ DÉCISION.** Trois seulement sont arrivés par l'ouest à 16 h 54, et c'est tout ce qui restait de disponible : **Immortal**, qui portait encore la cicatrice de sa propre décapitation ; **Black Samson**, blessé et pas remis ; **Shapesmith**, reconstitué après avoir été coupé en deux. Tous les trois morts en quatre minutes.
 
-**Survivants**, absents ce jour-là pour des raisons banales — une mission ailleurs, un arrêt maladie, un congé : **Darkwing, Aquarus, Martian Man, Green Ghost, Black Samson.** La banalité de leur survie est plus cruelle que l'héroïsme. Ils passent le tome 1 hors champ et reviennent au tome 2.
+**Absents, et pour des raisons qui ne sont pas banales :** Rex Splode est mort pendant la Guerre. Darkwing est perdu dans l'Ombre-Verse. Monster Girl est en réanimation. Dupli-Kate a enterré des dizaines de ses propres copies. **Personne n'est en congé. Ils sont simplement finis.**
 
-**Ce que ça donne à Cecil au jour 1 :** cinq para-humains, dont un sans pouvoir, un souverain sous-marin et un Martien. C'est tout. Il le sait avant tout le monde et il ne le dira à personne.
+**Ce que ça donne à Cecil au jour 1 :** une équipe morte deux fois en une semaine, et pas un para-humain opérationnel. Il le sait avant tout le monde et il ne le dira à personne.
 
 ---
 
@@ -157,9 +159,9 @@ Trois raisons : ça respecte l'ordre des chapitres déjà écrit dans la bible ;
 
 **✔ DÉCISION — personnage original validé, ancré dans l'univers d'Invincible.**
 
-L'univers d'Invincible ne fixe aucune équipe de presse à Chicago : il n'y avait donc rien à reprendre, seulement une texture à respecter. Cette texture est **l'obsession du monde d'Invincible pour la couverture médiatique des héros** — les Guardians sont des célébrités publiques, filmées, commentées, affichées.
+L'univers d'Invincible ne fixe aucune équipe de presse à Chicago : il n'y avait donc rien à reprendre, seulement une texture à respecter. Cette texture est **l'obsession du monde d'Invincible pour la couverture médiatique des héros** — les Gardiens sont des célébrités publiques, filmées, commentées, affichées.
 
-**Ray Dombrowski**, 51 ans, opérateur de prise de vues aériennes. **Sa carrière entière consiste à filmer les Guardians of the Globe.** Vingt-six ans à cadrer Immortal, War Woman et Red Rush sauver des gens depuis une cabine de tôle à deux kilomètres. Il connaît leurs silhouettes mieux que celles de ses voisins. Il les a filmés pour la dernière fois le jour 0, et il a filmé leur mort à tous les quatre en moins de deux minutes.
+**Ray Dombrowski**, 51 ans, opérateur de prise de vues aériennes. **Sa carrière entière consiste à filmer les Gardiens du Globe.** Vingt-six ans à cadrer Immortal, War Woman et Red Rush sauver des gens depuis une cabine de tôle à deux kilomètres. Il connaît leurs silhouettes mieux que celles de ses voisins. Il les a filmés pour la dernière fois le jour 0, et il a filmé leur mort à tous les quatre en moins de deux minutes.
 
 C'est ce qui rend son chapitre spécifiquement *Invincible* et pas simplement catastrophe : **le chapitre 2 est le point de vue d'un homme qui regarde mourir, dans un viseur, les dieux qu'il a filmés toute sa vie.** Il ne connaît pas leurs noms de famille. Il connaît la façon dont chacun se déplace, et il les reconnaît à la démarche jusqu'à la dernière seconde.
 

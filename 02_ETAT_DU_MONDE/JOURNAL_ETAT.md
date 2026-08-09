@@ -34,7 +34,7 @@ Version vivante de la bible §13. **Ce fichier prime sur la bible pour tout ce q
 | Faim | **jamais un problème.** Il mange sans y penser et pourrait manger le double. Ce n'est pas un moteur. |
 | **Ce qu'il cherche réellement** | **La chose qui répare.** Il tient pour acquis qu'elle existe, comme partout. Il ne se le formule pas. Il est mort une fois et il a attendu un an. **Un an, ce n'est pas grave.** |
 | Ce qu'il a fait J0-J3 | six heures à sortir des gens du cratère : **192 remontés, alignés sur le bord ouest**. Personne n'est venu les chercher. |
-| Ce qu'il a fait | tué Nolan, Mark, Oliver *(non, voir ci-dessous)*, Immortal, War Woman, Eve. **Il a sauvé Eve à la seconde 7 et il l'a tuée dix-neuf minutes plus tard.** |
+| Ce qu'il a fait | tué **Mark**, **Immortal**, **Black Samson**, **Eve**. Oliver survit, à un bras. **Il a sauvé Eve à la seconde 7 et il l'a tuée dix-neuf minutes plus tard.** *(Nolan n'était pas là : détenu hors de la Terre. Voir `00_CANON/ARBITRAGE_CANON_V3.md`.)* |
 | **17 h 09** | **Il s'est arrêté au milieu d'un geste.** Puis il a regardé sa main ouverte, à hauteur de visage. Il n'a plus frappé personne. |
 | Ce qu'il ressent | **aucun remords. De l'incompréhension.** Ces gens auraient dû se relever. |
 | Ce que le monde en conclut | qu'il a choisi d'épargner la ville. **C'est faux. Le récit ne corrigera jamais.** |
@@ -56,7 +56,7 @@ Version vivante de la bible §13. **Ce fichier prime sur la bible pour tout ce q
 | **Registre de parole** | **Il dicte et il se moque.** Il n'écoute aucune proposition en entier, il pose ses propres questions, il commente ce que vaut ce monde. **Il a ri une fois** — quand Abbadie lui a demandé de répéter, quatre secondes après les deux morts. « Vingt-cinq ans. Personne ne m'a jamais dit ça. » |
 | Ki | plein — **et tenu.** Il a lâché d'un cran au J2 après la frappe et n'est pas remonté seul : il a été remis en place. Goku l'a vu et croit à de la fatigue. |
 | Blessures | **aucune.** Couvert de suie qui ne part pas. |
-| Ce qu'il a fait | tué Conquest et Red Rush au J0. **Effacé quatre-vingts hommes en un mouvement de bras, sur dix-huit kilomètres, au J2.** |
+| Ce qu'il a fait | tué **Conquest** et **Shapesmith** au J0. **Effacé quatre-vingts hommes en un mouvement de bras, sur dix-huit kilomètres, au J2.** |
 | **Ce qu'il sait et n'a pas dit** | Que cette planète a une lune. Établi dans la nuit du J3, en une heure vingt-quatre d'observation, par occultation stellaire. **Il compte une période. Personne ne le sait.** |
 | **Ce qu'il a obtenu au J5** | Le jour vaut 24 heures, l'année 365 jours et un quart — il a fourni le quart lui-même. **Aucun humain sur place n'a su convertir sa période.** Le mot est transcrit page 31 du carnet d'Abbadie, entouré, mention *à reprendre*. |
 | **Ce qu'il a exigé et obtenu** | Un homme. Il a refusé une équipe de quatre, une liaison permanente, un rendez-vous quotidien, et un professeur d'anglais — ce dernier refus au registre qu'on emploie pour écarter la suggestion d'un subordonné. |
@@ -85,7 +85,7 @@ Détail complet dans `QUI_SAIT_QUOI.md`. Résumé :
 
 | Faction | État |
 |---|---|
-| GDA | **Les Guardians sont morts. Elle n'a plus de force para-humaine sur zone.** Le site est masqué par la vapeur. **Depuis le J5 : un canal de communication, un homme, et rien d'autre.** Elle croit avoir bien négocié. Elle a perdu la trace de SUJET DEUX depuis le J3. |
+| GDA | **Les Gardiens sont morts. Elle n'a plus de force para-humaine sur zone.** Le site est masqué par la vapeur. **Depuis le J5 : un canal de communication, un homme, et rien d'autre.** Elle croit avoir bien négocié. Elle a perdu la trace de SUJET DEUX depuis le J3. |
 | **Le canal** | **Dr Théo Abbadie**, 44 ans. Voix atteinte, un son sur deux au soir du J5. **Reclassé au niveau d'accès supérieur le J6, rattaché directement au bureau du directeur.** Motif inscrit au formulaire : *seul locuteur disponible.* Second interprète : **Mendes**, Fort Bliss, onze jours de retard, ordre de ne pas dépasser onze. |
 | **Le congélateur** | **Actif depuis le J6, niveau moins six, local scellé, double clé.** Quatre sachets : sang non humain (~60 ml, dans du bitume vitrifié), onze éclats d'un matériau blanc de densité anormale, et **deux lots de cheveux provenant de deux têtes différentes.** Délai de revue : 90 jours. Sinclair a l'une des clés, Cecil l'autre. |
 | **La première pièce matérielle** | Les deux lots de cheveux. **C'est la première preuve physique qu'ils sont deux et non un.** Avant le J6, la numérotation SUJET UN / SUJET DEUX ne reposait que sur des images. |
@@ -162,8 +162,8 @@ Morts cumulés 43 · Goku et Végéta en transit, ki plein, queues intactes, auc
 
 - **Ray était large à 16 h 47 : 00.** Un coup de chance qu'il n'a jamais raconté à personne. Il tenait les deux cents mètres du carrefour et la déchirure est arrivée au milieu du cadre.
 - **La liaison était en direct.** Les deux images sont sorties avant que quiconque ait pu décider de ne pas les diffuser.
-- **Le faisceau se coupe dans les virages serrés** — l'antenne perd l'image, la bande continue à bord. C'est arrivé pendant onze secondes, et c'est pendant ces onze secondes que Red Rush est mort.
-- **Red Rush.** Vingt-six ans que Ray n'avait jamais réussi à le cadrer net. Il l'a eu : à l'arrêt, en pied, magnifique, l'air jeune. Puis une brume rose sur cinquante mètres, sans vent pour la disperser.
+- **Le faisceau se coupe dans les virages serrés** — l'antenne perd l'image, la bande continue à bord. C'est arrivé pendant onze secondes, et c'est pendant ces onze secondes que Shapesmith est mort.
+- **Shapesmith.** Vingt-six ans que Ray le filmait sans jamais l'avoir eu, lui : des centaines d'heures de formes empruntées et pas une seconde de l'homme. Il l'a eu — le vrai visage, une fraction de seconde, à l'arrêt. Puis une brume rose sur cinquante mètres, sans vent pour la disperser.
 - **Le train est tombé.** Trente mètres, d'un bloc. Ray était en bout de focale sur une vitre avec une main à plat dessus, doigts écartés, pendant toute la chute.
 - **La tour noire à deux antennes** est restée dessinée en gris dans le blanc pendant un quart de seconde, puis n'a plus été dessinée.
 - **Le feu de circulation** a continué son cycle au-dessus d'un carrefour où il n'y avait plus rien de vertical sur cent mètres. Rouge pendant trente-deux secondes au-dessus de rien.
@@ -187,8 +187,8 @@ Morts cumulés 43 · Goku et Végéta en transit, ki plein, queues intactes, auc
 - **Le lingua franca est posé. Ne plus jamais y revenir.** Idiome commercial administré, non maternel ; recouvrement phonémique partiel avec les langues indo-européennes ; probabilité de l'ordre de un sur plusieurs milliards. Robot l'a consigné le J1 à 15 h 42, **et il y est revenu tous les jours pendant deux ans.** Cecil a pris la date et jeté l'improbabilité.
 - **Abbadie recruté au J1.** Cecil a exigé quarante mots en trois jours, et c'est lui qui écrit la liste des quarante.
 - **Numérotation officielle : SUJET UN** = celui en armure, **parce qu'il est arrivé le premier**. SUJET DEUX = celui en orange. Aucune autre raison. **C'est cette numérotation que Cecil fera abandonner au jour 19.**
-- **Darkwing :** Nolan Grayson est resté au sol trois secondes en trente rencontres, et toute l'équipe en a parlé pendant un mois. Sur la bande, il est au sol dix-neuf fois en huit minutes.
-- **Oliver a produit la seule donnée de comportement du chapitre** : *l'homme en orange ne regarde jamais autour de lui.* Il a mis Nolan dans un immeuble et n'a pas regardé l'immeuble tomber. Quatre-vingt-dix analystes n'avaient pas trouvé ça.
+- **Dupli-Kate :** Nolan Grayson est resté au sol trois secondes en trente rencontres, et toute l'équipe en a parlé pendant un mois. Sur la bande, **le vieux à la moustache** est au sol dix-neuf fois en huit minutes — et il se relève dix-neuf fois, et c'est lui qui perd. Elle est venue seule, en vêtements de ville, après neuf jours passés à identifier des corps qui avaient tous son visage. **C'est la seule unité para-humaine opérationnelle que Cecil possède au J1.**
+- **Oliver a produit la seule donnée de comportement du chapitre** : *l'homme en orange ne regarde jamais autour de lui.* Il a mis Mark dans le sol et il s'est retourné avant que Mark ait fini de descendre. Quatre-vingt-dix analystes n'avaient pas trouvé ça.
 - **Le premier chiffre a été prononcé à voix haute devant Oliver**, avant le Président, avant le Sénat. Parce que l'enfant est la seule personne que Cecil n'a pas besoin de gérer.
 - **La dernière question d'Oliver — « Quand est-ce que vous allez le tuer ? » — reste sans réponse.** Elle n'est ni de la colère ni de la peur : c'est une question d'organisation, posée du ton dont on demande à quelle heure passe le camion. Cecil aurait dû répondre *jamais*. **Un enfant à qui on retire ça n'a plus rien ; un enfant à qui on le laisse grandit avec.**
 

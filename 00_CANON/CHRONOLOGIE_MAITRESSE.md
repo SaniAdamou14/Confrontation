@@ -56,19 +56,20 @@ Les vingt-deux minutes courent de **16 h 47 à 17 h 09**. Ce qui précède est l
 | 11 min | 16 h 58 | Il rit encore, la mâchoire enfoncée. |
 | 17 min | ~17 h 04 | Végéta cesse de s'amuser. Une sphère de la taille d'une voiture, lâchée sans un mot. Conquest traversé, désintégré. **Le souffle emporte le centre-ville jusqu'aux banlieues.** |
 
-### Goku contre les Grayson et les Guardians (~16 h 50 → 17 h 09)
+### Goku contre les Grayson et les Gardiens (~16 h 50 → 17 h 09)
 
 Concurrent au combat de Végéta. Ordre **[DÉRIVÉ]**, cohérent avec la bible §3.
 
 | Heure | Événement |
 |---|---|
-| ~16 h 51 | Nolan Grayson arrive. Il voit un second inconnu debout près d'Eve. Il attaque Goku. |
-| ~16 h 54 | Les Guardians of the Globe arrivent. |
+| ~16 h 51 | **Personne ne descend du ciel.** La régie de la chaîne attend Omni-Man, et il n'y a pas d'Omni-Man : Nolan Grayson est détenu par l'Empire viltrumite, hors de la Terre, depuis des mois. Voir `ARBITRAGE_CANON_V3.md`. |
+| ~16 h 54 | **Les Gardiens du Globe arrivent — trois.** Immortal, Black Samson, Shapesmith. C'est tout ce que la Guerre Invincible a laissé de disponible. |
 | — | **Goku frappe avec la retenue qu'il appliquerait à un Saibaman. Les corps ne tiennent pas.** Il ne comprend pas ce qui les tue. |
-| — | Oliver perd un bras sur un coup de pied qui n'était pas destiné à le blesser gravement. **[À TRANCHER : Oliver survit-il ?]** |
-| — | Nolan traversé de part en part. |
+| — | Oliver perd un bras sur un coup de pied qui n'était pas destiné à le blesser gravement. **✔ Il survit.** |
 | — | Mark enfoncé dans le sol jusqu'aux épaules. |
-| — | Immortal fendu en deux par une onde qui ne le visait pas. War Woman effacée. Red Rush, assez rapide pour presque toucher Végéta, réduit en brouillard par un revers agacé. |
+| — | **Immortal** tient une seconde le poing de Goku dans sa main, puis part en deux morceaux sur une ligne blanche de quatre cents mètres. Il portait encore la cicatrice de sa propre décapitation. **Il ne se relève pas.** |
+| — | **Black Samson**, descendu par au-dessus. Cratère de trente mètres, rien dedans. |
+| — | **Shapesmith**, effacé d'un revers de main par Végéta. Ce qui tombe à l'image est son vrai visage — la seule fois. |
 | — | **Eve, réveillée, tuée en tentant un bouclier.** Celle que Goku venait de sauver à la seconde 7. |
 | 17 h 09 | **Fin des vingt-deux minutes.** |
 

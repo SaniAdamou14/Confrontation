@@ -25,7 +25,7 @@ Le premier était un homme en costume gris qui n'avait pas couru dans la bonne d
 
 Il ne s'agissait pas d'eux.
 
-Une ville se rend quand elle a compris qu'on ne s'arrêtera pas. Pour qu'elle comprenne, il faut qu'elle voie. Pour qu'elle voie, il faut faire ça sur son axe le plus fréquenté, en avançant, en s'arrêtant, en reprenant — jamais partout à la fois. La destruction dispersée n'appelle personne. Elle a la forme d'un séisme, et les espèces intelligentes ont toutes une case pour les séismes, une case où l'on ne se bat pas, où l'on court et où l'on pleure et où l'on rebâtit ensuite.
+Une ville se rend quand elle a compris qu'on ne s'arrêtera pas. Pour qu'elle comprenne, il faut qu'elle voie. Pour qu'elle voie, il faut faire ça sur son axe le plus fréquenté, en avançant, en s'arrêtant, en reprenant — jamais partout à la fois. Une destruction dispersée ne fait venir personne. Elle a la forme d'un séisme, et les espèces intelligentes ont toutes une case pour les séismes, une case où l'on ne se bat pas, où l'on court et où l'on pleure et où l'on rebâtit ensuite.
 
 Il fallait garder une ligne. Il fallait rester lisible.
 
@@ -95,7 +95,7 @@ Le garçon n'a pas répondu. Il regardait la rue derrière lui sur toute sa long
 
 Conquest a attendu la fin de l'addition. Frapper quelqu'un qui compte encore ne rapporte rien.
 
-— Nolan a mis vingt ans à ne pas faire son travail. Tu vas mettre combien de temps à ne pas faire le tien ?
+— Nolan a eu vingt ans pour faire son travail. Il ne l'a pas fait. Toi, il te faudra combien ?
 
 Le garçon est descendu de six mètres.
 
@@ -137,7 +137,7 @@ Le retour a pris le garçon au ventre et l'a envoyé en travers du carrefour, à
 
 Le garçon a craché quelque chose de rouge et de solide.
 
-— Depuis le début, a dit Conquest. Tu la bloques avant de frapper. Tu crois que ça te rend plus dur. Ça te rend plus court. Tu as trois coups, ensuite tu es obligé de reprendre, et je te touche au quatrième.
+— Depuis le début, a dit Conquest. Tu la bloques avant de frapper. Tu crois que ça te rend plus dur. Ça te vide. Tu as trois coups, ensuite tu es obligé de reprendre, et je te touche au quatrième.
 
 Le garçon a frappé quatre fois.
 
@@ -169,7 +169,7 @@ Il a arrêté très vite. Ça, c'était neuf.
 
 Il est revenu du bras droit seulement. Le gauche était plaqué contre son flanc, l'avant-bras à l'horizontale, la main ouverte.
 
-— Ton père t'a appris à cogner, a dit Conquest en écartant le poing d'un revers. Il ne t'a pas appris à finir. C'est l'inverse qu'il fallait.
+— Ton père t'a appris à cogner, a dit Conquest en écartant le poing d'un revers. Il ne t'a pas appris à finir. On apprend à finir d'abord.
 
 Il l'a pris par la nuque et l'a descendu contre le trottoir.
 
@@ -263,17 +263,17 @@ Il était petit. Épais. Campé sur rien, à hauteur du deuxième étage, dans u
 
 **Seconde un.**
 
-Du plastron. Blanc, rigide, articulé aux épaules par deux pièces jaunes qui n'étaient pas là pour la décoration.
+Du plastron. Blanc, rigide, sanglé aux épaules par deux bretelles étroites, avec deux plaques brunes qui descendaient sur le ventre et remontaient dans le dos, sur une combinaison bleu sombre qui prenait tout le reste.
 
 De la plaque. Conquest n'avait pas porté de plaque depuis des siècles et il en connaissait le raisonnement par cœur : on met de la coque sur un corps quand le corps ne suffit pas. C'était l'aveu le plus franc qu'on puisse coudre sur soi.
 
-Sauf que ça avait été taillé, ajusté, produit. Le garçon portait un costume — visible à un kilomètre, fait pour qu'on le reconnaisse. Ça, c'était un uniforme. On sait où se situe celui qui le porte.
+Sauf que ça avait été taillé, ajusté, produit. Le garçon portait un costume — repérable à un kilomètre, fait pour qu'on le reconnaisse. Ça, c'était un uniforme. On sait où se situe celui qui le porte.
 
 Il y avait donc un dessus. Il y avait donc un dessous.
 
 Il a eu le temps de trouver ça rassurant.
 
-Puis il a vu la fêlure à l'omoplate gauche. Nette, ancienne, jamais reprise.
+Puis il a vu la fêlure à l'omoplate gauche. Nette, franche, jamais reprise.
 
 *On l'a déjà touché.*
 
@@ -305,7 +305,7 @@ Il ne savait pas qu'elle était serrée. Il ne savait plus depuis combien de tem
 
 **Seconde trois.**
 
-Un appareil sur l'oreille gauche. Une lentille en travers de l'œil.
+Un appareil sur l'oreille gauche. Une lentille en travers de l'œil. Le serre-tête était trop large et tenait mal : il avait été réglé pour une autre tête et personne ne l'avait repris.
 
 L'homme l'a effleuré. La lentille a changé de couleur. Il a regardé Conquest à travers.
 

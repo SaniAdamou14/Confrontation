@@ -110,4 +110,4 @@ Le bloc §0 de `05_ATELIER/CH03_DOSSIER_PREPARATOIRE.md` codifie la technique na
 | 2 | Lune du jour 0 = **croissant décroissant quasi invisible**. Détection par Végéta au J3 par occultation stellaire. |
 | 3 | **Le lac Michigan entre dans le cratère. Chicago devient une baie.** La vapeur explique le délai du premier bilan. |
 | 4 | Les dix-neuf minutes de Goku s'achèvent à **17 h 09** : les vingt-deux minutes finissent parce qu'il s'arrête, pas parce que le combat finit. |
-| 5 | Caméraman du ch. 2 : **Ray Dombrowski**, vingt-six ans à filmer les Guardians of the Globe. Il survit. **Art Rosenbaum** ajouté au dossier personnages. |
+| 5 | Caméraman du ch. 2 : **Ray Dombrowski**, vingt-six ans à filmer les Gardiens du Globe. Il survit. **Art Rosenbaum** ajouté au dossier personnages. |

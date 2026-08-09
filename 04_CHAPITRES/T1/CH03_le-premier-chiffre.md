@@ -149,33 +149,35 @@ Cinq.
 
 L'aide de camp a repris depuis le début, parce qu'on ne discutait pas.
 
-— Darkwing : opération en cours à Baltimore, il est descendu dans les égouts à quinze heures dix et il n'avait pas de liaison. Il est remonté à dix-neuf heures. Aquarus : sous les Aléoutiennes, différend territorial avec une principauté voisine, injoignable par principe. Martian Man : congé. Green Ghost : arrêt maladie depuis onze jours, une hépatite. Black Samson —
+— Rex Splode : chambre froide, niveau moins six, depuis neuf jours. Darkwing : porté disparu le trente et un, dossier ouvert, aucune trace. Monster Girl : soins intensifs, Détroit, elle est intubée. Dupli-Kate : chez elle. Apte sur le papier. Connors —
 
-— Black Samson quoi.
+— Connors quoi.
 
-— Il avait un rendez-vous, monsieur.
+— Il a démissionné, monsieur.
 
-— Quel rendez-vous.
+— Quand.
 
-— Un notaire.
+— En mars.
 
 Cecil a regardé la carte.
 
-Trois avaient répondu à l'alerte. Les trois qui avaient répondu étaient morts. Les cinq qui n'avaient pas répondu étaient vivants, et chacun des cinq avait une raison qui, écrite sur une ligne de rapport, ressemblait à une négligence.
+Trois avaient répondu à l'alerte de la veille. Les trois qui avaient répondu étaient morts à dix-sept heures. Les autres n'avaient pas répondu, et aucune des raisons ne tenait sur une ligne de rapport sans ressembler à une négligence.
 
-Il faudrait un jour expliquer ça à quelqu'un. Il faudrait expliquer qu'une hépatite avait sauvé un homme et qu'une liaison radio en avait tué un autre.
+Il faudrait un jour expliquer ça à quelqu'un. Il faudrait expliquer qu'une lettre de démission avait sauvé un homme et qu'un tube dans la gorge en avait sauvé une autre.
 
-— Où sont-ils ?
+Neuf jours. Il n'avait pas fini de payer la semaine précédente qu'on lui présentait celle-ci.
 
-— Ici, monsieur. Les cinq. Depuis cette nuit.
+— Qui est ici ?
 
-— Qu'est-ce qu'ils font ?
+— Une seule, monsieur. Depuis cette nuit.
 
-— Ils demandent des ordres.
+— Qu'est-ce qu'elle fait ?
 
-— Faites-les entrer un par un.
+— Elle demande des ordres.
 
-Il en a fait entrer trois. Le troisième était Darkwing, et Darkwing était le seul à ne pas avoir de pouvoir, ce qui en faisait le seul dont l'avis avait une chance d'être fondé sur quelque chose.
+— Faites-la entrer.
+
+Dupli-Kate est entrée seule et elle est restée debout. Elle ne s'était pas fait convoquer. Elle était venue.
 
 — Vous avez vu la vidéo ? a demandé Cecil.
 
@@ -183,9 +185,9 @@ Il en a fait entrer trois. Le troisième était Darkwing, et Darkwing était le 
 
 — Vous en tirez quoi.
 
-Darkwing a mis longtemps. Il avait passé la nuit dans un égout de Baltimore et il n'avait pas retiré son costume, et il sentait ce que sentent les gens qui ont passé la nuit dans un égout.
+Elle a mis longtemps. Elle avait passé neuf jours à identifier des corps qui avaient tous son visage, et elle portait des vêtements de ville.
 
-— Que si j'avais eu ma radio, je serais mort à seize heures cinquante-cinq.
+— Que si j'avais été en état, je serais morte à seize heures cinquante-cinq.
 
 — C'est tout ?
 
@@ -195,7 +197,7 @@ Cecil a laissé passer.
 
 — Attendez.
 
-Darkwing s'est arrêté à la porte.
+Elle s'est arrêtée à la porte.
 
 — Vous connaissiez Omni-Man, a dit Cecil.
 
@@ -207,9 +209,9 @@ Darkwing s'est arrêté à la porte.
 
 — Est-ce qu'il perdait ?
 
-Darkwing a mis du temps. Cecil aimait bien ça chez lui — c'était le seul de la bande qui prenait le temps de vérifier ce qu'il allait dire.
+Elle a mis du temps. Cecil aimait bien ça chez elle — c'était la seule de l'équipe qui vérifiait ce qu'elle allait dire avant de le dire.
 
-— Il ne perdait pas, non. Il encaissait, quelquefois. Il y a eu un truc à Denver, il y a six ans, où il est resté au sol trois secondes.
+— Il ne perdait pas, non. Il encaissait, quelquefois. Il y a eu quelque chose à Denver, il y a six ans, où il est resté au sol trois secondes.
 
 — Trois secondes.
 
@@ -221,11 +223,13 @@ La porte s'est refermée.
 
 Trois secondes en trente rencontres, et une équipe entière en avait parlé pendant un mois.
 
-Sur la bande, Omni-Man était resté au sol dix-neuf fois en huit minutes.
+Sur la bande, le vieux à la moustache était resté au sol dix-neuf fois en huit minutes. Il s'était relevé dix-neuf fois.
+
+Ce vieux-là avait mis onze minutes à démonter le fils Grayson. Et sur la bande, c'était lui qui perdait.
 
 Cecil est resté seul devant la carte et ses cinq punaises, et il a fait le calcul qu'il évitait depuis dix-neuf heures.
 
-Il avait cinq unités para-humaines.
+Il avait une unité para-humaine opérationnelle, et elle venait de sortir de son bureau en vêtements de ville.
 
 Il avait, en face, deux individus dont l'un avait effacé une ville en actionnant un poignet.
 
@@ -663,11 +667,11 @@ Cecil n'a pas bougé.
 
 — Explique-moi.
 
-— Quand papa se bat, il regarde partout. Tout le temps. Mark aussi. Ils regardent où sont les gens et où sont les immeubles et si quelqu'un arrive derrière. (Il a levé son unique main et l'a agitée vaguement.) L'orange, il regardait juste devant lui. Il regardait jamais ce qu'il y avait autour.
+— Quand Nolan se bat, il regarde partout. Tout le temps. Mark aussi. Ils regardent où sont les gens et où sont les immeubles et si quelqu'un arrive derrière. (Il a levé son unique main et l'a agitée vaguement.) L'orange, il regardait juste devant lui. Il regardait jamais ce qu'il y avait autour.
 
 — Tu es sûr ?
 
-— Il a mis Nolan dans un immeuble et il n'a pas regardé l'immeuble tomber.
+— Il a mis Mark dans le sol et il s'est retourné avant que Mark ait fini de descendre.
 
 Cecil a laissé passer six secondes.
 
@@ -725,7 +729,7 @@ Et il attendait vraiment la réponse.
 
 — Alors c'est quand ?
 
-Cecil avait passé quarante-huit heures à ne pas prononcer une phrase. Il l'avait esquivée devant deux gouverneurs, devant un secrétaire d'État, devant onze analystes à deux heures du matin, devant un homme sorti d'un égout de Baltimore qui la lui avait servie presque mot pour mot. Il l'avait contournée avec un traité de mille neuf cent neuf et un chiffrage d'évacuation dont personne ne comprenait l'objet.
+Cecil avait passé quarante-huit heures à esquiver une phrase. Devant deux gouverneurs, devant un secrétaire d'État, devant onze analystes à deux heures du matin, devant une femme en vêtements de ville qui la lui avait servie presque mot pour mot. Il l'avait contournée avec un traité de mille neuf cent neuf et un chiffrage d'évacuation dont personne ne comprenait l'objet.
 
 Il n'allait pas la prononcer maintenant, dans une chambre, devant un enfant de huit ans à qui il venait de laisser croire qu'il existait un calendrier.
 

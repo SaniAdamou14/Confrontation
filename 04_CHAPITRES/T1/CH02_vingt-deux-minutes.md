@@ -171,51 +171,33 @@ Au nord, dans l'axe de State Street, l'homme en armure démontait le vieux à la
 
 Au sud-ouest, à trois cents mètres de là, l'homme en orange venait de se remettre debout à côté du corps de la fille.
 
-Et Omni-Man est descendu du ciel.
+Et Ray a levé la boule vers le nord-ouest.
 
-Ray l'a reconnu avant de l'avoir dans le cadre. Il l'aurait reconnu à trois kilomètres, dans le brouillard, avec une seule optique et un seul œil : personne d'autre ne s'arrêtait comme ça. Tous les autres freinaient. Lui, il tombait à pleine vitesse jusqu'à trois mètres du sol et il s'immobilisait, et le sol se soulevait un peu autour de lui.
+Il ne l'a pas décidé. C'était le geste : quand ça devenait trop grand pour ceux qui étaient au sol, on cadrait ce morceau de ciel-là et on attendait, parce que c'était de là qu'il descendait, et il descendait toujours.
 
-Blanc en haut, rouge en bas, la cape, le O.
+Ray l'aurait reconnu à trois kilomètres, dans le brouillard, avec une seule optique et un seul œil. Personne d'autre ne s'arrêtait comme ça. Tous les autres freinaient. Lui, il tombait à pleine vitesse jusqu'à trois mètres du sol et il s'immobilisait, et le sol se soulevait un peu autour de lui.
 
-Ray a poussé sur lui et il a dit à l'antenne :
+Il a tenu le ciel dans le cadre pendant onze secondes.
 
-— Omni-Man est sur zone.
+Dans son oreille gauche, la régie a exhalé. Quelqu'un, là-bas, a dit *ça va aller*, et quelqu'un d'autre a commencé une phrase.
 
-Il a entendu la régie exhaler dans son oreille. Quelqu'un, là-bas, a dit *ça va aller*.
+— Omni-Man va—
 
-Omni-Man a regardé le corps de la fille. Il a regardé l'homme en orange. Il a frappé.
+— Non.
 
-Ray a tenu le cadre.
+— Ray, si tu l'as, on prend.
 
-Il y a eu un déplacement d'air qui a couché une rangée de véhicules sur cent mètres, et quand la poussière est retombée l'homme en orange était toujours debout au même endroit, dans la même posture, la tête un peu penchée.
+— Il ne viendra pas. Vous le savez aussi bien que moi.
 
-Il n'avait pas bougé les pieds.
+Il a rabaissé la boule sur la rue.
 
-— Marisol.
-
-— Je vois.
+Onze secondes. Il les a comptées après, sur la bande, au tampon d'horodatage, et c'est la seule chose de cette journée qu'il se reproche vraiment. Onze secondes de ciel vide, à deux kilomètres, pendant que ça travaillait en bas.
 
 Au nord, un immeuble entier a lâché. Ray a fait pivoter la boule d'instinct, il a eu la façade en train de descendre sur elle-même comme une cage d'escalier en démolition, il a tenu deux secondes —
 
 — et pendant ces deux secondes, au sud-ouest, quelque chose est arrivé qu'il n'a pas filmé.
 
-Quand il est revenu, Omni-Man était à cinquante mètres, en train de se relever, et il avait une main sur le côté.
-
-Ray ne l'avait jamais vu se relever. Il ne l'avait jamais vu à terre.
-
-Omni-Man est reparti.
-
-Il a pris de la hauteur — cinquante mètres, soixante — et il est redescendu à la verticale, et cette fois Ray a eu le choc dans le cadre. Le sol a fait un anneau. La poussière est partie en cercle parfait sur deux cents mètres, si vite que le cercle est resté visible une seconde entière avant de se défaire.
-
-Il a poussé au centre de l'anneau.
-
-L'homme en orange était debout dedans, un bras levé au-dessus de sa tête, et il tenait le poing d'Omni-Man dans sa main.
-
-Rien ne bougeait dans le cadre. Ni l'épaule, ni le coude, ni le poignet.
-
-Ray a entendu quelqu'un souffler dans son oreille gauche. Il ne savait pas si c'était la régie, Marisol, ou lui.
-
-Et il y a eu du bleu et du jaune dans le coin du cadre.
+Quand il est revenu, il y avait du bleu et du jaune dans le coin du cadre.
 
 Le gamin. Il arrivait par la droite, à quatre mètres du sol, un bras contre le ventre, et il allait vers eux.
 
@@ -223,7 +205,7 @@ Le gamin. Il arrivait par la droite, à quatre mètres du sol, un bras contre le
 
 Il a serré sur le gamin, il l'a suivi sur soixante mètres, et à l'instant où le gamin est entré dans le nuage, la poussière est devenue opaque et Ray a tenu un rectangle gris pendant quatre secondes.
 
-Quand ça s'est éclairci, il y avait Omni-Man à genoux, l'homme en orange debout, et personne d'autre.
+Quand ça s'est éclairci, il y avait l'homme en orange debout au milieu, et personne d'autre.
 
 Ray a balayé. Il a balayé la rue sur trois cents mètres, deux fois, en serré puis en large, il a fouillé les décombres et les toits et les véhicules retournés.
 
@@ -251,19 +233,35 @@ Ils sont arrivés par l'ouest, et ils sont passés au-dessus de l'appareil.
 
 Ray a senti l'hélicoptère bouger avant de comprendre, il a levé les yeux du retour, et il a vu à travers la verrière trois formes qui filaient plein est à sa hauteur.
 
-Il les a reconnues.
+Trois.
+
+Il les a comptées deux fois. En vingt-six ans il n'en avait jamais compté moins de six. Neuf jours plus tôt, sur le même axe, il en avait cadré onze en une matinée, et il en avait filmé quatre qu'on avait ramassés.
 
 Il a rabaissé la tête sur le retour et il a commencé à travailler.
 
-— Les Guardians sont sur zone. Je répète, les Guardians sont sur zone, ils arrivent par l'ouest.
+— Les Gardiens sont sur zone. Je répète, les Gardiens sont sur zone, ils arrivent par l'ouest. Ils sont trois.
 
 Il a mis Immortal dans le cadre en un mouvement. Vingt-six ans. Il avait filmé cet homme plus que sa propre fille, il connaissait la façon dont il ouvrait les bras avant de percuter quelque chose, ce mouvement d'épaules qu'il faisait toujours à l'arrivée comme un type qui enlève un manteau.
 
-Il l'a fait. Le manteau.
+Il a poussé jusqu'au bout de la focale, par habitude, pour vérifier le visage.
+
+La ligne autour du cou faisait le tour complet. Elle était rose, épaisse d'un doigt, et elle avait neuf jours.
+
+Il l'a fait quand même. Le manteau.
 
 Et il a plongé sur l'homme en orange.
 
-Ray a serré. Immortal a frappé. Ray a vu l'homme en orange tourner la tête de dix degrés vers lui, avec une lenteur qui n'allait pas du tout avec le reste, et lever un avant-bras.
+Ray a serré.
+
+Il y a eu un déplacement d'air qui a couché une rangée de véhicules sur cent mètres, et quand la poussière est retombée l'homme en orange était debout au même endroit, dans la même posture, la tête un peu penchée, et il tenait le poing d'Immortal dans sa main.
+
+Rien ne bougeait dans le cadre. Ni l'épaule, ni le coude, ni le poignet.
+
+Il n'avait pas bougé les pieds.
+
+Ray a entendu quelqu'un souffler dans son oreille gauche. Il ne savait pas si c'était la régie, Marisol, ou lui.
+
+Puis l'homme en orange a tourné la tête de dix degrés, avec une lenteur qui n'allait pas du tout avec le reste, et il a levé un avant-bras.
 
 Il n'y a pas eu de choc. Il y a eu une ligne.
 
@@ -283,21 +281,23 @@ Puis il a dit, dans le micro, d'une voix qu'il ne s'est pas reconnue :
 
 — Ray —
 
-— Il se relève pas.
+— Vous m'entendez ? Il se relève pas.
+
+Ray a gardé les deux morceaux dans le cadre trente secondes de plus. Il avait filmé cet homme se recoudre neuf jours plus tôt, en direct, sur ce même axe, et il attendait.
 
 ---
 
 *16 h 56.*
 
-War Woman est venue par au-dessus avec la masse.
+Black Samson est descendu par au-dessus.
 
-Ray connaissait cette masse. Il en avait des heures. Il y avait eu une année, cinq ans plus tôt, où le service marketing de la chaîne avait mis une image d'elle en train de lever cette masse sur les bus de la ville, et l'image était de lui.
+Ray connaissait celui-là depuis plus longtemps que tous les autres. Il y avait eu une année, cinq ans plus tôt, où le service marketing de la chaîne avait mis une image de lui, bras écartés au-dessus d'un pont, sur les flancs des bus de la ville. L'image était de Ray. Elle lui rapportait encore quatorze dollars par trimestre.
 
-Elle l'a levée.
+Il est descendu.
 
-Elle ne l'a pas abaissée.
+Il n'est pas remonté.
 
-Ray n'a pas vu ce qui s'est passé. Il n'y a rien à voir sur la bande, il l'a repassée trois cents fois depuis : à l'image 4 la masse est en l'air, à l'image 5 il y a de la poussière, et à l'image 6 il n'y a plus ni masse ni personne.
+Ray n'a pas vu ce qui s'est passé. Il n'y a rien à voir sur la bande, il l'a repassée trois cents fois depuis : à l'image 4 il est en l'air, à l'image 5 il y a de la poussière, et à l'image 6 il n'y a plus personne.
 
 À la 42, à deux kilomètres, dans une atmosphère pleine de particules, c'est ce que ça donne.
 
@@ -339,19 +339,19 @@ Le faisceau s'est coupé — il se coupait toujours dans les virages serrés, le
 
 À bord, ça continuait d'enregistrer.
 
-C'est là que Red Rush est mort.
+C'est là que Shapesmith est mort.
 
-Ray l'avait à l'image. Il n'a jamais eu Red Rush à l'image, en vingt-six ans, pas une fois, pas une seule : il avait des traînées, des flous, des rayures rouges en travers du cadre que la régie utilisait avec une musique. Il n'avait jamais eu le type.
+Ray l'avait à l'image. Il avait eu Shapesmith à l'image des centaines de fois en vingt-six ans, et il ne l'avait jamais eu, lui : un mur, un bélier, un homme deux fois trop grand, une femme un jour, une porte blindée une autre fois. La chaîne avait un dossier de quatre cents rushes à son nom et pas un seul visage dedans.
 
 Il l'a eu.
 
-Une fraction de seconde, dans le coin haut droit du cadre, à l'arrêt, net, en pied, avec les bras encore en position de course et le visage tourné vers l'homme en armure.
+Une fraction de seconde, dans le coin haut droit du cadre, à l'arrêt, net, en pied, dans une forme que Ray n'a pas su nommer et qu'il n'a montrée à personne. Le crâne était lisse. Les yeux étaient trop écartés et il y en avait un de plus qu'il n'en fallait.
 
-Il était magnifique. Il avait l'air jeune.
+Il avait l'air jeune.
 
-L'homme en armure a passé la main devant son visage, de gauche à droite, une fois.
+L'homme en armure a passé la main devant lui, de gauche à droite, une fois.
 
-Il n'y a plus eu de Red Rush.
+Il n'y a plus eu de Shapesmith.
 
 Il y a eu une brume rose sur cinquante mètres, qui est restée en suspension parce qu'il n'y avait pas de vent, et qui a mis un temps très long à retomber.
 

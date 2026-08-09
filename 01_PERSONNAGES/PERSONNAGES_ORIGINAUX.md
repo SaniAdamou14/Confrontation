@@ -31,9 +31,11 @@ Créations nécessaires au récit, absentes des deux univers sources. Chacune r�
 
 **Besoin.** La bible §10 confie le chapitre 2 à « un caméraman » et la §2 mentionne « un hélicoptère de chaîne d'info ». Le lecteur va passer six mille mots dans sa tête. Il lui faut une existence.
 
-**Ancrage dans l'univers d'Invincible.** Aucune équipe de presse n'y est canonique — mais **l'obsession de ce monde pour la couverture médiatique des héros, si**. Les Guardians of the Globe sont des célébrités publiques, filmées et commentées. Ray est le produit de ça.
+**Ancrage dans l'univers d'Invincible.** Aucune équipe de presse n'y est canonique — mais **l'obsession de ce monde pour la couverture médiatique des héros, si**. Les Gardiens du Globe sont des célébrités publiques, filmées et commentées. Ray est le produit de ça.
 
-**Ray Dombrowski**, 51 ans, opérateur de prise de vues aériennes pour une chaîne locale de Chicago. **Vingt-six ans passés à filmer les Guardians of the Globe.** Il a cadré Immortal, War Woman et Red Rush sauver des gens depuis une cabine de tôle à deux kilomètres, des centaines de fois. **Il ne connaît pas leurs noms de famille. Il connaît la façon dont chacun se déplace**, et il les reconnaît à la démarche, de loin, sans zoom.
+**Ray Dombrowski**, 51 ans, opérateur de prise de vues aériennes pour une chaîne locale de Chicago. **Vingt-six ans passés à filmer les Gardiens du Globe.** Il a cadré Immortal, Black Samson et Shapesmith sauver des gens depuis une cabine de tôle à deux kilomètres, des centaines de fois. **Il ne connaît pas leurs noms de famille. Il connaît la façon dont chacun se déplace**, et il les reconnaît à la démarche, de loin, sans zoom.
+
+**Neuf jours avant le jour 0**, il a filmé la Guerre Invincible sur le même axe. Il en a cadré onze en une matinée et il en a filmé quatre qu'on a ramassés. C'est pour ça qu'au jour 0 il en compte trois et qu'il les compte deux fois.
 
 Le jour 0, il les filme pour la dernière fois. Il filme leur mort à tous les quatre en moins de deux minutes.
 
@@ -51,7 +53,7 @@ Le jour 0, il les filme pour la dernière fois. Il filme leur mort à tous les q
 
 **Ce qu'il apporte à la structure.**
 - La règle de combat n°2 dans son état le plus pur : **le point de vue du plus faible**. Un homme dans une cabine de tôle à deux kilomètres.
-- **Il connaît les Guardians et le lecteur ne les connaît pas.** Chaque mort est donc annoncée par une reconnaissance : « celui-là, c'est celui qui se déplace comme ça ». Puis il n'y a plus personne à reconnaître.
+- **Il connaît les Gardiens et le lecteur ne les connaît pas.** Chaque mort est donc annoncée par une reconnaissance : « celui-là, c'est celui qui se déplace comme ça ». Puis il n'y a plus personne à reconnaître.
 - **17 h 09.** Il voit l'homme en orange s'arrêter net au milieu d'un geste, sans raison visible. Il ne comprend pas. Les archives retiendront que le second arrivant a « décidé d'épargner le reste de la ville ». C'est faux, et cette erreur fonde une partie de la sympathie publique pour Goku. **Le récit ne la corrige jamais.**
 - **Il est le premier être humain à voir le lac entrer dans le cratère**, à travers un pare-brise fendu, pendant que Marisol cherche un toit où poser l'appareil.
 - **Il est l'auteur des deux images.** Celles qui tourneront en boucle pendant six semaines et qui divisent le monde en deux camps : l'homme en orange qui sauve la fille, l'homme en armure qui rit avant de frapper. Le chapitre 2 raconte donc la fabrication de la mémoire collective du jour 0. C'est énorme et ça ne coûte rien.

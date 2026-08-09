@@ -133,7 +133,7 @@ Une réponse militaire au jour 2. **Ordonnée contre l'avis de Cecil**, qui perd
 
 ## 8. Mots interdits — focalisation Goku
 
-> viltrumite · Conquest · Omni-Man · Guardians · GDA · Chicago · Amérique · dollar · gouvernement · président · journaliste · caméra
+> viltrumite · Conquest · Omni-Man · Gardiens · GDA · Chicago · Amérique · dollar · gouvernement · président · journaliste · caméra
 
 **Ce qu'il dit :** « le vieux », « celui à la moustache », « le gamin en bleu », « la fille », « les gens d'ici ». Il ne connaît aucun nom propre de cette planète et n'en apprendra aucun avant le chapitre 5.
 

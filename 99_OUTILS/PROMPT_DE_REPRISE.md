@@ -6,7 +6,8 @@
 
 ## Ordre de lecture obligatoire
 
-1. **`02_ETAT_DU_MONDE/JOURNAL_ETAT.md`** — l'état du monde *maintenant*. En premier, toujours. Il prime sur la bible pour tout ce qui évolue.
+0. **`00_CANON/ARBITRAGE_CANON_V3.md`** — le recasting du jour 0 et les corrections Dragon Ball. **Il prime sur la bible pour tout ce qu'il traite.** Et **`99_OUTILS/CHARTE_DE_LANGUE.md`** — avant d'écrire une phrase.
+1. **`02_ETAT_DU_MONDE/JOURNAL_ETAT.md`** — l'état du monde *maintenant*. Il prime sur la bible pour tout ce qui évolue.
 2. **`BIBLE_LE_POIDS_DES_DIEUX.md`**, sections 0 à 6 — la source de vérité. Ne pas écrire une ligne avant.
 3. **`BIBLE…`, section 7** — les voix. Avant tout dialogue.
 4. **`00_CANON/POINTS_A_ARBITRER.md`** — vérifier ce qui a été tranché et ce qui ne l'a pas été.
@@ -20,7 +21,9 @@
 
 Light novel français, cinq tomes, 120 chapitres, 5 000 à 8 000 mots l'unité. Croisement Dragon Ball Z (arc Namek, jour 8) × Invincible.
 
-Goku et Végéta tombent dans l'univers d'Invincible par une faille causale. Ils arrivent à Chicago le jour 0 à 16 h 47, en pleine attaque de Conquest. En vingt-deux minutes ils tuent Conquest, les Grayson, les Guardians of the Globe et trois millions de civils.
+Goku et Végéta tombent dans l'univers d'Invincible par une faille causale. Ils arrivent à Chicago le jour 0 à 16 h 47, en pleine attaque de Conquest. En vingt-deux minutes ils tuent Conquest, Mark Grayson, Atom Eve, les trois Gardiens du Globe encore debout, et trois millions de civils.
+
+**Nolan Grayson n'est pas là et il est vivant** — détenu par l'Empire viltrumite, hors de la Terre. Oliver survit, à un bras. La Terre sortait, neuf jours plus tôt, de la Guerre Invincible.
 
 **Ils sont hors catégorie, pas invincibles.** Aucun être de ce monde ne peut les vaincre au poing. C'est le point de départ, pas l'enjeu.
 

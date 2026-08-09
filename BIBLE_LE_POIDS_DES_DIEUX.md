@@ -46,9 +46,11 @@ Tout découle de là. Les combats ne sont pas le suspense — ils sont la **dém
 
 **Goku / Kakarotte.** Sorti de la capsule médicale depuis quarante minutes. Le zenkai post-guérison est actif. Gi orange, ceinture bleue, kanji 亀 dans le dos. Aucun haricot magique. **Queue intacte.** Il vient de choisir de rester du côté de Végéta — non par loyauté, mais parce que Freezer a détruit sa race et tué son père, et qu'il a décidé que ça, ça le regarde.
 
-**Végéta.** Armure de commandement, plastron blanc, épaulettes jaunes, fissure à l'omoplate gauche. Il vient de dormir — l'unique sommeil de tout l'arc. **Queue intacte.**
+**Végéta.** Armure prise dans la réserve du vaisseau de Freezer après le combat contre Recoome : **plastron blanc, plaques ventrales brunes, simples bretelles blanches — aucune épaulette** — sur combinaison bleu marine. **Fissure à l'omoplate gauche, faite quelques heures plus tôt contre Ginyu.** Il vient de dormir — l'unique sommeil de tout l'arc. **Queue intacte.**
 
-> **LA DIVERGENCE CANONIQUE : LA QUEUE.** Seule entorse au canon, et elle est structurelle. Voir section 5.4.
+**Le scouteur.** Il a écrasé le sien sur Namek, bien avant, le jour où il a déclaré qu'il n'en avait plus besoin. Celui qu'il porte au jour 0 est **ramassé sur un cadavre du Commando Ginyu quelques heures avant la faille.** Objet de pillage. Il ne s'en sert pas pour mesurer — il sent le ki — mais pour lire ce que l'Empire écrivait dessus. C'est pour ça qu'il le lâchera sans regret. Voir `00_CANON/ARBITRAGE_CANON_V3.md` §5.
+
+> **LES DIVERGENCES CANONIQUES DÉCLARÉES.** La queue, structurelle — voir section 5.4. Et une compression : dans le canon, Goku reste bien plus longtemps dans la capsule médicale. Le récit l'en fait sortir au jour 8. C'est la seule entorse à la ligne DBZ, elle est nécessaire à la prémisse, et elle est déclarée.
 
 ### 1.2 La faille — mécanique et non-destin
 
@@ -62,7 +64,11 @@ Simultanément, **Angstrom Levy** teste ses premiers sauts inter-réalités. Il 
 
 ### 1.3 Le point d'arrivée
 
-**Chicago, jour 0, 16 h 47.** Conquest est là depuis dix-neuf minutes. Quarante-trois morts. Mark Grayson se bat depuis onze minutes : bras gauche cassé en deux endroits, trois côtes enfoncées, hémorragie interne. Atom Eve est au sol, réserve vidée, inconsciente à cent mètres.
+**Chicago, jour 0, 16 h 47.** Conquest est là depuis dix-neuf minutes. Quarante-trois morts. Mark Grayson se bat depuis onze minutes : bras gauche cassé en deux endroits, trois côtes enfoncées, hémorragie interne. Atom Eve est au sol, réserve vidée, inconsciente à cent mètres. **Oliver est venu seul aider son frère et Conquest l'a mis à terre avant 16 h 47.**
+
+> **CE QUI VIENT DE SE PASSER, ET QUI CHANGE TOUT.** Quelques jours plus tôt, la Terre a subi la **Guerre Invincible** : des dizaines de doubles de Mark Grayson venus d'autres réalités. Des centaines de milliers de morts. L'équipe des Gardiens du Globe en sort démolie — Rex Splode tué, Darkwing perdu, Monster Girl en réanimation, Black Samson blessé, Shapesmith coupé en deux, Immortal décapité puis régénéré, avec une cicatrice fraîche tout autour du cou. **Au jour 0, la Terre n'a plus d'équipe : elle a trois personnes debout et une agence qui compte encore ses morts de la semaine précédente.**
+
+> **NOLAN GRAYSON N'EST PAS LÀ.** Il est détenu par l'Empire viltrumite, hors de la Terre, depuis des mois. **Vivant.** Il ignore tout de ce qui suit, et rien ne garantit qu'il l'apprenne un jour. Voir `00_CANON/ARBITRAGE_CANON_V3.md`.
 
 Conquest **marche** vers Mark. Pas vol. Marche. C'est du mépris, et c'est important.
 
@@ -104,13 +110,15 @@ Ce n'est pas un combat. C'est une leçon d'anatomie donnée à une planète.
 
 Une sphère de la taille d'une voiture. Lâchée sans un mot. Conquest est traversé, désintégré, et le souffle emporte le centre-ville jusqu'aux banlieues.
 
-**Goku contre les Grayson.** Nolan, Mark, Oliver. Aucun ne comprend ce qui les tue. Goku non plus, d'ailleurs : il frappe avec la retenue qu'il appliquerait à un Saibaman, et les corps ne tiennent pas.
+**Goku contre les frères Grayson.** Mark et Oliver. Aucun des deux ne comprend ce qui les tue. Goku non plus, d'ailleurs : il frappe avec la retenue qu'il appliquerait à un Saibaman, et les corps ne tiennent pas.
 
-Oliver perd un bras sur un coup de pied qui n'était pas destiné à le blesser gravement. Nolan est traversé de part en part. Mark est enfoncé dans le sol jusqu'aux épaules.
+Oliver perd un bras sur un coup de pied qui n'était pas destiné à le blesser gravement — **il survit, et il est le seul.** Mark est enfoncé dans le sol jusqu'aux épaules.
 
 > **RÈGLE ABSOLUE POUR CETTE SÉQUENCE.** Goku n'est pas cruel. Il est **calibré pour un autre univers**. Il ne comprend pas encore qu'il tue. Quand il le comprend, dix-neuf minutes plus tard — c'est-à-dire à 17 h 09 précises, et c'est pour cela que les vingt-deux minutes s'arrêtent là : non parce que le combat finit, mais parce que Goku s'arrête —, il n'a aucun cadre mental pour traiter l'information — parce que dans son monde, on ressuscite. **C'est ça qui est terrifiant, et c'est ça qu'il faut écrire.** Pas de remords immédiat. Une incompréhension.
 
-**Les Guardians of the Globe.** Immortal fendu en deux par une onde qui ne le visait pas. War Woman effacée. Red Rush, assez rapide pour presque toucher Végéta, réduit en brouillard par un revers agacé. Eve, réveillée, tuée en tentant un bouclier.
+**Les Gardiens du Globe.** Ils arrivent à 16 h 54, et ils ne sont que trois — c'est tout ce que la Guerre a laissé de disponible.
+
+**Immortal**, qui porte encore la cicatrice de sa propre décapitation, tient une seconde le poing de Goku dans sa main, puis part en deux morceaux sur une ligne blanche de quatre cents mètres. **L'homme qui revient toujours ne revient pas.** — **Black Samson**, descendu par au-dessus, laisse un cratère de trente mètres et rien dedans. — **Shapesmith**, effacé d'un revers de main par Végéta ; ce qui tombe à l'image, c'est son vrai visage, pour la première fois et la dernière. — **Eve**, réveillée, tuée en tentant un bouclier.
 
 **Bilan à 17 h 09 :** Chicago n'existe plus. Cratère de neuf kilomètres. 2,4 millions de morts confirmés, estimation révisée à 3,1 millions au jour 4.
 
@@ -138,7 +146,7 @@ La nuance est décisive et doit être tenue partout : ils **peuvent** être bles
 | **B+** | Conquest, Omni-Man à son apogée, Battle Beast |
 | **B** | Anissa, Lucan, Vidor, Viltrumites d'élite |
 | **C** | Mark, Immortal, Viltrumites standards |
-| **D** | Atom Eve (bridée), Guardians, Allen (avant boost) |
+| **D** | Atom Eve (bridée), Gardiens, Allen (avant boost) |
 
 **Écart Végéta / Conquest : environ ×40.** Ce n'est pas un combat. C'est une exécution ralentie par l'ennui.
 
@@ -411,14 +419,18 @@ Format : noyau / fracture / voix / interdits / calibrage.
 
 ### 7.4 DEBBIE GRAYSON
 
-Le personnage le plus humain du récit et le seul qui ne se batte jamais. Alcoolique en devenir. Veuve d'un monstre, mère d'un demi-monstre — et maintenant mère de rien.
+Le personnage le plus humain du récit et le seul qui ne se batte jamais. Alcoolique en devenir.
+
+**Sa position exacte, corrigée au canon.** Elle n'est pas veuve : **Nolan est vivant**, détenu par l'Empire viltrumite hors de la Terre. Il n'existe aucun moyen de le joindre, aucun moyen de lui apprendre que Mark est mort, et aucune certitude qu'il l'apprenne un jour. Et elle n'est pas mère de rien : **elle a Oliver**, belle-mère légale et mère de fait depuis la mort d'Andressa.
+
+Ce qui lui reste, au jour 7 : un fils mort sans corps, un mari vivant sans adresse, et dans sa maison **un enfant de deux ans dans un corps de neuf, amputé du bras gauche, qui l'appelle par son prénom.**
 
 **Sa force.** Elle refuse à la fois le pardon et la haine. Elle choisit une troisième chose que personne d'autre ne sait faire : **l'exigence**. « Ne deviens pas pire que ce que tu as déjà fait. Prouve-le. Pas avec des mots. »
 
 **Voix.** Basse, usée, précise. Elle ne fait pas de discours. Elle pose des questions qu'on ne peut pas esquiver. Elle jure quand elle est fatiguée.
 
 **Trajectoire Debbie / Goku — lien maternel, jamais autre chose.**
-- **Tome 1** — la confrontation, puis la journée chez elle : il vient demander des vêtements à la mère du garçon qu'il a tué. C'est monstrueux et humain en même temps, et c'est la meilleure idée du récit. Elle lui donne les combinaisons de Nolan. **Elle sait exactement ce qu'elle fait, et elle s'en veut.**
+- **Tome 1** — la confrontation, puis la journée chez elle : il vient demander des vêtements à la mère du garçon qu'il a tué. C'est monstrueux et humain en même temps, et c'est la meilleure idée du récit. Elle lui donne les combinaisons de Nolan — **les affaires d'un homme vivant**, qu'elle a gardées pliées pendant des mois pour le jour où il rentrerait. Elle sait exactement ce qu'elle fait, et elle s'en veut.
 - **Tome 2** — c'est elle qui lui apprend que Mark ne reviendra pas. Pas Cecil. Pas Végéta. Elle. Et il s'effondre dans sa cuisine, et elle ne le console pas.
 - **Tome 3** — elle est la seule personne au monde dont Goku accepte un ordre.
 - **Tome 4** — après Mars, c'est elle qui lui dit ce que Végéta est devenu et ce qu'il risque de devenir.
@@ -444,7 +456,7 @@ Le personnage le plus humain du récit et le seul qui ne se batte jamais. Alcool
 
 ### 7.6 SECONDAIRES
 
-- **Amber Bennett.** Colère nette, pas de filtre. Elle est la seule à dire à Debbie ce que tout le monde pense : que donner les vêtements de Nolan au meurtrier de Mark, c'est une folie. Elle a raison, et elle a tort.
+- **Amber Bennett.** Colère nette, pas de filtre. **Canon : elle a rompu avec Mark bien avant, elle est en couple avec quelqu'un d'autre, et elle est restée proche de Mark et d'Eve.** Elle n'est donc pas l'ex jalouse : c'est l'amie qui porte le deuil, et elle est dans cette maison pour Mark. Elle est la seule à dire à Debbie ce que tout le monde pense : que donner les affaires de Nolan au meurtrier de Mark, c'est une folie. Elle a raison, et elle a tort.
 - **William Clockwell.** Il fume trop. Il fait les cent pas. Il représente les gens qui n'ont aucun pouvoir et qui doivent quand même vivre à côté de ça.
 - **Donald Ferguson.** Loyauté sincère, doutes croissants. Ami de Goku et informateur de Cecil, simultanément et sincèrement.
 - **Robot.** Purement analytique. Le seul qui comprenne le ki. Il commence à le modéliser. Fusil de Tchekhov n°2.

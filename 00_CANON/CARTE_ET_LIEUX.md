@@ -71,7 +71,7 @@ Ce que ça implique :
 | **Fort Bliss** | 5, tome 2 | Où l'on gare Mendes, et ses onze jours de retard. |
 | **Le cratère** | 3 | Cecil y arrive. Sous la brume, si on retient §3. Le premier chiffre est prononcé ici. |
 | **Le QG de la GDA** | 3, 6, 12-13 | Souterrain. Cecil, Robot, Sinclair. Le congélateur est ici à partir du J6. |
-| **Le désert** | 7-8 | La confrontation Debbie / Goku. Choisi par la GDA : loin de tout, rien à casser, tout est visible à un kilomètre. Debbie a exigé qu'il n'y ait pas de vitre entre eux. |
+| **Le désert** | 7-8 | La confrontation Debbie / Goku. Choisi par la GDA : loin de tout, aucune structure à détruire, un kilomètre de vue dégagée dans toutes les directions. **Debbie a posé une condition et n'en a pas posé d'autre : aucune paroi entre eux.** |
 | **Le Capitole** | 12-13 | Auditions. Cecil ment sous serment. |
 | **Au-dessus du Pacifique** | 9-11 | Entraînement. Aucun témoin, sauf des satellites et une flotte qui n'a pas le droit de tirer. |
 | **La maison des Grayson** | 19-20 | Banlieue résidentielle. Une cuisine, un placard, un carton dans un garage. Fin de tome sur une porte qui se referme. |

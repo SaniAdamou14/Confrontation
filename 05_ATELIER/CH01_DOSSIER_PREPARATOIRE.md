@@ -169,7 +169,7 @@ Checklist générique : `99_OUTILS/CHECKLIST_CHAPITRE.md`. Spécifique à ce cha
 
 Il meurt à 17 h 04. Ce qui suit ne lui appartient pas et ne doit pas contaminer une seule ligne du chapitre :
 
-- Les Guardians of the Globe arrivent après. Il ne les voit pas mourir.
+- Les Gardiens du Globe arrivent après — trois. Il ne les voit pas mourir.
 - Nolan Grayson arrive après. **Conquest meurt en croyant que Nolan a simplement échoué.**
 - Mark meurt après lui, d'une autre main.
 - La fille qu'il a mise au sol est sauvée, puis tuée, et il ignore les deux.

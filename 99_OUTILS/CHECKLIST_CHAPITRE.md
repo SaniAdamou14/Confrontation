@@ -6,6 +6,8 @@ Trois passes : avant, pendant, après. Ne rien sauter.
 
 ## AVANT — ne pas écrire une ligne sans ceci
 
+- [ ] **J'ai lu `00_CANON/ARBITRAGE_CANON_V3.md`.** Le casting du jour 0, la position de Nolan, l'état de Debbie et d'Oliver, les corrections Dragon Ball. **Il prime sur la bible.**
+- [ ] **J'ai lu `99_OUTILS/CHARTE_DE_LANGUE.md`.** Le récit est au **passé composé**. Les calques anglais y sont listés avec leur correction.
 - [ ] J'ai lu `02_ETAT_DU_MONDE/JOURNAL_ETAT.md`. Je connais l'état exact du monde à cette date.
 - [ ] Le dossier préparatoire du chapitre existe dans `05_ATELIER/`.
 - [ ] **Le personnage focal est identifié et écrit en haut du brouillon.**

@@ -30,9 +30,9 @@ Ce fichier existe pour une seule raison : sur 120 chapitres, l'incohérence orth
 | Graphie retenue | Note |
 |---|---|
 | **Mark** / **Invincible** | Son nom de héros n'est plus prononcé par personne après le jour 0. Le ch. 2 est le dernier endroit du récit où il sort sans faire mal. |
-| **Nolan** / **Omni-Man** | **Voir la règle encadrée ci-dessous.** |
+| **Nolan** / **Omni-Man** | **Voir la règle encadrée ci-dessous.** **Vivant, détenu par l'Empire viltrumite hors de la Terre. Absent du jour 0 et de tout le tome 1.** |
 | **Debbie Grayson** | Jamais « Deborah ». |
-| **Oliver** | Le prénom seul suffit. **Hybride viltrumite et thraxan** : peau violette, cicatrisation viltrumite — moignon refermé en trente-six heures —, croissance accélérée. **Il dit « Nolan », pas « papa ».** |
+| **Oliver** | Le prénom seul suffit. **Hybride viltrumite et thraxan** : peau violette **qui rosit à mesure que la part viltrumite s'impose**, cicatrisation viltrumite — moignon refermé en trente-six heures —, croissance accélérée. **Chronologiquement deux ans. Physiquement neuf.** Il dit « Nolan », « Mark », « Debbie » — jamais « papa », « maman », ni « mon frère ». |
 | **Atom Eve** / **Eve** | La narration dit Eve. Les rapports disent Atom Eve. |
 | **Cecil Stedman** | |
 | **Donald Ferguson** | |
@@ -49,9 +49,10 @@ Ce fichier existe pour une seule raison : sur 120 chapitres, l'incohérence orth
 | **Robot** / **Rudolph Connors** | Robot en scène, Connors dans les documents. |
 | **Amber Bennett**, **William Clockwell** | |
 | **la GDA** | Article féminin. « la GDA », « à la GDA ». Ne jamais développer le sigle dans la prose. |
-| **Guardians of the Globe** | Conservé en anglais, non traduit, non italiqué. |
-| **Immortal**, **War Woman**, **Red Rush** | Idem. War Woman se bat **à la masse**. |
-| **Darkwing, Aquarus, Martian Man, Green Ghost, Black Samson** | Les cinq survivants. Absents le jour 0. |
+| **les Gardiens du Globe** | **Traduction française publiée (Delcourt). Jamais « Guardians of the Globe ».** Article et minuscule à « les ». Corrigé par `ARBITRAGE_CANON_V3.md` §6. |
+| **Immortal**, **Black Samson**, **Shapesmith** | Noms de scène, non traduits. **Les trois seuls présents au jour 0.** |
+| ~~**War Woman**~~, ~~**Red Rush**~~ | **Supprimés du récit.** Morts dans le massacre des Gardiens, des années avant le jour 0. Ne doivent apparaître nulle part. |
+| **Rex Splode**, **Darkwing**, **Monster Girl**, **Dupli-Kate** | Mentionnables au passé seulement, comme pertes ou blessés de la **Guerre Invincible**, quelques jours avant le jour 0. Absents du combat. |
 
 > **RÈGLE DE NOMINATION — Nolan / Omni-Man / Grayson.** Erreur commise aux ch. 1 et 3, corrigée.
 >
@@ -59,7 +60,7 @@ Ce fichier existe pour une seule raison : sur 120 chapitres, l'incohérence orth
 > |---|---|
 > | Les Viltrumites — Conquest, Anissa, Thragg | **Nolan** |
 > | Oliver | **Nolan** |
-> | Les Guardians, la GDA, Cecil | **Omni-Man** |
+> | Les Gardiens, la GDA, Cecil | **Omni-Man** |
 > | Debbie | **Nolan** |
 > | La presse, le public | **Omni-Man** |
 > | Personne | ~~Grayson~~ |

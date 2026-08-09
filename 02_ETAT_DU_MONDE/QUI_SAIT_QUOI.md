@@ -44,7 +44,7 @@ Légende : **✓** sait · **~** soupçonne, sans preuve · **✗** ignore · **
 |---|---|
 | **Le rapport de Conquest** | Transmis à **16 h 46**, une minute avant l'arrivée. Contenu exact : échec de l'unité Grayson, descendance hybride opérationnelle, 43 pertes locales, deux unités de résistance dont une neutralisée et une au sol, « rien à signaler ». **L'Empire ne reçoit rien sur les Saiyans. Rien du tout.** |
 | **Ce que Conquest a compris et n'a pas pu transmettre** | Que les deux arrivants **ne sont pas la même chose** — l'un porte une ennemie hors du champ de tir, l'autre le regarde faire avec mépris. Il perd son émetteur pendant le combat et s'en aperçoit à la 16e minute, au moment exact où il a enfin quelque chose à dire. **La meilleure information de la journée meurt avec lui.** |
-| **Ce que Conquest croit en mourant** | Que Nolan Grayson a simplement échoué. Il ne saura jamais que Nolan est mort quelques minutes après lui, ni de quoi. |
+| **Ce que Conquest croit en mourant** | Que Nolan Grayson a simplement échoué, et que le dossier planétaire sera réexaminé. **Il ne saura jamais que le garçon qu'il était venu corriger est mort quelques minutes après lui, ni de quoi.** |
 | **Ce que Végéta ignore** | Que Conquest l'a entendu parler à quelqu'un qui n'était pas là. |
 | **Ce que personne ne sait** | Que Végéta protège son flanc gauche d'un demi-degré de plus que le droit. Le seul être qui l'ait remarqué est mort onze minutes plus tard. |
 
@@ -57,8 +57,9 @@ Légende : **✓** sait · **~** soupçonne, sans preuve · **✗** ignore · **
 | **Ce que Ray sait** | Rien. Il n'a compris aucune seconde de sa journée et n'en comprendra jamais aucune. **Il a un fichier, pas une opinion** — c'est ce qui le rendra incontestable au tome 5. |
 | **Ce que Ray ignore encore** | Que Mark est mort dans sa poussière à 16 h 53. Il le découvre six jours plus tard, seul, à trois heures du matin. |
 | **Ce que personne ne saura jamais** | Que Mark a tenu onze minutes contre Conquest. Le seul témoin est mort à 17 h 04, et le second l'a perdu dans un nuage. **Personne ne le dira à Debbie.** |
-| **Ce qui manque à la bande** | 4 minutes 12 secondes. Dont les onze secondes où l'antenne a perdu le faisceau — c'est-à-dire la mort de Red Rush, qui n'existe donc que sur le master. |
-| **Ce que la GDA a perdu** | Immortal, War Woman, Red Rush, Atom Eve, les deux Grayson. **Il lui reste Darkwing, Aquarus, Martian Man, Green Ghost, Black Samson** — absents ce jour-là pour des raisons banales. C'est tout ce que Cecil possède au jour 1. |
+| **Ce qui manque à la bande** | 4 minutes 12 secondes. Dont les onze secondes où l'antenne a perdu le faisceau — c'est-à-dire la mort de Shapesmith, qui n'existe donc que sur le master. |
+| **Ce que la GDA a perdu** | **Immortal, Black Samson, Shapesmith, Atom Eve, Mark Grayson.** En une semaine, l'agence a enterré son équipe deux fois : la Guerre Invincible d'abord, Chicago ensuite. **Il ne lui reste aucun para-humain opérationnel.** Monster Girl est en réanimation, Darkwing est perdu, Rex Splode est mort, Dupli-Kate n'est pas en état. C'est tout ce que Cecil possède au jour 1 : rien. |
+| **Ce que Debbie Grayson porte seule** | Que Mark est mort et qu'il n'y a pas de corps. Et que **Nolan est vivant**, détenu hors de la Terre, sans adresse et sans moyen d'être joint. Elle ne peut prévenir personne, et personne ne peut la relever. **Il lui reste Oliver.** |
 
 ### Précisions établies par le chapitre 3
 

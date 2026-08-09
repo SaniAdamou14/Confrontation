@@ -437,7 +437,7 @@ Son ki était redevenu haut, serré, et absolument stable.
 
 C'était ça qui n'allait pas. Depuis la veille dans la plaine, Goku attendait qu'il se retende — il avait vu cette structure lâcher d'un cran et il avait supposé de la fatigue, et la fatigue remonte. Elle remonte toujours, en quelques heures, avec le sommeil ou sans. Celle-là n'était pas remontée. Elle avait été **remise en place**, exactement au même niveau, avec un soin qui ne ressemblait pas à de la récupération.
 
-On ne répare pas comme ça quelque chose de cassé. On le tient.
+Une structure qui a lâché ne remonte pas d'elle-même à ce niveau-là. On l'y maintient.
 
 Au bout d'une heure et quatre minutes, Goku a demandé :
 

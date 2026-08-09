@@ -11,7 +11,7 @@
 
 **Une caméra, deux combats.**
 
-À partir de 16 h 51, il se passe deux choses irréconciliables dans le même champ : l'homme en armure démonte Conquest au carrefour, et l'homme en orange détruit les Grayson puis les Guardians trois cents mètres plus loin. Ray a **un** objectif. Chaque seconde, il choisit lequel des deux il filme, et l'autre n'existera jamais.
+À partir de 16 h 51, il se passe deux choses irréconciliables dans le même champ : l'homme en armure démonte Conquest au carrefour, et l'homme en orange détruit Mark puis les trois Gardiens trois cents mètres plus loin. Ray a **un** objectif. Chaque seconde, il choisit lequel des deux il filme, et l'autre n'existera jamais.
 
 Ce qu'il cadre devient l'histoire. Ce qu'il ne cadre pas n'a pas eu lieu.
 
@@ -22,7 +22,7 @@ C'est le sujet du chapitre, et il ne doit jamais être formulé.
 ## 2. Ce que le chapitre doit accomplir
 
 1. **Fabriquer les deux images** (F14) sans que Ray sache qu'il les fabrique. L'homme en orange qui porte la fille. L'homme en armure qui rit avant de frapper. Six semaines de boucle, un monde coupé en deux.
-2. **Faire mourir les Guardians vus de trop loin.** Ray les reconnaît à la démarche, pas au visage. Il les a filmés pendant vingt-six ans.
+2. **Faire mourir les Gardiens vus de trop loin.** Ray les reconnaît à la démarche, pas au visage. Il les a filmés pendant vingt-six ans. **Ils ne sont que trois, et il les compte deux fois.**
 3. **17 h 09 :** l'homme en orange s'arrête au milieu d'un geste. Personne ne comprend. Le monde en conclura qu'il a épargné la ville.
 4. **Le lac.** Il est le premier être humain à voir l'eau entrer.
 5. Régler les promesses du ch. 1 : le feu de circulation, le train, la tour noire.
@@ -37,7 +37,7 @@ C'est le sujet du chapitre, et il ne doit jamais être formulé.
 |---|---|---|---|---|
 | 1 | 16 h 40 – 16 h 47 | ~900 | En station à 2 km ouest, 600 m. Il filme Conquest et le garçon. Le métier. Marisol. Le direct. | Le ciel se fend. |
 | 2 | **16 h 47 : 00 – 07** | ~1 100 | Les sept secondes, vues à 42×. **Les deux images.** | Le premier coup, et l'onde arrive jusqu'à l'appareil. |
-| 3 | 16 h 48 – 16 h 56 | ~1 400 | Deux combats, un objectif. Omni-Man arrive. Les Guardians arrivent. Il choisit. | Immortal. |
+| 3 | 16 h 48 – 16 h 56 | ~1 400 | Deux combats, un objectif. **Omni-Man ne vient pas.** Les Gardiens arrivent — trois. Il choisit. | Immortal. |
 | 4 | 16 h 56 – 17 h 04 | ~1 200 | Ils meurent. Il les reconnaît à la démarche. L'enfant violet. | La lumière. |
 | 5 | 17 h 04 + 6 s | ~900 | La sphère. Six secondes de rien. Puis le mur. | L'appareil part. |
 | 6 | 17 h 05 – 17 h 09 | ~800 | Rétablissement bas. Il cadre à l'aveugle. **17 h 09.** | Il ne comprend pas. |
@@ -73,7 +73,7 @@ C'est le sujet du chapitre, et il ne doit jamais être formulé.
 | Oliver | **« le petit »**, et il ne comprend pas pourquoi il est violet |
 | Le ki | rien. Il voit de la lumière et il ajuste son diaphragme. |
 
-**Ce qu'il connaît parfaitement :** Omni-Man. Immortal. War Woman. Red Rush. Atom Eve. **Invincible.**
+**Ce qu'il connaît parfaitement :** Omni-Man. Immortal. Black Samson. Shapesmith. Atom Eve. **Invincible.**
 
 > **Le mot « Invincible ».** Ray l'emploie, à l'antenne, naturellement, plusieurs fois. **C'est le dernier chapitre du récit où quelqu'un le prononce sans que ça fasse mal.** Après le jour 0, plus personne. Ne pas souligner.
 
@@ -96,23 +96,23 @@ C'est le sujet du chapitre, et il ne doit jamais être formulé.
 
 ---
 
-## 7. Les Guardians — canon vérifié
+## 7. Les Gardiens — canon vérifié v3
 
 Ray les reconnaît **au mouvement**, jamais au visage.
 
 | Qui | Ce que Ray connaît de lui | Mort |
 |---|---|---|
-| **Omni-Man** — Nolan Grayson | Haut blanc, bas rouge, cape rouge, bottes blanches, le « O » rouge sur la poitrine, la moustache. Il arrive toujours par le haut et il s'arrête net avant de toucher le sol. | Traversé de part en part |
+| **Omni-Man** — Nolan Grayson | Haut blanc, bas rouge, cape rouge, bottes blanches, le « O » rouge sur la poitrine, la moustache. Il arrivait toujours par le haut et il s'arrêtait net avant de toucher le sol. | **ABSENT.** Détenu hors de la Terre. **Ray cadre onze secondes de ciel vide et doit le dire à l'antenne.** |
 | **Invincible** — Mark | Bleu et jaune. Il vole comme quelqu'un qui apprend encore. | Enfoncé dans le sol jusqu'aux épaules |
-| **Immortal** | Le plus ancien. Ray l'a filmé plus que tous les autres réunis. | Fendu en deux par une onde qui ne le visait pas |
-| **War Woman** — Holly | Vole, force, **et une masse à la main**. Ray a filmé cette masse cent fois. | Effacée |
-| **Red Rush** — Josef | Il n'apparaît jamais à l'image : il apparaît comme une **traînée**. Vingt-six ans que Ray n'a jamais réussi à le cadrer net. | Réduit en brouillard par un revers agacé |
+| **Immortal** | Le plus ancien. Ray l'a filmé plus que tous les autres réunis. **Cicatrice fraîche tout autour du cou, neuf jours.** | Tient une seconde le poing de Goku, puis deux morceaux qui tombent. **Il ne se relève pas.** |
+| **Black Samson** | Le vétéran. Une image de lui, prise par Ray, a tourné cinq ans sur les bus de la ville. | Descendu par au-dessus. Cratère de 30 m, vide |
+| **Shapesmith** | **Ray l'a filmé cent fois et jamais lui** : un mur, un bélier, une porte. Quatre cents rushes à son nom et pas un visage dedans. | Un revers de main de Végéta |
 | **Atom Eve** | Rose et blanc. Elle construit dans le vide. | Tuée en tentant un bouclier |
 | **Oliver** | **Peau violette, cheveux raides au menton. Ray n'a jamais vu ça de sa vie.** | Perd un bras. Survit. |
 
-> **Red Rush.** Sa mort est le seul moment du chapitre où Ray obtient enfin ce qu'il cherche depuis vingt-six ans : une image nette de Red Rush immobile. Ne pas commenter. C'est la chose la plus cruelle du chapitre.
+> **Shapesmith.** Sa mort est le seul moment du chapitre où Ray obtient enfin ce qu'il cherche depuis vingt-six ans : une image nette du vrai visage. Ne pas commenter. C'est la chose la plus cruelle du chapitre.
 
-**Absents ce jour-là**, pour des raisons banales : Darkwing, Aquarus, Martian Man, Green Ghost, Black Samson. La banalité de leur survie vaut mieux que l'héroïsme. Ils reviennent au tome 2.
+**Absents ce jour-là**, et pour des raisons qui ne sont pas banales : Rex Splode est mort pendant la Guerre Invincible, Darkwing est perdu dans l'Ombre-Verse, Monster Girl est intubée, Dupli-Kate enterre ses propres copies. **Ils ne sont pas en congé. Ils sont finis.** Voir `00_CANON/ARBITRAGE_CANON_V3.md`.
 
 ---
 
