@@ -14,6 +14,8 @@
 |---|---|---|---|
 | J0 | *(aucune)* | | |
 
+> **⚠ ET CE N'EST PAS UN OUBLI — c'est la règle.** Rien sur cette planète ne peut entamer Goku. Rang S contre un monde qui plafonne à B+, et il est sorti de la capsule médicale quarante minutes avant la faille. **Toute blessure qu'on lui écrirait est une faute de canon.** Une entaille au bras gauche a été écrite au chapitre 8 par réflexe puis retirée : R4 dit *le corps compte*, et pour lui le corps compte par **la faim, l'usure du gi, la crasse, et l'absence totale de marque** — que Debbie constate à trois mètres, en cherchant, du geste d'une mère qui inspecte un garçon rentré le soir. **L'absence est le détail. Elle vaut mieux qu'une plaie.**
+
 **Faim.** 15 000 à 25 000 kcal/jour en activité de combat. Pas de Bulma, pas de capsules, pas d'argent. À faire apparaître **au moins une fois par chapitre** dès le chapitre 4 : ce n'est jamais un gag, c'est un problème logistique.
 
 **Zenkai.** Actif au J0 (post-capsule médicale, Namek). Le prochain arrive au tome 3, payé par six semaines de lit. Chaque zenkai obtenu dans ce monde est un événement rare, payé par une convalescence racontée.

@@ -159,9 +159,19 @@ Le dernier point de sécurité qu'on lui avait donné était une distance. Dix m
 
 Elle s'est arrêtée à trois.
 
-Il était petit. C'est la chose qui l'a atteinte en premier, et elle n'a pas su pourquoi ça l'atteignait. Il lui arrivait au menton. Les épaules étaient larges, les avant-bras étaient ceux d'un homme qui travaille avec, il y avait une entaille mal refermée en haut du bras gauche et une croûte de sang sec dessus depuis plusieurs jours, et il faisait dix centimètres de moins qu'elle.
+Il était petit. C'est la chose qui l'a atteinte en premier, et elle n'a pas su pourquoi ça l'atteignait. Il lui arrivait au menton. Les épaules étaient larges, les avant-bras étaient ceux d'un homme qui travaille avec, et il faisait dix centimètres de moins qu'elle.
 
 Mark en faisait quinze de plus.
+
+Elle a cherché une marque.
+
+Elle ne l'a pas décidé. C'était le geste qu'elle avait eu mille fois quand un garçon rentrait le soir : les mains d'abord, les avant-bras, le cou, la ligne de la mâchoire, et on remonte jusqu'aux cheveux en ayant l'air de faire autre chose.
+
+Il y avait de la poussière sur l'étoffe et de la poussière sur la peau. Sous la poussière, il n'y avait rien. Pas une croûte, pas une cicatrice, pas un bleu en train de jaunir sur les bords. Rien à l'articulation des doigts, rien aux coudes, rien à la tempe.
+
+Neuf jours. Une ville. Et pas une seule marque sur lui.
+
+Elle a arrêté de chercher.
 
 Elle a chassé ça et elle a regardé le visage.
 

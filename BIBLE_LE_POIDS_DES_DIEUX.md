@@ -505,6 +505,8 @@ Le combat n'est jamais le suspense. Il est la **démonstration**. Il faut donc l
 5. **La douleur a une texture.** Une côte cassée n'est pas « une douleur vive » : c'est une gêne à l'inspiration profonde qui devient un couteau à la torsion.
 6. **Bilan chiffré en fin de séquence**, en un paragraphe court, presque administratif. C'est ce qui sépare ce récit d'un shōnen.
 7. **Le silence est une arme.** Un combat sur trois se termine sans un mot.
+
+> **⚠ CETTE §8 NE COUVRE QUE LES COMBATS — et c'est un trou.** Un dieu qui frappe est un événement ; **un dieu assis est une menace permanente.** La grammaire du corps au repos est dans `99_OUTILS/LE_POIDS_DES_CORPS.md` : disproportion **plus** indifférence, quatre registres, deux ou trois effets par scène sur une seule échelle, et **le Saiyan ne remarque jamais ce qu'il produit.**
 8. **Ne jamais faire durer artificiellement.** Si Végéta peut finir en quatre secondes, il finit en quatre secondes — sauf s'il choisit de ne pas le faire, et alors ce choix est **le sujet de la scène**.
 
 ---

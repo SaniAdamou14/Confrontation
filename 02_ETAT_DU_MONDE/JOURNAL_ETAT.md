@@ -8,9 +8,9 @@ Version vivante de la bible §13. **Ce fichier prime sur la bible pour tout ce q
 
 ## ÉTAT COURANT
 
-**Date récit :** Jour 10, 20 h 15 — fin du chapitre 8
-**Dernier chapitre écrit :** ch. 8, « Combien de temps » (5 009 mots)
-**Chapitres écrits :** 8 / 120
+**Date récit :** Jour 10, 20 h 15 — fin du chapitre 8 *(le ch. 9 court en parallèle, J9 13 h → nuit)*
+**Dernier chapitre écrit :** ch. 9, « Ce qu'il en reste »
+**Chapitres écrits :** 9 / 120
 
 ### Décisions de fabrication — à ne pas rouvrir sans raison
 
