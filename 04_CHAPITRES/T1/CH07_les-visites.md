@@ -1,24 +1,26 @@
 # Chapitre 7 — Les visites
 
 > Focalisation : Debbie Grayson
-> Jour 7 · La maison, la route · 06 h 40 → jour 8, matin
-> Mots : 6 300
-
----
+> Jour 7 · La maison, la route · 06 h 40 → jour 9, 09 h 30
+> Mots : 5 800---
 
 *Maison des Grayson, banlieue nord. Jour 7, 06 h 40.*
 
 Le formulaire était sur la table depuis l'avant-veille et elle avait fini par le remplir à quatre heures du matin, dans l'ordre, sans sauter de case.
 
-Nom du déclarant. Lien avec la personne concernée. Dernière adresse connue. Dernier employeur. Numéro de sécurité sociale. Il y avait onze pages et neuf d'entre elles ne servaient qu'à établir qu'elle avait le droit de remplir les deux autres.
+Nom du déclarant. Lien avec la personne concernée. Dernière adresse connue. Dernier employeur. Numéro de sécurité sociale. Onze pages, dont neuf ne servaient qu'à établir qu'elle avait le droit de remplir les deux autres.
 
 À la page huit, on demandait le lieu.
 
-Elle avait écrit *State Street, Chicago, Illinois*, et elle avait laissé la ligne du dessous, celle du numéro, parce que le numéro n'existait plus, et parce que la rue non plus, et parce que le mot qu'il aurait fallu pour désigner ce qu'il y avait là maintenant n'avait pas encore été inventé par les gens dont c'est le métier d'inventer ces mots-là. On disait *le bassin*. Ce n'était pas une adresse.
+Elle avait écrit *State Street, Chicago, Illinois*, et elle avait laissé la ligne du dessous, celle du numéro. Le numéro n'existait plus. La rue non plus. Et le mot qu'il aurait fallu pour désigner ce qu'il y avait là maintenant n'avait pas encore été inventé par les gens dont c'est le métier d'inventer ces mots-là. On disait *le bassin*. Ce n'était pas une adresse.
 
-Elle avait relu la page trois fois. La troisième fois, elle avait vu qu'elle avait écrit *Illinois* avec deux L au mauvais endroit, et elle avait recommencé la page depuis le début, parce qu'un dossier raturé revient.
+Elle avait relu. Elle avait vu qu'elle avait écrit *Illinois* avec deux L au mauvais endroit, et elle avait recommencé depuis le début. Un dossier raturé revient.
 
 En dessous du formulaire il y avait la notice. La notice disait qu'en l'absence de corps, la déclaration de décès relevait d'une procédure judiciaire, que le délai moyen constaté était de neuf à quatorze mois, et qu'une demande accélérée pouvait être déposée dans certains cas.
+
+Elle a égalisé la liasse sur la table, le pouce sur la tranche, comme elle égalisait un dossier avant de le tendre.
+
+Neuf pages pour établir un droit. Deux pour l'exercer. Neuf à quatorze mois pour qu'on y réponde.
 
 Elle avait vendu des maisons pendant vingt ans. Elle savait lire une notice. Celle-là voulait dire que Mark serait vivant sur tous les papiers de ce pays jusqu'au printemps prochain.
 
@@ -46,7 +48,7 @@ Elle a entendu l'homme s'arrêter. Elle l'a laissé s'arrêter.
 
 Elle l'a dit en entier, sans se presser, en séparant les mots comme on donne un prix à quelqu'un qui va discuter. Elle l'avait préparée, cette phrase. Elle l'avait dite à voix haute deux fois dans la cuisine avant d'appeler, pour vérifier qu'elle tenait debout.
 
-L'officier a mis quatre secondes.
+L'officier a laissé passer un temps.
 
 — Madame Grayson, je vais vous lire quelque chose.
 
@@ -64,7 +66,7 @@ Il y a eu un silence, et dans ce silence elle a entendu un homme fatigué décid
 
 — Vingt-neuf fois, madame.
 
-— Bien. (Elle a tiré le formulaire vers elle et elle a retourné la page huit face contre la table.) Alors je vais vous poser une seule question et vous allez y répondre par oui ou par non. Est-ce que vous savez où il est ?
+— Bien. (Elle a tiré le formulaire vers elle et elle l'a retourné face contre la table.) Alors je vais vous poser une seule question et vous allez y répondre par oui ou par non. Est-ce que vous savez où il est ?
 
 Le silence a été plus long.
 
@@ -82,15 +84,15 @@ Elle a regardé la fenêtre de la cuisine. Il faisait encore nuit dehors et la v
 
 — Merci, a-t-elle dit.
 
-Elle a raccroché avant qu'il ne réponde, parce qu'il allait s'excuser une deuxième fois.
+Elle a raccroché avant qu'il ne réponde. Il allait s'excuser une deuxième fois.
 
 Le répondeur du fixe indiquait soixante et un.
 
 Elle les avait tous écoutés, le volume au minimum, entre quatre heures et cinq heures, avec un stylo et le dos d'une enveloppe. Elle avait fait deux colonnes.
 
-Dans la colonne de gauche, ceux qui attendaient une réponse : la banque, deux fois. Le lycée. L'agence. Le cabinet qui gérait les diagnostics. Une femme du service des sinistres d'une compagnie d'assurances, très polie, qui expliquait qu'un dossier ne pouvait pas être instruit sans acte, que l'acte ne pouvait pas être délivré sans corps, et qu'elle rappellerait.
+Dans la colonne de gauche, ceux qui attendaient une réponse : la banque, deux fois. Le lycée. L'agence. Le cabinet d'avocats qui suivait une de ses ventes. Une femme du service des sinistres d'une compagnie d'assurances, très polie, qui expliquait qu'un dossier ne pouvait pas être instruit sans acte, que l'acte ne pouvait pas être délivré sans corps, et qu'elle rappellerait.
 
-Dans la colonne de droite, tous les autres. Des gens qui voulaient dire quelque chose. Certains y arrivaient. La plupart s'arrêtaient au milieu et raccrochaient, et le répondeur gardait les quatre secondes de silence avant la coupure.
+Cinquante-cinq dans la colonne de droite. Des gens qui voulaient dire quelque chose. Certains y arrivaient. La plupart s'arrêtaient au milieu et raccrochaient, et le répondeur gardait le silence avant la coupure.
 
 Elle avait rappelé les six de la colonne de gauche à partir de huit heures la veille, dans l'ordre, en donnant les mêmes renseignements six fois.
 
@@ -106,7 +108,7 @@ Il a mangé les quatre œufs, deux bols de céréales, quatre tranches de pain d
 
 — Non. Ça va.
 
-Elle a noté *œufs* sur la liste aimantée au réfrigérateur, sous *lait* et sous *pain*, et elle a écrit un chiffre à côté, parce qu'elle avait recommencé à écrire des chiffres à côté des choses depuis quatre jours.
+Elle a noté *œufs* sur la liste aimantée au réfrigérateur, sous *lait* et sous *pain*, et elle a écrit un chiffre à côté. Depuis quatre jours, elle écrivait un chiffre à côté de tout.
 
 ---
 
@@ -124,7 +126,7 @@ Huit minutes.
 
 En huit minutes, Nadia Ferreira a dit qu'elle avait quinze ans de pédiatrie et six de terrain, qu'elle était détachée pour la durée nécessaire, qu'elle avait déjà travaillé avec des enfants dont la physiologie sortait des tables, qu'elle ne prendrait aucune décision médicale sans elle, qu'elle pouvait dormir sur place ou pas, comme Debbie préférait, et qu'elle avait besoin de commencer par un relevé simple : taille, poids, alimentation, sommeil, cicatrisation.
 
-Elle a ouvert son classeur pour montrer le relevé. Debbie a vu la première page à l'envers, ce qui lui a suffi, parce qu'un document se lit à l'envers quand on en a signé vingt mille.
+Elle a ouvert son classeur pour montrer le relevé. Debbie a lu la première page à l'envers, sans se pencher.
 
 En haut à droite, il y avait un numéro de dossier et une mention de diffusion.
 
@@ -162,7 +164,7 @@ Oliver était dans l'entrée. Il avait dû descendre pendant.
 
 — Pourquoi elle est partie ?
 
-Debbie s'est accroupie, ce qui ne servait plus à rien parce qu'il lui arrivait maintenant à l'épaule, et elle s'est relevée.
+Debbie s'est accroupie. Il lui arrivait à l'épaule. Elle s'est relevée.
 
 — Parce qu'elle travaille pour Cecil, et que tout ce qu'elle verrait dans cette maison finirait dans un classeur au bureau de Cecil.
 
@@ -182,7 +184,7 @@ Le téléphone a sonné à neuf heures moins vingt.
 
 Ce n'était pas la permanence. C'était une jeune femme d'un bureau qu'elle n'a pas retenu, qui parlait vite et bien, et qui a mis deux minutes à arriver à l'objet.
 
-L'objet, c'était une cérémonie. Le dix-huit, à onze heures, dans une ville qui n'était pas Chicago parce qu'il n'y avait plus de Chicago. Le Président. Deux anciens présidents. Les gouverneurs des trois États voisins. Il y aurait une allée réservée aux familles et il y aurait des caméras, et on souhaitait savoir si madame Grayson accepterait d'y figurer.
+L'objet, c'était une cérémonie. Le dix-huit, à onze heures, dans une ville qui n'était pas Chicago. Le Président. Deux anciens présidents. Les gouverneurs des trois États voisins. Il y aurait une allée réservée aux familles et il y aurait des caméras, et on souhaitait savoir si madame Grayson accepterait d'y figurer.
 
 — D'y figurer, a dit Debbie.
 
@@ -212,25 +214,25 @@ Elle a répondu la même après-midi qu'elle gardait les trois.
 
 *Pavillon, 41 Cedar Row. Jour 7, 11 h 00.*
 
-Le mandat était signé depuis six semaines, la visite était calée depuis dix jours, et elle n'avait annulé ni l'une ni l'autre.
+Le mandat courait depuis six semaines et la visite était calée. Elle n'avait annulé ni l'une ni l'autre.
 
-Quatre pièces, cent trente mètres carrés, un garage attenant, une véranda ajoutée en dépit du bon sens dans les années quatre-vingt-dix et jamais déclarée. La cuisine était à refaire entièrement. La chaudière avait quatorze ans, ce qui n'est pas un défaut à condition de le dire avant qu'on le découvre.
+Quatre pièces, cent trente mètres carrés, un garage attenant, une véranda ajoutée en dépit du bon sens et jamais déclarée. La cuisine était à refaire entièrement. La chaudière avait quatorze ans et elle le dirait avant qu'on le découvre.
 
 Les acheteurs s'appelaient Hollis. Lui portait une chemise repassée pour l'occasion. Elle avait un carnet et elle avait fait ses devoirs.
 
 — La chaudière, a dit madame Hollis dans le couloir.
 
-— Quatorze ans. Elle tiendra trois ou quatre hivers et ensuite il faudra la changer. Comptez sept mille avec la pose. C'est dans le diagnostic, page onze, et j'ai fait baisser le prix de cinq mille pour ça il y a un mois.
+— Quatorze ans. Elle tiendra trois ou quatre hivers et ensuite il faudra la changer. Comptez sept mille avec la pose. Votre inspecteur la sortira de toute façon, alors autant que vous l'ayez maintenant : j'ai fait baisser le prix de cinq mille pour ça il y a un mois.
 
 — Vous avez fait baisser le prix ?
 
 — C'est mon métier de vendre le bien, madame Hollis. Ce n'est pas mon métier de vous faire signer quelque chose que vous regretterez en janvier.
 
-Ils ont visité les chambres. Monsieur Hollis a ouvert tous les placards, un par un, ce que font les hommes qui n'ont jamais acheté de maison. Madame Hollis a mesuré la deuxième chambre avec ses pas et elle a écrit un chiffre dans son carnet.
+Ils ont visité les chambres. Monsieur Hollis a ouvert tous les placards, un par un. Il n'avait jamais acheté de maison. Madame Hollis a mesuré la deuxième chambre avec ses pas et elle a écrit un chiffre dans son carnet.
 
 Personne ne l'a reconnue.
 
-C'était la troisième fois depuis lundi qu'elle passait quarante minutes dans une pièce avec des gens qui ne savaient rien, et elle avait fini par comprendre que c'était pour ça qu'elle n'annulait pas. Dans cette maison-là, elle était la femme qui connaît la chaudière. Personne n'avait à baisser la voix en la voyant entrer. Personne ne réfléchissait avant de dire une phrase.
+C'était le troisième matin où elle passait quarante minutes dans une pièce avec des gens qui ne savaient rien, et elle avait fini par comprendre que c'était pour ça qu'elle n'annulait pas. Dans cette maison-là, elle était la femme qui connaît la chaudière. Personne n'avait à baisser la voix en la voyant entrer. Personne ne réfléchissait avant de dire une phrase.
 
 Ils sont ressortis sur le trottoir à onze heures quarante. Le ciel était bas. Il y avait un camion de déménagement trois maisons plus loin, qui chargeait au lieu de décharger.
 
@@ -242,7 +244,7 @@ Sa femme a regardé la rue dans les deux sens.
 
 — Madame Grayson. Est-ce que le quartier est sûr ?
 
-Debbie a mis un temps. Pas long. Le temps qu'il faut pour tourner une page.
+Debbie a mis un temps. Pas long.
 
 — Le quartier est calme. Il y a une école à six cents mètres, un commissariat de secteur à un kilomètre deux, et le dernier cambriolage déclaré dans cette rue remonte à quatre ans.
 
@@ -258,7 +260,7 @@ Madame Hollis a regardé le camion de déménagement, puis ses chaussures.
 
 — Vous, vous répondriez quoi ? Si c'était vous qui achetiez ?
 
-Debbie a sorti ses clés et elle a fermé la boîte à clés du portail, à trois chiffres, en les remettant à zéro comme elle le faisait toujours.
+Debbie a sorti ses clés et elle a refermé la boîte à clés accrochée à la poignée, à trois chiffres, en les remettant à zéro comme elle le faisait toujours.
 
 — J'achèterais, a-t-elle dit. Parce qu'attendre ne rend rien plus sûr, et parce qu'il faut bien habiter quelque part.
 
@@ -270,11 +272,11 @@ Ils l'ont remerciée. Ils ont rappelé à seize heures pour faire une offre à o
 
 Amber est arrivée avec deux sacs de courses qu'on ne lui avait pas demandés et elle a commencé à parler avant d'avoir passé la porte.
 
-Elle a parlé du parking, de la circulation, de la fille de son bureau qui avait un cousin à Cicero, du fait qu'on ne trouvait plus de piles nulle part depuis une semaine et que personne ne savait pourquoi. Elle a rangé les courses en parlant. Elle a ouvert trois placards et elle a remis les boîtes aux mauvais endroits.
+Elle a parlé du parking, de la circulation, de la fille de son bureau qui avait un cousin à Cicero, du fait qu'on ne trouvait plus de piles nulle part et que personne ne savait pourquoi. Elle a rangé les courses en parlant. Elle a ouvert trois placards et elle a remis les boîtes aux mauvais endroits.
 
 Debbie l'a laissée faire.
 
-Elle avait compris, le quatrième jour, qu'Amber venait pour parler et qu'il ne fallait surtout pas l'arrêter, parce que le jour où on l'arrêterait, elle s'assiérait, et alors il faudrait dire quelque chose.
+Elle avait compris, le quatrième jour, qu'Amber venait pour parler et qu'il ne fallait surtout pas l'arrêter. Le jour où on l'arrêterait, elle s'assiérait. Et alors il faudrait dire quelque chose.
 
 — Il est où ? a fini par demander Amber.
 
@@ -296,7 +298,7 @@ C'est Oliver qui est descendu.
 
 Il portait un tee-shirt qu'il avait depuis quatre jours et qui lui remontait au-dessus du nombril. Le col tirait. La couture de l'épaule droite était partie sur deux centimètres.
 
-Amber l'a regardé et elle n'a rien dit du tout, ce qui, chez elle, ne s'était jamais produit.
+Amber l'a regardé et elle n'a rien dit du tout. Ça ne lui était jamais arrivé.
 
 — J'ai encore grandi, a dit Oliver.
 
@@ -306,7 +308,7 @@ Elle l'a emmené jusqu'au chambranle de la porte de la cuisine, celui qui donne 
 
 Le chambranle était marqué depuis le bas.
 
-Les premières marques étaient à cinquante-huit centimètres du sol et dataient de vingt-deux ans. Elles montaient ensuite, deux ou trois par an, avec une date écrite en petit à côté de chaque trait, en capitales penchées vers la droite. Ce n'était pas l'écriture de Debbie. Elle avait tenu l'enfant contre le bois et c'était Nolan qui traçait, chaque fois, parce qu'il disait qu'un trait mal droit ne sert à rien et qu'il tenait à ce que ce soit propre.
+Les premières marques étaient à cinquante-huit centimètres du sol et dataient de vingt-deux ans. Elles montaient ensuite, deux ou trois par an, avec une date écrite en petit à côté de chaque trait, en capitales penchées vers la droite. Ce n'était pas l'écriture de Debbie. Elle avait tenu l'enfant contre le bois et c'était Nolan qui traçait, chaque fois. Il ne laissait ça à personne. Un trait de travers ne renseigne sur rien, disait-il, et il s'accroupissait avec le crayon pour faire une ligne propre.
 
 Les marques s'arrêtaient à un mètre soixante-seize.
 
@@ -344,17 +346,17 @@ La pile était sur l'étagère du haut, à droite, à l'endroit où elle avait t
 
 Elle a pris la pile entière, elle est redescendue, et elle l'a posée sur la table de la cuisine.
 
-Amber s'est retournée. Elle a vu ce que c'était en une seconde, parce que la chemise du dessus était bleue avec un col boutonné et qu'elle l'avait vue cent fois.
+Amber s'est retournée. Elle a vu ce que c'était avant que la pile ait fini de se poser. La chemise du dessus était bleue, col boutonné, et elle l'avait vue cent fois.
 
 Elle n'a rien dit non plus.
 
-Debbie a sorti la troisième de la pile, une chemise à carreaux, grise et rouge, en flanelle, une taille au-dessus des autres parce que Mark l'avait achetée trop grande et l'avait gardée quand même.
+Debbie a sorti la troisième de la pile, une chemise à carreaux, grise et rouge, en flanelle, une taille au-dessus des autres. Mark l'avait achetée trop grande et l'avait gardée quand même.
 
 — Lève les bras, a-t-elle dit.
 
 Oliver a levé le bras.
 
-Elle lui a enfilé la chemise. Les épaules tombaient de trois centimètres, ce qui n'a pas duré, elle le savait, ce qui durerait quinze jours au mieux. Elle a boutonné en partant du bas.
+Elle lui a enfilé la chemise. Les épaules tombaient de trois centimètres. Quinze jours, au mieux. Elle a boutonné en partant du bas.
 
 Puis il est resté la manche gauche.
 
@@ -414,7 +416,7 @@ Amber avait fermé le robinet et elle avait remis sa veste.
 
 — Non.
 
-Amber a pris son sac. À la porte, elle s'est arrêtée, la main sur la poignée, et elle a dit la chose sans se retourner.
+Elle a pris son sac. À la porte, elle s'est arrêtée, la main sur la poignée, et elle a dit la chose sans se retourner.
 
 — Il a onze secondes sur les images où il porte une fille. Onze secondes. Et il y a des gens, en ce moment, qui ont mis ces onze secondes sur des tee-shirts.
 
@@ -436,7 +438,7 @@ Elle l'a sortie, elle l'a remise debout dans le placard du bas avec les autres, 
 
 *La cuisine. Jour 7, 22 h 50.*
 
-Le téléphone a sonné trois fois avant qu'elle ne décroche, parce qu'elle avait pris l'habitude de compter.
+Le téléphone a sonné trois fois avant qu'elle ne décroche. Elle comptait les sonneries depuis huit jours.
 
 — Madame Grayson.
 
@@ -454,7 +456,7 @@ Elle a tiré la chaise et elle s'est assise, ce qu'elle n'avait pas fait de la j
 
 — Votre officier m'a lu un texte.
 
-— Il a fait son travail. Il m'a rendu compte à sept heures et il vous a citée exactement, ce qui est plus rare que vous ne croyez. (Un temps très court.) Demain, dix heures. Comté de Luna, Nouveau-Mexique. Il y a une route de service qui part de la 26, quatorze kilomètres, elle ne mène nulle part. On vous donnera les coordonnées.
+— Il a fait son travail. Il m'a rendu compte à sept heures et il vous a citée exactement. C'est plus rare que vous ne croyez. (Un temps très court.) Après-demain, dix heures. Comté de Luna, Nouveau-Mexique. Il y a une route de service qui part de la 26, quatorze kilomètres, elle ne mène nulle part. On vous donnera les coordonnées.
 
 Debbie n'a rien dit.
 
@@ -536,7 +538,7 @@ Debbie a ouvert la bouche et l'a refermée.
 
 — Je conduis.
 
-— C'est six heures de route.
+— Madame Grayson. Il y a deux mille cinq cents kilomètres. Vous n'y arriverez pas.
 
 — Je conduis, a dit Debbie. Si je monte dans votre voiture, j'arrive là où votre chauffeur me dépose, et je repars quand votre chauffeur démarre. Je conduis.
 
@@ -566,49 +568,89 @@ C'était la première fois en sept ans qu'elle remerciait cet homme.
 
 ---
 
-*Interstate 25, sud. Jour 8, 05 h 30.*
+*Interstate 55, sud. Jour 8, 00 h 20.*
 
-Elle est partie à cinq heures trente parce qu'elle avait calculé six heures dix de route et qu'elle voulait quarante minutes de marge, et parce qu'arriver en retard aurait donné à quelqu'un une raison de décider quelque chose à sa place.
+Amber est arrivée à vingt-trois heures cinquante avec un sac de sport et elle n'a posé aucune question.
 
-Elle avait pris son sac de travail. C'était le sac qu'elle emportait aux compromis de vente : un porte-documents rigide, du format des dossiers, avec une poche extérieure pour les clés des biens. Elle n'avait rien à y mettre et elle l'avait pris quand même, parce que ses mains savaient le tenir.
+Debbie lui a dicté les quantités au dos de la même enveloppe. Quatre œufs le matin, le double à midi, et recompter tous les jours : ça monte. Elle a écrit *pharmacie* et elle a barré. Elle a écrit le numéro du cabinet qui suivait Mark quand il avait douze ans, et elle a barré aussi.
 
-Dedans, il y avait une bouteille d'eau, deux barres de céréales, son téléphone, une enveloppe avec trois phrases écrites au dos, et le formulaire de onze pages qu'elle n'avait pas posté.
+Ce qu'elle n'avait pas prévu, c'est ce que ça coûterait de dicter ça à quelqu'un d'autre.
 
-Elle avait appelé Amber à vingt-trois heures vingt.
-
-Ça avait été la conversation la plus courte des sept derniers jours. Elle avait dit *j'ai besoin que tu viennes dormir à la maison*, Amber avait dit *quand*, elle avait dit *maintenant*, et Amber avait dit *j'arrive* et avait raccroché.
-
-Elle était arrivée à minuit dix avec un sac de sport et elle n'avait pas posé une seule question. Elle avait dormi dans le canapé du bas. Debbie avait entendu la télévision jusqu'à deux heures.
-
-Ce qu'elle n'avait pas prévu, c'est ce que ça lui coûterait de demander.
-
-Elle l'a compris à cinq heures moins le quart, sur le palier, en donnant à Amber la liste des quantités — quatre œufs le matin, le double à midi, et il faut recompter parce que ça monte —, et en s'entendant expliquer à quelqu'un d'autre comment nourrir cet enfant-là.
-
-Oliver s'était levé. Il était en haut de l'escalier, en chemise à carreaux, la manche gauche pliée et épinglée.
+Oliver était en haut de l'escalier, en chemise à carreaux, la manche gauche pliée et épinglée.
 
 — Tu pars où ?
 
-— Dans le Sud. Je rentre demain.
+— Dans le Sud. Je rentre après-demain.
 
 — Pour le travail ?
 
-Debbie a mis son manteau.
-
 — Non.
 
-Il a hoché la tête. Il n'a pas demandé autre chose, et elle a compris à cet instant précis qu'il savait, et qu'il avait décidé de ne pas le lui faire dire, et que cette délicatesse-là, il ne l'avait apprise de personne.
+Il a hoché la tête. Il n'a rien demandé de plus, et elle a compris à cet instant-là qu'il savait, qu'il avait décidé de ne pas le lui faire dire, et que cette délicatesse il ne l'avait apprise de personne.
 
 — Il y a des œufs, a-t-elle dit.
 
 — Je sais.
 
-Elle est sortie.
+Deux mille cinq cents kilomètres. Elle avait ouvert l'atlas sur la table de la cuisine pendant qu'Amber montait son sac, et elle avait suivi le trait avec l'ongle : descendre le 55 jusqu'à Saint-Louis, prendre le 44 en travers du Missouri et de l'Oklahoma, basculer sur le 40 à Oklahoma City et tenir plein ouest jusqu'au Nouveau-Mexique. Vingt et une heures de conduite, sans compter l'essence ni le reste. Cecil le lui avait dit au téléphone et il avait raison sur ce point comme sur les autres. Elle irait aussi loin que la nuit et la journée la porteraient, elle dormirait là où elle tomberait, et elle repartirait avant le jour.
 
-La route a été longue et vide. Elle a dépassé Santa Fe à sept heures quarante, Albuquerque à huit heures cinquante, et à partir de Socorro il n'y a plus eu grand-chose : des panneaux, des sorties numérotées, deux stations, un train de marchandises qui a longé la voie pendant onze minutes sur sa gauche et qui l'a lâchée dans une courbe.
+Elle est sortie à minuit vingt.
+
+L'Illinois a duré jusqu'à trois heures. Il n'y avait sur la route que des semi-remorques et des voitures de nuit, et les fenêtres de la vitre côté conducteur se sont mises à geler par le bas vers deux heures et demie.
+
+Le jour est venu dans le Missouri, gris d'abord, puis franc. Elle a compté les poteaux électriques pendant une demi-heure et elle a arrêté quand elle s'est aperçue qu'elle comptait.
+
+Elle a fait le plein à Rolla, un café à Springfield, un autre à Joplin qu'elle n'a pas bu.
+
+Oklahoma City est arrivé à midi trente et l'a tenue une heure : des travaux, une déviation, quatre kilomètres au pas derrière un camion-toupie. Elle a mis la radio et elle a entendu deux hommes discuter d'un match. Elle a laissé jusqu'à Yukon, puis elle a coupé.
+
+Le Texas a commencé quelque part après Elk City et le paysage a changé de nature sans prévenir. Les arbres se sont espacés, puis se sont arrêtés. Le ciel a pris toute la hauteur qu'on lui laissait.
+
+Amarillo à dix-sept heures. Une odeur de bétail sur douze kilomètres, si épaisse qu'elle a remonté sa vitre en pleine chaleur.
+
+Elle a passé la frontière du Nouveau-Mexique au coucher du soleil et elle a gagné une heure en la passant. La pendule du tableau de bord est descendue toute seule. Ça ne lui a rien rendu.
+
+Sur les cent derniers kilomètres elle est tombée à quatre-vingts sans s'en apercevoir, et elle ne s'en est aperçue qu'en se faisant doubler par un semi-remorque chargé.
+
+Elle s'est arrêtée à Santa Rosa à dix-neuf heures quarante, parce qu'elle avait commencé à voir des choses sur les bas-côtés qui n'y étaient pas.
+
+Le motel était sur la route d'accès, à côté d'une station. Quarante-quatre dollars. La femme de l'accueil lui a donné une clé avec une plaque de plastique verte et lui a demandé si elle voulait qu'on la réveille.
+
+— À quatre heures et quart.
+
+— Vous repartez tôt.
+
+— J'ai encore de la route.
+
+La chambre sentait la moquette et le désinfectant. Elle a posé son sac de travail sur le lit, elle a retiré ses chaussures, et elle s'est allongée par-dessus le couvre-lit sans le défaire.
+
+Elle a dormi quatre heures et elle s'est réveillée à minuit moins le quart.
+
+Elle ne s'est pas rendormie.
+
+Le plafond prenait les phares des camions qui entraient et sortaient de la station d'à côté. Il en est passé onze avant qu'elle se lève.
+
+Elle a sorti l'enveloppe de son sac de travail et elle a lu les trois phrases qu'elle avait écrites au dos pendant que le thé infusait, la veille, dans une cuisine à deux mille kilomètres. Elle les a relues debout, sous la lampe de la salle de bains.
+
+Elles étaient bonnes. Toutes les trois. Elle n'en avait utilisé aucune et personne ne les lirait jamais.
+
+Elle a remis l'enveloppe dans la poche extérieure, celle où vont les clés des biens.
+
+À deux heures, elle a décroché le téléphone de la chambre et elle a composé les six premiers chiffres de chez elle. Puis elle a reposé le combiné et elle s'est rallongée par-dessus le couvre-lit, tout habillée, en attendant quatre heures et quart.
+
+---
+
+*Santa Rosa, Nouveau-Mexique. Jour 9, 04 h 40.*
+
+Il faisait nuit noire et froid quand elle a rendu la clé.
+
+Cinq cent dix kilomètres restaient. Elle avait fait le calcul la veille au soir, sur le lit, avec un stylo : cinq heures dix de route, un arrêt, quarante minutes de marge.
+
+Albuquerque est passé dans une lumière qui n'était pas encore levée, ville étalée et basse, avec des montagnes qui se sont allumées à droite. Elle a pris le 25 vers le sud et la route s'est vidée d'un coup.
 
 Elle s'est arrêtée une fois, à Truth or Consequences, dans une station qui vendait aussi des sandwichs.
 
-Elle a fait le plein. Elle est allée aux toilettes. Elle a payé à l'intérieur parce que la pompe ne prenait pas la carte, et il y avait un présentoir près de la caisse, à hauteur des yeux, avec des tee-shirts pliés dans des sachets plastique.
+Elle a fait le plein. Elle est allée aux toilettes. Elle a payé à l'intérieur, la pompe ne prenant pas la carte, et il y avait un présentoir près de la caisse, à hauteur des yeux, avec des tee-shirts pliés dans des sachets plastique.
 
 Il y en avait deux modèles.
 
@@ -624,21 +666,27 @@ Le dessin n'était pas ressemblant. Personne n'avait vu ce visage-là d'assez pr
 
 — Vous en vendez ? a demandé Debbie.
 
-— Douze aujourd'hui, a dit la caissière. Et on est mercredi.
+— Douze aujourd'hui, a dit la caissière. Et il est neuf heures.
 
 Debbie a pris sa monnaie et elle est ressortie.
 
-Le paysage a perdu ses arbres vers neuf heures. Puis il a perdu le reste.
+Le paysage avait perdu ses arbres depuis le Texas. Après Hatch, il a perdu le reste.
 
-À neuf heures vingt, elle a pris la sortie et elle a trouvé la route de service. Quatorze kilomètres. Elle était en terre battue sur les cinq derniers, et il y avait des traces de pneus larges, doubles, récentes, qui n'appartenaient à aucun véhicule civil.
+À dix heures cinq, elle a pris la sortie et elle a trouvé la route de service.
+
+Quarante minutes de marge, la veille au soir, avec un stylo.
+
+Quatorze kilomètres. Elle était en terre battue sur les cinq derniers, et il y avait des traces de pneus larges, doubles, récentes, qui n'appartenaient à aucun véhicule civil.
 
 À dix kilomètres, elle a vu les premiers véhicules garés en épi, très loin sur la droite, tout petits.
 
 À douze, elle a vu quelqu'un lever un bras.
 
+La pendule du tableau de bord disait dix heures vingt-trois. L'homme qui levait le bras ne l'a pas baissé pour regarder sa montre, et personne, de toute la journée, n'a relevé l'heure à laquelle elle était arrivée.
+
 Elle a ralenti. Elle a mis son clignotant, seule sur une piste de terre à quatorze kilomètres de la première route, et elle s'en est aperçue et elle l'a laissé.
 
-Puis, par habitude, parce qu'elle faisait ce geste depuis vingt ans chaque fois qu'elle ralentissait, elle a levé les yeux vers le rétroviseur intérieur pour vérifier la banquette arrière.
+Puis, par habitude, du geste qu'elle faisait depuis vingt ans chaque fois qu'elle ralentissait, elle a levé les yeux vers le rétroviseur intérieur pour vérifier la banquette arrière.
 
 Elle est restée dessus une seconde de trop.
 

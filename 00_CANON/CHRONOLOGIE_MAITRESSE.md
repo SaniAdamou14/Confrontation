@@ -4,6 +4,47 @@ Dérivé de la bible §1, §2, §3, §5.4, §6.1, §6.3, §10. Autorité : la bi
 
 ---
 
+## 0. LE CALENDRIER — épinglé
+
+> **JOUR 0 = MARDI 1er OCTOBRE 2024.**
+
+Trois systèmes devaient s'accorder : un jour de semaine déjà contraint par onze ancrages, une phase lunaire (croissant décroissant quasi invisible au J0, **pleine lune au J17** pour l'Ozaru), et une date absolue déjà écrite dans le chapitre 7 — *« le dix-huit, à onze heures »*. Sur 2024-2030, sept mardis satisfont les contraintes lunaires. **Un seul les satisfait toutes.**
+
+| Repère | Date réelle | Âge de la lune | Contrôle |
+|---|---|---|---|
+| **J0** | mardi 1er octobre 2024 | **27,4 j** | croissant décroissant très fin, quasi invisible — bible §13 ✓ |
+| J3 | vendredi 4 octobre | 0,9 j | nouvelle lune. Tres Palomas |
+| J9 | jeudi 10 octobre | **6,9 j** | la table §4 disait *6,8 j, presque premier quartier* ✓ — **Goku voit la lune en plein jour** |
+| J13 | lundi 14 octobre | 10,9 j | Anissa |
+| **J17** | **vendredi 18 octobre** | **14,9 j** | **PLEINE LUNE — l'Ozaru** ✓ |
+| J20 | lundi 21 octobre | 17,9 j | fin de tome |
+
+> **⚠ CE QUE ÇA PRODUIT, ET QUI N'ÉTAIT PAS PRÉVU.** La cérémonie nationale annoncée à Debbie au chapitre 7 — *« le dix-huit, à onze heures »*, le Président, deux anciens présidents, une allée réservée aux familles, des caméras — **tombe exactement le jour de l'Ozaru.** Debbie a refusé d'y figurer au jour 7, pour ses propres raisons, dix jours avant que personne puisse savoir. Voir `FUSILS_DE_TCHEKHOV.md`.
+
+**Méthode de contrôle :** mois synodique 29,530 588 j, nouvelle lune de référence 6 janvier 2000 à 18 h 14 UTC. Vérifiable sur éphémérides.
+
+Ce n'est pas une décision prise ici : c'est une contrainte que les chapitres 3, 5 et 6 ont déjà écrite, et les onze ancrages du texte sont cohérents entre eux. Elle est consignée maintenant pour qu'aucun chapitre à venir n'ait à la deviner.
+
+| Jour | Semaine | Ancrage dans le texte |
+|---|---|---|
+| **J0** | **mardi** | ch. 3 « la population présente à cette heure-là, **un mardi** » · ch. 6 « je l'ai fait **mardi** soir » |
+| J1 | mercredi | ch. 6 « le grondement s'entend dans tout le bâtiment depuis **mercredi** » |
+| J2 | jeudi | ch. 6 « ligne par ligne, avec Ilana Voss, à deux heures du matin le **jeudi** » |
+| J3 | vendredi | ch. 5 « le rapport de **vendredi** » — Tres Palomas, quatorze retenus, quatre morts |
+| J4 | samedi | ch. 6 « tombé dans les cailloux **samedi** à dix-sept heures quarante-quatre » |
+| J5 | dimanche | ch. 6 « la demande de levée dort depuis **dimanche** matin » ; transcription certifiée dimanche 17 h 25 |
+| J6 | lundi | chapitre 6 lui-même |
+| J7 | mardi | chapitre 7 |
+| J8 | mercredi | la route |
+| **J9** | **jeudi** | ch. 7 « Douze aujourd'hui. Et on est **jeudi**. » · la confrontation, ch. 8 |
+| J13 | lundi | Anissa |
+| J17 | vendredi | l'Ozaru |
+| J19-J20 | dimanche-lundi | la maison Grayson, fin de tome |
+
+**Contrôle :** `(numéro du jour) mod 7` — 0 mardi, 1 mercredi, 2 jeudi, 3 vendredi, 4 samedi, 5 dimanche, 6 lundi.
+
+---
+
 ## 1. Avant l'arrivée
 
 | Repère | Événement |

@@ -11,11 +11,11 @@ Sous ses pieds, la pente descendait vers une lumière orange sur une longueur qu
 
 Il les sentait comme on entend une pièce pleine à travers une porte : pas les visages, pas les noms, la charge. Quatre cents présences serrées, brouillées les unes dans les autres, avec des différences de densité qui lui disaient à peu près où elles étaient et à peu près combien il leur restait.
 
-Il en avait senti trois mille à dix-sept heures neuf. Douze minutes plus tard, quatorze cents. Elles ne s'éteignaient pas au hasard : elles suivaient une courbe, décroissante et régulière, la même courbe qu'il avait vue partout où quelque chose s'était effondré sur des gens.
+À dix-sept heures neuf, il en avait senti trois mille. Douze minutes plus tard, quatorze cents. Elles ne s'éteignaient pas au hasard : elles suivaient une courbe, décroissante et régulière, la même courbe qu'il avait vue partout où quelque chose s'était effondré sur des gens.
 
 Il est descendu.
 
-La première dalle qu'il a soulevée devait peser trois cents tonnes et elle est venue sans effort, ce qui a produit une avalanche secondaire vingt mètres plus bas, et il a compris tout de suite qu'il fallait travailler autrement. Il a recommencé plus lentement, en calant, en cherchant les points de charge avant de tirer, et il a mis quarante minutes à établir une méthode qui ne tuait personne.
+La première dalle qu'il a soulevée devait peser trois cents tonnes et elle est venue sans effort et une avalanche secondaire est partie vingt mètres plus bas, et il a compris tout de suite qu'il fallait travailler autrement. Il a recommencé plus lentement, en calant, en cherchant les points de charge avant de tirer, et il a mis quarante minutes à établir une méthode qui ne tuait personne.
 
 Ensuite il a été très rapide.
 
@@ -23,7 +23,7 @@ Il en a sorti soixante et onze en deux heures. Il les remontait sur le bord oues
 
 Neuf étaient éveillés et faisaient du bruit. Les autres, non.
 
-Il les a alignés parce qu'un alignement est plus facile à compter pour ceux qui viendraient, et il est redescendu.
+Il les a alignés. Un alignement se compte plus vite, pour ceux qui viendraient. Puis il est redescendu.
 
 Vers vingt heures, l'eau est arrivée.
 
@@ -63,7 +63,7 @@ C'est à ce moment-là qu'il a senti l'autre.
 
 *Une crête, à soixante kilomètres au nord-ouest. Jour 1, 05 h 40.*
 
-Il a mis une heure et demie à le rejoindre, en volant lentement, parce que voler vite dans une couche nuageuse épaisse au-dessus d'un relief qu'on ne connaît pas est une bêtise qu'on ne fait qu'une fois.
+Il a mis une heure et demie à le rejoindre, en volant lentement. Voler vite dans une couche épaisse au-dessus d'un relief qu'on ne connaît pas est une bêtise qu'on ne fait qu'une fois.
 
 Il l'a trouvé sur une arête de grès, à quinze cents mètres, assis sur un rocher, face au sud-est.
 
@@ -169,7 +169,7 @@ Il a laissé passer un temps.
 
 — Et c'est très ennuyeux.
 
-Il est monté sur la pointe du rocher et il a regardé au sud-est, vers la colonne de vapeur qu'on voyait d'ici comme un pilier blanc appuyé sous les nuages, à soixante kilomètres.
+Goku est monté sur la pointe du rocher et il a regardé au sud-est, vers la colonne de vapeur qu'on voyait d'ici comme un pilier blanc appuyé sous les nuages, à soixante kilomètres.
 
 — Ce monde n'a rien, a-t-il dit. J'ai balayé toute la nuit dans un rayon de mille kilomètres. Pas une signature au-dessus d'un insecte. Ils ont mis trois individus en face de toi et tu les as tués en marchant. Il n'y a rien ici.
 
@@ -209,7 +209,7 @@ Ce qu'il n'avait pas remarqué sur le moment, et qu'il n'a compris que beaucoup 
 
 Elle était grande sans l'être trop, posée à plat sur une plaine, avec une rivière qui la traversait et un axe large où toutes les enseignes étaient allumées en plein jour.
 
-Ils sont entrés par la rue, à pied, ce qui était l'idée de Végéta.
+Ils sont entrés par la rue, à pied. L'idée était de Végéta.
 
 Goku a senti la ville se retourner sur eux en quinze secondes. Ce n'était pas visible — les gens continuaient de marcher, les véhicules continuaient de rouler — mais dans le ki de tout le monde, sur deux cents mètres, il y a eu la même torsion en même temps, cette accélération sèche qu'il connaissait par cœur et qui, sur un champ de bataille, précède toujours quelque chose.
 
@@ -231,7 +231,7 @@ C'était une grande salle avec des tables, un comptoir au fond, une odeur de gra
 
 Il a choisi une table au milieu, il a fait glisser deux couverts sur le côté du plat de la main, et il s'est assis.
 
-Il n'a rien dit. Il n'a rien demandé. Il a posé les avant-bras sur la table et il a attendu, le dos droit, avec l'expression d'un homme qui a été servi toute sa vie et qui compte l'être encore.
+Végéta n'a rien dit, n'a rien demandé. Il a posé les avant-bras sur la table et il a attendu, le dos droit, avec l'expression d'un homme qui a été servi toute sa vie et qui compte l'être encore.
 
 Il y a eu vingt-deux secondes.
 
@@ -337,7 +337,7 @@ Il est resté debout, dans l'herbe couchée, tourné vers l'ouest, les bras le l
 
 Goku a attendu. Il a supposé qu'il écoutait quelque chose, ou qu'il attendait une deuxième vague, et il a vérifié lui-même sur trois cents kilomètres. Il n'y avait rien qui arrivait.
 
-Il a quand même attendu, parce qu'on n'interrompt pas.
+Il a quand même attendu. On n'interrompt pas.
 
 Au bout de quatre minutes, il a remarqué le ki.
 
@@ -401,7 +401,7 @@ Il s'est demandé si le ki fonctionnait de la même façon ici. Il a conclu que 
 
 Puis il s'est demandé combien de temps durait une année, sur ce monde-ci.
 
-C'était une question technique, et il l'a traitée comme telle. Les années n'ont pas la même longueur partout ; il l'avait appris d'une manière désagréable, une fois, en découvrant qu'un délai qu'on lui avait annoncé ne voulait pas dire ce qu'il croyait. Si l'année d'ici était courte, tant mieux. Si elle était longue, il valait mieux le savoir tout de suite, parce qu'un an est un an et qu'on peut attendre n'importe quoi du moment qu'on sait combien de temps.
+C'était une question technique, et il l'a traitée comme telle. Les années n'ont pas la même longueur partout ; il l'avait appris d'une manière désagréable, une fois, en découvrant qu'un délai qu'on lui avait annoncé ne voulait pas dire ce qu'il croyait. Si l'année d'ici était courte, tant mieux. Si elle était longue, il valait mieux le savoir tout de suite. Un an est un an, et on attend n'importe quoi du moment qu'on sait combien de temps.
 
 Il a cherché la lune pour se donner une échelle.
 
@@ -431,7 +431,7 @@ Il a attendu.
 
 Végéta n'a pas bougé.
 
-Goku a compté, parce qu'il comptait toujours — il avait compté les onze minutes de la veille, les six secondes sur la crête, les onze sonneries derrière le comptoir. Quarante minutes. Cinquante. Une heure. Pas un mouvement de la tête, pas un déplacement de poids d'un pied sur l'autre, rien de ce que fait un corps debout qui s'ennuie.
+Goku a compté. Il comptait toujours : les onze minutes de la veille, les six secondes sur la crête, les onze sonneries derrière le comptoir. Quarante minutes. Cinquante. Une heure. Pas un mouvement de la tête, pas un déplacement de poids d'un pied sur l'autre, rien de ce que fait un corps debout qui s'ennuie.
 
 Son ki était redevenu haut, serré, et absolument stable.
 
@@ -529,6 +529,6 @@ Goku est resté seul sur l'arête.
 
 Il s'est relevé, il a marché jusqu'à la pointe, à l'endroit exact où l'autre s'était tenu pendant une heure et quatre minutes, et il a levé la tête vers le morceau de ciel où il n'y avait pas d'étoiles.
 
-Il l'a regardé longtemps.
+Goku l'a regardé longtemps.
 
 Il n'y avait toujours rien.

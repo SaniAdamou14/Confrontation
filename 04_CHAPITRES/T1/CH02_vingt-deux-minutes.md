@@ -95,7 +95,7 @@ Ray a poussé.
 
 Le geste est parti tout seul, la main sur le manche, l'index sur la bague, et à la fin du mouvement il tenait un homme en plan poitrine à deux kilomètres.
 
-Petit. Une armure — de la vraie plaque, blanche, avec des pièces jaunes aux épaules. Les cheveux dressés en pointe. Il flottait à quinze mètres du sol sans bouger d'un centimètre.
+Petit. Une armure — de la vraie plaque, blanche, sanglée par deux bretelles étroites, avec des plaques brunes sur le ventre. Les cheveux dressés en pointe. Il flottait à quinze mètres du sol sans bouger d'un centimètre.
 
 — Ray.
 
@@ -211,7 +211,7 @@ Ray a balayé. Il a balayé la rue sur trois cents mètres, deux fois, en serré
 
 Il n'a pas trouvé de bleu et jaune.
 
-Il a remis le cadre sur les deux qui restaient et il a continué de travailler, et il n'a plus pensé au gamin de la journée.
+Ray a remis le cadre sur les deux qui restaient et il a continué de travailler, et il n'a plus pensé au gamin de la journée.
 
 Il l'a retrouvé six jours plus tard, chez lui, à trois heures du matin, sur la bande, à l'image 61 200 : une forme claire qui entre dans la poussière et qui n'en ressort pas. Il a repassé le passage jusqu'à ce que sa fille se lève et lui prenne la télécommande des mains.
 
@@ -235,7 +235,7 @@ Ray a senti l'hélicoptère bouger avant de comprendre, il a levé les yeux du r
 
 Trois.
 
-Il les a comptées deux fois. En vingt-six ans il n'en avait jamais compté moins de six. Neuf jours plus tôt, sur le même axe, il en avait cadré onze en une matinée, et il en avait filmé quatre qu'on avait ramassés.
+Ray les a comptées deux fois. En vingt-six ans il n'en avait jamais compté moins de six. Neuf jours plus tôt, sur le même axe, il en avait cadré onze en une matinée, et il en avait filmé quatre qu'on avait ramassés.
 
 Il a rabaissé la tête sur le retour et il a commencé à travailler.
 
@@ -243,7 +243,7 @@ Il a rabaissé la tête sur le retour et il a commencé à travailler.
 
 Il a mis Immortal dans le cadre en un mouvement. Vingt-six ans. Il avait filmé cet homme plus que sa propre fille, il connaissait la façon dont il ouvrait les bras avant de percuter quelque chose, ce mouvement d'épaules qu'il faisait toujours à l'arrivée comme un type qui enlève un manteau.
 
-Il a poussé jusqu'au bout de la focale, par habitude, pour vérifier le visage.
+Puis il a poussé jusqu'au bout de la focale, par habitude, pour vérifier le visage.
 
 La ligne autour du cou faisait le tour complet. Elle était rose, épaisse d'un doigt, et elle avait neuf jours.
 
@@ -303,7 +303,7 @@ Ray n'a pas vu ce qui s'est passé. Il n'y a rien à voir sur la bande, il l'a r
 
 Il a élargi et il a cherché.
 
-Il a trouvé un cratère de trente mètres et rien dedans.
+Un cratère de trente mètres, et rien dedans.
 
 Il a continué de balayer vers le nord — plus vite, en sautant, la main qui poussait le manche trop loin à chaque fois — et le viaduc est passé dans le cadre.
 
@@ -503,7 +503,7 @@ Marisol criait quelque chose. Il voyait sa gorge bouger. Il a hoché la tête po
 
 Le retour était noir.
 
-Il a tapé dessus deux fois, du plat de la main, ce qui n'avait jamais rien réparé de sa vie.
+Il a tapé dessus deux fois, du plat de la main. Ça n'avait jamais rien réparé.
 
 L'écran est resté noir. À côté, un voyant vert.
 
@@ -563,7 +563,7 @@ On a dit qu'il avait choisi. On a dit qu'il avait vu la ville et qu'il avait dé
 
 *Cicero. 17 h 26.*
 
-Marisol a posé l'appareil sur le toit d'un entrepôt de messagerie parce qu'il n'y avait rien d'autre de plat.
+Marisol a posé l'appareil sur le toit d'un entrepôt de messagerie. Il n'y avait rien d'autre de plat.
 
 Le train arrière a touché mal. L'appareil a glissé de deux mètres et s'est arrêté contre un bloc de ventilation.
 

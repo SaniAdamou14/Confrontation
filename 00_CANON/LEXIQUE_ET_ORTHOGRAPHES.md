@@ -25,6 +25,21 @@ Ce fichier existe pour une seule raison : sur 120 chapitres, l'incohérence orth
 
 **Usage de « Kakarotte ».** Végéta l'emploie toujours, sans exception. Personne d'autre. Un Terrien qui prononce ce mot signale qu'il a lu un rapport de la GDA, et c'est une information en soi.
 
+### R10 — Realia américaine
+
+Le décor est américain, **les procédures aussi**. Une scène bâtie sur un instrument juridique français est fausse dans sa mécanique, pas seulement dans son vocabulaire. Table alimentée à chaque métier qui entre dans le récit.
+
+| ❌ Instrument français | ✅ Ce qui existe là-bas | Note |
+|---|---|---|
+| **compromis de vente** | *purchase agreement* — l'offre écrite, puis la période d'examen | En Illinois, un avocat suit la vente. Dire « le cabinet d'avocats qui suivait une de ses ventes » |
+| **les diagnostics** (paquet réglementaire fourni par le vendeur) | **l'inspection**, commandée et payée par **l'acheteur** | Ça change la scène : Debbie ne dit pas « c'est dans le diagnostic, page onze », elle dit que l'inspecteur de l'acheteur sortira le défaut de toute façon |
+| boîte à clés **du portail** | *lockbox* accrochée à **la poignée de la porte** | |
+| notaire | *title company* / avocat de clôture | |
+
+**Ce qui est du français de traduction normal et n'est pas une faute :** *lycée*, *commissariat de secteur*, *service des sinistres*, *notice*, *officier de permanence*, *mandat* (pour *listing agreement*). Un roman français n'écrit pas *precinct*.
+
+---
+
 ### Terre / Invincible
 
 | Graphie retenue | Note |

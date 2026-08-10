@@ -32,7 +32,7 @@ Robot était contre le mur, à un mètre de l'angle, les mains à plat sur une t
 
 — Quand est-ce qu'elle me donne une date ?
 
-Robot n'a pas répondu tout de suite, ce qui chez lui tenait lieu de tout un discours.
+Robot n'a pas répondu tout de suite. Chez lui, ça tenait lieu de discours.
 
 — Elle ne donne pas de date.
 
@@ -254,7 +254,7 @@ Le vent venait de l'ouest et emportait la fin des phrases. Abbadie, qui n'écout
 
 Rien n'a bougé sur l'arête.
 
-Elle a recommencé en articulant davantage, plus lentement, dans l'idée manifestement qu'un débit lent traverse mieux la distance, ce qui est faux.
+Elle a recommencé en articulant davantage, plus lentement, dans l'idée manifestement qu'un débit lent traverse mieux la distance. C'est faux.
 
 Rien.
 
@@ -538,7 +538,7 @@ Abbadie n'a pas bougé tout de suite. Il avait très froid, d'un froid qui venai
 
 > Jour 5 · Base de la GDA, niveau −3 · 17 h 25
 
-Le débriefing a duré cinquante minutes et il a été mené par trois personnes qui n'avaient pas dormi non plus. On lui a demandé la durée totale du contact, le nombre d'échanges, la formulation exacte de l'exigence, l'orthographe qu'il proposait pour quatre termes nouveaux. On lui a demandé deux fois s'il avait perçu une menace directe. Il a répondu deux fois qu'aucune menace directe n'avait été formulée, ce qui était vrai les deux fois et l'est resté.
+Le débriefing a duré cinquante minutes et il a été mené par trois personnes qui n'avaient pas dormi non plus. On lui a demandé la durée totale du contact, le nombre d'échanges, la formulation exacte de l'exigence, l'orthographe qu'il proposait pour quatre termes nouveaux. On lui a demandé deux fois s'il avait perçu une menace directe. Il a répondu deux fois qu'aucune menace directe n'avait été formulée. C'était vrai les deux fois, et ça l'est resté.
 
 On lui a demandé de restituer, mot pour mot, ce que le major Rennick avait dit en dernier. Il l'a restitué. On lui a fait préciser si elle avait terminé sa phrase. Il a précisé qu'elle ne l'avait pas terminée. On lui a demandé le mot exact auquel elle s'était arrêtée.
 
@@ -594,7 +594,7 @@ Il est sorti.
 
 Il a sorti de sa sacoche la feuille de la veille au matin, celle de Stedman : imprimée, quarante entrées, colonnes alignées, quatre lignes barrées dont une raturée deux fois pour être rendue.
 
-Il a posé le stylo sous la dernière ligne.
+Puis il a posé le stylo sous la dernière ligne.
 
 Il a écrit le mot en transcription phonétique, avec le ton, avec la longueur vocalique, avec le crochet qu'il utilisait depuis vingt ans pour signaler qu'un segment restait à confirmer. Il a écrit à côté, en français, ce que le mot voulait dire, en entier, sans abréger, sur deux lignes et demie, jusqu'à la marge de droite.
 

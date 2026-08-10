@@ -17,6 +17,10 @@ En cas de contradiction entre deux fichiers, l'ordre suivant tranche :
 4. **`03_PLAN/`** — plans de tome. Modifiables librement tant qu'un chapitre n'est pas écrit.
 5. **Chapitres publiés** (`04_CHAPITRES/`) — une fois écrit, un chapitre devient du canon. On ne le contredit pas, on compose avec.
 
+**En amont de tout, et hors hiérarchie :** `02_ETAT_DU_MONDE/AGENDAS.md`. Tous les autres fichiers de ce dossier sont des greffiers — ils enregistrent après le chapitre. **Celui-là seul produit avant.** Il se lit et s'avance à l'étape 0 de la boucle, avant même le dossier préparatoire. Sans lui, l'horloge du monde est le compteur de chapitres et tout personnage non focalisé est en pause.
+
+**Hors hiérarchie, et contraignant quand même :** `99_OUTILS/CHARTE_DE_LANGUE.md` et la section « PASSE DE STYLE » de `99_OUTILS/CHECKLIST_CHAPITRE.md`. Ces fichiers ne tranchent aucun fait du monde — ils tranchent la phrase. **Ils s'appliquent avant l'écriture, pas après.** Une règle de style qui ne se déclenche qu'au contrôle qualité ne forme pas le texte : elle constate les dégâts. Les chapitres 1 à 7 en sont la preuve mesurée — voir `99_OUTILS/lint_chapitre.py`.
+
 Un dérivé ne réécrit jamais la bible. S'il la contredit, c'est le dérivé qui a tort — sauf si le point est listé dans `00_CANON/POINTS_A_ARBITRER.md` et tranché.
 
 ---

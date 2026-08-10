@@ -4,6 +4,21 @@ Trois passes : avant, pendant, après. Ne rien sauter.
 
 ---
 
+## ÉTAPE 0 — FAIRE VIVRE LE MONDE, avant même le dossier préparatoire
+
+*Ajoutée après le chapitre 7, qui échouait au test ci-dessous. C'est la seule étape en amont de tout le système : les autres fichiers enregistrent ce que la page a produit, celui-là produit ce que la page devra constater.*
+
+- [ ] J'ai ouvert `02_ETAT_DU_MONDE/AGENDAS.md` et compté les jours écoulés depuis le dernier chapitre.
+- [ ] **J'ai fait avancer les douze agendas de ce nombre de jours.** Dix lignes, pas de la prose.
+- [ ] J'ai vérifié les échéances. **Celles qui tombent dans la fenêtre du chapitre se produisent, que le chapitre en ait besoin ou non.**
+- [ ] J'ai choisi **au moins une trace** — un fait que le focal va constater sans le comprendre entièrement.
+- [ ] J'ai vérifié la dette de retour : quelqu'un est-il dû, et qu'est-ce qui a changé chez lui ?
+- [ ] Fils ouverts ≤ 7. Si non, j'en referme un avant d'en ouvrir un autre.
+
+> **LE TEST DU HORS-CHAMP.** Le chapitre contient-il au moins **un fait que le focal apprend et que sa propre trajectoire n'a pas produit** ? Si tout ce qu'il apprend, il l'a provoqué — il appelle, on répond ; il demande, on accorde —, le monde ne tourne pas, il attend. **Aucun indicateur du lint ne détecte ça.**
+
+---
+
 ## AVANT — ne pas écrire une ligne sans ceci
 
 - [ ] **J'ai lu `00_CANON/ARBITRAGE_CANON_V3.md`.** Le casting du jour 0, la position de Nolan, l'état de Debbie et d'Oliver, les corrections Dragon Ball. **Il prime sur la bible.**

@@ -19,7 +19,7 @@ Un.
 
 — Monsieur le directeur.
 
-Un colonel. Cinquante ans, propre, rasé à quatre heures du matin, ce qui voulait dire qu'il ne s'était pas couché.
+Un colonel. Cinquante ans, propre, rasé à quatre heures du matin. Il ne s'était pas couché.
 
 — Colonel Aldana, Garde de l'Illinois. On a monté le poste de commandement dans le magasin.
 
@@ -77,11 +77,11 @@ Silence. Cinq secondes. Cecil les a comptées.
 
 — Vous voulez dire que trois est un chiffre agréable. Deux vous a paru optimiste et quatre vous a fait peur.
 
-Le colonel n'a rien répondu, ce qui était la bonne réponse.
+Le colonel n'a rien répondu. Bonne réponse.
 
 — Colonel, votre estimation ne repose sur rien. Elle repose sur des gens qui ont pu téléphoner. Regardez ce mur derrière vous et dites-moi combien de gens ont pu téléphoner.
 
-Aldana s'est retourné vers l'est, ce qui était inutile.
+Aldana s'est retourné vers l'est, par réflexe.
 
 — Il n'y a pas d'antennes, monsieur.
 
@@ -231,7 +231,7 @@ Cecil est resté seul devant la carte et ses cinq punaises, et il a fait le calc
 
 Il avait une unité para-humaine opérationnelle, et elle venait de sortir de son bureau en vêtements de ville.
 
-Il avait, en face, deux individus dont l'un avait effacé une ville en actionnant un poignet.
+En face, il avait deux individus dont l'un avait effacé une ville en actionnant un poignet.
 
 Il n'y avait pas de rapport de forces. Il n'y avait même pas de vocabulaire pour ça : un rapport de forces suppose deux forces, et il n'y en avait qu'une.
 
@@ -479,7 +479,7 @@ Puis il a refermé le carnet, il l'a rangé dans sa poche intérieure, et il est
 
 Trois. Quatre.
 
-Deux sauts dans la matinée, pour deux réunions qu'il aurait pu faire par écran, et il les avait faits en personne parce qu'on ne dit pas certaines choses par écran.
+Deux sauts dans la matinée, pour deux réunions qu'il aurait pu faire par écran, et il les avait faits en personne.
 
 Quatre millions.
 
@@ -643,7 +643,7 @@ Il avait dit *Nolan*, pas *papa*, et il l'avait dit de la manière dont on cite 
 
 — Ils te l'ont demandé mal. Ils voulaient que tu leur racontes ce qui s'est passé. Moi je te demande seulement ce que tu as vu, toi, avec tes yeux, depuis l'endroit où tu étais.
 
-L'enfant a réfléchi. Il a réfléchi longtemps et sérieusement, sans regarder ailleurs, ce que les adultes ne font presque jamais.
+L'enfant a réfléchi. Il a réfléchi longtemps et sérieusement, sans regarder ailleurs.
 
 — Sur le parking. Le grand, celui qui a les rampes en spirale. On m'avait dit de rester là.
 

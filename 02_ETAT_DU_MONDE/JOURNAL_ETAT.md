@@ -8,9 +8,30 @@ Version vivante de la bible §13. **Ce fichier prime sur la bible pour tout ce q
 
 ## ÉTAT COURANT
 
-**Date récit :** Jour 8, ~09 h 40 — fin du chapitre 7
-**Dernier chapitre écrit :** ch. 7, « Les visites » (5 483 mots)
-**Chapitres écrits :** 7 / 120
+**Date récit :** Jour 10, 20 h 15 — fin du chapitre 8
+**Dernier chapitre écrit :** ch. 8, « Combien de temps » (5 009 mots)
+**Chapitres écrits :** 8 / 120
+
+### Décisions de fabrication — à ne pas rouvrir sans raison
+
+- **Le chapitre 6 reste à 4 907 mots**, sous le plancher de 5 000. **Aucun mot ne sera ajouté pour franchir le seuil.** Trois fois de suite, une métrique posée au jugé a commandé au texte au lieu de le décrire — plafond de chiffres, pourcentage d'attaques, et ce plancher. Si le chapitre 6 manque quelque chose, ce ne sont pas quatre-vingt-treize mots. En attendant la preuve du contraire, il fait la bonne longueur.
+- **Le calendrier est épinglé : jour 0 = mardi.** Onze ancrages déjà écrits dans les chapitres 3, 5 et 6 le contraignaient ; ils sont tous cohérents. `CHRONOLOGIE_MAITRESSE.md` §0.
+- **La méthode R8, établie sur la scène 1 du chapitre 7.** On identifie l'échelle porteuse, on lui donne une échelle qui la percute, on réduit les autres à l'état de cadre. Avant : *heure*×7 et *fois*×7 co-dominantes sans jamais se rencontrer, et les neuf à quatorze mois — le seul nombre qui pouvait tout percuter — enterrés à une occurrence. Après : *fois* porte, *mois* percute, et les deux nombres sont posés l'un sous l'autre sans un mot de commentaire. Les échelles décoratives passent de *page*×4 à ×2 et de *seconde*×3 à ×1. **Le compte de familles n'a presque pas bougé (7 → 7) et ça n'invalide rien : le nombre est la conséquence de la règle, pas la règle.**
+- **Le compteur de familles a été corrigé** : les horodatages sont neutralisés avant comptage. *Sept heures dix* date une scène, *sept heures de route* est une échelle. **La référence a été recomptée en premier et n'a pas bougé : le chambranle reste à cinq, parce qu'il ne contient aucun horodatage — que de la mesure.** Le seuil de 5 tient donc, et il n'a jamais été faussé.
+
+- **R8, verdict scène par scène.** La règle a été appliquée partout ; le chiffre n'a été suivi nulle part aveuglément.
+
+| Scène | Porteuse | Collision | Verdict |
+|---|---|---|---|
+| **CH07 sc. 1** — le formulaire | **la page** (onze, neuf, deux) | **les mois** (neuf à quatorze) | ✔ **corrigée.** L'instrument était le formulaire, pas le décompte des lectures |
+| **CH07 sc. 3** — le pavillon | **le bien** (m², ans de chaudière, prix) | la réponse sur la sécurité, donnée en mètres et en années | ✔ **corrigée.** Elle n'avait aucune porteuse : huit échelles à une occurrence |
+| **CH07 sc. 4** — le chambranle | **mètre + centimètre** | **an**, et les **onze secondes** de l'épingle contre vingt-deux ans de traits | ✔ examiné, **retenu** malgré le compte |
+| **CH07 sc. 7** — la route | **kilomètre** | les **vingt ans** du geste au rétroviseur | ✔ examiné, **retenu** |
+| **CH02 sc. 5** — le viaduc | **mètre / kilomètre** (Ray travaille à deux kilomètres) | les **vingt-six ans** de carrière contre les centaines de prises de Shapesmith | ✔ examiné, **retenu.** Aucune échelle n'y est décorative |
+| **CH03 sc. 1** — le mur de vapeur | **kilomètre** | le **million de dollars** du saut contre le trou | ✔ examiné, **retenu** |
+| **CH04 sc. 5** — l'arête | **kilomètre** (le balayage : 30, 100, 300, 600, 900) | l'**année** — combien de temps dure une année ici | ✔ examiné, **retenu.** C'est le meilleur exemple de la règle du tome |
+
+  **Principe appliqué :** on ne coupe pas de la bonne prose pour atteindre un chiffre. Le compte élevé des chapitres 2, 3 et 4 vient de ce que ces chapitres sont réellement faits de mesures — un cadreur travaille en focales et en distances, un directeur en budgets et en délais. Le signal a été levé, examiné, et écarté avec la raison écrite.
 
 ### Compteurs
 

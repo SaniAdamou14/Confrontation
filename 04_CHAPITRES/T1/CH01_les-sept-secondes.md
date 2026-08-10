@@ -111,7 +111,7 @@ Il est arrivé vite — plus vite que ce qu'un hybride de cet âge avait le droi
 
 Puis il l'a pris par le col et l'a mis dans la façade d'en face.
 
-L'immeuble a rendu trois étages. Le garçon est ressorti de la poussière avant que les gravats aient fini de descendre, ce qui était bon, et il est revenu par la droite, ce qui ne l'était pas.
+L'immeuble a rendu trois étages. Le garçon est ressorti de la poussière avant que les gravats aient fini de descendre. Bon. Il est revenu par la droite. Moins bon.
 
 Conquest a incliné la tête pour suivre l'arc du poing. Quand le poing est arrivé, il n'était plus dessous.
 
@@ -135,7 +135,7 @@ Le retour a pris le garçon au ventre et l'a envoyé en travers du carrefour, à
 
 — Tu bloques ta respiration.
 
-Le garçon a craché quelque chose de rouge et de solide.
+Quelque chose de rouge et de solide est sorti de sa bouche.
 
 — Depuis le début, a dit Conquest. Tu la bloques avant de frapper. Tu crois que ça te rend plus dur. Ça te vide. Tu as trois coups, ensuite tu es obligé de reprendre, et je te touche au quatrième.
 
@@ -145,7 +145,7 @@ Conquest a compté, et au quatrième il l'a saisi à la gorge et l'a soulevé.
 
 — Tu vois.
 
-Il l'a reposé. Pas lâché — reposé, sur ses pieds, et il l'a maintenu debout le temps qu'il retrouve son axe.
+Conquest l'a reposé. Pas lâché — reposé, sur ses pieds, et il l'a maintenu debout le temps qu'il retrouve son axe.
 
 Il y a eu une seconde, là. Le garçon était debout, il avait de l'air, la rue était derrière lui, et l'homme qui le tuait venait de le remettre sur ses jambes.
 
@@ -167,7 +167,7 @@ Le garçon a hurlé.
 
 Il a arrêté très vite. Ça, c'était neuf.
 
-Il est revenu du bras droit seulement. Le gauche était plaqué contre son flanc, l'avant-bras à l'horizontale, la main ouverte.
+Le garçon est revenu du bras droit seulement. Le gauche était plaqué contre son flanc, l'avant-bras à l'horizontale, la main ouverte.
 
 — Ton père t'a appris à cogner, a dit Conquest en écartant le poing d'un revers. Il ne t'a pas appris à finir. On apprend à finir d'abord.
 
@@ -229,11 +229,11 @@ Il s'est arrêté à cinq mètres de lui.
 
 — Rien à signaler.
 
-Il a coupé.
+Puis il a coupé.
 
 Il n'y avait plus rien à évaluer. Le garçon tenait debout pour une raison que Conquest connaissait par cœur et qui n'avait jamais sauvé personne.
 
-Il a cessé de voler.
+Conquest a cessé de voler.
 
 Il a posé les deux pieds sur le bitume et il a marché.
 

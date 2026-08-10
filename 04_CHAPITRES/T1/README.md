@@ -29,7 +29,8 @@ Le bloc de citation est un outil de travail. Décider avant publication s'il res
 | 5 | Les quarante mots | Théo Abbadie | 5 868 | **écrit** · **v3 — ramené au passé composé** · registres à jour |
 | 6 | Ce qu'on écrit | Cecil | 5 113 | **écrit** · registres à jour |
 | 7 | Les visites | Debbie Grayson | 5 483 | **écrit** · registres à jour |
-| 8-20 | voir `03_PLAN/TOME_1.md` | | | |
+| 8 | Combien de temps | Debbie Grayson | 5 009 | **écrit** · première application de l'étape 0 (agendas) · registres à jour |
+| 9-20 | voir `03_PLAN/TOME_1.md` | | | |
 
 > **Tous les chapitres sont au passé composé** (`99_OUTILS/CHARTE_DE_LANGUE.md` §1) et conformes au recasting du jour 0 (`00_CANON/ARBITRAGE_CANON_V3.md`).
 

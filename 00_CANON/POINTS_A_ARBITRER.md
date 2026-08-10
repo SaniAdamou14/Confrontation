@@ -192,3 +192,21 @@ C'est ce qui rend son chapitre spécifiquement *Invincible* et pas simplement ca
 **À trancher avant le chapitre 16**, pas avant le chapitre 1.
 
 **Décision :** _____________
+
+---
+
+## ✔ 10. L'amplitude temporelle des cinq tomes — TRANCHÉ (après le ch. 7)
+
+**Le problème.** Aucun tome sauf le premier n'avait de durée déclarée. Seul « environ J40 » existait, pour le sommet du tome 2. C'était une contrainte écrite en creux, exactement comme le calendrier lunaire : elle décidait déjà des choses qu'on croyait décider soi-même.
+
+**Ce qui la contraignait sans qu'on l'ait calculé :**
+- La dette de retour promet des secondaires revus « au bout d'un an ». Sans durée, la promesse est invérifiable.
+- **Oliver grandit de cinq ans en quelques mois**, puis décélère. C'est la seule horloge biologique du récit, et elle fixe à elle seule à quoi il ressemble au tome 5.
+- La revue à 90 jours du local scellé (ch. 6) tombe forcément dans le tome 2.
+- Une commission internationale ne se réunit pas avant des années : le tome 5 ne peut pas être proche.
+
+**✔ DÉCISION.** T1 : 20 jours · T2 : ~10 semaines · T3 : ~7 mois · T4 : ~1 an · T5 : ~18 mois. **Amplitude totale : environ quatre ans.** Table complète et conséquences dans `03_PLAN/TOME_1.md` §0.
+
+**Conséquence principale :** Oliver a un corps de neuf ans au J0, de quatorze au tome 2, et **il est adulte au tome 5**. C'est ce qui fait de lui la bombe annoncée.
+
+**Réversible tant que le tome 2 n'est pas commencé.** Ensuite, non.

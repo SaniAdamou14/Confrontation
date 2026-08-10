@@ -20,6 +20,17 @@ C'est le régime des chapitres 1, 2, 3, 4 et 6, et c'est le bon : voix orale, im
 
 **Le seul passé simple autorisé :** à l'intérieur d'un document cité — rapport, transcription, mémorandum, article de presse.
 
+### Ce que cette règle ne gouverne pas — la forme du chapitre
+
+**La contrainte de temps porte sur la narration.** Un chapitre qui n'est pas de la narration n'y est pas soumis : une transcription d'audition avec ses numéros de ligne et ses interruptions de séance, un chapitre en mosaïque de fragments, un dossier, une suite de dépêches. Sept chapitres au même appareil — troisième personne rapprochée, passé composé, intertitre lieu + heure — fatiguent plus vite que sept chapitres au même sujet.
+
+**Deux conditions, non négociables :**
+
+1. **La forme est déclarée dans `03_PLAN/` avant l'écriture.** Jamais improvisée. Sinon « varier la forme » devient l'excuse de tout, et la charte ne tient plus.
+2. **Une forme par chapitre.** On ne mélange pas la mosaïque et la narration suivie dans le même chapitre sous prétexte de rythme.
+
+*Candidats déjà identifiés : les auditions du Capitole (ch. 12-13) en transcription ; le mot qui entre dans la langue (ch. 13) en mosaïque courte sans héros ; l'Ozaru vu d'en bas (ch. 17) par un anonyme.*
+
 ---
 
 ## 2. LES CALQUES — TABLE DE CONVERSION

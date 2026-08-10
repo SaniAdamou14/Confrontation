@@ -1,6 +1,29 @@
 # TOME 1 — « VINGT-DEUX MINUTES »
 
-Chapitres 1 à 20. Jours 0 à 20 *(bible §10 dit « dix-sept jours » — voir `POINTS_A_ARBITRER.md` §1)*.
+Chapitres 1 à 20. **Jours 0 à 20.** *(La contradiction « dix-sept jours » de la bible §10 a été corrigée lors de l'arbitrage n°1 ; la parenthèse qui y renvoyait était périmée.)*
+
+## §0 — AMPLITUDE TEMPORELLE DES CINQ TOMES
+
+*Épinglée après le chapitre 7. C'était une contrainte écrite en creux : la dette de retour promet des secondaires « changés au bout d'un an », et Oliver grandit de cinq ans en quelques mois. Sans amplitude déclarée, la moitié des promesses ne peut pas être honorée, et la seule horloge biologique du récit dérive.*
+
+| Tome | Chapitres | Fenêtre | Durée | Ce qui la fixe |
+|---|---|---|---|---|
+| **1** | 1-20 | J0 → J20 | **20 jours** | déjà écrit. J0 = mardi 1er octobre 2024 |
+| **2** | 21-45 | J21 → J95 | **~10 semaines** | le sommet est « environ J40 » ; la **revue à 90 jours** du local scellé tombe à J95, le 4 janvier |
+| **3** | 46-70 | J96 → J300 | **~7 mois** | le temps qu'il faut à Battle Beast pour traverser la galaxie, et à ce qui est au congélateur pour devenir quelque chose |
+| **4** | 71-95 | an 2 | **~1 an** | Mars, le clone, le basculement d'Anissa |
+| **5** | 96-120 | an 3 → an 4 | **~18 mois** | une commission internationale ne se réunit pas avant des années. Le retour vers Namek redevient possible |
+
+**Amplitude totale : environ quatre ans.**
+
+**Ce que ça décide, et qu'on ne redécide pas ensuite :**
+
+- **Oliver.** Croissance viltrumite-thraxane accélérée puis décélérante. Corps de neuf ans au J0, **corps de quatorze au tome 2**, adolescent au tome 3, **adulte au tome 5**. C'est ce qui fait de lui la bombe annoncée : à moitié de la race qui tient trente villes en otage, avec un motif personnel et un corps pour l'exercer.
+- **La dette de retour est honorable.** Un secondaire revu au tome 3 a vécu sept mois de plus ; au tome 5, quatre ans. C'est le temps qui donne le droit d'être dense.
+- **Le tome 2 est court en temps et long en chapitres** — vingt-cinq chapitres pour soixante-quinze jours. C'est délibéré : c'est le tome où tout se décide vite.
+- **Le tome 3 est l'inverse.** Sept mois pour vingt-cinq chapitres : des ellipses assumées, et des personnages qui reviennent modifiés sans qu'on ait vu la modification.
+
+*Réversible tant que le tome 2 n'est pas commencé. Inscrit à `POINTS_A_ARBITRER.md`.*
 
 **La question du tome :** *qu'est-ce qu'on vient de faire ?*
 
@@ -19,7 +42,7 @@ Chapitres 1 à 20. Jours 0 à 20 *(bible §10 dit « dix-sept jours » — voir 
 | 5 | J4-5 | **Abbadie** | QG, une crête au-dessus d'une petite ville | Les quarante mots. Premier contact, au sol, en face. |
 | 6 | J6 | **Cecil** | QG | Doctrine OMEGA. Le congélateur. |
 | 7 | J7-8 | **Debbie** | Sa maison, la route | Elle exige de parler à celui qui a tué son fils. |
-| 8 | J8 | **Debbie** | Le désert | La confrontation. **Il ne s'excuse pas.** |
+| 8 | **J9** | **Debbie** | Le désert | La confrontation. **Il ne s'excuse pas.** |
 | 9 | J9 | **Goku** | Rocheuses, ciel | Il réalise pour la lune. Il envisage de se raser la queue. |
 | 10 | J10 | **Ferguson** | Base GDA | La décence réelle, le rapport quotidien. |
 | 11 | J11 | **Goku** | Pacifique | Entraînement. Une flotte qui n'a pas le droit de tirer. |
@@ -95,7 +118,7 @@ Dossier préparatoire complet : `05_ATELIER/CH01_DOSSIER_PREPARATOIRE.md`.
 - « Je ne vous demande pas d'être des héros. Je vous demande d'être prévisibles. » — *cette réplique est réservée au tome 2 (§6.1). Ne pas la brûler ici.*
 
 ### Ch. 7-8 — Le désert
-**Focalisation : Debbie. J7-J8.**
+**Focalisation : Debbie. J7-J9.** Le trajet fait 2 400 km : une nuit de route, une nuit de motel à Santa Rosa, arrivée au matin du J9.
 
 - Elle exige. Elle obtient. Elle a posé une condition et n'en a pas posé d'autre : **aucune paroi entre eux.**
 - **Il ne s'excuse pas. Il ne comprend pas encore ce qu'on lui reproche.** Voir §7.1, calibrage temporel : au J8, la culpabilité n'est pas formée.

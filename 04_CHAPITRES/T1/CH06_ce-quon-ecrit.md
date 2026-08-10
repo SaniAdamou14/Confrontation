@@ -48,7 +48,7 @@ L'officier a écrit. Cecil a regardé la main écrire.
 
 — Il en faudra un dans six mois. Pas ce matin.
 
-L'officier a écrit ça aussi. Cecil a attendu qu'il ait fini.
+Ça aussi, il l'a écrit. Cecil a attendu qu'il ait fini.
 
 — Quatrième chose. Le grondement s'entend dans tout le bâtiment depuis mercredi. Il s'est arrêté il y a douze minutes. Je veux savoir dans combien de temps quelqu'un le mettra en ligne.
 
@@ -112,7 +112,7 @@ Sinclair n'a pas cillé.
 
 — Vous venez de le demander.
 
-Sinclair a laissé passer ça.
+Ça, il l'a laissé passer.
 
 — Mardi dernier, a dit Cecil, il est mort trois millions de personnes à neuf cents kilomètres d'ici.
 
@@ -618,7 +618,7 @@ C'était aussi tout ce qu'il avait.
 
 Il a relu la ligne trois une deuxième fois, du début à la fin, en suivant le texte imprimé.
 
-Il a posé le stylo sur la table, à côté de la chemise, bien à plat.
+Le stylo est allé sur la table, à côté de la chemise, bien à plat.
 
 Il l'a repris.
 

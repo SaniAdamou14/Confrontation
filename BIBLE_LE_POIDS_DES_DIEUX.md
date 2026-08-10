@@ -34,6 +34,34 @@ Tout découle de là. Les combats ne sont pas le suspense — ils sont la **dém
 
 **R6 — La narration est incarnée.** Pas de voix de reportage. Le narrateur adopte la focalisation d'un personnage, déclarée par un intertitre discret (lieu + heure), et ne sait que ce que ce personnage sait.
 
+> **⚠ PORTÉE DE R6 — correction majeure.** R6 gouverne **ce qu'on raconte au lecteur**. Elle ne gouverne pas **ce que le monde fait**. Pendant sept chapitres, la confusion des deux a mis en pause tout personnage non focalisé : le monde n'avait d'état qu'aux instants où un chapitre se terminait, et l'horloge du récit était le compteur de chapitres. **Le monde agit en permanence, qu'on le regarde ou non ; le lecteur ne l'apprend que par le focal, et sous forme de trace.** Voir `02_ETAT_DU_MONDE/AGENDAS.md`, le seul fichier du projet qui soit en amont.
+
+### Les quatre règles de phrase — ajoutées après mesure des chapitres 1 à 7
+
+R1 à R6 prescrivent du **contenu** : mets un corps, mets un chiffre, tiens une focalisation. **Aucune ne prescrit rien au niveau de la phrase**, et c'est à ce niveau-là que la platitude vit. Les quatre suivantes s'appliquent **avant** d'écrire, et se vérifient avec `99_OUTILS/lint_chapitre.py`.
+
+**R7 — Le narrateur ne justifie pas.** Maximum **trois** « parce que » dans la narration par chapitre — illimité en dialogue. **Zéro** apposition « …, ce qui… / …, ce que… ». Si un geste ne se suffit pas à lui-même, c'est le geste qu'il faut changer, pas la subordonnée qu'il faut ajouter. *(Mesuré : ch. 7 en comptait 16 et 7. Le reste du tome tient entre 3 et 6.)*
+
+**R8 — Une échelle porteuse, et toute autre échelle doit entrer en collision avec elle.**
+
+Ce n'est pas un budget de chiffres, et l'idée qu'on pourrait en fixer un est fausse : **le meilleur passage du tome — le chambranle — est plus dense en chiffres que le pire.** Ce qui le sauve, c'est que ses nombres se **soustraient** : un mètre trente-sept hier, un mètre quarante et un aujourd'hui, quatre centimètres en un jour.
+
+**Et ce n'est pas non plus « une seule échelle ».** Le chambranle en porte deux, et il marche **grâce** à la seconde : la hauteur se heurte à l'âge. *Neuf ans, dix ans* ne sont pas des centimètres — c'est la collision, des centimètres qui mesurent les années d'un enfant mort, qui fait la scène. Une règle d'échelle unique supprimerait exactement cet effet.
+
+Donc : **une échelle porte la scène ; une seconde est autorisée si elle percute la première ; toute échelle qui ne fait ni l'un ni l'autre est du bruit.** Onze pages, vingt-neuf fois, quatre secondes et neuf mois dans la même scène ne se comparent à rien, donc aucun ne pèse.
+
+*(Le compteur du lint mesure les familles d'unités : le chambranle en tient **cinq**, le tome tourne entre sept et dix. **Le nombre est la conséquence de la règle, pas la règle.** Un dépassement est un signal à examiner, pas une faute automatique.)*
+
+**R9 — Variation.** Jamais plus de **deux paragraphes consécutifs** ouverts par le même mot — **sauf si la série est une progression**, et alors elle est une figure et non un tic. *« À neuf heures dix. À dix kilomètres. À douze. »* converge sur quelque chose ; *« Il a élargi. Il a trouvé. Il a continué. »* ne converge sur rien. **Le test : retirer le troisième paragraphe. Si la série perd son sens, c'est une figure. Si elle n'y perd rien, c'est un tic.**
+
+> **Garde-fou sur l'exemption.** Une clause de ce genre avale sa règle, parce que tout auteur croit que sa série converge. **Contrôle : le taux de séries exemptées reste sous 40 %.** Ligne de base établie sur les chapitres 1 à 7 — seize séries relevées, **trois gardées, soit 19 %**. Au-dessus de 40 %, l'exemption est devenue une porte de sortie et il faut la resserrer. Au moins **un paragraphe de plus de soixante mots par scène**. Au moins un passage en discours indirect libre par chapitre. *(Le pourcentage global a été abandonné : posé à 15 %, il était enfreint par sept chapitres sur sept, donc c'était le seuil qui était faux. Ce que le lecteur sent est une **série**, pas une proportion : cinq paragraphes d'affilée en « Il » s'entendent, les mêmes cinq répartis sur une scène de vingt ne s'entendent pas. Seuil calibré : le chambranle plafonne à **deux**. Le tome monte à cinq.)*
+
+**R10 — Realia américaine.** Le décor est américain, les procédures aussi. Une table de correspondance est tenue dans `00_CANON/LEXIQUE_ET_ORTHOGRAPHES.md`, alimentée à chaque métier qui entre dans le récit. *Lycée*, *commissariat*, *service des sinistres* sont du français de traduction normal. **Un compromis de vente et un diagnostic obligatoire n'existent pas aux États-Unis** — et une scène bâtie dessus est fausse dans sa mécanique, pas seulement dans son vocabulaire.
+
+> **Ce qui n'est PAS une règle, et pourquoi.** Un ratio imparfait / passé composé a été envisagé puis abandonné. D'abord parce que deux compteurs honnêtes ne convergent pas dessus — selon qu'on traite *avait* comme auxiliaire ou comme verbe plein, le chapitre 7 donne 118 ou 186. Ensuite et surtout parce qu'**un ratio de temps verbaux n'est pas un signal de qualité** : une scène d'action doit être au passé composé, une scène d'habitude à l'imparfait, et un imparfait ajouté pour atteindre un nombre est exactement la phrase morte qu'on cherche à supprimer. Le lint le mesure en information, sans seuil. Le constat reste vrai — le tome a trop de premier plan — mais il se corrige à la lecture, pas au compteur.
+
+> **La méthode qui a produit R7 à R10, et qui vaut plus qu'elles.** Chaque seuil a d'abord été posé au jugé, puis mesuré sur le corpus, puis **jeté quand la mesure le contredisait**. Un plafond de densité de chiffres et un pourcentage d'attaques identiques sont morts comme ça. Le test est simple : *une règle enfreinte par sept chapitres sur sept ne décrit pas un corpus malade, elle décrit un seuil inventé.* Un seuil se calibre sur un passage dont on sait qu'il fonctionne — ici le chambranle — et il doit laisser passer ce passage tout en attrapant les autres. Appliquer ça à toute règle future.
+
 **Longueur cible :** 5 000 à 8 000 mots par chapitre.
 
 ---
