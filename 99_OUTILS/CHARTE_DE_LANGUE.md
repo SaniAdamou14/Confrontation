@@ -107,7 +107,48 @@ Le nom qu'un personnage emploie pour un autre est une information. Il ne varie p
 
 ---
 
-## 6. LA PASSE DE LANGUE — OBLIGATOIRE APRÈS CHAQUE CHAPITRE
+## 6. LA QUANTIFICATION RÉFLEXE — LE CHIFFRE QUI TUE LA SCÈNE
+
+*Signalé par le lecteur après le tome 1. **Relevé : de 139 à 310 occurrences numériques par chapitre pour 5 000 mots** — un chiffre tous les dix-sept mots dans les pires. Et cinq titres de chapitre sur neuf sont des quantités.*
+
+**Le mécanisme.** Quand je ne sais pas faire *sentir*, je mesure. Le nombre a l'air précis, donc l'air vrai — mais il pose une texture de rapport administratif sur une scène de perception. C'est le tic n°2 par un autre chemin : la mesure remplace le travail de description, exactement comme la comparaison le remplaçait.
+
+**Pourquoi ça détruit la crédibilité.** Pas le chiffre isolé — le fait que **tous les personnages aient le même rapport au chiffre.** Quand Végéta, Conquest, un colonel de la Garde nationale et une mère endeuillée mesurent tous avec la même sécheresse, il n'y a plus neuf voix : il y a un narrateur unique qui parle par neuf bouches. Le test de retrait des incises échoue une troisième fois.
+
+**Le cas saiyen, non négociable.** Chiffrer une perception de ki — *« je le sens à trois cents kilomètres »*, *« j'ai balayé dans un rayon de mille kilomètres »* — **remet un scouter dans la tête du personnage.** Dragon Ball détruit le scouter très tôt et pas par hasard : le ki se *sent*, il ne se lit pas. Sentir, c'est savoir qu'une pièce est vide sans compter les chaises. Et cette faute attaque le thème central du tome 1 : *une espèce qu'on ne peut pas compter*.
+
+**Le piège Togashi.** Le registre HxH chiffre beaucoup, et j'en ai copié la surface. Mais chez lui le chiffre est une **règle contraignante** — il coûte, il enferme, il peut être franchi et payé. Un chiffre qui ne contraint personne ne produit pas de densité : il produit du vernis.
+
+### LA RÈGLE
+
+> **Un chiffre n'a le droit d'exister que dans un de ces trois cas.**
+
+| Cas | Exemple valide | Pourquoi |
+|---|---|---|
+| **Le métier** | Cecil et les quatorze bases de signalements · le colonel Aldana et ses fourchettes · un médecin, un formulaire, un bilan | Compter est le travail de ce personnage. Le chiffre le caractérise. |
+| **La contrainte** | Un délai, un plafond, une distance qu'il faut franchir avant que — | Le chiffre enferme quelqu'un. Il crée le danger au lieu de le décrire. |
+| **Le décompte qui coûte** | *« Il en a sorti cent quatre-vingt-douze »* | Le personnage compte parce que le compte lui fait quelque chose. |
+
+**Partout ailleurs — force, portée, distance ressentie, durée d'un échange, dimensions d'une explosion —, le chiffre se remplace par un jugement ou une sensation.**
+
+| Écrit | À écrire |
+|---|---|
+| *je le sens à trois cents kilomètres si je cherche* | *le premier venu, je sais où il est sans le chercher* |
+| *une boule de feu de deux cents mètres* | ce que le corps du focal encaisse : chaleur, pression, oreille |
+| *la dalle devait peser trois cents tonnes* | (chiffre de puissance — interdit par R3 depuis le départ) |
+| *il a balayé dans un rayon de mille kilomètres* | *il a cherché jusqu'où il pouvait, et il n'a rien trouvé* |
+
+**Les trois alertes.**
+
+1. **Deux personnages de camps différents qui chiffrent dans la même scène** : l'un des deux parle avec ma voix, pas la sienne.
+2. **Un chiffre qui ne contraint personne et que personne ne paie** est décoratif. Il se coupe sans perte.
+3. **Un titre de chapitre qui est une quantité** : un par tome au maximum.
+
+**L'exception nommée : Goku compte.** Le trait est établi au chapitre 4 (*« Goku a compté. Il comptait toujours »*) et il est bon — il compte parce qu'il attend qu'on vienne, et le décompte est son horloge. **Il n'est valide qu'à condition d'être exclusif.** Si tous les autres focaux comptent aussi, ce n'est plus un trait de personnage, c'est ma manie retro-justifiée.
+
+---
+
+## 7. LA PASSE DE LANGUE — OBLIGATOIRE APRÈS CHAQUE CHAPITRE
 
 À faire **après** les trois passes de tics et **avant** la mise à jour des registres.
 
@@ -119,10 +160,12 @@ Le nom qu'un personnage emploie pour un autre est une information. Il ne varie p
 - [ ] Aucun nom propre hors du lexique arbitré §4.
 - [ ] Vérifier qu'aucun personnage n'appelle un autre d'un nom qui n'est pas le sien au §5.
 - [ ] **Le récit est au passé composé.** Contrôle : chercher les formes en `-a`, `-it`, `-èrent` dans la narration.
+- [ ] **Compter les chiffres du chapitre** (`grep -oiE '\b(deux|trois|...|cent|mille|[0-9]+)\b'`). **Au-dessus de cent pour cinq mille mots, passe obligatoire.** Chacun doit relever d'un des trois cas du §6.
+- [ ] Aucune perception de ki n'est chiffrée en distance.
 
 ---
 
-## 7. LA RÈGLE QUI RÉSUME TOUTES LES AUTRES
+## 8. LA RÈGLE QUI RÉSUME TOUTES LES AUTRES
 
 > **Aucune phrase ne doit avoir l'air d'avoir été traduite.**
 

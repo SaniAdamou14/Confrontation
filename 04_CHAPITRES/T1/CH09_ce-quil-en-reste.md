@@ -153,11 +153,25 @@ Végéta ne l'a pas salué. Il a regardé la combe d'abord — la paroi, le col,
 
 — Il part de travers depuis Namek. Tout le monde le voyait sauf toi.
 
-Goku a hoché la tête. C'était vrai, et ce n'était pas désagréable à entendre — il y avait exactement une personne sur cette planète capable de lui dire une chose pareille, et elle venait de faire deux mille kilomètres pour se poser dans son gravier.
+Goku a hoché la tête. C'était vrai, et il y avait exactement une personne sur cette planète capable de le lui dire, et elle venait de traverser un continent pour se poser dans son gravier.
 
 Le remercier lui a traversé l'esprit. Il a senti que ça n'irait pas et il s'est tu.
 
-Végéta est resté où il était. Il n'a pas avancé d'un pas et il n'a pas bougé les pieds, et il a dit, du même ton :
+Alors il l'a refait.
+
+Il a reculé de trois pas, il a repris le départ à froid, et cette fois le deuxième appui est parti où il fallait. Il l'a senti passer dans la hanche avant de le voir arriver au sol.
+
+— Ah, il a dit.
+
+Il est revenu au même endroit et il l'a refait une deuxième fois, pour voir. C'est passé aussi.
+
+— Regarde.
+
+— Non.
+
+Il l'a refait quand même.
+
+Végéta a attendu qu'il ait fini. Il n'a pas avancé d'un pas et il n'a pas bougé les pieds, et il a dit, du même ton :
 
 — Tu es resté une heure.
 
@@ -205,6 +219,10 @@ Goku a réfléchi. Il n'avait pas fait le compte depuis longtemps et il l'a refa
 
 — **Deux.**
 
+Il a laissé passer un temps.
+
+— Je ne l'avais jamais dit à voix haute.
+
 Et Goku a souri.
 
 Ça lui est venu tout seul, et il n'a pas cherché à savoir pourquoi. C'était le mot. Végéta avait dit *de nous*, et il l'avait dit sans y penser, à plat, sans le remarquer, et Goku avait entendu passer là-dedans quelque chose qu'il n'avait jamais entendu chez lui en deux semaines et qui lui a fait plaisir.
@@ -213,7 +231,7 @@ Le sourire a duré une seconde et demie.
 
 Il n'a pas vu ce qu'il faisait à l'autre.
 
-— Ton père était un soldat de dernière classe, a dit Végéta. Il n'a jamais rien commandé et il est mort avec le reste, dans la même seconde, sans savoir ce qui le tuait. Ta mère aussi. Il ne reste rien de ce qu'ils étaient, sauf toi et moi, et l'un des deux se fait faire la leçon dans un désert par une femme qui pèse cinquante kilos.
+— Ton père était un soldat de dernière classe, a dit Végéta. Il n'a jamais rien commandé et il est mort avec le reste, dans la même seconde, sans savoir ce qui le tuait. Ta mère aussi. Il ne reste rien de ce qu'ils étaient, sauf toi et moi, et l'un des deux se tient debout dans un désert à écouter une femme lui expliquer sa vie, la tête baissée, pendant qu'on le filme.
 
 Goku a écouté jusqu'au bout.
 
@@ -272,6 +290,8 @@ Et Goku a compris deux choses en même temps : qu'il ne le saurait pas, et que c
 — Alors si tu ne peux pas t'en débarrasser, je le ferai.
 
 Goku n'a rien dit tout de suite.
+
+Le filet d'eau descendait de la paroi à quinze pas derrière lui. Il avait soif. Il n'a pas bougé.
 
 Le vent est remonté du fond de la combe, cette fois, et il a fait bouger les aiguilles restantes du mélèze sur la pente. Végéta n'avait toujours pas déplacé les pieds. Il était debout au même endroit depuis vingt minutes, dans la même position, les bras le long du corps, et Goku s'est aperçu qu'il n'avait pas non plus tourné la tête vers le col une seule fois.
 
@@ -341,7 +361,7 @@ Ce qu'il a dit à la place a été pire.
 
 — Oui.
 
-— Je te proposais de t'épargner du travail. (Il a regardé vers l'est, vers le fond de la combe, dans la direction où il n'y avait rien à voir sur quatre-vingts kilomètres.) Ce que tu protèges là-bas, ça ne se débarrasse pas, Kakarotte. Ça se compte. Et quelqu'un compte déjà.
+— Je te proposais de t'épargner du travail. (Il a regardé vers l'est, vers le fond de la combe, dans la direction où il n'y avait rien à voir jusqu'à l'horizon.) Ce que tu protèges là-bas, ça ne se débarrasse pas, Kakarotte. Ça se compte. Et quelqu'un compte déjà.
 
 Il n'a pas expliqué, et Goku n'a pas demandé, et le vent est redescendu du col une deuxième fois.
 

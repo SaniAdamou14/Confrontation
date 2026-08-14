@@ -2,6 +2,12 @@
 
 Trois passes : avant, pendant, après. Ne rien sauter.
 
+> ⚠️ **CE FICHIER NE SUFFIT PAS. IL NE CONTIENT QUE DES INTERDITS.**
+>
+> Additionnés, ils interdisent de nommer une émotion, de faire une image, de dire ce qu'on veut, de conclure une scène et de formuler une réplique. Ce qui reste est un procès-verbal correct et froid.
+>
+> **`99_OUTILS/CE_QUI_DOIT_ETRE_PRODUIT.md` est le contrepoids, et il se lit d'abord.** Il fixe le sommet du chapitre, les budgets (une émotion nommée, une image longue, une formule, une rupture de R1), les quatre pièces du suspense, les quatre temps du combat et le temps comique obligatoire. **Les deux fichiers ne s'appliquent pas au même endroit du texte :** celui-ci gouverne le plancher, l'autre gouverne le sommet.
+
 ---
 
 ## ÉTAPE 0 — FAIRE VIVRE LE MONDE, avant même le dossier préparatoire
@@ -23,7 +29,8 @@ Trois passes : avant, pendant, après. Ne rien sauter.
 
 - [ ] **J'ai lu `00_CANON/ARBITRAGE_CANON_V3.md`.** Le casting du jour 0, la position de Nolan, l'état de Debbie et d'Oliver, les corrections Dragon Ball. **Il prime sur la bible.**
 - [ ] **J'ai lu `99_OUTILS/LE_POIDS_DES_CORPS.md`** si un Saiyan est dans le chapitre, même immobile, même hors champ.
-- [ ] **J'ai lu `99_OUTILS/CHARTE_DE_LANGUE.md`.** Le récit est au **passé composé**. Les calques anglais y sont listés avec leur correction.
+- [ ] **J'ai lu `99_OUTILS/CE_QUI_DOIT_ETRE_PRODUIT.md`.** Je sais où sera le sommet du chapitre et ce que j'y dépense.
+- [ ] **J'ai lu `99_OUTILS/CHARTE_DE_LANGUE.md`.** Le récit est au **passé composé**. Les calques anglais y sont listés avec leur correction, et §6 la quantification.
 - [ ] J'ai lu `02_ETAT_DU_MONDE/JOURNAL_ETAT.md`. Je connais l'état exact du monde à cette date.
 - [ ] Le dossier préparatoire du chapitre existe dans `05_ATELIER/`.
 - [ ] **Le personnage focal est identifié et écrit en haut du brouillon.**
@@ -46,6 +53,8 @@ Trois passes : avant, pendant, après. Ne rien sauter.
 | R4 | Le corps compte, même chez les dieux. | Faim, épuisement, sang séché, une combinaison qui gratte. |
 | R5 | Chaque destruction a un chiffre et un après. | L'après va dans `REGISTRE_DESTRUCTIONS.md`, avec un tome. |
 | R6 | La narration est incarnée. | Intertitre discret : lieu + heure. Le narrateur ne sait que ce que sait le focal. |
+| **R7** | **Le chapitre a un sommet, et il ne s'écrit pas comme le reste.** | Amplitude. Deux passages ne sont jamais au même régime. `CE_QUI_DOIT_ETRE_PRODUIT.md` §1. |
+| **R8** | **R1 casse une fois par chapitre.** | Neuf échanges qui esquivent et un dixième qui ne peut plus : c'est ça, une scène dramatique. |
 
 **Combats** (§8) : ancrer géographiquement · **point de vue du plus faible** · trois phases (lecture, escalade, résolution) · décrire les effets, pas les techniques · la douleur a une texture · bilan chiffré à part, ton administratif · le silence est une arme · ne jamais faire durer artificiellement.
 
@@ -177,6 +186,28 @@ Trois passes : avant, pendant, après. Ne rien sauter.
 4. **Personne ne parle en formules, sauf pour se moquer** — et alors c'est le personnage qui fabrique la formule, pas moi.
 
 - [ ] **Passe dédiée obligatoire :** relire **tous les dialogues seuls**, sans la narration autour, à voix haute. Ce qui ne se dit pas à voix haute sans buter est faux.
+
+---
+
+## ⛔ LE TIC N°4 — LA QUANTIFICATION RÉFLEXE
+
+*Signalé par le lecteur après le tome 1. **Relevé : 139 à 310 occurrences numériques par chapitre pour 5 000 mots.** Cinq titres sur neuf sont des quantités. Traité en détail dans `CHARTE_DE_LANGUE.md` §6.*
+
+**Le mécanisme :** quand je ne sais pas faire sentir, je mesure. Le chiffre a l'air précis, donc l'air vrai — et il pose une texture de rapport administratif sur une scène de perception.
+
+**Pourquoi c'est grave :** ce n'est pas le chiffre isolé, c'est que **tous les personnages ont le même rapport au chiffre.** Végéta, Conquest, un colonel et une mère endeuillée mesurent avec la même sécheresse. Le test de retrait des incises échoue une troisième fois, après les tics n°1 et n°2. C'est toujours la même faute : une figure unique portée par toutes les voix.
+
+**Le cas saiyen :** chiffrer une perception de ki (*« je le sens à trois cents kilomètres »*) remet un scouter dans la tête du personnage. Le ki se sent, il ne se lit pas — et le thème du tome 1 est précisément *une espèce qu'on ne peut pas compter*.
+
+**LES RÈGLES.**
+
+1. **Trois cas seulement** (charte §6) : le métier de celui qui parle · une contrainte qui enferme quelqu'un · un décompte qui coûte à celui qui compte.
+2. **Aucune perception de ki chiffrée en distance.** Jamais.
+3. **Aucune explosion décrite par ses dimensions.** Ce que le corps encaisse, pas ce que le mètre mesure.
+4. **Un chiffre que personne ne paie est décoratif.** Il se coupe sans perte.
+5. **Goku est la seule exception, et elle n'est valide que si elle est exclusive.** S'il compte et que tous les autres focaux comptent aussi, ce n'est plus un trait : c'est ma manie retro-justifiée.
+
+- [ ] **Passe dédiée obligatoire :** compter les occurrences numériques. **Au-dessus de cent pour cinq mille mots, couper.** Chaque chiffre survivant relève d'un des trois cas.
 
 ---
 

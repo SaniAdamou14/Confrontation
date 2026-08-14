@@ -65,6 +65,16 @@ Un pan de maçonnerie a lâché quelque part et l'a recouverte.
 
 Il faisait chaud sous l'uniforme. Il faisait toujours chaud sous l'uniforme — le tissu tenait le corps, tenait la chaleur, et il y avait un point à la naissance de la nuque, sous le col, où la sueur se ramassait et qu'il n'avait jamais pu atteindre en cinq mille ans.
 
+Il a passé la main droite dessus.
+
+Les doigts gris y arrivaient sans difficulté. Il les voyait faire, sous le col, exactement à l'endroit. Il ne s'est rien passé du tout.
+
+Il a changé de main. La gauche s'arrêtait au-dessus. L'épaule ne donnait pas le dernier degré et elle ne l'avait jamais donné.
+
+Il a remis le bras le long du corps.
+
+Puis il a repris.
+
 À la septième minute, il a commencé à croire que cette planète n'avait rien.
 
 Le dossier disait le contraire. Le dossier disait qu'un officier de l'Empire était installé ici depuis vingt ans — Nolan, un nom que Conquest avait entendu prononcer deux fois en cinq siècles et jamais avec considération — avec une consigne d'une simplicité insultante, et que la consigne n'était pas exécutée. Un homme seul rend un monde comme celui-ci prêt en une décennie. Vingt ans plus tard la planète tournait encore, pleine, bruyante, avec ses lampes disciplinées au-dessus des carrefours.

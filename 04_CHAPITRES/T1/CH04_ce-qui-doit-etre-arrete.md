@@ -7,17 +7,25 @@
 
 *Au bord du trou. Jour 0, 17 h 09.*
 
-Sous ses pieds, la pente descendait vers une lumière orange sur une longueur qu'il n'arrivait pas à évaluer — de la matière retournée, du métal tordu, des blocs gros comme des maisons posés de travers les uns sur les autres. Dans les trente premiers mètres de profondeur, il sentait encore quatre cents personnes.
+Sous ses pieds, la pente descendait vers une lumière orange, sur une longueur qu'il n'arrivait pas à évaluer — de la matière retournée, du métal tordu, des blocs gros comme des maisons posés de travers les uns sur les autres.
 
-Il les sentait comme on entend une pièce pleine à travers une porte : pas les visages, pas les noms, la charge. Quatre cents présences serrées, brouillées les unes dans les autres, avec des différences de densité qui lui disaient à peu près où elles étaient et à peu près combien il leur restait.
+Dans le premier étage de décombres, il en sentait encore.
 
-À dix-sept heures neuf, il en avait senti trois mille. Douze minutes plus tard, quatorze cents. Elles ne s'éteignaient pas au hasard : elles suivaient une courbe, décroissante et régulière, la même courbe qu'il avait vue partout où quelque chose s'était effondré sur des gens.
+Il les sentait comme on entend une pièce pleine à travers une porte : pas les visages, pas les noms, la charge. Une masse serrée, brouillée sur elle-même, avec des endroits plus lourds que d'autres qui lui disaient à peu près où ils étaient et à peu près ce qu'il leur restait.
+
+Quand il était arrivé au bord, il y en avait trois fois plus.
+
+Ça s'éteignait pendant qu'il regardait. Pas au hasard, pas par à-coups : régulièrement, avec une lenteur qui ne changeait pas de rythme, et il aurait pu dire sans se tromper de beaucoup ce qu'il en resterait à la nuit.
 
 Il est descendu.
 
-La première dalle qu'il a soulevée devait peser trois cents tonnes et elle est venue sans effort et une avalanche secondaire est partie vingt mètres plus bas, et il a compris tout de suite qu'il fallait travailler autrement. Il a recommencé plus lentement, en calant, en cherchant les points de charge avant de tirer, et il a mis quarante minutes à établir une méthode qui ne tuait personne.
+La première dalle qu'il a soulevée est venue sans effort et une avalanche est partie plus bas, et il a compris tout de suite qu'il fallait travailler autrement. Il a recommencé plus lentement, en calant, en cherchant les points de charge avant de tirer. Il lui a fallu quarante minutes pour établir une méthode qui ne tuait personne.
+
+Il n'a pas aimé ces quarante minutes.
 
 Ensuite il a été très rapide.
+
+C'était du travail de bras et de dos, et il le connaissait. On soulève par le bas, on maintient, on dégage quelqu'un d'autre pendant qu'on maintient, et on repose la charge exactement où on l'a prise. Il l'avait fait sur des éboulements, dans un village, avec des hommes de trois fois son âge qui lui criaient dessus. Ici il n'y avait personne pour lui crier dessus et le principe ne changeait pas.
 
 Il en a sorti soixante et onze en deux heures. Il les remontait sur le bord ouest, là où le terrain tenait encore, et il les allongeait sur le côté en écartant les gravats du pied pour leur faire de la place.
 
@@ -27,11 +35,11 @@ Il les a alignés. Un alignement se compte plus vite, pour ceux qui viendraient.
 
 Vers vingt heures, l'eau est arrivée.
 
-Elle est venue par l'est, en nappe, sur un front qu'il a senti avant de le voir — une pression dans l'air, une chute de température —, et elle a rempli la partie basse du trou en un temps qu'il n'a pas mesuré. Douze présences se sont éteintes en même temps, à sept cents mètres de lui, et il n'a rien pu faire de plus rapide que l'eau.
+Elle est venue par l'est, en nappe, sur un front qu'il a senti avant de le voir — une pression dans l'air, une chute de température —, et elle a rempli la partie basse du trou plus vite qu'il ne s'y attendait. Il n'a rien pu faire de plus rapide qu'elle. Un paquet entier de présences s'est éteint en même temps, très loin sur sa gauche, et l'eau est montée là où elles avaient été.
 
-Il a remonté le travail de vingt mètres.
+Il a remonté le travail au-dessus de la ligne.
 
-À vingt-trois heures il en avait sorti cent quatre-vingt-douze, et il n'en restait plus qu'une trentaine sous les décombres, très faibles, très espacées, dans des poches où il ne pouvait pas entrer sans les écraser.
+À vingt-trois heures il en avait sorti cent quatre-vingt-douze, et il n'en restait plus qu'une poignée sous les décombres, très faibles, très espacées, dans des poches où il ne pouvait pas entrer sans les écraser.
 
 Il est remonté sur le bord ouest.
 
@@ -39,11 +47,11 @@ Les cent quatre-vingt-douze étaient là où il les avait mis. Le vent poussait 
 
 Personne n'était venu.
 
-Il a regardé vers l'ouest, dans la seule direction où il y avait encore de la lumière — un moutonnement de lampes très loin, à vingt kilomètres, avec beaucoup de monde dedans. Il sentait cette masse, distincte, dense, agitée. Ils étaient des dizaines de milliers à quinze kilomètres et aucun d'eux ne bougeait dans sa direction.
+Il a regardé vers l'ouest, dans la seule direction où il y avait encore de la lumière — un moutonnement de lampes très loin, avec beaucoup de monde dedans. Il sentait cette masse, distincte, dense, agitée. Ils étaient des dizaines de milliers et aucun d'eux ne bougeait dans sa direction.
 
 Il ne comprenait pas.
 
-Ce n'était pas de l'indignation. Il n'attendait pas qu'on vienne le remercier ni qu'on vienne le combattre : il attendait ceux dont c'était le travail. Il y en a toujours. Il y a toujours des gens qui arrivent avec du matériel, qui prennent les corps, qui les emportent quelque part, et ensuite il y a la deuxième partie du travail, celle qui prend plus longtemps mais qui se fait aussi, et à la fin tout le monde se relève et on recommence.
+Il n'attendait pas qu'on vienne le remercier ni qu'on vienne le combattre : il attendait ceux dont c'était le travail. Il y a toujours des gens qui arrivent avec du matériel, qui prennent les corps, qui les emportent quelque part, et ensuite il y a la deuxième partie du travail, celle qui prend plus longtemps mais qui se fait aussi, et à la fin tout le monde se relève et on recommence.
 
 Il connaissait les délais. Ils dépendaient de la distance, du nombre, et de qui s'en occupait. Il était mort une fois et il avait attendu un an.
 
@@ -53,7 +61,9 @@ Ce qui était grave, c'était que personne ne soit venu prendre les corps, parce
 
 Il s'est assis sur une poutre.
 
-Il est resté là quatre heures, sans dormir, à sentir les trente dernières présences s'éteindre l'une après l'autre sous les décombres, à intervalles de plus en plus longs. La dernière a tenu jusqu'à trois heures du matin. C'était petit et c'était très loin sous la surface et il avait essayé deux fois.
+Sa faim est arrivée à ce moment-là, d'un coup, avec la fatigue de la journée dessous. Il avait mangé la veille et il avait mal mangé. Il a passé le pouce sur l'accroc que l'arête d'une dalle venait d'ouvrir sous son bras droit, il a tiré dessus une fois pour voir, et il a laissé.
+
+Il est resté là quatre heures, sans dormir, à sentir les dernières présences s'éteindre l'une après l'autre sous les décombres, à intervalles de plus en plus longs. La dernière a tenu jusqu'à trois heures du matin. C'était petit et c'était très loin sous la surface, et il avait essayé deux fois.
 
 À trois heures et quelques, il n'y avait plus rien dans le trou.
 
@@ -61,13 +71,13 @@ C'est à ce moment-là qu'il a senti l'autre.
 
 ---
 
-*Une crête, à soixante kilomètres au nord-ouest. Jour 1, 05 h 40.*
+*Une crête, au nord-ouest. Jour 1, 05 h 40.*
 
 Il a mis une heure et demie à le rejoindre, en volant lentement. Voler vite dans une couche épaisse au-dessus d'un relief qu'on ne connaît pas est une bêtise qu'on ne fait qu'une fois.
 
-Il l'a trouvé sur une arête de grès, à quinze cents mètres, assis sur un rocher, face au sud-est.
+Il l'a trouvé sur une arête de grès, assis sur un rocher, face au sud-est.
 
-Le ki de Végéta était exactement là où il l'avait laissé la veille : haut, serré, propre, sans une entaille. Il avait passé dix-sept minutes à démonter la chose à moustache et il n'en avait rien perdu.
+Le ki de Végéta était exactement là où il l'avait laissé la veille : haut, serré, propre, sans une entaille. Il avait démonté la chose à moustache et il n'en avait rien perdu.
 
 Goku s'est posé à huit mètres. Il ne s'est pas approché davantage, et pas par prudence — par usage. On ne se met pas à portée de quelqu'un qui vient de faire ça.
 
@@ -89,7 +99,7 @@ Végéta a tourné la tête, cette fois.
 
 — Ceux d'ici. Ceux qui s'occupent de ça.
 
-Il y a eu trois secondes pendant lesquelles Végéta l'a regardé sans rien dire, et Goku a senti son ki faire une chose minuscule, un pincement, comme quand quelqu'un cherche à comprendre s'il a mal entendu.
+Il y a eu trois secondes pendant lesquelles Végéta l'a regardé sans rien dire, et Goku a senti son ki faire une chose minuscule, un pincement, celui de quelqu'un qui cherche s'il a mal entendu.
 
 — Kakarotte. Il n'y a plus de ville.
 
@@ -133,15 +143,15 @@ Végéta s'est retourné complètement.
 
 Le ki de Végéta a bougé.
 
-Ça n'a pas duré. Une montée courte, tranchante, puis une remise à plat volontaire, et Goku savait ce que ça voulait dire : c'était ce que faisait le ki de quelqu'un qui vient de recevoir une information qui l'inquiète et qui décide de ne pas le montrer.
+Ça n'a pas duré. Une montée courte, tranchante, puis une remise à plat volontaire, et Goku savait ce que ça voulait dire : c'est ce que fait le ki de quelqu'un qui vient de recevoir une information qui l'inquiète et qui décide de ne pas le montrer.
 
 — Le gamin en bleu aussi ?
 
-— Le gamin en bleu, un peu. Faible mais présent, et de la même couleur que le grand — la même façon de tenir, tu vois, comme une famille. Sauf que chez le grand il n'y en avait pas du tout.
+— Le gamin en bleu, un peu. Faible mais présent, et de la même couleur que le grand — la même façon de tenir, tu vois. Sauf que chez le grand il n'y en avait pas du tout.
 
 — Tu es en train de me dire qu'il en avait et pas assez pour que tu le sentes.
 
-— Non. Je te dis qu'il n'y avait rien. Ce n'est pas la même chose. Quelqu'un de faible, je le sens à trois cents kilomètres si je cherche. Lui, il était à quatre mètres de moi et il n'existait pas.
+— Non. Je te dis qu'il n'y avait rien. Ce n'est pas la même chose. Le premier venu, je sais où il est sans avoir besoin de le chercher. Lui, il était à quatre mètres de moi et il n'existait pas.
 
 — Et il tapait.
 
@@ -165,13 +175,19 @@ Végéta est resté silencieux six secondes. Goku les a comptées.
 
 — Une espèce que tu ne peux pas compter. (Il l'a dit sans effort, ce qui ne lui ressemblait pas.) J'ai passé vingt-cinq ans à savoir ce qu'il y avait dans une pièce avant d'y entrer. Toi aussi. Enlève-nous ça et il nous reste les yeux, comme à n'importe qui.
 
+Goku a retourné la phrase et il l'a trouvée juste, et il a trouvé désagréable de la trouver juste.
+
+— Alors on regarde, il a dit.
+
+— Avec quoi ? Tu vois à quelle distance, toi, avec des yeux ?
+
 Il a laissé passer un temps.
 
 — Et c'est très ennuyeux.
 
-Goku est monté sur la pointe du rocher et il a regardé au sud-est, vers la colonne de vapeur qu'on voyait d'ici comme un pilier blanc appuyé sous les nuages, à soixante kilomètres.
+Goku est monté sur la pointe du rocher et il a regardé au sud-est, vers la colonne de vapeur qu'on voyait d'ici comme un pilier blanc appuyé sous les nuages.
 
-— Ce monde n'a rien, a-t-il dit. J'ai balayé toute la nuit dans un rayon de mille kilomètres. Pas une signature au-dessus d'un insecte. Ils ont mis trois individus en face de toi et tu les as tués en marchant. Il n'y a rien ici.
+— Ce monde n'a rien, a dit Végéta. J'ai cherché toute la nuit, aussi loin que je porte. Pas une signature au-dessus d'un insecte. Ils ont mis trois individus en face de toi et tu les as tués en marchant. Il n'y a rien ici.
 
 Il l'a dit comme un constat de mission.
 
@@ -211,27 +227,49 @@ Elle était grande sans l'être trop, posée à plat sur une plaine, avec une ri
 
 Ils sont entrés par la rue, à pied. L'idée était de Végéta.
 
-Goku a senti la ville se retourner sur eux en quinze secondes. Ce n'était pas visible — les gens continuaient de marcher, les véhicules continuaient de rouler — mais dans le ki de tout le monde, sur deux cents mètres, il y a eu la même torsion en même temps, cette accélération sèche qu'il connaissait par cœur et qui, sur un champ de bataille, précède toujours quelque chose.
+Goku a senti la ville se retourner sur eux d'un coup, partout à la fois. Les gens continuaient de marcher, les véhicules continuaient de rouler, et dans le ki de tout le monde autour d'eux il y a eu la même torsion en même temps, cette accélération sèche qu'il connaissait par cœur et qui, sur un champ de bataille, précède toujours quelque chose.
 
 Ici, elle n'a rien précédé.
 
-Ils ont marché quatre cents mètres et personne n'a couru. Personne n'a crié. Une femme a pris son fils par le poignet et est entrée dans un magasin sans se retourner, et deux hommes se sont écartés du trottoir sur le passage de Végéta, de trois pas, puis se sont remis en marche derrière lui.
+Ils ont marché et personne n'a couru. Personne n'a crié. Une femme a pris son fils par le poignet et est entrée dans un magasin sans se retourner, et deux hommes se sont écartés du trottoir sur le passage de Végéta, de trois pas, puis se sont remis en marche derrière lui.
 
 Il y avait des appareils. Des gens en tenaient devant eux, à hauteur de visage, à bout de bras, immobiles, et le geste revenait partout : dans une porte cochère, sur un balcon, derrière une vitrine, la même posture répétée par des dizaines de personnes qui ne se connaissaient pas. Ils ne s'en servaient pas pour se protéger et ils ne s'en servaient pas pour viser. Ils les tenaient, c'est tout, en les orientant vers eux deux.
 
 Goku les a regardés faire jusqu'au carrefour suivant sans arriver à deviner à quoi ça servait.
 
-Ce qui l'a occupé davantage, c'est qu'aucun de ces gens ne s'enfuyait, alors que leur ki disait le contraire. Il y avait dans cette rue quatre cents personnes dont le corps entier hurlait de partir, et pas une seule ne partait. Il connaissait cet état-là. Il l'avait senti sur des soldats à qui on avait donné l'ordre de tenir une ligne.
+Ce qui l'a occupé davantage, c'est qu'aucun de ces gens ne s'enfuyait, alors que leur ki disait le contraire. Il y avait dans cette rue des gens dont le corps entier hurlait de partir, et pas un seul ne partait. Il connaissait cet état-là. Il l'avait senti sur des soldats à qui on avait donné l'ordre de tenir une ligne.
 
 Personne ne leur avait donné d'ordre.
 
 Végéta est entré dans un endroit où l'on mangeait.
 
-C'était une grande salle avec des tables, un comptoir au fond, une odeur de graisse chaude et une quarantaine de personnes dedans. Quand il a poussé la porte, tous les kis de la salle sont montés en même temps et une chaise est tombée quelque part.
+Goku l'a suivi sans discuter. Il n'avait rien avalé depuis la veille, il avait passé la nuit à soulever des dalles, et l'odeur qui sortait de cette porte lui est arrivée dessus à dix pas et lui a mis de l'eau dans la bouche.
+
+C'était une grande salle avec des tables, un comptoir au fond, une odeur de graisse chaude et une quarantaine de personnes dedans. Quand Végéta a poussé la porte, tous les kis de la salle sont montés en même temps et une chaise est tombée quelque part.
 
 Il a choisi une table au milieu, il a fait glisser deux couverts sur le côté du plat de la main, et il s'est assis.
 
-Végéta n'a rien dit, n'a rien demandé. Il a posé les avant-bras sur la table et il a attendu, le dos droit, avec l'expression d'un homme qui a été servi toute sa vie et qui compte l'être encore.
+Il a posé les avant-bras sur la table et il a attendu, le dos droit, avec l'expression d'un homme qui a été servi toute sa vie et qui compte l'être encore.
+
+Goku s'est assis en face.
+
+Il y avait un carton dressé au milieu de la table. Il l'a pris. Il l'a tenu à bout de bras et il l'a examiné longuement, ligne par ligne, en suivant du regard jusqu'en bas.
+
+Puis il l'a retourné dans l'autre sens et il a recommencé.
+
+Végéta n'a pas tourné la tête.
+
+— Tu ne sais pas lire.
+
+— Non.
+
+Il a reposé le carton exactement où il l'avait pris, bien droit.
+
+— Toi non plus, il a dit.
+
+— Non.
+
+Ils ont regardé le carton tous les deux.
 
 Il y a eu vingt-deux secondes.
 
@@ -241,13 +279,37 @@ Végéta a fait un geste vague vers le comptoir.
 
 L'homme est reparti. Il est revenu avec tout ce qu'il y avait.
 
-Ils sont restés quarante minutes. Personne n'est parti de la salle et personne n'y est entré. Deux personnes ont pleuré silencieusement à une table du fond et Goku les a senties pleurer sans les regarder. À un moment un appareil a sonné derrière le comptoir et l'homme l'a laissé sonner onze fois.
+Il a fallu trois voyages. Il posait les plats en s'avançant le moins possible, le bras tendu, et il reculait entre chaque. À la fin il y avait de la nourriture pour trente personnes sur la table et il n'y avait plus de place pour poser autre chose.
 
-Il y avait de la nourriture pour trente personnes sur la table et elle a suffi à l'un des deux.
+Goku a mangé.
 
-Goku, lui, a mangé sans y penser, comme toujours, et il aurait pu manger le double sans que sa journée en soit modifiée. Il avait passé six jours à traverser une chaîne de montagnes avec quelqu'un sur le dos, sans rien du tout, et il était arrivé de l'autre côté.
+Il a mangé comme il mangeait toujours, sans y penser, en prenant ce qui était devant lui et en passant au suivant, et le suivant est arrivé très vite. Il tenait un plat d'une main et il vidait l'autre. La faim est descendue d'un cran au bout du troisième et il s'en est aperçu avec plaisir, et il a continué.
 
-Quand ils se sont levés, personne ne leur a rien réclamé.
+Végéta a pris un morceau de pain.
+
+Il l'a tourné une fois entre ses doigts. Il en a mangé la moitié, il a reposé l'autre moitié sur le bord de la table, et il n'a plus rien touché.
+
+Personne n'est parti de la salle et personne n'y est entré.
+
+Deux personnes ont pleuré silencieusement à une table du fond et Goku les a senties pleurer sans les regarder. À un moment un appareil a sonné derrière le comptoir et l'homme l'a laissé sonner onze fois.
+
+Quand il n'y a plus rien eu sur la table, Goku a tenu son assiette vide à hauteur de poitrine et il s'est tourné vers la salle.
+
+Il n'a rien dit. Il n'aurait pas su quoi dire. Il a levé l'assiette de quelques centimètres, avec le geste que fait n'importe qui, partout, dans n'importe quelle langue.
+
+Quarante personnes ont regardé ailleurs en même temps.
+
+Goku a attendu un peu, l'assiette en l'air.
+
+Puis il l'a reposée.
+
+— Ils ne comprennent pas, il a dit.
+
+— Ils ont parfaitement compris.
+
+Végéta s'est levé.
+
+Ils sont restés quarante minutes en tout. Quand ils se sont levés, personne ne leur a rien réclamé.
 
 C'est là que Goku a compris ce qui n'allait pas, sauf qu'il ne l'a pas compris avec des mots.
 
@@ -293,19 +355,35 @@ Puis il a repris sa marche, et il a rattrapé Végéta au carrefour suivant, et 
 
 ---
 
-*Une plaine, cinquante kilomètres à l'ouest. Jour 2, 11 h 05.*
+*Une plaine, à l'ouest. Jour 2, 11 h 05.*
 
-Ils ont senti arriver la chose avant de la voir, et pour une fois ils l'ont sentie tous les deux : quatre-vingts kis groupés, très bas, à cent quarante kilomètres, qui se déplaçaient vite en formation serrée sur un axe qui les visait.
+Ils les ont sentis arriver longtemps avant de les voir, et pour une fois ils les ont sentis tous les deux : quatre-vingts kis groupés, très bas, qui se déplaçaient vite en formation serrée sur un axe qui les visait.
 
 — Enfin, a dit Végéta.
 
-Il s'est levé. Il n'a pas pris de garde. Il est monté de trois mètres et il est resté là, les bras le long du corps, à regarder l'horizon ouest.
+Il s'est levé. Il n'a pas pris de garde.
 
-Ce qui est arrivé d'abord n'était pas les quatre-vingts.
+Goku, lui, s'est assis dans l'herbe et il a écouté venir.
 
-Ce qui est arrivé d'abord était sans ki du tout — une chose lancée, très rapide, qui est passée au-dessus de l'horizon en laissant une ligne blanche derrière elle et qui est descendue vers eux avec une trajectoire qui ne visait pas exactement, mais qui visait large.
+C'était une habitude de tournoi et il ne s'en était jamais défait : avant que ça commence, on prend ce qu'on peut prendre. Il a ouvert la perception et il les a séparés les uns des autres, un par un.
 
-Goku a mesuré la vitesse et la masse et il s'est écarté de trois cents mètres.
+Ils étaient tenus. Quatre-vingts kis qui montaient et descendaient ensemble, au même rythme, sur une respiration commune — des gens à qui on avait beaucoup appris et qui avaient beaucoup répété.
+
+Le sixième en partant de la gauche ne suivait pas.
+
+Le sien montait, s'arrêtait trop haut, redescendait plus bas que les autres, et remontait. Il faisait ça sans arrêt. Il le faisait depuis assez longtemps pour que ce soit devenu son état normal, et à chaque fois qu'il redescendait il y avait, tout en bas, une seconde où il n'y avait presque plus rien du tout, et à chaque fois il remontait quand même.
+
+Goku connaissait ça mieux que n'importe quoi d'autre.
+
+C'est un homme qui se parle. Il se dit quelque chose, il y arrive, ça tient un moment, et ça lâche, et il recommence. Il n'a personne à qui le dire et il continue jusqu'au bout. Goku avait vu des gens tenir des lignes entières comme ça, avec ce bruit-là dans le corps, et il avait toujours pensé que c'était eux qu'il fallait regarder et pas les autres.
+
+Il l'a compté. Onze fois pendant l'approche.
+
+Puis quelque chose est arrivé qui n'était pas les quatre-vingts.
+
+Ce qui est arrivé d'abord était sans ki du tout — un objet lancé, très rapide, qui est passé au-dessus de l'horizon en laissant une ligne blanche derrière lui et qui est descendu vers eux avec une trajectoire qui ne visait pas exactement, mais qui visait large.
+
+Goku a jugé la vitesse et la masse et il s'est écarté.
 
 Végéta ne s'est pas écarté.
 
@@ -315,9 +393,13 @@ Goku a vu ça et il n'a pas eu le temps de crier, et de toute façon il n'aurait
 
 L'objet a touché.
 
-Il y a eu une boule de feu de deux cents mètres, une onde de pression qui a couché l'herbe sur trois kilomètres, et une colonne de terre qui est montée droit. Le souffle est arrivé sur Goku une seconde et demie plus tard, chaud, plein de particules, et il a plissé les yeux.
+La lumière est arrivée sur Goku avant le reste, blanche, plate, sans ombre, et elle lui a fermé les yeux tout seuls. Ensuite la chaleur, sur la face et sur les avant-bras, une chaleur sèche qui a tiré la peau. Ensuite le sol, qui est monté sous lui d'un coup et qui est redescendu. Ensuite le souffle, plein de terre et de morceaux d'herbe, qui l'a couché sur le côté et qui l'a fait glisser.
 
-Le ki de Végéta n'avait pas varié d'un cheveu.
+Il s'est relevé avec de la terre dans la bouche. Il a craché. Ça avait le goût du fond d'un puits.
+
+L'air, au-dessus de la plaine, ne portait plus rien : ni odeur d'herbe, ni humidité, plus rien de ce qui traîne d'ordinaire au ras du sol. Il a respiré deux fois pour vérifier et il n'y avait toujours rien.
+
+Le ki de Végéta n'avait pas varié.
 
 Il est ressorti du nuage en marchant sur rien, entièrement noir de suie, et il a regardé la formation qui arrivait, et il a fait un mouvement du bras droit.
 
@@ -325,9 +407,25 @@ Un seul. De faible amplitude, à hauteur de hanche. Le poignet n'a pas suivi.
 
 Les quatre-vingts kis se sont éteints ensemble.
 
-Pas un à un : ensemble, dans le même dixième de seconde, sur une largeur de dix-huit kilomètres. Goku l'a senti dans la poitrine, une seule fois, et la place qu'ils occupaient est restée vide.
+Ils ne se sont pas éteints les uns après les autres, avec cet intervalle qu'il y a toujours, si court soit-il, entre le premier et le dernier d'un groupe. Ils se sont arrêtés au même instant, comme une note tenue par quatre-vingts bouches et que quatre-vingts bouches ferment sur le même signe, et à l'endroit de la perception où ils avaient été depuis une heure il n'y a plus rien eu du tout, et la place est restée.
+
+Goku l'a senti dans la poitrine. Une fois.
 
 Puis il y a eu le bruit, longtemps après.
+
+Il était debout dans l'herbe couchée et il a mis un moment à s'apercevoir qu'il cherchait encore le sixième.
+
+Il l'a cherché à l'endroit où il avait été. Il a repassé la ligne dans le même ordre, de la gauche vers la droite, et il n'y avait plus de ligne et il l'a repassée quand même.
+
+Le sixième s'était éteint en bas.
+
+Pas en haut, pas au milieu — en bas, dans la seconde où il n'y avait presque plus rien, celle d'avant la remontée. Il n'était pas remonté cette fois-là.
+
+Goku a été déçu.
+
+Il l'a su tout de suite, et ça ne lui a pas plu de le savoir. Il avait passé une heure à écouter venir des gens tenus, il avait attendu de voir ce que ça donnait, et il n'avait rien vu du tout.
+
+Il y avait autre chose dessous, plus lent, qui n'est pas monté tout de suite.
 
 Végéta est redescendu au sol.
 
@@ -335,39 +433,43 @@ Et il n'a plus rien fait.
 
 Il est resté debout, dans l'herbe couchée, tourné vers l'ouest, les bras le long du corps, et il n'a plus bougé.
 
-Goku a attendu. Il a supposé qu'il écoutait quelque chose, ou qu'il attendait une deuxième vague, et il a vérifié lui-même sur trois cents kilomètres. Il n'y avait rien qui arrivait.
+Goku a attendu. Il a supposé qu'il écoutait quelque chose, ou qu'il attendait une deuxième vague, et il a vérifié lui-même, loin, dans toutes les directions. Il n'y avait rien qui arrivait.
 
 Il a quand même attendu. On n'interrompt pas.
 
 Au bout de quatre minutes, il a remarqué le ki.
 
-Il n'avait pas chuté, exactement. Il s'était **desserré** — cette structure haute et compacte que Végéta tenait en permanence, éveillé, endormi, en combat, cette pression constante qu'il maintenait sans y penser depuis qu'ils s'étaient rencontrés, avait lâché d'un cran et ne se retendait pas.
+Il n'avait pas chuté. Il s'était **desserré** — cette structure haute et compacte que Végéta tenait en permanence, éveillé, endormi, en combat, cette pression constante qu'il maintenait sans y penser depuis qu'ils s'étaient rencontrés, avait lâché d'un cran et ne se retendait pas.
 
 Goku avait senti ça deux fois dans sa vie.
 
 Une fois chez un vieil homme qui avait cessé de se battre au milieu d'un tournoi et qui était sorti de l'aire en disant qu'il ne voyait plus l'intérêt. Une fois chez quelqu'un qui venait d'apprendre une nouvelle par téléphone.
 
-Ce n'était pas de la fatigue. Ça n'en avait ni la forme ni la vitesse.
-
-Mais Goku n'avait pas d'autre mot que celui-là, alors il a pensé *il est fatigué*, et il a rangé l'observation avec les autres.
+Il n'avait pas de mot pour ça, alors il a pensé *il est fatigué*, et il a rangé l'observation avec les autres.
 
 Végéta est resté debout onze minutes.
 
 Puis il a dit, sans se retourner, d'une voix parfaitement égale :
 
-— Ils viennent de me montrer tout ce qu'ils avaient.
+— Je voulais qu'il y ait quelque chose ici.
+
+Goku a levé la tête.
+
+Il n'avait jamais rien entendu de pareil sortir de cette bouche, et il a attendu la suite, et il n'y en a pas eu. Végéta a essuyé la suie de son avant-bras gauche, méthodiquement, en trois passages, et la suie n'est pas partie.
+
+— Ils viennent de me montrer tout ce qu'ils avaient, a-t-il dit ensuite, du même ton.
 
 — Tu crois ?
 
 — On ne lance pas ça en deuxième. On lance ça quand il n'y a rien après.
 
-Il a essuyé la suie de son avant-bras gauche, méthodiquement, en trois passages, et la suie n'est pas partie.
+Il a examiné son avant-bras.
 
-— Combien de temps ils ont mis à décider ? a-t-il demandé.
+— Combien de temps ils ont mis à décider ?
 
 — Comment veux-tu que je sache ça.
 
-— Deux jours. Deux jours entre le moment où ils ont vu et le moment où ils ont lancé. (Il a examiné son avant-bras.) Deux jours, c'est une réunion. Ça veut dire que celui qui commande n'est pas celui qui décide.
+— Deux jours. Deux jours entre le moment où ils ont vu et le moment où ils ont lancé. Deux jours, c'est une réunion. Ça veut dire que celui qui commande n'est pas celui qui décide.
 
 Il s'est mis en l'air.
 
@@ -377,23 +479,29 @@ Ce qui a frappé Goku, et qu'il n'a pas su interpréter, c'est que Végéta avai
 
 Sauf que la veille, en le disant, son ki était monté.
 
+Goku est resté en arrière un moment.
+
+Il est allé jusqu'à l'endroit où la ligne était passée, à peu près, et il a marché dessus dans le sens de la marche. Il n'y avait rien à voir. L'herbe était couchée dans un sens et redressée dans l'autre, et le sol n'avait pas été touché.
+
+Il ne savait pas ce qu'il était venu chercher là. Il est reparti.
+
 ---
 
 *Une arête, quelque part au nord. Jour 3, 01 h 50.*
 
 Ils ne parlaient pas beaucoup.
 
-Ils s'étaient posés là parce que c'était haut, dégagé, et loin de toute concentration de kis — pas par précaution, par confort : quarante mille personnes à trois kilomètres, ça fait un bruit de fond qu'on finit par vouloir quitter.
+Ils s'étaient posés là parce que c'était haut, dégagé, et loin de toute concentration de kis — pas par précaution, par confort : une agglomération en dessous fait un bruit de fond qu'on finit par vouloir quitter.
 
 Le ciel s'était dégagé pour la première fois depuis trois jours.
 
 Goku s'était allongé sur le dos, les mains derrière la nuque, et il balayait.
 
-Il élargissait la portée par paliers, en laissant chaque palier s'installer avant de pousser le suivant. À trente kilomètres, il tenait les individus un par un et il aurait pu dire lesquels dormaient. À cent, les familles se fondaient et il ne lisait plus que des foyers. À trois cents, deux grandes agglomérations, chacune avec cette texture particulière des concentrations humaines, granuleuse, en mouvement lent, avec des courants dedans. À six cents, une autre, plus petite et plus dense au centre. À neuf cents, tout devenait une seule pression continue et il perdait le grain.
+Il élargissait par paliers, en laissant chaque palier s'installer avant de pousser le suivant. Au début il tenait les individus un par un et il aurait pu dire lesquels dormaient. Plus loin, les familles se fondaient et il ne lisait plus que des foyers. Plus loin encore, deux grandes agglomérations, chacune avec cette texture particulière des concentrations humaines, granuleuse, en mouvement lent, avec des courants dedans. Tout au bout, ça devenait une seule pression continue et il perdait le grain.
 
 Il a poussé une fois de plus, pour voir, et il n'a rien gagné qu'un mal de tête naissant.
 
-Nulle part, dans ces neuf cents kilomètres, il n'y avait une seule signature qui méritât d'être regardée deux fois. Pas une. Il avait cherché les pointes — c'est ce qu'on cherche d'abord, les endroits où le fond remonte — et le fond était plat d'un bout à l'autre, avec des variations d'un ordre de grandeur ridicule.
+Nulle part, aussi loin qu'il portait, il n'y avait une seule signature qui méritât d'être regardée deux fois. Pas une. Il avait cherché les pointes — c'est ce qu'on cherche d'abord, les endroits où le fond remonte — et le fond était plat d'un bout à l'autre.
 
 Il a arrêté de balayer.
 
@@ -437,8 +545,6 @@ Son ki était redevenu haut, serré, et absolument stable.
 
 C'était ça qui n'allait pas. Depuis la veille dans la plaine, Goku attendait qu'il se retende — il avait vu cette structure lâcher d'un cran et il avait supposé de la fatigue, et la fatigue remonte. Elle remonte toujours, en quelques heures, avec le sommeil ou sans. Celle-là n'était pas remontée. Elle avait été **remise en place**, exactement au même niveau, avec un soin qui ne ressemblait pas à de la récupération.
 
-Une structure qui a lâché ne remonte pas d'elle-même à ce niveau-là. On l'y maintient.
-
 Au bout d'une heure et quatre minutes, Goku a demandé :
 
 — Qu'est-ce que tu regardes ?
@@ -471,7 +577,7 @@ Goku s'est assis.
 
 — Non.
 
-Le ciel s'éclaircissait par le bas, une bande grise sale au-dessus du relief. En dessous, à trois kilomètres, les quarante mille kis de l'agglomération commençaient à changer de rythme : les gens se levaient.
+Le ciel s'éclaircissait par le bas, une bande grise sale au-dessus du relief. En dessous, les kis de l'agglomération commençaient à changer de rythme : les gens se levaient.
 
 Goku a regardé le profil de l'autre contre le gris.
 
@@ -497,17 +603,21 @@ Goku n'a pas répondu, et il n'a pas eu l'impression d'avoir reçu une réponse.
 
 Il a rangé ça avec le reste.
 
-— Tu ne sais pas lire, a dit Végéta.
+Puis il a dit la chose qu'il avait dans la bouche depuis le premier soir.
 
-— Toi non plus.
+— Je veux que quelqu'un vienne les chercher.
 
-— Non.
+Végéta l'a regardé.
 
-— Il faudrait quelqu'un.
+— Les cent quatre-vingt-douze. Je les ai mis sur le bord, en ligne, pour qu'on les compte vite. Personne n'est venu. Je veux que quelqu'un vienne.
 
-— Il faudra quelqu'un. (Il a réfléchi une seconde.) Et personne ici n'a intérêt à nous dire la vérité. Alors il faudra en trouver un à qui on puisse retirer quelque chose.
+Il l'a dit posément, une fois, sans rien ajouter derrière.
 
-Végéta s'est levé et il a épousseté ce qui restait de suie sur son épaulière droite, sans résultat.
+Végéta n'a pas répondu à ça, et il n'a pas eu l'air de trouver ça ridicule, ce qui était pire.
+
+— Il faudra quelqu'un, a-t-il dit à la place. Pour les marques. (Il a réfléchi une seconde.) Et personne ici n'a intérêt à nous dire la vérité. Alors il faudra en trouver un à qui on puisse retirer quelque chose.
+
+Il s'est levé et il a épousseté ce qui restait de suie sur son épaulière droite, sans résultat.
 
 — Cherche ce que tu veux. Je m'en fiche.
 
