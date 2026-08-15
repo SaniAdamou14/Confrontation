@@ -250,6 +250,20 @@ CSS = r"""
   --shadow:0 1px 0 rgba(255,255,255,.7), 0 16px 40px -30px rgba(20,32,40,.45);
 }
 
+/* Encre. Le noir et blanc d'impression : aucune couleur, aucune ombre,
+   et les planches passent en noir pur sur papier pur. */
+:root[data-theme="encre"]{
+  --ground:#FFFFFF; --raised:#FFFFFF; --line:#000000;
+  --text:#000000; --dim:#000000; --faint:#000000;
+  --accent:#000000; --signal:#000000; --amber:#8A8A8A; --stop:#FFFFFF;
+  --halo:rgba(0,0,0,.08);
+  --pl-ink:#000000; --pl-paper:#FFFFFF;
+  --shadow:none;
+}
+:root[data-theme="encre"] .compteur dd,
+:root[data-theme="encre"] .carte h3{font-weight:600}
+:root[data-theme="encre"] .prose .situation{font-weight:600}
+
 html{-webkit-text-size-adjust:100%;scroll-behavior:smooth}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 body{
@@ -277,15 +291,19 @@ img,svg{max-width:100%}
 .marque{font-size:.7rem;letter-spacing:.15em;text-transform:uppercase;color:var(--dim);
   text-decoration:none;padding:.7rem 0;transition:color .16s}
 .marque:hover{color:var(--text)}
+.theme{background:none;border:1px solid var(--line);color:var(--dim);font:inherit;
+  font-size:.62rem;letter-spacing:.12em;text-transform:uppercase;padding:.42rem .6rem;
+  cursor:pointer;flex:none;min-width:4.4rem;transition:color .16s,border-color .16s}
+.theme:hover{color:var(--accent);border-color:var(--accent)}
 .barre-titre{flex:1;min-width:0;font-size:.74rem;color:var(--faint);white-space:nowrap;
   overflow:hidden;text-overflow:ellipsis;text-align:right}
 .lampe{width:9px;height:9px;border-radius:50%;flex:none;background:var(--signal);
-  box-shadow:0 0 0 3px color-mix(in srgb,var(--signal) 18%,transparent);
+  box-shadow:0 0 0 1px var(--line),0 0 0 3px color-mix(in srgb,var(--signal) 18%,transparent);
   animation:cycle 64s steps(1,end) infinite}
 @keyframes cycle{
-  0%,43.74%{background:var(--signal);box-shadow:0 0 0 3px color-mix(in srgb,var(--signal) 18%,transparent)}
-  43.75%,49.99%{background:var(--amber);box-shadow:0 0 0 3px color-mix(in srgb,var(--amber) 18%,transparent)}
-  50%,100%{background:var(--stop);box-shadow:0 0 0 3px color-mix(in srgb,var(--stop) 18%,transparent)}}
+  0%,43.74%{background:var(--signal);box-shadow:0 0 0 1px var(--line),0 0 0 3px color-mix(in srgb,var(--signal) 18%,transparent)}
+  43.75%,49.99%{background:var(--amber);box-shadow:0 0 0 1px var(--line),0 0 0 3px color-mix(in srgb,var(--amber) 18%,transparent)}
+  50%,100%{background:var(--stop);box-shadow:0 0 0 1px var(--line),0 0 0 3px color-mix(in srgb,var(--stop) 18%,transparent)}}
 @media (prefers-reduced-motion:reduce){.lampe{animation:none}}
 .jauge{position:absolute;left:0;bottom:-1px;height:2px;width:0;background:var(--accent);
   transition:width .1s linear;will-change:width}
@@ -445,6 +463,26 @@ JS = r"""
     m.textContent = adr;
   }
 
+  var bt = document.getElementById('theme');
+  if(bt){
+    var modes = ['auto','light','dark','encre'];
+    var noms  = {auto:'Auto', light:'Clair', dark:'Sombre', encre:'Encre'};
+    var cur;
+    try{ cur = localStorage.getItem('pdd:theme') || 'auto'; }catch(e){ cur = 'auto'; }
+    if(modes.indexOf(cur) < 0) cur = 'auto';
+    function pose(m){
+      cur = m;
+      if(m === 'auto') document.documentElement.removeAttribute('data-theme');
+      else document.documentElement.setAttribute('data-theme', m);
+      bt.textContent = noms[m];
+      try{ localStorage.setItem('pdd:theme', m); }catch(e){}
+    }
+    pose(cur);
+    bt.addEventListener('click', function(){
+      pose(modes[(modes.indexOf(cur) + 1) % modes.length]);
+    });
+  }
+
   var rep = document.getElementById('reprise');
   if(rep){
     try{
@@ -489,6 +527,8 @@ def tete(titre_page, description, chemin_rel, prefixe, og_type="website"):
 <meta name="twitter:image" content="{base}/assets/og.png"/>
 <meta name="theme-color" content="#0E1418" media="(prefers-color-scheme:dark)"/>
 <meta name="theme-color" content="#E9ECEE" media="(prefers-color-scheme:light)"/>
+<script>try{{var t=localStorage.getItem('pdd:theme');
+if(t&&t!=='auto')document.documentElement.setAttribute('data-theme',t);}}catch(e){{}}</script>
 <link rel="stylesheet" href="{p}css/style.css"/>
 </head>
 <body>
@@ -502,6 +542,8 @@ def barre(prefixe, titre_courant=""):
     return """<div class="barre"><div class="enveloppe barre-i">
 <a class="marque mono" href="{p}index.html">{titre}</a>
 <span class="barre-titre mono">{c}</span>
+<button class="theme mono" id="theme" type="button"
+  aria-label="Changer de thème">Auto</button>
 <span class="lampe" title="State &amp; Madison — cycle de 64 secondes"></span>
 </div><div class="jauge" id="jauge"></div></div>
 """.format(p=prefixe, titre=html.escape(TITRE), c=html.escape(titre_courant))
@@ -640,6 +682,8 @@ def page_unique(chaps, cartes, n, mots_fmt):
 <div class="barre"><div class="enveloppe barre-i">
 <a class="marque mono" href="#">{titre}</a>
 <span class="barre-titre mono"></span>
+<button class="theme mono" id="theme" type="button"
+  aria-label="Changer de thème">Auto</button>
 <span class="lampe" title="State &amp; Madison — cycle de 64 secondes"></span>
 </div><div class="jauge" id="jauge"></div></div>
 

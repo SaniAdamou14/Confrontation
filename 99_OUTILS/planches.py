@@ -371,7 +371,80 @@ def p4b():
     return enveloppe("".join(o))
 
 
-PLANCHES_INTERIEURES = {1: (4, p1b), 2: (5, p2b), 4: (3, p4b)}
+def p5b():
+    """J4, 17 h 44. Le tri. Quatre secondes, et personne ne monte les chercher."""
+    r = random.Random(105)
+    o = [trame(0, 0, L, 360, "t1", .42)]
+    # l'arête, en aplat
+    o.append('<path d="M0 640 L0 470 L300 424 L640 356 L900 372 L1210 300 L1600 338 '
+             'L1600 640 Z" fill="%s"/>' % INK)
+    o.append('<path d="M0 470 L300 424 L640 356 L900 372 L1210 300 L1600 338" '
+             'stroke="%s" stroke-width="3" fill="none" opacity=".45"/>' % PAP)
+    # la selle est : un debout, deux à terre
+    o.append(silhouette(548, 372, 58))
+    o.append('<rect x="592" y="362" width="76" height="12" rx="6" fill="%s"/>' % PAP)
+    o.append('<rect x="676" y="368" width="68" height="11" rx="5.5" fill="%s"/>' % PAP)
+    # lui, assis du côté du vide, très loin
+    o.append(silhouette(1246, 300, 50, assis=True))
+    # le boîtier, dix mètres plus bas, qui émet toute la nuit
+    o.append('<rect x="516" y="470" width="26" height="17" rx="3" fill="%s"/>' % PAP)
+    for k in (1, 2, 3):
+        o.append('<path d="M%g %g a%g %g 0 0 1 0 %g" fill="none" stroke="%s" '
+                 'stroke-width="2.4" opacity="%g"/>'
+                 % (546 + k * 13, 470 - k * 7, k * 13, k * 13, 24 + k * 14, PAP, .8 - k * .18))
+    # les cailloux de la pente
+    for i in range(70):
+        o.append('<circle cx="%g" cy="%g" r="%g" fill="%s" opacity=".5"/>'
+                 % (r.randint(300, 900), r.randint(390, 630),
+                    r.choice((2, 3, 4)), PAP))
+    return enveloppe("".join(o))
+
+
+def p7b():
+    """Le rétroviseur. Vingt ans d'habitude, et la banquette est vide."""
+    r = random.Random(107)
+    o = ['<rect width="100%" height="100%" fill="' + INK + '"/>']
+    # le pare-brise : la route qui fuit
+    o.append('<path d="M300 640 L640 392 L960 392 L1300 640 Z" fill="url(#t2)" opacity=".4"/>')
+    for i in range(7):
+        t = i / 7.0
+        y = 640 - t * 240
+        w = 46 - t * 38
+        o.append('<rect x="%g" y="%g" width="%g" height="%g" fill="%s" opacity="%g"/>'
+                 % (800 - w / 2, y - 34 + t * 22, w, 30 - t * 24, PAP, .9 - t * .5))
+    # le rétroviseur
+    o.append('<rect x="452" y="112" width="700" height="216" rx="26" fill="%s"/>' % PAP)
+    o.append('<rect x="470" y="130" width="664" height="180" rx="16" fill="%s"/>' % INK)
+    # dedans : la banquette arrière, et rien dessus
+    o.append('<rect x="470" y="248" width="664" height="62" fill="url(#t1)" opacity=".55"/>')
+    o.append('<rect x="470" y="240" width="664" height="10" fill="%s" opacity=".7"/>' % PAP)
+    for x in (556, 762, 968):
+        o.append('<rect x="%g" y="176" width="86" height="66" rx="12" fill="url(#t2)" '
+                 'opacity=".45"/>' % x)
+    o.append('<rect x="770" y="66" width="20" height="52" fill="%s"/>' % PAP)
+    return enveloppe("".join(o))
+
+
+def p8b():
+    """Une porte ouverte de trente centimètres, et le jour de l'ouest."""
+    o = ['<rect width="100%" height="100%" fill="' + INK + '"/>']
+    # l'embrasure
+    o.append('<rect x="1006" y="0" width="14" height="640" fill="%s" opacity=".55"/>' % PAP)
+    o.append('<path d="M1020 44 L1148 78 L1148 596 L1020 628 Z" fill="%s"/>' % PAP)
+    o.append('<path d="M1148 78 L1176 96 L1176 580 L1148 596 Z" fill="url(#t2)" opacity=".5"/>')
+    # la bande de jour en travers de la moquette
+    o.append('<path d="M1020 470 L1148 452 L560 640 L212 640 Z" fill="url(#t1)" opacity=".6"/>')
+    o.append('<path d="M1020 500 L1120 486 L700 640 L410 640 Z" fill="url(#t3)" opacity=".38"/>')
+    # la plinthe et le montant, pour donner l'échelle
+    o.append('<rect x="0" y="596" width="1006" height="9" fill="%s" opacity=".35"/>' % PAP)
+    o.append('<rect x="980" y="0" width="26" height="640" fill="%s" opacity=".18"/>' % PAP)
+    return enveloppe("".join(o))
+
+
+PLANCHES_INTERIEURES = {
+    1: (4, p1b), 2: (5, p2b), 4: (3, p4b),
+    5: (3, p5b), 7: (5, p7b), 8: (5, p8b),
+}
 
 
 def p4():

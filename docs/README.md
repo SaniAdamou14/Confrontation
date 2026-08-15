@@ -45,6 +45,38 @@ git add -A && git commit -m "chapitre 11" && git push
 | `index.html` | Accueil, index, contact, données structurées `schema.org/Book` |
 | `chapitres/*.html` | Une page par chapitre, adresse propre, partageable et indexable |
 | `css/style.css` · `js/main.js` | Même organisation que le portfolio |
+| `planches/*.svg` | Les illustrations en fichiers autonomes, réutilisables ailleurs |
 | `assets/og.png` | Carte de partage 1200 × 630, régénérée à chaque build |
 | `sitemap.xml` · `robots.txt` · `404.html` · `.nojekyll` | Référencement et service |
 | `apercu-fichier-unique.html` | Version autonome en un fichier, pour lire hors ligne |
+
+## Les thèmes
+
+Quatre états, bouton en haut à droite, mémorisés d'une visite à l'autre.
+
+| | |
+|---|---|
+| **Auto** | Suit le réglage du système. C'est le défaut. |
+| **Clair** · **Sombre** | Forcés, quel que soit le système. |
+| **Encre** | Noir et blanc d'impression : aucune couleur, aucune ombre, et **les planches passent en noir pur sur papier pur.** C'est le mode manga. |
+
+Le thème est appliqué par un script en tête de page, avant le premier rendu, pour
+qu'il n'y ait pas de clignotement au chargement.
+
+## Les planches
+
+Générées par `99_OUTILS/planches.py`. Une en tête de chaque chapitre, un frontispice
+sur l'accueil, et **six planches intérieures** posées au sommet de leur chapitre —
+elles s'insèrent sur une frontière de scène, jamais au milieu d'un paragraphe.
+
+Elles sont **incorporées dans le HTML et non liées** : les variables CSS ne traversent
+pas une balise `<img>`, et sans ça elles ne pourraient pas s'inverser avec le thème.
+
+`99_OUTILS/rendu_planches.py` en fait des PNG de contrôle, hors dépôt. Il ne sert qu'à
+regarder les planches avant publication — le site, lui, sert les SVG.
+
+## L'adresse de contact
+
+Encodée dans la page et assemblée au chargement : **aucune chaîne ressemblant à une
+adresse n'existe dans le HTML servi**, pas même `mailto:`. Une adresse en clair sur une
+page publique se fait moissonner. Pour la changer, modifier `EMAIL` dans `build_site.py`.

@@ -29,6 +29,26 @@
     m.textContent = adr;
   }
 
+  var bt = document.getElementById('theme');
+  if(bt){
+    var modes = ['auto','light','dark','encre'];
+    var noms  = {auto:'Auto', light:'Clair', dark:'Sombre', encre:'Encre'};
+    var cur;
+    try{ cur = localStorage.getItem('pdd:theme') || 'auto'; }catch(e){ cur = 'auto'; }
+    if(modes.indexOf(cur) < 0) cur = 'auto';
+    function pose(m){
+      cur = m;
+      if(m === 'auto') document.documentElement.removeAttribute('data-theme');
+      else document.documentElement.setAttribute('data-theme', m);
+      bt.textContent = noms[m];
+      try{ localStorage.setItem('pdd:theme', m); }catch(e){}
+    }
+    pose(cur);
+    bt.addEventListener('click', function(){
+      pose(modes[(modes.indexOf(cur) + 1) % modes.length]);
+    });
+  }
+
   var rep = document.getElementById('reprise');
   if(rep){
     try{
