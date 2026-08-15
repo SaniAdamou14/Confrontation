@@ -13,8 +13,13 @@
 | Depuis | Blessure / état | Durée | Trace permanente |
 |---|---|---|---|
 | J0 | *(aucune)* | | |
+| **J11** | **Coups encaissés, aucune blessure.** Végéta le frappe pendant deux minutes ; **Kakarotte ne rend pas un coup et il n'a rien à montrer le soir.** | — | **aucune, et c'est le sujet** |
 
 > **⚠ ET CE N'EST PAS UN OUBLI — c'est la règle.** Rien sur cette planète ne peut entamer Goku. Rang S contre un monde qui plafonne à B+, et il est sorti de la capsule médicale quarante minutes avant la faille. **Toute blessure qu'on lui écrirait est une faute de canon.** Une entaille au bras gauche a été écrite au chapitre 8 par réflexe puis retirée : R4 dit *le corps compte*, et pour lui le corps compte par **la faim, l'usure du gi, la crasse, et l'absence totale de marque** — que Debbie constate à trois mètres, en cherchant, du geste d'une mère qui inspecte un garçon rentré le soir. **L'absence est le détail. Elle vaut mieux qu'une plaie.**
+
+> **⏰ CE QUE LE J11 AJOUTE, ET QUI NE CONTREDIT PAS LA NOTE CI-DESSUS.** Il encaisse **et ça se lit** — sans qu'aucune marque n'apparaisse. Trois fois dans l'après-midi, **un demi-pas en arrière que personne ne lui a demandé, repris tout de suite.** C'est la seule chose que le récit dise de ce qu'il ressent, et elle est dite de l'extérieur, par une femme qui a passé vingt ans à lire un garçon qui rentre le soir en disant que tout va bien.
+>
+> **Le motif de l'absence est désormais payé deux fois** — au J9 dans un désert, au J11 dans un salon — et **il ne doit plus l'être avant le tome 2.** Trois fois serait un refrain. *(Interdits pour toute écriture future : « il a encaissé », « il a senti », « la douleur », et toute comparaison avec un entraînement. Le lecteur qui connaît les deux la fait seul ; c'est pour lui qu'elle est là.)*
 
 **Faim.** 15 000 à 25 000 kcal/jour en activité de combat. Pas de Bulma, pas de capsules, pas d'argent. À faire apparaître **au moins une fois par chapitre** dès le chapitre 4 : ce n'est jamais un gag, c'est un problème logistique.
 
@@ -77,6 +82,7 @@
 |---|---|---|
 | J0, ~16 h 52 | **Bras arraché.** Définitif. | Coup de pied qui ne visait pas à blesser gravement. Il a huit ans environ, la peau violette, les cheveux noirs raides coupés au menton. Sa croissance est plus rapide que celle d'un humain. |
 | J0, 17 h 01 | Assis sur le toit d'un parking de Wabash, à 400 m du carrefour. Conscient. **Il ne pleure pas.** | Filmé par Ray. Personne ne vient le chercher pendant le chapitre. |
+| **J11** | **Aucune blessure. Ce qui est établi, c'est le corps qui vient.** Il porte six packs d'eau d'une seule main sans changer de rythme. **Il vole** — quinze centimètres au-dessus de l'herbe, et il propose de prendre les voisins par-dessus les toits, deux par deux. **Il ouvre les doigts de Debbie un par un pour se dégager, sans lui faire mal**, en s'appliquant. | Quatre centimètres pris depuis le jeudi ; il lui arrive au menton. **Une quatrième marque du chambranle dépassée, et Debbie n'a pas écrit la date.** |
 
 **Trace permanente et fusil long.** Un enfant amputé, à moitié de l'espèce qui tiendra trente villes en otage au tome 2, avec un motif personnel et le temps de grandir. Voir `POINTS_A_ARBITRER.md` §3.
 

@@ -12,9 +12,9 @@ Version vivante de la bible §13. **Ce fichier prime sur la bible pour tout ce q
 **Dernier chapitre écrit :** ch. 11, « Ce qui était derrière »
 **Chapitres écrits :** 11 / 120
 
-> **⚠ Les blocs « Après le ch. 7 », « ch. 8 » et « ch. 9 » manquent au journal.** Voir l'encadré avant le bloc du ch. 10.
+> **✔ Les blocs « Après le ch. 7 », « ch. 8 » et « ch. 9 » ont été écrits le 15 août 2026**, les chapitres ouverts à côté — voir la note de méthode qui les précède. *(Cet encadré annonçait encore qu'ils manquaient : l'avertissement avait survécu à sa propre réparation. Contrôlé au comptage — ce sont les trois blocs les plus fournis du journal.)* **Le journal n'a plus de retard sur le texte.**
 
-> **⚠ LE JOUR 11 A CHANGÉ LE TOME.** Le plan portait *« entraînement au-dessus du Pacifique »* au ch. 11. Il n'a pas eu lieu et il n'aura pas lieu. À la place : **Végéta est venu corriger Kakarotte au bord du bassin, la banlieue nord de Chicago y est passée, et le mot est entré dans la langue six jours plus tôt que prévu.** Trois conséquences à ne pas perdre de vue en écrivant le ch. 12 — le monde ne se demande plus ce qui s'est passé le J0, il se demande quand ça recommence ; **Ferguson attendait à une table avec une chaise vide pendant que ça arrivait** et Goku n'est pas venu ; et **le combat du tome 3 reste le seul où les deux se battent** (voir `FUSILS_DE_TCHEKHOV.md` F27).
+> **⚠ LE JOUR 11 A CHANGÉ LE TOME.** Le plan portait *« entraînement au-dessus du Pacifique »* au ch. 11. Il n'a pas eu lieu — **et il est reporté, pas supprimé : le décor est réservé pour le tome 2 et aucune ligne n'en a été dépensée.** À la place : **Végéta est venu corriger Kakarotte au bord du bassin, la banlieue nord de Chicago y est passée, et le mot est entré dans la langue six jours plus tôt que prévu.** Trois conséquences à ne pas perdre de vue en écrivant le ch. 12 — le monde ne se demande plus ce qui s'est passé le J0, il se demande quand ça recommence ; **Ferguson attendait à une table avec une chaise vide pendant que ça arrivait** et Goku n'est pas venu ; et **le combat du tome 3 reste le seul où les deux se battent** (voir `FUSILS_DE_TCHEKHOV.md` F27).
 
 ### Décisions de fabrication — à ne pas rouvrir sans raison
 
@@ -478,7 +478,7 @@ Morts cumulés 43 · Goku et Végéta en transit, ki plein, queues intactes, auc
 
 ### Après le ch. 11 — Jour 11, le soir
 
-**Écrit :** `04_CHAPITRES/T1/CH11_ce-qui-etait-derriere.md`, 5 580 mots, focalisation Debbie Grayson, J11 samedi 12 octobre, 08 h 20 → le soir. **Banlieue nord de Chicago.** Dossier : `05_ATELIER/CH11_DOSSIER_PREPARATOIRE.md`.
+**Écrit :** `04_CHAPITRES/T1/CH11_ce-qui-etait-derriere.md`, 5 563 mots, focalisation Debbie Grayson, J11 samedi 12 octobre, 08 h 20 → le soir. **Banlieue nord de Chicago.** Dossier : `05_ATELIER/CH11_DOSSIER_PREPARATOIRE.md`.
 
 **Désormais canonique :**
 
@@ -495,4 +495,5 @@ Morts cumulés 43 · Goku et Végéta en transit, ki plein, queues intactes, auc
 - **CE QU'ELLE A VU ET QU'ELLE NE SAIT PAS NOMMER :** trois demi-pas en arrière que personne ne lui avait demandés, repris aussitôt. **Goku encaisse et il n'a aucune marque.** Elle le vérifie de mémoire le soir, comme au J9, et elle en est certaine d'avance.
 - **AUCUN CHIFFRE DE MORTS DANS LE CHAPITRE.** Debbie ne peut pas le connaître. Le seul bilan est une réplique : *« Il n'y a pas d'autre côté, madame. »*
 - **LE TÉLÉPHONE.** Le compteur du répondeur passe de soixante et un à quatre-vingt-douze. **Elle débranche la prise murale d'un coup d'ongle, sans se baisser.**
+- **PASSES EFFECTUÉES, ET ce qu'elles ont pris.** Lint : R7 à 3 *parce que* et zéro apposition, R9 à deux attaques consécutives. **Tic n° 2 : six comparaisons relevées pour un plafond de deux.** Quatre coupées, remplacées par des gestes — *avant que Debbie ait pu la remercier*, *un coup sec qui est monté par les talons*, *la troisième fois, il l'a crié plus fort que les deux autres.* **Les deux gardées appartiennent à Debbie** : la maison qu'on habite depuis vingt-deux ans (son métier) et *du ton dont il lui avait dit oui, madame* (sa mémoire du J9). **Tic n° 1 : une antithèse formulaire coupée** — *ce n'est pas l'ampleur, c'est la régularité* est devenu *c'est la régularité qui lui a fait ça.* **Confirmation de la note de la checklist : une comparaison retirée oblige à décrire le geste, et la phrase en sort meilleure à chaque fois.**
 - **FIN SUR UNE RÉPLIQUE** — première des trois variations prévues au `CHANTIER_T1` §2. Oliver prononce le mot, mal, et Debbie lui interdit de le redire. **La première personne au monde à interdire ce mot est une mère, dans sa cuisine, le soir même.**

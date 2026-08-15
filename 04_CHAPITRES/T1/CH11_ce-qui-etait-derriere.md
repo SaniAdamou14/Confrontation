@@ -2,7 +2,7 @@
 
 > Focalisation : Debbie Grayson
 > Jour 11 · Banlieue nord de Chicago · 08 h 20 → le soir
-> Mots : 5 600
+> Mots : 5 563
 
 ---
 
@@ -18,7 +18,7 @@ Le nombre à côté d'*œufs* était de la main d'Amber. Douze la semaine d'avan
 
 — Il en a mangé quatre pendant que tu étais en haut, a dit Amber.
 
-Elle était assise au bout de la table, les deux mains autour d'une tasse qu'elle ne buvait pas, avec le pli de l'oreiller encore sur la joue. Elle était arrivée la veille à vingt-deux heures, quarante minutes après le coup de téléphone, et elle avait dit *j'étais dans la voiture avant de raccrocher* du ton dont on refuse par avance qu'on la remercie.
+Elle était assise au bout de la table, les deux mains autour d'une tasse qu'elle ne buvait pas, avec le pli de l'oreiller encore sur la joue. Elle était arrivée la veille à vingt-deux heures, quarante minutes après le coup de téléphone, et elle avait dit *j'étais dans la voiture avant de raccrocher* avant que Debbie ait pu la remercier.
 
 — Crus ?
 
@@ -162,7 +162,7 @@ Elle a pris le droit, il n'y avait que celui-là. Elle a fermé la main dessus e
 
 — Oliver. On rentre.
 
-— Il y en a deux, il a répété, du ton dont on donne un renseignement utile. Une, elle est en bas. L'autre, elle bouge.
+— Il y en a deux, il a répété. Une, elle est en bas. L'autre, elle bouge.
 
 Debbie a tiré. Il a suivi.
 
@@ -216,7 +216,7 @@ Il a levé la tête vers elle. Il avait pris quatre centimètres depuis le jeudi
 
 Ça a traversé la rue à hauteur des toits.
 
-Debbie n'a pas vu ce que c'était. Elle a vu la fenêtre devenir blanche et redevenir grise, et la maison a bougé sous elle, une fois, comme un wagon qu'on attelle.
+Debbie n'a pas vu ce que c'était. Elle a vu la fenêtre devenir blanche et redevenir grise, et la maison a bougé sous elle, une fois, d'un coup sec qui est monté par les talons.
 
 Puis le bruit est arrivé. Il n'a pas commencé et il ne s'est pas arrêté. Il était là, il occupait tout, il a effacé la voix d'Amber, le chien du 1408, sa propre respiration.
 
@@ -224,7 +224,7 @@ Quand elle a pu regarder par la fenêtre, il manquait des toits.
 
 Il en manquait une bande, sur toute la longueur de la rue, à partir de la maison des Kowalczyk et jusqu'au bout : une bande nette, horizontale, à la hauteur des gouttières. Le dessous des maisons était intact. Les portes de garage étaient fermées. Les voitures étaient garées le long du trottoir, propres, avec leurs pare-brise.
 
-Elle a compris ce qu'elle regardait à la deuxième seconde et elle a eu envie de vomir à la troisième, et ce n'est pas l'ampleur qui lui a fait ça. C'est la régularité. C'était droit. Ça avait été fait à la règle, comme les traits du chambranle.
+Elle a compris ce qu'elle regardait à la deuxième seconde et elle a eu envie de vomir à la troisième, et c'est la régularité qui lui a fait ça. C'était droit. Ça avait été fait à la règle, comme les traits du chambranle.
 
 La camionnette du couvreur était toujours là, l'échelle sanglée sur le toit, les rouleaux empilés sur le trottoir. Au bord du plus haut, une tasse en carton posée à plat n'était pas tombée.
 
@@ -340,9 +340,9 @@ L'homme en armure a incliné la tête d'un côté.
 
 Il n'avait pas compris. Debbie l'a su à ça, à l'inclinaison de la tête, à la seconde vide qui a suivi : cet homme venait d'entendre un bruit et il avait cherché dedans quelque chose qui n'y était pas.
 
-Alors il a répondu, et il a crié, et ce n'était pas la langue d'ici.
+Alors il a répondu, et il a crié, dans une langue qu'elle n'avait jamais entendue.
 
-Ça a duré une phrase, peut-être deux. C'était articulé, c'était froid, et il y avait dedans un mot qui est revenu trois fois, toujours à la même place, du ton dont on répète un nom à quelqu'un qui refuse de se retourner quand on l'appelle.
+Ça a duré une phrase, peut-être deux. C'était articulé, c'était froid, et il y avait dedans un mot qui est revenu trois fois, toujours à la même place. La troisième fois, il l'a crié plus fort que les deux autres.
 
 Puis il a levé l'autre main.
 

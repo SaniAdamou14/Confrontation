@@ -539,7 +539,7 @@ La question : **qu'est-ce qu'on vient de faire ?**
 | 4-5 | **Les retrouvailles.** Ils s'évaluent. Végéta comprend que Freezer n'est pas derrière lui. **Le pacte : une prémisse commune, deux buts incompatibles** — il veut un siège, Goku veut une porte. Premier contact radio. |
 | 6 | Doctrine OMEGA. Le congélateur. |
 | 7-8 | Debbie exige de parler à celui qui a tué son fils. La confrontation dans le désert. **Il ne s'excuse pas.** Il ne comprend pas encore ce qu'on lui reproche. |
-| 9-11 | Végéta réalise pour la Lune. Il ne dit rien. **J11 : il vient corriger Kakarotte au-dessus d'une banlieue de Chicago. Deux minutes. Kakarotte ne rend pas un coup.** *(L'entraînement au-dessus du Pacifique est abandonné — voir `03_PLAN/TOME_1.md`.)* |
+| 9-11 | Végéta réalise pour la Lune. Il ne dit rien. **J11 : il vient corriger Kakarotte au-dessus d'une banlieue de Chicago. Deux minutes. Kakarotte ne rend pas un coup.** *(L'entraînement au-dessus du Pacifique est **reporté**, pas supprimé : il lui manque un ordre que quelqu'un ait envie d'enfreindre. Voir `00_CANON/CARTE_ET_LIEUX.md`.)* |
 | **11** | **Végéta vient corriger Kakarotte au-dessus d'une banlieue de Chicago. Le mot entre dans la langue, crié trois fois.** |
 | 12-13 | Auditions au Congrès. Cecil ment. **Le monde évite le mot ; le vocabulaire de l'agence gagne.** |
 | 14-15 | **Jour 13.** Anissa. Haute orbite. Le monde regarde en direct. Elle se retire. Elle repart sans avoir vu l'Ozaru. |
