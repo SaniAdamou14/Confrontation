@@ -85,11 +85,13 @@ README.md                        Ce fichier.
 
 | | |
 |---|---|
-| Chapitres écrits | **6 / 120** |
-| Date récit | Jour 6, 23 h 40 |
-| Arbitrages | **Tous tranchés.** Bible corrigée (v2.1). |
+| Chapitres écrits | **11 / 120** |
+| Date récit | Jour 11, le soir |
+| Dernier écrit | **ch. 11, « Ce qui était derrière »** — Debbie, banlieue nord de Chicago. Végéta vient corriger Kakarotte ; la rue y passe ; le mot entre dans la langue |
+| Arbitrages | Bible corrigée (v2.1), recasting v3. **Ouverts :** n° 7, 8, 10, 11, 12, 13 de `POINTS_A_ARBITRER.md` |
 | Point ouvert | ⚠ Le scouteur est détruit au ch. 1. Payoff F10 à re-router avant le ch. 14 — voir `FUSILS_DE_TCHEKHOV.md`. |
-| Prochaine action | Dossier préparatoire du **chapitre 7** — Debbie exige de parler à celui qui a tué son fils |
+| Point ouvert | ⚠ **Le ch. 12 est à repenser** : un chapitre de comptage referait le ch. 3. Voir `03_PLAN/TOME_1.md`, second bloc |
+| Prochaine action | Dossier préparatoire du **chapitre 12** — et **le bilan chiffré du J11 tombe là**, inférieur au J0 et inférieur au J17 |
 | Passes de style | ✔ Tic n°2 (`comme on…`) rattrapé sur les ch. 1-6 : **32 → 10, deux par chapitre.** Aucune dette restante. |
 
 ### Révisions de la bible (v2.1)

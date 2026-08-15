@@ -8,11 +8,13 @@ Version vivante de la bible §13. **Ce fichier prime sur la bible pour tout ce q
 
 ## ÉTAT COURANT
 
-**Date récit :** Jour 10, 18 h 02 heure de l'Est — fin du chapitre 10 *(le ch. 8 se termine le même soir à 20 h 15, deux fuseaux plus à l'est)*
-**Dernier chapitre écrit :** ch. 10, « La liaison »
-**Chapitres écrits :** 10 / 120
+**Date récit :** Jour 11, le soir — fin du chapitre 11
+**Dernier chapitre écrit :** ch. 11, « Ce qui était derrière »
+**Chapitres écrits :** 11 / 120
 
-> **⚠ Les blocs « Après le ch. 7 », « ch. 8 » et « ch. 9 » manquent au journal.** Voir l'encadré avant le bloc du ch. 10. À combler avant le chapitre 11.
+> **⚠ Les blocs « Après le ch. 7 », « ch. 8 » et « ch. 9 » manquent au journal.** Voir l'encadré avant le bloc du ch. 10.
+
+> **⚠ LE JOUR 11 A CHANGÉ LE TOME.** Le plan portait *« entraînement au-dessus du Pacifique »* au ch. 11. Il n'a pas eu lieu et il n'aura pas lieu. À la place : **Végéta est venu corriger Kakarotte au bord du bassin, la banlieue nord de Chicago y est passée, et le mot est entré dans la langue six jours plus tôt que prévu.** Trois conséquences à ne pas perdre de vue en écrivant le ch. 12 — le monde ne se demande plus ce qui s'est passé le J0, il se demande quand ça recommence ; **Ferguson attendait à une table avec une chaise vide pendant que ça arrivait** et Goku n'est pas venu ; et **le combat du tome 3 reste le seul où les deux se battent** (voir `FUSILS_DE_TCHEKHOV.md` F27).
 
 ### Décisions de fabrication — à ne pas rouvrir sans raison
 
@@ -41,6 +43,8 @@ Version vivante de la bible §13. **Ce fichier prime sur la bible pour tout ce q
 |---|---|
 | Morts | **2 400 000** — point central, fourchette 1,9 M – 2,9 M, marge 40 %, établi le J2 à 02 h 00 par Ilana Voss. **RÉVISION À 3 100 000 rendue le J10**, soit sept cent mille de plus. **Elle n'a été ni lue, ni paraphée, ni enregistrée** — Ferguson est le seul être humain à l'avoir ouverte, par erreur, dans un avion, et elle ne lui était pas destinée. **Le chiffre en circulation reste 2,4 M.** *(Date corrigée le 15 août 2026 : la bible §3 et `CHRONOLOGIE_MAITRESSE.md` portaient « au jour 4 », ce qui est incompatible avec le ch. 3 — Voss y demande trois semaines pour descendre à 12 % de marge, et quatre jours ne réconcilient pas quatorze bases. `AGENDAS.md` porte le 11 octobre. C'est cette date qui fait foi.)* |
 | **Coût par minute** | **109 000.** 2,4 M ÷ 22 minutes. Le nombre que Cecil voulait réellement. |
+| **Morts du J11** | **AUCUN CHIFFRE. Et c'est une décision, pas un oubli.** Le chapitre est focalisé sur une femme au fond d'une cave : elle ne peut pas connaître un bilan, donc il n'y en a pas. **Le chiffre appartient au ch. 12.** Deux contraintes dures pour celui qui l'écrira : il est **inférieur** aux 3,1 M du J0, et il est **inférieur** à celui de l'Ozaru du J17 — `CARTE_ET_LIEUX.md` exige déjà que le J17 soit *« catastrophique sans égaler le J0 »*. **Un J11 à l'échelle du J0 désamorcerait le ch. 17 et annulerait rétroactivement tout le travail des ch. 3, 5, 6 et 10 sur le recensement.** L'escalade du J11 n'est pas quantitative : **le J0 était un accident, le J11 est un précédent.** |
+| **Morts nommés du J11** | **Les époux Hollis**, 1412. Ils avaient acheté quatre jours après le J0, ils avaient demandé à Debbie si le quartier était sûr, **et c'est elle qui leur a vendu la maison.** Plus les deux couvreurs montés à sept heures et demie un samedi. *(Dette de retour dépensée — voir `AGENDAS.md`.)* |
 | Villes détruites | **1 — Chicago.** **Remplissage terminé le J6 à 04 h 50.** Le grondement s'est arrêté après cinq jours et il ne reviendra pas. Bassin d'effondrement en communication permanente avec le lac Michigan, ~9 km de diamètre, ~340 m au centre. **Sans nom officiel — Cecil a refusé d'en donner un ce matin-là.** |
 | Corps rendus aux familles | **0. Il n'y en aura jamais.** Confirmé physiquement au J6 : six heures de fouille, douze personnes, deux km², **quatre sachets.** Aucun gravat, aucun mobilier, aucun véhicule, aucun tissu. |
 | Sauts de téléporteur de Cecil | 5 — cinq millions de dollars. **Il n'y est toujours pas allé.** Première image nette du site le J6 à 23 h 12, sur un écran, **onze secondes.** |
@@ -49,7 +53,10 @@ Version vivante de la bible §13. **Ce fichier prime sur la bible pour tout ce q
 
 | Item | État |
 |---|---|
-| Localisation | **Une combe des Rocheuses du Colorado**, versant est, depuis le J9 à 15 h 20. Descendu au comté de Luna le J10 de 13 h 20 à 16 h 40, **reparti au nord, retour annoncé pour le lendemain sans heure.** Il fait la navette entre les deux et personne ne sait où est la combe. |
+| Localisation | **Inconnue depuis le J11 au soir.** Parti vers le sud derrière Végéta, en fin de matinée, depuis une rue de la banlieue nord de Chicago. **Il avait annoncé à Ferguson qu'il reviendrait au comté de Luna ce jour-là. Il n'est pas venu, et il n'a pas fait prévenir** — il n'a aucun moyen de faire prévenir. Base précédente : une combe des Rocheuses du Colorado, versant est, depuis le J9. |
+| **⏰ CE QU'IL A FAIT AU J11** | **Il s'est placé, pendant deux minutes, entre Végéta et une rangée de maisons, et il n'a pas rendu un seul coup.** Motif : il a compris la veille que **personne ne vient chercher ceux qui tombent** ici. **Ce n'est pas la mort définitive qu'il a comprise. F26 tient.** |
+| **Ce qu'il a dit, en anglais, à quelqu'un qui ne parle pas anglais** | *« Personne ne vient les chercher. »* Végéta a incliné la tête et n'a rien compris. **Debbie a tout entendu et ignore de quoi il parlait.** |
+| **Ce qu'il a fait en partant** | **Il a salué Debbie** — pieds parallèles, épaules qui tombent, buste incliné d'une dizaine de degrés. Le même geste qu'au J9. Il l'avait reconnue. |
 | **⏰ CE QU'IL SAIT DEPUIS LE J9, 17 h 05** | **Que cette planète a une lune.** Premier quartier, vue en plein jour au-dessus d'un col. **Sept jours depuis la nouvelle. Il en reste dix.** Il a d'abord été soulagé — une lune donne un calendrier —, puis il s'est souvenu de son grand-père. |
 | **La queue** | **Il l'a tenue dans sa main gauche et il a regardé le point exact où il faudrait couper. Il a rouvert la main.** Ne jamais formuler pourquoi. |
 | **Ce qu'il a demandé trois fois et qu'on n'a pas compris** | Qui s'occupe de ce qui vient après. À Végéta au J3 *(« pour quoi faire »)*, à Debbie au J9 *(« je ne sais pas »)*, à Ferguson au J10 *(trois réponses fausses).* **Il classe la question lui-même à chaque fois : « Laisse tomber. »** |
@@ -77,7 +84,13 @@ Version vivante de la bible §13. **Ce fichier prime sur la bible pour tout ce q
 
 | Item | État |
 |---|---|
-| Localisation | **crête de la Tinaja, Nouveau-Mexique**, à 900 m à la verticale de Tres Palomas. Descendu dans la ville le J3 de 11 h 40 à 12 h 22, remonté, immobile depuis — **sauf le J9 en milieu d'après-midi, où il a traversé un continent pour aller voir Kakarotte dans une combe du Colorado et où il est rentré.** Deux entretiens par jour avec Abbadie ; **celui du J9 après-midi n'a pas eu lieu, et c'est la seule trace que la GDA possède de ce déplacement sans savoir qu'elle la possède.** |
+| Localisation | **Inconnue depuis le J11 vers midi.** Parti vers le sud depuis la banlieue nord de Chicago sans finir ce qu'il avait commencé. Base précédente : **crête de la Tinaja, Nouveau-Mexique**, à 900 m à la verticale de Tres Palomas, depuis le J4. Deux entretiens par jour avec Abbadie ; **celui du J9 après-midi n'a pas eu lieu, et c'est la seule trace que la GDA possède de son déplacement au Colorado sans savoir qu'elle la possède.** |
+| **⏰ CE QU'IL A FAIT AU J11, ET POURQUOI** | **Il est allé corriger Kakarotte, pas le tuer.** Motif : l'autre s'est mis à protéger des faibles. **Il ne se l'explique pas, et rien dans le récit ne l'explique.** Il a choisi le bord du bassin — le seul endroit de cette planète qui signifie quelque chose pour Kakarotte. |
+| **Comment il l'a appris** | **Par Abbadie, le matin même, sur la crête.** Première question qu'il posait sur l'autre en sept jours. L'interprète a rendu ce qui avait circulé du rapport Ferguson du J10 : un homme qui s'est levé, un homme qui a rendu de la nourriture, un homme qui demande qui s'occupe des gens. **Abbadie ne saura jamais ce que ça a produit** (`AGENDAS.md`, agenda 4). |
+| **Ce qu'il a fait, exactement** | Deux fois : apparu de face à un mètre, **il n'a pas frappé** — main droite levée, paume ouverte, passée **par-dessus l'épaule** de l'autre. Ce qui part, part derrière. La seconde fois, ce qui était derrière était une rangée de maisons habitées. |
+| **⏰ CE QU'IL A CRIÉ, TROIS FOIS** | **Le nom de leur espèce**, en lingua franca, comme reproche. **C'est par là que le mot entre dans le monde, au J11 et non au J13.** Il ignore complètement ce qu'il vient de faire à la langue de cette planète. |
+| **CE QU'IL A VU DANS UN JARDIN, ET QUE PERSONNE NE SAIT QU'IL A VU** | **Un ki d'enfant, et aucun ki dans la femme derrière.** Sa déduction du J1 — espèce non native, reproduite avec les locaux, indénombrable — debout devant lui. **Il s'est arrêté et il est reparti sans finir.** *(F29 ✔. Il saura ce qu'est Anissa avant de la voir.)* |
+| **Ce qu'il n'a pas vu** | **Debbie Grayson.** Elle était à un mètre derrière l'enfant. Il ne l'a pas regardée une seule fois. `BIBLE` §7.4 : ils ne se rencontrent pas avant le tome 5. |
 | **Ce qu'il sait sur Debbie, et qu'il ne dira pas** | Qu'une femme est descendue à pied, s'est arrêtée plus près qu'on ne le lui avait dit, a parlé une heure, **et que Kakarotte a baissé la tête à la fin.** Goku lui a demandé deux fois comment il le savait. **Végéta a décidé de ne pas répondre — et Goku a compris que la réponse existait. Il n'y reviendra jamais.** *(Le canal est Abbadie, qui n'a pas remis son paquet ce jeudi-là et qui était donc sur la crête à midi.)* |
 | **Ce qu'il a proposé, et refusé** | *« Si tu ne peux pas t'en débarrasser, je le ferai. »* Sans colère, du ton dont on propose de porter une caisse. **Kakarotte a dit non, sans rien derrière, et Végéta n'a pas insisté** — il lui faut une planète en état de marche. **Aucun des deux ne comprend pourquoi l'autre a cédé.** |
 | **Ce qu'il a laissé en partant** | **Rien.** Deux talons à trois centimètres et pas une marque de départ, pas une projection, pas un caillou déplacé, pas une aiguille tombée. **Il fallait le vouloir, le préparer, et savoir qu'on allait regarder.** |
@@ -108,8 +121,8 @@ Version vivante de la bible §13. **Ce fichier prime sur la bible pour tout ce q
 
 | Item | État |
 |---|---|
-| Phase lunaire | croissant décroissant très fin, quasi invisible — **pleine lune à J+17** ✔ |
-| Météo Chicago | couvert bas, plafond ~600 m, pas de pluie |
+| Phase lunaire | **J11 : un peu plus qu'une moitié, très blanche. Pleine dans six jours.** Debbie la regarde par le trou d'un carreau le soir du J11 **et elle ne lui trouve rien.** Elle est la première humaine du récit à la regarder pour de bon, et pour la mauvaise raison. **Pleine lune au J17** ✔ |
+| Météo Chicago | J0 : couvert bas, plafond ~600 m, pas de pluie. **J11 : ciel blanc, sans un pli, un samedi d'octobre.** |
 
 ### Ce que sait chaque faction
 
@@ -124,6 +137,7 @@ Détail complet dans `QUI_SAIT_QUOI.md`. Résumé :
 | **Empire viltrumite** | **Rapport de Conquest reçu, horodaté 16 h 46.** Échec de l'unité Grayson, descendance hybride opérationnelle, 43 pertes, deux unités de résistance, « rien à signaler ». **Transmis une minute avant l'arrivée. Il ne contient rien sur les Saiyans.** Puis silence radio. |
 | Coalition des Planètes | rien |
 | **Public** | **A tout vu en direct.** Les images de Ray Dombrowski sont sorties avant que quiconque ait pu décider de ne pas les diffuser. Le monde possède : l'homme en orange qui porte la fille ; l'homme en armure qui rit avant de frapper ; **l'arrêt de 17 h 09**. Aucun chiffre officiel n'a encore été communiqué. |
+| **Public — après le J11** | **Des milliers de téléphones, et aucune image qui montre quoi que ce soit.** Trop rapide, trop près, trop lumineux : un flou et une rue qui n'est plus là. **Le monde entier a vu, et le monde entier n'a rien vu** — c'est le contraire exact du J0, où deux images ont divisé la planète pendant six semaines. Ce qui circule le soir du J11, ce sont des bandes-son. **Et sur les bandes-son il y a un mot, crié trois fois.** |
 | **Canada / Commission mixte internationale** | **Dossier ouvert au J2.** Note du Département d'État. Les États-Unis reconnaissent officiellement l'existence d'un problème de niveau d'eau au titre du traité de 1909. Réponse retenue : « nous procédons à l'évaluation ». **Cecil a exigé la copie à la Commission — il veut qu'il existe une trace numérotée.** |
 | Angstrom Levy | possède les sept secondes manquantes, ne sait pas quoi en faire |
 
@@ -459,3 +473,26 @@ Morts cumulés 43 · Goku et Végéta en transit, ki plein, queues intactes, auc
 - **Le rapport part à 18 h 02, heure de l'Est. Diffusion : directeur, seul.** Il se termine par la mention de clôture d'usage : ***Rien à signaler.*** *(Même formule que le dernier rapport de Conquest, ch. 1, une minute avant sa mort. Payé deux fois. **Ne plus jamais le payer.**)*
 - **Goku a annoncé son retour pour le lendemain.** Il n'a pas donné son nom et personne ne le lui a demandé. **La numérotation SUJET UN / SUJET DEUX tient.**
 - **Ce que Ferguson ne fait à aucun moment :** manger.
+
+---
+
+### Après le ch. 11 — Jour 11, le soir
+
+**Écrit :** `04_CHAPITRES/T1/CH11_ce-qui-etait-derriere.md`, 5 580 mots, focalisation Debbie Grayson, J11 samedi 12 octobre, 08 h 20 → le soir. **Banlieue nord de Chicago.** Dossier : `05_ATELIER/CH11_DOSSIER_PREPARATOIRE.md`.
+
+**Désormais canonique :**
+
+- **LA CHAÎNE CAUSALE, ET PERSONNE DEDANS N'A VOULU LE RÉSULTAT.** Ferguson rend un rapport honnête le J10 à 18 h 02 : *s'est levé à l'arrivée du rédacteur, a rendu une ration, a demandé qui s'occupait des gens.* Le J11 au matin, sur la crête de la Tinaja, **Végéta pose sa première question en sept jours — sur l'autre — et Abbadie répond, parce qu'il n'ose pas ne pas répondre** (F12). Puis Végéta part. **Ni l'un ni l'autre ne saura jamais ce que son papier a produit.** Rime exacte du ch. 10 et de F37.
+- **LE MOTIF DE VÉGÉTA.** Kakarotte s'est mis à protéger des faibles. Il vient le corriger, pas le tuer. **Il ne se l'explique pas et le récit ne l'explique pas.** Il choisit le bord du bassin : le seul endroit qui signifie quelque chose pour l'autre.
+- **CE QUE FAIT GOKU : rien.** Il ne rend pas un coup de tout le chapitre. Il se place, il encaisse, il se remet devant. **Sa raison vient du ch. 10 et elle est fausse :** il a appris la veille que personne n'est allé chercher les cent quatre-vingt-douze, et il en a tiré *ici, quand quelqu'un tombe, personne ne vient.* **Pas** *les morts sont définitifs.* **F26 tient intégralement.**
+- **LA RUPTURE DE R1.** *« Personne ne vient les chercher. »* Dit en anglais, à voix haute, **à un homme qui ne parle pas anglais.** Végéta incline la tête et ne comprend rien. Debbie comprend chaque mot et ignore de quoi il parle. **Le seul endroit du chapitre où quelqu'un dit droit ce qu'il veut, et le destinataire ne le reçoit pas.**
+- **LE GESTE CENTRAL — deux fois.** Végéta apparaît de face à un mètre, ne frappe pas, lève la main paume ouverte et la passe **par-dessus l'épaule** de Goku. Ce qui part, part derrière. La seconde fois, ce qui est derrière est la rangée impaire. **Pas de flammes, pas de gravats : un bord.**
+- **⏰ LE MOT ENTRE DANS LA LANGUE AU J11, PAS AU J13.** Végéta le crie trois fois, en lingua franca, comme reproche d'espèce. **Le monde l'apprend de la bouche de celui qui le massacre, et il est contaminé à la seconde où il entre.** Conséquence : ce n'est pas une insulte, **c'est un mot que personne ne prononce.** Le vocabulaire administratif gagne — `SUJET UN`, `SUJET DEUX` —, inventé par un fonctionnaire dans une case le J10. Personne ne sait comment ça s'écrit : le monde l'a entendu, pas lu. *(Charte §5 et `LEXIQUE` §4 corrigés.)*
+- **F29 A TIRÉ, trois chapitres avant Anissa.** Végéta s'arrête devant le jardin **parce qu'il y a un ki dans l'enfant et aucun dans la femme derrière.** La déduction du J1 — une espèce non native, reproduite avec les locaux, indénombrable — lui revient debout devant lui. **Il regarde Oliver. Il ne voit pas Debbie.** `BIBLE` §7.4 tient sans exception : ils ne se rencontrent pas.
+- **OLIVER NE FRAPPE PAS.** Il se dégage en ouvrant les doigts de Debbie un par un, sans lui faire mal. Il monte à quinze centimètres du sol. **Il se met devant sa mère, et ça ne sert à rien, et personne ne le dit.**
+- **DEBBIE MENT À SON FILS POUR LA PREMIÈRE FOIS.** *« Ils sont déjà sortis, ils sont partis par-derrière il y a dix minutes, je les ai vus. »* Il ne la croit pas et ne le dit pas. **Il redescend.**
+- **LE SALUT.** Goku la reconnaît, met les pieds parallèles, laisse tomber les épaules et incline le buste d'une dizaine de degrés. **Même geste qu'au J9.** Puis il repart derrière l'autre.
+- **CE QU'ELLE A VU ET QU'ELLE NE SAIT PAS NOMMER :** trois demi-pas en arrière que personne ne lui avait demandés, repris aussitôt. **Goku encaisse et il n'a aucune marque.** Elle le vérifie de mémoire le soir, comme au J9, et elle en est certaine d'avance.
+- **AUCUN CHIFFRE DE MORTS DANS LE CHAPITRE.** Debbie ne peut pas le connaître. Le seul bilan est une réplique : *« Il n'y a pas d'autre côté, madame. »*
+- **LE TÉLÉPHONE.** Le compteur du répondeur passe de soixante et un à quatre-vingt-douze. **Elle débranche la prise murale d'un coup d'ongle, sans se baisser.**
+- **FIN SUR UNE RÉPLIQUE** — première des trois variations prévues au `CHANTIER_T1` §2. Oliver prononce le mot, mal, et Debbie lui interdit de le redire. **La première personne au monde à interdire ce mot est une mère, dans sa cuisine, le soir même.**

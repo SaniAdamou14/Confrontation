@@ -17,9 +17,20 @@ Bible §4.5-1 : **aucune résurrection. Jamais.** Une ligne inscrite ici ne s'ef
 | **J10** | ~3 100 000 | **Estimation révisée par Ilana Voss. Classée sans être lue.** *(Datée du J4 jusqu'au 15 août 2026 : incompatible avec le ch. 3, où Voss annonce qu'il lui faut trois semaines.)* |
 | **J3, 11 h 40 – 12 h 22** | **+4** | **Tres Palomas, Nouveau-Mexique.** Végéta descend chercher quelqu'un qui sache lire. Il retient quatorze personnes en quarante-deux minutes et leur fait lire à voix haute des imprimés. Il en relâche dix. **À 12 h 18 il en tenait encore quatre, et l'expérience était terminée.** Aucune colère. |
 | **J4, 17 h 44** | **+2** | **Crête de la Tinaja.** Le major Dana Rennick et un lieutenant non nommé, sur la selle est, en quatre secondes. Un mouvement du bras droit, deux fois, dans le même souffle. **Cause de la mort de Rennick : elle a déclaré être l'officier responsable.** Il cherchait celui qui fait parler les marques ; il a gardé celui-là et il a jeté le reste. |
+| **J11, ~10 h 12 – 10 h 31** | **non établi** | **Banlieue nord de Chicago.** Végéta vient corriger Kakarotte ; celui-ci se place et ne rend pas un coup ; **ce qui part, part derrière lui.** Le chapitre est focalisé au fond d'une cave et ne donne aucun chiffre. **Le bilan appartient au ch. 12, sous deux contraintes dures : inférieur au J0, et inférieur au J17.** L'escalade du J11 n'est pas quantitative — *le J0 était un accident, le J11 est un précédent.* |
 | Tome 2, fin | +200 000 | La stratégie des trente |
 
 **Total à la fin du tome 2 : environ 3,3 millions.** Le chiffre est un personnage. Il doit être prononcé rarement et toujours par quelqu'un qui a une raison de le prononcer.
+
+---
+
+## 1 bis. ⚠ POURQUOI LE J11 N'A PAS DE CHIFFRE
+
+Le registre porte partout un nombre. Celui-là n'en a pas, et c'est une décision de fabrication.
+
+Debbie est au fond d'une cave, elle regarde par un soupirail de trente centimètres sur soixante, et elle tient un poignet. **Un focal ne connaît jamais un bilan pendant qu'il le produit** (`QUI_SAIT_QUOI.md`, contrôle n° 4). Lui donner un chiffre aurait exigé une voix de reportage, c'est-à-dire une rupture de R6 au moment le plus visible du tome.
+
+**Ce qui remplace le chiffre dans le chapitre :** une réplique. *« Il n'y a pas d'autre côté, madame. »*
 
 ---
 
@@ -62,6 +73,20 @@ Bible §4.5-1 : **aucune résurrection. Jamais.** Une ligne inscrite ici ne s'ef
 **Nolan Grayson (Omni-Man)** — ✔ **ABSENT ET VIVANT.** Détenu par l'Empire viltrumite, hors de la Terre, depuis des mois. Il ignore que son fils est mort. Voir `00_CANON/ARBITRAGE_CANON_V3.md`.
 
 **Gardiens absents ce jour-là** — ✔ retranché par `ARBITRAGE_CANON_V3.md` : **Rex Splode** mort pendant la Guerre Invincible, **Darkwing** perdu dans l'Ombre-Verse, **Monster Girl** en réanimation, **Dupli-Kate** occupée à enterrer ses propres copies. Trois seulement sont arrivés par l'ouest à 16 h 54, et c'est tout ce qui tenait debout. **Personne n'était en congé. Ils étaient finis.**
+
+---
+
+## 2 ter. Morts nommés — jour 11 ✔ *ch. 11*
+
+| Nom | Cause | Tué par | Heure |
+|---|---|---|---|
+| **Les époux Hollis** ✔ *ch. 11* | Le 1412 part en entier, avec le rosier planté quatre jours plus tôt et la gouttière neuve. **Second geste de la scène : Végéta lève la main et la passe par-dessus l'épaule de Kakarotte sans le toucher.** Aucun corps. | Végéta | ~10 h 27 |
+| **Deux couvreurs, non nommés** ✔ *ch. 11* | Montés sur le toit du 1407 à sept heures et demie, un samedi. **La camionnette est encore là après, l'échelle sanglée dessus, une tasse en carton posée à plat sur les rouleaux qui n'est pas tombée.** Debbie les cherche et s'aperçoit qu'elle ne sait pas à quoi ils ressemblaient. | dommage collatéral | ~10 h 12 |
+| **Le chien du 1408** ✔ *ch. 11* | Avec la maison. Une ligne, jamais commentée. | dommage collatéral | ~10 h 20 |
+
+> **Ce que ces trois entrées corrigent, à l'échelle du tome.** `CHANTIER_T1_VOIX_ET_ATTACHEMENT.md` §3 : *« les morts du tome sont, sans exception, soit des inconnus rencontrés dans le paragraphe où ils meurent, soit déjà morts quand on les rencontre. Le dispositif produit l'échelle. Il ne produit pas d'attachement. »*
+>
+> **Les Hollis sont les premiers morts du récit que le lecteur a rencontrés avant.** Ils demandent conseil sur une fente dans leur dalle de garage à la page deux, et la femme qui leur répond en professionnelle est celle qui leur a vendu la maison, et c'est elle qui les regarde par un soupirail vingt minutes plus tard. **Aucune ligne du chapitre ne relie les deux scènes.**
 
 ---
 

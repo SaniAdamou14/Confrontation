@@ -47,7 +47,7 @@ Toute destruction inscrite ici doit avoir **au moins une conséquence différée
 | Semaines 1-3 | **Le marché immobilier du Midwest s'effondre de 34 %.** | ❑ |
 | Semaines 1-3 | Les compagnies d'assurance invoquent la **clause d'acte de guerre extraterrestre** et refusent de payer. | ❑ |
 | J12-14 | Auditions au Congrès. Cecil ment sous serment. | ❑ |
-| J15+ | Le mot « sayan » entre dans la langue courante comme adjectif péjoratif. | ❑ |
+| **J11** | Le mot entre dans la langue, **crié par Végéta au-dessus d'une banlieue.** Pas une insulte : un mot que personne ne prononce. L'usage péjoratif arrive des tomes plus tard. | ✔ ch. 11 |
 | Tome 2 | Une secte se forme autour de Goku : **les Témoins de l'Orange**. Il ne comprend pas pourquoi, et ça le met profondément mal à l'aise. | ❑ |
 | Tome 2+ | **L'Association des Familles de State Street** poursuit la GDA. Présidée par Kayla Ruiz-Molnar, 34 ans, deux enfants perdus. | ❑ |
 | Tome 2+ | *(si le lac est retenu)* Dossier diplomatique canado-américain sur le niveau des Grands Lacs. Cecil hérite d'un problème qui n'a rien à voir avec des extraterrestres. | ❑ |
@@ -74,6 +74,30 @@ Toute destruction inscrite ici doit avoir **au moins une conséquence différée
 | J2 | Et que deux jours entre voir et frapper, c'est une réunion — **donc celui qui commande n'est pas celui qui décide.** Il en déduit l'existence d'un échelon supérieur. | ✔ ch. 4 |
 | Ch. 6 | **À faire exister dans la bouche de Cecil, en une ligne, sans commentaire.** C'est ce qui achève de lui prouver qu'il n'a pas d'arme — et c'est la dernière fois qu'on lui retire un arbitrage. | ❑ |
 | Tome 1-2 | Quatre-vingts familles. Un dossier. Une commission d'enquête parlementaire distincte de celle de Chicago. | ❑ |
+
+---
+
+## D-01 ter — LA BANLIEUE NORD, JOUR 11 ✔ *ch. 11*
+
+| | |
+|---|---|
+| **Date** | Jour 11, samedi 12 octobre, ~10 h 05 → 10 h 31. Banlieue nord de Chicago, dans la couronne de souffle du J0, à une vingtaine de kilomètres du bassin. |
+| **Auteur** | **Végéta.** Il n'est pas venu détruire une banlieue : il est venu corriger Kakarotte, et il retire une par une les raisons que l'autre a de rester ici. **Le lieu est choisi pour ce qu'il signifie pour Kakarotte, pas pour ce qu'il contient.** |
+| **Ce qui a été détruit, et comment** | Une bande de toitures, à la hauteur des gouttières, sur toute la longueur d'une rue : **le dessous des maisons est intact, les portes de garage sont fermées, les voitures sont garées avec leurs pare-brise.** Puis le lotissement d'en face, en une fois, par un geste passé **par-dessus l'épaule** de Kakarotte. Puis le 1412. **Pas de flammes, pas de gravats : un bord.** |
+| **Ce qui n'a pas été détruit** | La rangée devant laquelle Kakarotte s'est placé. **C'est la seule raison, et personne dans le chapitre ne la formule.** |
+| **Coût pour Végéta** | Zéro. Il repart sans finir. |
+| **Coût pour Goku** | **Aucune marque, aucun sang.** Trois demi-pas en arrière repris aussitôt, vus par une femme qui sait lire ça. |
+
+### Conséquences
+
+| Quand | Quoi | Placé ? |
+|---|---|---|
+| J11 | **La rue ne revient pas à sa hauteur.** Elle penche vers le sud de la valeur d'une marche répartie sur toute la longueur. Personne ne le verra avant des années, sauf les gens dont c'est le métier | ✔ ch. 11 |
+| J11 | Une empreinte de talon, quatre centimètres de creux, dans un trottoir coulé en juin | ✔ ch. 11 |
+| J12 | **Le bilan chiffré.** Contraintes : inférieur au J0, inférieur au J17. Voir `REGISTRE_MORTS.md` §1 bis | ❑ **ch. 12** |
+| J12+ | **Les assurances.** Le J0 était un événement unique et inassurable ; le J11 prouve que ça recommence. **C'est la clause d'exclusion qui se réécrit, pas le sinistre qui se paie.** Debbie a déjà un dossier classé sans suite qui l'attend le 22 | ❑ tome 2 |
+| Tome 2 | **Personne ne rebâtira dans cette couronne.** La question n'est plus *que fait-on de Chicago* mais *jusqu'où est-ce qu'on n'habite plus* | ❑ |
+| Tome 5 | Une deuxième association de familles, et elle n'aura pas les mêmes revendications que celle de State Street : **ces gens-là ont été tués onze jours après, dans une zone déclarée sûre** | ❑ |
 
 ---
 

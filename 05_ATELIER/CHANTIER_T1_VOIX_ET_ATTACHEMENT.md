@@ -99,6 +99,16 @@ Les six qui gardent la cadence actuelle retrouvent leur pouvoir par contraste. *
 
 ## 3. L'ACTIF ÉMOTIONNEL SOUS-EMPLOYÉ — Oliver
 
+> **⚠ ÉTAT APRÈS LE CH. 11 — le diagnostic du §0 a commencé à se corriger, et pas par un chapitre focalisé sur lui.**
+>
+> Le §3 demandait un chapitre en focalisation Oliver entre le ch. 13 et le ch. 16. **Le ch. 11 a payé une partie de la dette autrement**, et il faut le constater avant de décider si l'autre chapitre est encore nécessaire :
+>
+> - **Les époux Hollis** sont les premiers morts du récit que le lecteur a rencontrés avant leur mort. Le dispositif « inconnus rencontrés dans le paragraphe où ils meurent » est rompu une fois, exactement où il fallait.
+> - **Oliver agit**, et il agit selon la contrainte n° 1 du §3 : il ne pleure pas, il ne se plaint pas, **il organise quelque chose** — *« ils sont trop lents, je peux les prendre par-dessus, deux par deux, et les poser derrière l'école »* — et son objectif est déraisonnable d'une manière que seul le lecteur perçoit.
+> - **Aucun adulte ne commente**, personne ne l'interroge, et sa mère lui ment pour la première fois.
+>
+> **Ce que ça change pour l'arbitrage n° 12 :** la question n'est plus *faut-il donner un chapitre à Oliver* mais *que reste-t-il à lui donner qu'il n'ait pas obtenu ici*. Réponse probable : **la porte du fond**, qui n'est toujours pas payée, et à laquelle personne n'a rien demandé.
+
 Les morts du tome sont, sans exception, soit des inconnus rencontrés dans le paragraphe où ils meurent, soit déjà morts quand on les rencontre. Le dispositif est délibéré et il est juste : il produit l'échelle. **Il ne produit pas d'attachement, et rien d'autre dans le tome n'en produit à sa place.**
 
 La seule exception est le foyer Grayson : le chambranle, l'épingle de sûreté, la porte du fond, et l'enfant de deux ans dans un corps de neuf qui dit *« Quand Nolan rentre, il faudra lui dire pour Mark. »*
@@ -249,6 +259,7 @@ Les trois corrigés. `CH04` porte désormais *« sur la bretelle de son épaule 
 | Ch. | Cadence | État |
 |---|---|---|
 | **10** | **Document brut.** Le chapitre se termine sur le rapport de liaison : en-tête, sept rubriques, mention de clôture. **Aucune narration après.** | ✅ |
+| **11** | **Sur une réplique.** Un enfant de deux ans prononce mal un mot qu'il a entendu crier, demande ce que c'est, et une mère lui interdit de le redire. **Rien après : pas un geste, pas une image, pas une ligne de narration.** | ✅ |
 | ? | Sur une réplique | ❑ |
 | ? | Sur une réplique | ❑ |
 | ? | Sur une réplique | ❑ |
@@ -259,6 +270,7 @@ Les trois corrigés. `CH04` porte désormais *« sur la bretelle de son épaule 
 | Ch. | Focal | Porte | Compte les secondes ? |
 |---|---|---|---|
 | **10** | **Ferguson** | **le devoir** — pour chaque personne dans son champ, il sait si elle est sous sa responsabilité | **Non. Zéro occurrence.** Premier chapitre du tome dans ce cas |
+| **11** | **Debbie** | **la surface et le prix** — ce qu'une chose vaut, ce qu'elle coûte à remplacer, en combien de temps, et ce qui se voit dans dix ans. Une porte qui ne rentre plus dans son montant, une dalle fendue, un trottoir coulé en juin, une rue qui ne revient pas à sa hauteur | **Non.** Le compteur de secondes lui a été retiré et il n'est pas revenu. Deux chapitres de suite sans |
 
 ---
 

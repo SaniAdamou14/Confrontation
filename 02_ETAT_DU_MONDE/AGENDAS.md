@@ -85,6 +85,7 @@ Treize, et pas douze : **le focal en cours a un agenda comme les autres.** La v1
 - **Veut** ne pas être remplacé, et ne pas savoir ce qu'il a fait.
 - **Fait** il échange avec Mendes **le lundi et le jeudi**. La première livraison a eu lieu le **lundi 7 octobre au matin**, avant que son reclassement prenne effet : **la page trente et un est partie ce jour-là**, avec le reste, *y compris ce qui n'était pas confirmé* — Cecil l'avait exigé.
 - **Empêché par** son reclassement lui-même : nouveau bureau, nouveau niveau d'accès, et **personne ne lui a dit à qui remettre le paquet maintenant.**
+- **⏰ samedi 12 octobre, le matin — ÉCHÉANCE ATTEINTE, ET IL NE LE SAURA JAMAIS.** Sur la crête, **Végéta lui pose sa première question sur l'autre en sept jours.** Abbadie rend ce qui a circulé du rapport Ferguson de la veille. Il ne ment pas — il ne peut pas (F12). **Deux heures plus tard, une banlieue de Chicago n'existe plus.** L'entretien n'est consigné nulle part : Abbadie transcrit ce que Végéta dit, pas ce qu'il répond lui-même. **Voir `FUSILS_DE_TCHEKHOV.md` F39.** Ce que son agenda demandait — *ne pas savoir ce qu'il a fait* — lui est accordé intégralement.
 - **⏰ jeudi 10 octobre — ÉCHÉANCE MANQUÉE.** Il ne livre pas. Sa voix ne produit qu'un son sur deux, il n'a pas de destinataire, et il laisse passer. **Ce qui reste à Fort Bliss, c'est le paquet du lundi et rien d'autre.** Le retard de Mendes glisse — douze jours, puis treize, puis quinze, ce que Cecil avait explicitement interdit et qu'il n'apprendra pas avant un moment. **L'événement est le vide.**
 
 ### 5 · OLIVER — *maison des Grayson, seul avec Amber depuis 34 heures*
@@ -99,7 +100,8 @@ Treize, et pas douze : **le focal en cours a un agenda comme les autres.** La v1
 - **Veut** qu'on lui rende quelque chose. N'importe quoi.
 - **Fait** elle exige, elle conduit elle-même, elle garde ses trois mandats et elle refuse tout ce qui vient de la GDA.
 - **Empêché par** une procédure judiciaire de neuf à quatorze mois, un enfant qui grandit de deux tailles par semaine, et son propre refus d'être aidée par les seules personnes qui en aient les moyens.
-- **⏰ 22 octobre.** La compagnie d'assurances classe le dossier sans suite, faute d'acte de décès. La lettre arrive un mardi. **Elle ne l'a pas provoquée et elle ne peut rien contre.**
+- **⏰ 12 octobre — ÉCHÉANCE QU'ELLE N'AVAIT PAS POSÉE.** Le combat remonte jusqu'à sa rue. **Elle obtient qu'on lui rende quelque chose, et c'est la pire version possible de ce qu'elle demandait :** on lui rend son fils vivant, en le lui laissant tenir par le poignet pendant vingt minutes. **Elle ment à un enfant pour la première fois.**
+- **⏰ 22 octobre.** La compagnie d'assurances classe le dossier sans suite, faute d'acte de décès. La lettre arrive un mardi. **Elle ne l'a pas provoquée et elle ne peut rien contre.** *(Inchangée par le J11 — et le fait qu'un sinistre de cette ampleur ne change rien à un dossier administratif est précisément le sujet.)*
 
 ### 7 · AMBER BENNETT — *trois nuits dans la maison d'un mort*
 
@@ -148,7 +150,8 @@ Treize, et pas douze : **le focal en cours a un agenda comme les autres.** La v1
 - **Veut** un mot pour désigner ce qui est arrivé.
 - **Fait** deux images tournent en boucle. On imprime des tee-shirts.
 - **Empêché par** l'absence de nom : *SUJET UN* et *SUJET DEUX* ne se prononcent pas dans une cour de récréation.
-- **⏰ 14 octobre.** Le mot entre dans la langue, déformé.
+- **⏰ 12 octobre — ÉCHÉANCE AVANCÉE DE DEUX JOURS, ET PAS PAR EUX.** Le mot n'est pas entré par la presse : **il a été crié trois fois au-dessus d'une banlieue par celui qui la détruisait**, et capté par des téléphones. La presse ne l'a pas fabriqué, elle l'a reçu. **Conséquence : ce n'est pas une insulte.** Personne n'a de mépris disponible. On dit *eux*, *les deux*, *celui d'octobre* — et le vocabulaire de l'agence gagne, parce qu'il est neutre et qu'un fonctionnaire l'a inscrit dans une case le 11. **Personne ne sait comment ça s'écrit : le monde l'a entendu, pas lu.**
+- **⏰ 14 octobre.** Ce qu'il reste à faire au ch. 13 n'est plus l'entrée du mot mais **son évitement.**
 
 ### 14 · DONALD FERGUSON — *assigné le J10 au matin*
 
@@ -157,6 +160,7 @@ Treize, et pas douze : **le focal en cours a un agenda comme les autres.** La v1
 - **Veut** rester utile à Stedman. Pas être aimé, pas être ménagé : **utile.** Canon : il est l'homme de confiance du directeur, il exécute bien, et il fait partie des trois ou quatre personnes à qui l'agence confie ce qu'elle ne met pas par écrit. **Sa décence n'est pas de la naïveté — il sait exactement ce qu'il y a au niveau moins six, et il est décent quand même.** C'est ça qui rend la manipulation efficace, et c'est ça qu'il ne faut jamais trancher.
 - **Fait** il devient une adresse. Le site du comté de Luna passe de sept véhicules à deux, et lui reste dedans. Il remplit, il transmet à dix-huit heures, tous les jours, et il commence par le formulaire d'approvisionnement.
 - **Empêché par** l'absence de case. Aucun imprimé de la GDA n'a de rubrique pour ce qu'il rapporte, et il n'a pas l'autorité de créer une rubrique. **Et par son propre corps**, qui ne lui rend plus les mêmes renseignements qu'aux autres — il ne le mentionne pas, il compense.
+- **⏰ 12 octobre — ÉCHÉANCE MANQUÉE, ET IL NE SAIT PAS POURQUOI.** SUJET DEUX avait annoncé son retour pour ce jour-là. **Il n'est pas venu.** Ferguson attend à sa table, à trois mètres d'un bloc plat, avec une chaise vide et un sachet sur le coin droit, pendant que l'autre se place devant des maisons à mille cinq cents kilomètres de là. Son rapport du soir porte une absence. **Il ignore tout de l'Illinois.** *(Le fichier réclame des échéances qui sonnent dans le vide : en voici une, et le vide est exactement ce qui se passe.)*
 - **⏰ 13 octobre — ÉCHÉANCE SANS EFFET.** Il livre trois rapports avant les auditions, dans les délais, complets. **Cecil n'en cite pas une ligne au Capitole et n'en avait pas besoin.** L'événement est que le travail n'a servi à rien, et que Ferguson ne l'apprendra pas. *(Le fichier réclame des échéances qui n'intéressent personne : en voici une, et c'est la plus coûteuse du lot.)*
 
 ---
@@ -173,6 +177,8 @@ Treize, et pas douze : **le focal en cours a un agenda comme les autres.** La v1
 | **15 octobre** | On répare le distributeur en panne du couloir du niveau −3 | **jamais** |
 | **16 octobre** | À Fort Bliss, Mendes atteint enfin, dans le paquet du **lundi 7**, le terme de durée de la page trente et un. Il ne comprend pas, il le met de côté. **Il n'a rien reçu depuis neuf jours et il ne s'en est pas encore inquiété** | tome 2 |
 | **12 octobre** | Le service médical de la GDA ouvre un dossier physiologique au nom de SUJET DEUX, **construit uniquement à partir des quantités portées par Ferguson sur un bon d'approvisionnement.** Copie transmise sur demande au contrat des Mauler. **Ferguson a fourni le métabolisme en remplissant une commande de nourriture** | **tome 2 — c'est le carburant de F6, l'inhibiteur métabolique.** Il ne l'apprendra pas |
+| **12 octobre** | Un ingénieur du comté relève que la voirie de trois rues du secteur nord a perdu l'alignement sur toute sa longueur. Il l'inscrit en observation, sans suite : le désordre est inférieur au seuil qui déclenche une expertise | **jamais.** Debbie l'a vu le soir même, de sa porte, et elle est la seule |
+| **13 octobre** | Le service qui centralise les enregistrements amateurs du J11 ouvre une entrée *bande-son, locuteur non identifié, langue non identifiée* et la classe en attente d'un interprète. **Abbadie est le seul interprète, et personne ne fait le lien** | tome 2 |
 | **19 octobre** | Une association de familles de State Street dépose ses statuts. Cecil n'en est pas informé | tome 5, commission |
 
 ---
@@ -200,7 +206,7 @@ Treize, et pas douze : **le focal en cours a un agenda comme les autres.** La v1
 | **Ray Dombrowski** | ch. 2 | fin tome 1, puis tome 4 | Il a un fichier et pas d'opinion. C'est ce qui le rendra incontestable |
 | **L'officier de permanence** | ch. 7 | tome 2 | Vingt-neuf lectures en six jours. Combien au bout de dix semaines ? |
 | **Nadia Ferreira** | ch. 7 | tome 2 | Elle a rendu un rapport vide. On lui en a demandé un deuxième |
-| **Les époux Hollis** | ch. 7 | tome 3 | Ils ont acheté. Ils avaient demandé si le quartier était sûr |
+| ~~**Les époux Hollis**~~ | ch. 7 | ~~tome 3~~ | **DETTE DÉPENSÉE AU CH. 11.** Ils sont morts au J11, au 1412, avec le rosier planté quatre jours plus tôt. **Payée plus tôt que prévu et mieux que prévu :** la question qu'ils avaient posée — *est-ce que le quartier est sûr* — avait reçu une réponse de la femme qui leur a vendu la maison, et cette femme les regardait par un soupirail quand c'est arrivé. Une dette tenue trois tomes vaut moins qu'une dette qui explose au bon moment |
 | **La caissière de Truth or Consequences** | ch. 7 | tome 3 | Elle en vend combien, maintenant ? |
 | **Dupli-Kate** | ch. 3 | tome 2 | Elle est venue sans convocation une fois. Elle ne reviendra pas deux |
 | **Oliver** | ch. 2, 3, 7 | partout | **La seule horloge biologique du récit.** Voir l'amplitude des tomes |

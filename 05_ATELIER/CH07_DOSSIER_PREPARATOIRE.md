@@ -167,7 +167,7 @@ Table de contrôle. Toute variation est une erreur, pas une nuance.
 
 - **Personne ne dit « Invincible » de tout le chapitre.** Le mot est mort au jour 0 avec celui qui le portait. Le chapitre 2 était le dernier endroit où il sortait sans faire mal.
 - **Debbie ne prononce pas le nom de Goku parce qu'il n'en a pas encore.** Elle dit *celui qui a tué mon fils* la première fois, à l'officier de permanence, en entier, sans se presser. Ensuite elle dit *lui*. **Elle ne dit jamais SUJET DEUX**, même quand Cecil le dit devant elle.
-- **Le mot « saiyan » n'existe pas.** Il entre dans la langue au jour 13.
+- **Le mot « saiyan » n'existe pas.** Il entre dans la langue **au jour 11** *(corrigé après le ch. 11 ; ce dossier portait « jour 13 »)*. Sans effet sur le ch. 7, qui se passe au J7.
 - **« Grayson » dans la bouche de Cecil.** C'est un patronyme terrien que Nolan s'est choisi. Cecil l'emploie pour Mark et il a raison de l'employer. Il ne l'emploie jamais pour Nolan.
 
 ---

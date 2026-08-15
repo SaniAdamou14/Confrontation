@@ -203,6 +203,7 @@ C'est cette liste qui fabrique le récit. Elle doit être respectée avec rigueu
 - **Les otages.** Sur Goku, ça marche immédiatement. Sur Végéta, ça ne marche pas — **et c'est pire**, parce que l'Empire va tester, et le test coûtera une ville.
 - **Les armes conçues pour eux.** Voir section 6.3 : l'inhibiteur métabolique des Mauler, le matériel génétique du congélateur, les recherches de Robot sur la radiation Sigma.
 - **Eux-mêmes.** Végéta contre Goku est, physiquement, le seul vrai combat du récit. Il arrive au tome 3.
+  > **⚠ Précisé après le chapitre 11.** Le J11 les met face à face et **ce n'est pas ce combat** : Végéta vient corriger, pas savoir ; Kakarotte ne rend pas un coup et passe deux minutes à se placer devant des maisons. **Ce que le J11 démontre, c'est qu'ils ne peuvent pas s'affronter sur cette planète** — ce qui rend le tome 3 nécessaire au lieu de le remplacer. Ne jamais écrire, dans aucun tome, que le premier affrontement a eu lieu au tome 1.
 
 ### 4.5 Règles de mort
 
@@ -538,8 +539,9 @@ La question : **qu'est-ce qu'on vient de faire ?**
 | 4-5 | **Les retrouvailles.** Ils s'évaluent. Végéta comprend que Freezer n'est pas derrière lui. **Le pacte : une prémisse commune, deux buts incompatibles** — il veut un siège, Goku veut une porte. Premier contact radio. |
 | 6 | Doctrine OMEGA. Le congélateur. |
 | 7-8 | Debbie exige de parler à celui qui a tué son fils. La confrontation dans le désert. **Il ne s'excuse pas.** Il ne comprend pas encore ce qu'on lui reproche. |
-| 9-11 | Végéta réalise pour la Lune. Il ne dit rien. Entraînement au-dessus du Pacifique. |
-| 12-13 | Auditions au Congrès. Cecil ment. Le mot « saiyan » entre dans la langue. |
+| 9-11 | Végéta réalise pour la Lune. Il ne dit rien. **J11 : il vient corriger Kakarotte au-dessus d'une banlieue de Chicago. Deux minutes. Kakarotte ne rend pas un coup.** *(L'entraînement au-dessus du Pacifique est abandonné — voir `03_PLAN/TOME_1.md`.)* |
+| **11** | **Végéta vient corriger Kakarotte au-dessus d'une banlieue de Chicago. Le mot entre dans la langue, crié trois fois.** |
+| 12-13 | Auditions au Congrès. Cecil ment. **Le monde évite le mot ; le vocabulaire de l'agence gagne.** |
 | 14-15 | **Jour 13.** Anissa. Haute orbite. Le monde regarde en direct. Elle se retire. Elle repart sans avoir vu l'Ozaru. |
 | 16 | Chapitre entier en focalisation Végéta. Il décide. |
 | 17-18 | **Ozaru.** Pleine lune. Le bilan. |

@@ -244,3 +244,28 @@ C'est ce qui rend son chapitre spécifiquement *Invincible* et pas simplement ca
 **Ce que ça ne change pas.** Aucune règle de langue, aucune règle de focalisation, aucun fusil.
 
 **Décision :** _____________
+
+
+---
+
+## ✔ 14. Le jour 11 — TRANCHÉ (avant l'écriture du ch. 11)
+
+*Trois questions posées avant la première phrase du chapitre, tranchées en conversation.*
+
+| Question | Décision | Raison |
+|---|---|---|
+| **Les époux Hollis meurent-ils au J11 ?** | **Oui.** La dette de retour du ch. 7, due pour le tome 3, est dépensée ici | Une dette tenue trois tomes vaut moins qu'une dette qui explose au bon moment. Ce sont **les premiers morts du récit que le lecteur a rencontrés avant qu'ils meurent** — la correction exacte que réclamait `CHANTIER_T1` §3 |
+| **Goku est-il blessé ?** | **Non. Aucun sang, aucune marque.** Mais **il encaisse**, et ça se lit de l'extérieur : trois demi-pas en arrière repris aussitôt | Une blessure coûte des semaines (`BIBLE` §4.3-5) et ouvrirait une convalescence que le tome n'a pas la place de raconter. **Debbie sait lire un corps qui a pris quelque chose sans avoir de marque** : c'est sa compétence, établie au ch. 8 |
+| **Le bilan chiffré est-il dans le chapitre ?** | **Non.** Il appartient au ch. 12 | Un focal ne connaît jamais un bilan pendant qu'il le produit. Voir `REGISTRE_MORTS.md` §1 bis |
+
+## ✔ 15. Le J11 et le combat du tome 3 — TRANCHÉ
+
+**Le problème.** `BIBLE` §4.4, `CHRONOLOGIE_MAITRESSE.md` §5 et `FUSILS_DE_TCHEKHOV.md` F27 réservent tous les trois *« Végéta contre Goku, le seul vrai combat du récit »* au tome 3. Le ch. 11 les met face à face.
+
+**La décision.** **Ce n'est pas le même objet, et la distinction est structurelle, pas cosmétique.** Le J11 est une **correction** : Végéta ne veut pas savoir qui gagne, il veut que l'autre arrête ; **Kakarotte ne rend pas un coup et passe deux minutes à se placer.** Le tome 3 est un **combat** : les deux veulent savoir, et il n'y a personne derrière eux.
+
+**Ce que ça produit, et qui vaut mieux que la version d'avant :** ce que Goku apprend au J11, c'est qu'il **ne peut pas** affronter Végéta sur cette planète. **Le ch. 11 rend le tome 3 nécessaire au lieu de le remplacer.**
+
+**Interdit dans tous les tomes :** écrire que le premier affrontement a eu lieu au tome 1.
+
+*Répercuté : `BIBLE` §4.4, `CHRONOLOGIE_MAITRESSE.md` §5, `FUSILS_DE_TCHEKHOV.md` F27, `03_PLAN/TOME_1.md` contraintes de tome.*

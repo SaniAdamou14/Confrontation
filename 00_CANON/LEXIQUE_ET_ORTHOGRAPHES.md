@@ -143,15 +143,19 @@ Norme française, tenue partout :
 
 Chronologie de la contamination lexicale (bible §6.5) — à respecter, c'est un marqueur de date :
 
+> **⚠ RÉVISÉ APRÈS LE CHAPITRE 11.** La chronologie ci-dessous portait une entrée par la presse au J12-J15, et le mot comme **adjectif péjoratif**. **Les deux sont faux depuis le ch. 11**, et la version actuelle est meilleure.
+
 | Période | État du mot |
 |---|---|
 | J0-J3 | N'existe pas. On dit « eux », « les deux », « ceux de Chicago ». |
-| J4-J11 | Terme technique interne à la GDA, tiré des premières traductions. Orthographié correctement dans les documents classés. |
-| J12-J14 | Fuite au Congrès. Le mot sort. |
-| J15+ | Entre dans la langue courante, **mal orthographié** (proposition : *sayan*, *saïan*), comme **adjectif péjoratif** : « une réponse sayan », « il a réglé ça de façon sayan » = brutalement, sans considération pour les dégâts. |
-| Tome 2+ | Devient un mot de tribune politique. Puis d'insulte raciale ordinaire visant des humains, ce qui n'a plus rien à voir avec eux. |
+| J4-J10 | Terme technique interne à la GDA, tiré des premières traductions. Orthographié correctement dans les documents classés. **Le public n'en a rien.** |
+| **J11** | **IL ENTRE. Pas par la presse : par la bouche de celui qui frappe.** Végéta le crie trois fois au-dessus d'une banlieue, en lingua franca, comme reproche d'espèce à Kakarotte. Des téléphones le captent. **Le monde apprend le nom de leur espèce de la bouche de celui qui est en train de le massacrer, et le mot est contaminé à la seconde où il entre.** |
+| **J11+** | **Un mot que tout le monde connaît et que personne ne prononce.** Il n'y a pas de mépris disponible dans une population qui vient de regarder ça. On dit *eux*, *les deux*, *celui d'octobre*, *l'autre*. **Et le vocabulaire administratif gagne** — `SUJET UN`, `SUJET DEUX` —, parce qu'il est neutre et qu'un fonctionnaire l'a inscrit dans une case le J10 faute d'autre mot. |
+| **J11+** | **Personne ne sait comment ça s'écrit.** Le monde l'a entendu, pas lu. Trois graphies dans trois documents officiels pendant six semaines. |
+| J13 | **Le ch. 13 ne raconte plus l'entrée du mot, mais son évitement.** Le sommet du chapitre est l'endroit où quelqu'un le dit quand même, à voix haute, et ce qui se passe dans la pièce à ce moment-là. |
+| Tome 2+ | Il devient prononçable, et il devient un mot de tribune politique. Puis d'insulte raciale ordinaire visant des humains, ce qui n'a plus rien à voir avec eux. **L'insulte arrive — mais des tomes plus tard, quand la peur s'est usée.** |
 
-Choisir **une seule** graphie fautive et s'y tenir. Recommandation : **« sayan »**.
+Choisir **une seule** graphie fautive et s'y tenir. **Arrêtée : « sayan »**, telle qu'un enfant de deux ans la prononce le soir du J11, deux syllabes, la mauvaise accentuée. C'est la première occurrence du mot dans le texte du récit, et **c'est une mère qui interdit de le redire.**
 
 ---
 

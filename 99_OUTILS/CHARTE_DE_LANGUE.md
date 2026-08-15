@@ -97,13 +97,13 @@ Le nom qu'un personnage emploie pour un autre est une information. Il ne varie p
 | **Oliver** | « Nolan », « Mark », « Debbie » | « papa », « maman », « mon frère » |
 | **Debbie** | « Nolan », « Mark », « Oliver » | « Omni-Man », « Invincible » |
 | **Cecil** | « Grayson » pour Mark, « Omni-Man » pour Nolan, « fiston » à qui il va sacrifier | le prénom de quelqu'un qu'il utilise |
-| **La GDA en interne** | « SUJET UN », « SUJET DEUX » jusqu'au jour 19 | « le saiyan » avant le jour 13 |
-| **Le public, la presse** | « l'homme en orange », « l'homme en armure » jusqu'au jour 13 | tout nom propre |
+| **La GDA en interne** | « SUJET UN », « SUJET DEUX » jusqu'au jour 19 | « le saiyan » avant le jour 11 |
+| **Le public, la presse** | « l'homme en orange », « l'homme en armure ». **Après le J11 : *eux*, *les deux*, *celui d'octobre*, et de plus en plus les termes de l'agence** | tout nom propre |
 | **Abbadie dans ses notes** | « l'informateur » | tout autre terme |
 | **Végéta** | « Kakarotte » | « Goku », jamais |
 | **Goku** | « Végéta » | |
 
-**Le mot « saiyan » n'existe pas dans le monde avant le jour 13.** Il entre par la presse, déformé, au chapitre 13.
+**Le mot « saiyan » n'existe pas dans le monde avant le jour 11.** *(Cette ligne portait « jour 13, il entre par la presse » jusqu'au chapitre 11.)* **Il entre au J11, crié trois fois par Végéta au-dessus d'une banlieue, et capté par des téléphones.** Conséquence à tenir partout : ce n'est pas une insulte, **c'est un mot que personne ne prononce** — et personne ne sait l'écrire, puisque le monde l'a entendu et non lu. Voir `00_CANON/LEXIQUE_ET_ORTHOGRAPHES.md` §4.
 
 ---
 

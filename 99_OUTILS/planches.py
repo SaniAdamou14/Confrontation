@@ -441,6 +441,71 @@ def p8b():
     return enveloppe("".join(o))
 
 
+def pavillons(rng, x0, x1, sol, mini, maxi, pas=None):
+    """Une banlieue, pas une skyline : un corps bas et un toit en pente.
+
+    `ville()` produit des tours. Le chapitre 11 se passe dans une rue de
+    maisons individuelles, et la différence de silhouette est tout le sujet
+    de la planche — ce qui est coupé net, ce sont des toits de pavillon.
+    """
+    out, x = [], x0
+    while x < x1:
+        w = pas or rng.randint(96, 158)
+        h = rng.randint(mini, maxi)
+        p = h * rng.uniform(.42, .62)          # hauteur du toit
+        out.append('<rect x="%g" y="%g" width="%g" height="%g" fill="%s"/>'
+                   % (x, sol - h, w, h, INK))
+        out.append('<path d="M%g %g L%g %g L%g %g Z" fill="%s"/>'
+                   % (x - 7, sol - h, x + w / 2, sol - h - p, x + w + 7, sol - h, INK))
+        x += w + rng.randint(26, 52)
+    return "".join(out)
+
+
+def p11b():
+    """10 h 12. Il manquait des toits, sur toute la longueur, à la règle."""
+    r = random.Random(111)
+    o = [trame(0, 0, L, 380, "t1", .30)]
+    o.append('<rect x="0" y="596" width="1600" height="44" fill="%s"/>' % INK)
+    o.append(pavillons(r, -60, L + 60, 596, 138, 196))
+    # la coupe : tout ce qui dépassait de la ligne n'existe plus.
+    o.append('<rect x="0" y="0" width="1600" height="438" fill="%s"/>' % PAP)
+    o.append(trame(0, 0, L, 438, "t1", .30))
+    o.append('<rect x="0" y="436" width="1600" height="3" fill="%s" opacity=".55"/>' % INK)
+    # la camionnette et son échelle, intactes, sous la ligne
+    o.append('<rect x="1132" y="536" width="176" height="60" rx="7" fill="%s"/>' % INK)
+    o.append('<rect x="1120" y="514" width="200" height="7" fill="%s"/>' % INK)
+    for i in range(7):
+        o.append('<rect x="%g" y="514" width="5" height="7" fill="%s"/>'
+                 % (1128 + i * 27, PAP))
+    return enveloppe("".join(o))
+
+
+def p11c():
+    """10 h 26. Le coup n'est pas parti vers l'homme."""
+    r = random.Random(112)
+    o = [trame(0, 0, L, 470, "t1", .26)]
+    o.append('<rect x="0" y="596" width="1600" height="44" fill="%s"/>' % INK)
+    # à droite, ce qui tenait encore — et le bord franc où ça s'arrête
+    o.append('<g opacity="1">%s</g>' % pavillons(r, 792, L + 60, 596, 120, 178))
+    o.append('<rect x="742" y="0" width="52" height="640" fill="%s"/>' % PAP)
+    o.append('<rect x="792" y="0" width="4" height="596" fill="%s" opacity=".5"/>' % INK)
+    # les deux, minuscules, au tiers gauche, et l'intervalle vide entre eux
+    o.append(silhouette(486, 596, 62))
+    o.append(silhouette(560, 596, 58, miroir=True))
+    # le sol, seule échelle de la scène
+    o.append('<line x1="300" y1="612" x2="1300" y2="612" stroke="%s" stroke-width="2" '
+             'opacity=".45"/>' % INK)
+    return enveloppe("".join(o))
+
+
+def p11d():
+    """10 h 31. Devant. Rien d'autre dans le cadre."""
+    o = [trame(0, 0, L, 520, "t1", .22)]
+    o.append('<rect x="0" y="604" width="1600" height="36" fill="%s"/>' % INK)
+    o.append(silhouette(846, 604, 96))            # elle
+    o.append(silhouette(792, 604, 62))            # lui, devant
+    return enveloppe("".join(o))
+
 
 # ------------------------------------------------ planches de repérage
 # Registre distinct des planches de drame : ce sont des RELEVÉS. Le livre
@@ -551,6 +616,9 @@ PLANCHES_INTERIEURES = {
     8: [("Deux cents m\u00e8tres plus bas", p8c),   # LE DISPOSITIF - reperage
         ("Maison des Grayson", p8b)],            # la porte
     9: [("16 h 20", p9c)],                       # LES TALONS - reperage
+    11: [("10 h 12", p11b),                      # la ligne, les toits coupes
+         ("10 h 26", p11c),                      # ce qui etait derriere
+         ("10 h 31", p11d)],                     # devant
 }
 
 
@@ -733,8 +801,24 @@ def p10():
     return enveloppe("".join(o))
 
 
+def p11():
+    """Une rue, un samedi matin. Et deux points qu'on cherche avant de les voir."""
+    r = random.Random(11)
+    o = [trame(0, 0, L, 470, "t1", .22)]
+    o.append('<rect x="0" y="600" width="1600" height="40" fill="%s"/>' % INK)
+    o.append(pavillons(r, -60, L + 60, 600, 116, 168))
+    # la clôture, au premier plan, qui donne l'échelle du sol
+    o.append('<rect x="0" y="576" width="1600" height="5" fill="%s"/>' % INK)
+    for i in range(46):
+        o.append('<rect x="%g" y="576" width="6" height="26" fill="%s"/>' % (i * 35, INK))
+    # les deux points. Ils font quatre pixels de haut sur six cent quarante.
+    o.append('<circle cx="1044" cy="150" r="4.5" fill="%s"/>' % INK)
+    o.append('<circle cx="1074" cy="163" r="3.2" fill="%s"/>' % INK)
+    return enveloppe("".join(o))
+
+
 PLANCHES = {0: frontispice, 1: p1, 2: p2, 3: p3, 4: p4, 5: p5,
-            6: p6, 7: p7, 8: p8, 9: p9, 10: p10}
+            6: p6, 7: p7, 8: p8, 9: p9, 10: p10, 11: p11}
 
 
 def planche_interieure(n):

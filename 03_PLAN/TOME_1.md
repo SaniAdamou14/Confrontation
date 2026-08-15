@@ -45,9 +45,9 @@ Chapitres 1 à 20. **Jours 0 à 20.** *(La contradiction « dix-sept jours » de
 | 8 | **J9** | **Debbie** | Le désert | La confrontation. **Il ne s'excuse pas.** |
 | 9 | J9 | **Goku** | Rocheuses, ciel | Il réalise pour la lune. Il envisage de se raser la queue. |
 | 10 | J10 | **Ferguson** | Pentagone −4, puis le site du comté de Luna | La décence réelle, le rapport quotidien. **Le formulaire d'approvisionnement.** |
-| 11 | J11 | **Goku** | Pacifique | Entraînement. Une flotte qui n'a pas le droit de tirer. |
+| 11 | J11 | **Debbie** | Banlieue nord de Chicago | **Végéta vient corriger Kakarotte. Deux minutes. La rue y passe.** ✔ écrit |
 | 12 | J12-13 | **Cecil** | Capitole | Auditions. Il ment sous serment. |
-| 13 | J13 | **Un journaliste / le public** | Écrans | Le mot « sayan » entre dans la langue. |
+| 13 | J13 | **Un journaliste / le public** | Écrans | **Le mot que personne ne prononce.** Il est entré au J11 ; le monde l'évite. |
 | 14 | J13 | **Anissa** | Haute orbite | Elle descend. |
 | 15 | J13 | **Ray** ou **le public** | Le monde regarde | Elle teste, encaisse, comprend en 80 s. Elle se retire. |
 | 16 | J14-16 | **Végéta** | Partout | **Chapitre entier en focalisation Végéta. Il décide.** |
@@ -56,7 +56,7 @@ Chapitres 1 à 20. **Jours 0 à 20.** *(La contradiction « dix-sept jours » de
 | 19 | J19 | **Goku** | La maison Grayson | Il vient demander des vêtements. |
 | 20 | J19-20 | **Debbie** | La maison Grayson | Elle les lui donne. **Une porte qui se referme.** |
 
-**Répartition des focalisations :** Goku 4, Cecil 4, Debbie 3, Végéta 1, Conquest 1, Anissa 1, Ray 2, autres 4. Végéta n'a **qu'un seul** chapitre focalisé sur tout le tome, et c'est le chapitre 16. Rareté délibérée : le lecteur passe seize chapitres à le voir de l'extérieur avant d'entrer une seule fois. C'est ce qui rend le chapitre 16 dévastateur.
+**Répartition des focalisations :** Debbie 4, Cecil 4, Goku 3, Végéta 1, Conquest 1, Anissa 1, Ray 2, autres 4. *(Révisée au ch. 11 : le chapitre était prévu en focalisation Goku, il est passé à Debbie — un combat vu depuis le plus fort est ennuyeux, et elle seule pouvait porter la phrase que ce chapitre existe pour produire.)* Végéta n'a **qu'un seul** chapitre focalisé sur tout le tome, et c'est le chapitre 16. Rareté délibérée : le lecteur passe seize chapitres à le voir de l'extérieur avant d'entrer une seule fois. C'est ce qui rend le chapitre 16 dévastateur.
 
 ---
 
@@ -141,10 +141,10 @@ Dossier préparatoire complet : `05_ATELIER/CH01_DOSSIER_PREPARATOIRE.md`.
 |---|---|
 | 9 | Goku voit la lune en plein jour et se souvient de son grand-père. Il tient sa queue dans sa main et ne la coupe pas. |
 | 10 | Ferguson : ami sincère et informateur sincère, **les deux en même temps**. Ne jamais trancher lequel est vrai. |
-| 11 | Entraînement au-dessus du Pacifique. Une flotte regarde et ne tire pas. Le monde mesure ce que « hors catégorie » veut dire. |
-| 12 | Cecil ment sous serment. Il ne ment pas sur le chiffre des morts. Sur quoi, alors — c'est le sujet du chapitre. |
-| 13 | Le mot entre dans la langue. Chapitre court, mosaïque, sans héros. Les Témoins de l'Orange se forment ici ou au tome 2. |
-| 14 | Anissa descend. Focalisation Anissa : **elle constate, elle ne juge pas.** Le lecteur découvre l'Empire par sa voix. |
+| 11 | **✔ ÉCRIT.** Focalisation Debbie, banlieue nord de Chicago. Végéta vient corriger Kakarotte et retire une par une les raisons qu'il a de rester ici. **Goku ne rend pas un coup : il se place.** Tout est vu par un soupirail de cave. Le mot entre dans la langue. Dossier : `05_ATELIER/CH11_DOSSIER_PREPARATOIRE.md`. *(L'entraînement au-dessus du Pacifique est abandonné : une démonstration sans adversaire n'est pas de l'action, et la flotte qui n'a pas le droit de tirer ne veut rien, ne risque rien, ne perd rien.)* |
+| 12 | **À REPENSER APRÈS LE J11.** Un chapitre de comptage refait le ch. 3 et ennuie. **Le principe : le chapitre qui suit une catastrophe ne raconte pas la catastrophe, il raconte ce que quelqu'un décide d'en faire.** Ce qui a changé entre le J0 et le J11 : au J0 personne n'était responsable ; au J11 il existe un dispositif, une doctrine, et **un papier signé où un officier de liaison a écrit qu'il ne fallait pas avoir peur.** Piste retenue : **le congélateur s'ouvre** (F1), OMEGA cesse d'être un mémorandum, Ferguson est convoqué et on lui demande simplement de continuer à écrire. **Le bilan chiffré du J11 tombe ici** — inférieur au J0, inférieur au J17. Les auditions glissent. |
+| 13 | **Le mot est déjà entré, au J11.** Ce chapitre raconte **ce que le monde en fait, c'est-à-dire l'évite** : un mot que tout le monde connaît et que personne ne prononce ; le vocabulaire de l'agence qui gagne parce qu'il est neutre ; trois graphies dans trois documents parce que le monde l'a entendu et non lu ; un nom propre devenu impossible à porter. **Sommet : l'endroit où quelqu'un le dit quand même.** Chapitre court, mosaïque, sans héros. Les Témoins de l'Orange se forment ici ou au tome 2. |
+| 14 | Anissa descend. Focalisation Anissa : **elle constate, elle ne juge pas.** Le lecteur découvre l'Empire par sa voix. **⚠ À vérifier après le J11 :** `AGENDAS.md` agenda 9 exige qu'elle vienne parce qu'un délai a expiré, pas parce que c'est le chapitre 14. **Le J11 change ce qu'elle trouve en arrivant** — elle descend sur un monde qui vient de comprendre que ça recommence. Décider si elle descend toujours le 14 octobre, ou plus tôt. |
 | 15 | Quatre-vingts secondes. Elle se retire. Le sang séché qu'elle ne nettoie pas. |
 | 16 | **Végéta. Un chapitre entier.** Ce qu'il a vu depuis seize chapitres, ce qu'il en a fait, et la décision. Il ne s'analyse pas — le lecteur comprend à travers ses actes. |
 | 17 | L'Ozaru, vu d'en bas. Focalisation d'un anonyme. Aucune ligne depuis Végéta. |
@@ -157,6 +157,8 @@ Dossier préparatoire complet : `05_ATELIER/CH01_DOSSIER_PREPARATOIRE.md`.
 ## Contraintes de tome
 
 - **Aucun chiffre de puissance.** Sur vingt chapitres.
+- **⚠ Le J11 est une correction, pas un combat.** Kakarotte ne rend pas un coup. **Le tome 3 reste le seul endroit du récit où les deux se battent** — `BIBLE` §4.4, `FUSILS_DE_TCHEKHOV.md` F27. Ne jamais écrire, dans aucun tome, que le premier affrontement a eu lieu au tome 1.
+- **Aucune planète, aucune lune, aucun corps céleste n'est touché avant le tome 4.** La stratégie des trente suppose que trente individus soient encore une menace, et la Lune est le fusil du ch. 17.
 - **La faim, la fatigue ou une blessure ancienne apparaît dans chaque chapitre** à partir du ch. 4.
 - **Végéta n'est focalisé qu'une fois.** Chapitre 16.
 - **Goku ne sait pas lire**, et cette limite doit produire au moins une scène gênante avant la fin du tome.

@@ -146,7 +146,8 @@ Légende : **✓** sait · **~** soupçonne, sans preuve · **✗** ignore · **
 | ~J7 | Goku | L'anglais parlé. **Pas l'écrit.** |
 | J3 | Végéta | Que la planète a une lune. **Il ne dit rien.** |
 | J9 | Goku | Idem, avec horreur. |
-| J12-J14 | Public | Le mot « saiyan ». Les auditions. Ce que Cecil ne dit pas. |
+| **J11** | **Le monde entier** | **Le mot.** Crié trois fois par Végéta au-dessus d'une banlieue, capté par des téléphones. **Pas par la presse, et pas comme insulte.** Voir ci-dessous. |
+| J12-J14 | Public | Les auditions. Ce que Cecil ne dit pas. *(Le mot est déjà entré au J11 — cette ligne portait « le mot saiyan », c'est corrigé.)* |
 | J13-J15 | Empire | Qu'aucun individu ne peut les vaincre. Anissa rentre et dit : « Je n'ai pas pu. » |
 | J17 | Monde entier | L'Ozaru. Par vidéo. Irréversible. |
 | ~J19-20 | Debbie | Que Goku ne comprend pas ce qu'on lui reproche. |
@@ -184,3 +185,18 @@ Légende : **✓** sait · **~** soupçonne, sans preuve · **✗** ignore · **
 | **Ce que personne sur le site ne sait** | Que la pleine lune du dix-huit compte. L'opérateur du mât la traite comme une contrainte de matériel — ses optiques bas niveau seront saturées à partir du seize —, Ferguson la reporte sur un formulaire d'approvisionnement et souligne la date. **Le lecteur porte l'échéance tout seul.** |
 | **Ce que Ferguson a lu et qui ne lui était pas destiné** | La révision de l'estimation de mortalité : **trois millions cent mille**, sept cent mille de plus que le chiffre en circulation, agrafée par erreur, **sans un paraphe et sans un tampon de réception.** Il ne peut rien en faire. Il la remet dans la liasse. |
 | **Ce que Cecil obtient de sa journée** | Un canal quotidien, un premier rapport à 18 h 02, et **rien qui étaye la ligne deux d'OMEGA.** Les auditions sont dans trois jours. |
+
+### Précisions établies par le chapitre 11
+
+| Information | État |
+|---|---|
+| **Ce que Debbie sait désormais, et qu'elle ignorait le matin même** | **Qu'ils sont deux.** Elle n'avait jamais entendu parler du second — `QUI_SAIT_QUOI`, ch. 7 : *« Ce que Debbie ignore et doit ignorer : que Végéta existe. »* Elle l'a appris en le voyant, par un soupirail, à quarante mètres. Elle sait aussi **que celui du désert se met devant** et qu'il ne rend pas les coups. |
+| **Ce qu'elle a vu et qu'elle ne sait pas nommer** | Trois demi-pas en arrière, repris aussitôt. **Elle sait lire un corps qui a pris quelque chose sans avoir de marque** — vingt ans de garçon qui rentre le soir. Elle vérifie de mémoire le même soir : il n'aura rien, elle en est certaine d'avance, et ça la dérange. **La narration ne le nomme pas.** |
+| **Ce qu'elle ignorera toujours** | **Pourquoi il est venu.** La chaîne — un rapport bien fait, un interprète qui n'ose pas mentir, une question posée un samedi matin — ne remontera jamais jusqu'à elle. Elle ignore aussi **ce que l'homme en armure a regardé dans son jardin**, et elle passera des années à se demander pourquoi il s'est arrêté. |
+| **Ce qu'elle a compris et qui est faux** | Rien. **C'est le premier chapitre du tome où le focal ne se trompe sur rien** — elle voit exactement ce qui se passe et elle n'a aucun moyen d'agir dessus. |
+| **Ce que Végéta sait seul** | **Qu'il existe au moins un hybride vivant, et qu'il en a vu un.** F29, déduit au J1 sur un cadavre, vérifié au J11 sur un enfant debout. **Personne ne sait qu'il le sait.** Il saura ce qu'est Anissa avant qu'elle ouvre la bouche. |
+| **Ce que Goku a fait, et ce que le monde va en conclure** | Il s'est placé devant des maisons et il n'a pas rendu un coup. **Le monde y verra un protecteur, une seconde fois, et ce sera faux une seconde fois** — comme l'arrêt de 17 h 09 (F18). Sa raison est administrative et elle vient du ch. 10 : *personne ne vient chercher ceux qui tombent.* **Il ignore toujours que la mort est définitive ici. F26 tient.** |
+| **Ce qu'Oliver sait** | **Qu'il peut voler jusque là-haut, et qu'on ne l'a pas laissé.** Et il sait que Debbie lui a dit quelque chose de faux sur les voisins. **Il ne l'a pas relevé.** Personne ne lui a demandé ce qu'il avait vu — comme pour la porte du fond au J10. |
+| **Ce que le monde possède, le soir du J11** | **Des milliers d'images qui ne montrent rien**, et des bandes-son. Le contraire du J0. Sur les bandes-son, **un mot crié trois fois**, que personne ne sait écrire. |
+| **Ce que la GDA ne sait pas encore** | Que SUJET DEUX est arrivé au J11 sans être détecté, comme les autres fois. **Ferguson a attendu toute la journée à une table avec une chaise vide, et son rapport du soir porte une absence.** Il ignore complètement ce qui s'est passé en Illinois pendant qu'il attendait. |
+| **Ce qu'Abbadie ignore, et ignorera toujours** | **Ce que sa réponse du samedi matin a produit.** `AGENDAS.md`, agenda 4 : il *« veut ne pas être remplacé, et ne pas savoir ce qu'il a fait »*. **Il obtient les deux.** |

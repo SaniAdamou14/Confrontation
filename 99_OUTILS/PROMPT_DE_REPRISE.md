@@ -29,7 +29,7 @@ Goku et Végéta tombent dans l'univers d'Invincible par une faille causale. Ils
 
 **La thèse :** deux êtres arrivent dans un monde qu'ils peuvent détruire d'un geste, et découvrent que la puissance absolue ne résout aucun des problèmes qui comptent.
 
-**Les combats ne sont pas le suspense. Ils sont la démonstration.** Le suspense est dans ce qui reste après : le comptage des morts, les assurances qui refusent de payer, une mère qui exige, un mot qui entre dans la langue comme insulte, un empire de moins de cinquante individus qui comprend qu'il ne peut pas gagner par la force et bascule sur la prise d'otages à l'échelle planétaire.
+**Les combats ne sont pas le suspense. Ils sont la démonstration.** Le suspense est dans ce qui reste après : le comptage des morts, les assurances qui refusent de payer, une mère qui exige, un mot qui entre dans la langue et que plus personne n'ose prononcer, un empire de moins de cinquante individus qui comprend qu'il ne peut pas gagner par la force et bascule sur la prise d'otages à l'échelle planétaire.
 
 ---
 
