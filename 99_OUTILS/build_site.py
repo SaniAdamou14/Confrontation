@@ -21,13 +21,16 @@ import unicodedata
 from datetime import date
 from pathlib import Path
 
+import planches
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 RACINE = Path(__file__).resolve().parent.parent
 CHAPITRES = RACINE / "04_CHAPITRES" / "T1"
 SORTIE = RACINE / "docs"
 
 BASE_URL = "https://saniadamou14.github.io/Confrontation"
 # Adresse de contact affichee sur le site. A changer si besoin.
-EMAIL = "info@gabera.software"
+EMAIL = "saniadamou778@gmail.com"
 
 TITRE = "Le Poids des dieux"
 SOUS_TITRE = "Dragon Ball Z × Invincible"
@@ -214,6 +217,7 @@ CSS = r"""
   --text:#DCE3E7; --dim:#8D9BA6; --faint:#5E6C77;
   --accent:#E0682C; --signal:#3FA96A; --amber:#D9A02B; --stop:#C1443B;
   --halo:rgba(224,104,44,.16);
+  --pl-ink:#DCE3E7; --pl-paper:#0E1418;
   --shadow:0 1px 0 rgba(255,255,255,.03), 0 18px 44px -28px rgba(0,0,0,.9);
   --mesure:34rem;
   --pas:clamp(1.1rem,4vw,2.6rem);
@@ -224,6 +228,7 @@ CSS = r"""
     --text:#182027; --dim:#5A6771; --faint:#8794A0;
     --accent:#B4491A; --signal:#2E8654; --amber:#B07C12; --stop:#A83A31;
     --halo:rgba(180,73,26,.12);
+    --pl-ink:#141C22; --pl-paper:#E9ECEE;
     --shadow:0 1px 0 rgba(255,255,255,.7), 0 16px 40px -30px rgba(20,32,40,.45);
   }
 }
@@ -232,6 +237,7 @@ CSS = r"""
   --text:#182027; --dim:#5A6771; --faint:#8794A0;
   --accent:#B4491A; --signal:#2E8654; --amber:#B07C12; --stop:#A83A31;
   --halo:rgba(180,73,26,.12);
+  --pl-ink:#141C22; --pl-paper:#E9ECEE;
   --shadow:0 1px 0 rgba(255,255,255,.7), 0 16px 40px -30px rgba(20,32,40,.45);
 }
 
@@ -368,6 +374,12 @@ a.avenir .rep-titre{color:var(--accent);font-style:italic}
   text-transform:uppercase;text-decoration:none;transition:color .16s}
 .retour:hover{color:var(--accent)}
 
+
+.planche{display:block;width:100%;line-height:0;border:1px solid var(--line);
+  background:var(--pl-paper);overflow:hidden}
+.planche svg{display:block;width:100%;height:auto}
+.planche-hero{margin:0 0 clamp(2rem,5vw,3rem);border:0;border-bottom:1px solid var(--line)}
+.planche-chap{margin:0 0 clamp(1.8rem,4vw,2.6rem)}
 
 .contact{margin:clamp(2.6rem,7vw,4rem) 0 0}
 .contact-txt{max-width:34rem;color:var(--dim);margin:0}
@@ -684,6 +696,12 @@ def construire(avec_artifact=False):
 
     carte_sociale(SORTIE / "assets" / "og.png", len(chaps), total)
 
+    (SORTIE / "planches").mkdir(parents=True, exist_ok=True)
+    for n, f in planches.PLANCHES.items():
+        (SORTIE / "planches" / ("%02d.svg" % n)).write_text(
+            f().replace(planches.INK, "#141C22").replace(planches.PAP, "#E9ECEE"),
+            encoding="utf-8")
+
     # ---- index
     cartes = []
     for c in chaps:
@@ -710,7 +728,9 @@ def construire(avec_artifact=False):
 
     index = tete(TITRE + " — Tome 1", DESCRIPTION, "index.html", "", "book")
     index += barre("")
-    index += """<main id="contenu"><div class="enveloppe">
+    index += """<main id="contenu">
+<div class="planche planche-hero">{front}</div>
+<div class="enveloppe">
 <header class="masthead">
 <p class="eyebrow mono">{sub}</p>
 <h1>Le Poids<br/>des dieux</h1>
@@ -753,6 +773,7 @@ lire la suite avant tout le monde : le courrier arrive et il est lu.</p>
 </body></html>
 """.format(sub=SOUS_TITRE, tome=TOME, n=len(chaps), prevus=CHAPITRES_PREVUS,
            cartes="\n".join(cartes), pied=pied("", len(chaps), mots_fmt), email=EMAIL,
+           front=planches.planche(0) or "",
            schema=json.dumps(schema, ensure_ascii=False))
     (SORTIE / "index.html").write_text(index, encoding="utf-8")
 
@@ -766,7 +787,9 @@ lire la suite avant tout le monde : le courrier arrive et il est lu.</p>
                  "chapitres/" + c["fichier"], "../", "article")
         p += barre("../", "Chapitre %d — %s" % (c["numero"], c["titre"]))
         p += """<main id="contenu"><div class="enveloppe">
-<article class="colonne" data-chapitre="{n}" data-url="chapitres/{f}" data-titre="{t}">
+<article data-chapitre="{n}" data-url="chapitres/{f}" data-titre="{t}">
+<div class="planche planche-chap">{pl}</div>
+<div class="colonne">
 <header class="chap-tete">
 <div class="embleme">{e}</div>
 <p class="num mono">Chapitre {n}</p>
@@ -775,6 +798,7 @@ lire la suite avant tout le monde : le courrier arrive et il est lu.</p>
 <div class="filet"></div>
 </header>
 <div class="prose">{corps}</div>
+</div>
 </article>
 
 <footer class="chap-pied colonne"><nav class="nav-chap">{nav}</nav>
@@ -784,6 +808,7 @@ lire la suite avant tout le monde : le courrier arrive et il est lu.</p>
 </body></html>
 """.format(n=c["numero"], f=c["fichier"], t=html.escape(c["titre"], quote=True),
            e=c["embleme"], fo=html.escape(c["focal"], quote=False),
+           pl=planches.planche(c["numero"]) or "",
            s=html.escape(c["situation"], quote=False), corps=rendre(c["corps"]),
            nav=(('<a id="lien-prec" href="%s"><span class="sens mono">Précédent</span>%s</a>'
                  % (prec["fichier"], html.escape(prec["titre"], quote=False)))

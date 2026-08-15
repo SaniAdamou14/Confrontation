@@ -6,6 +6,7 @@
   --text:#DCE3E7; --dim:#8D9BA6; --faint:#5E6C77;
   --accent:#E0682C; --signal:#3FA96A; --amber:#D9A02B; --stop:#C1443B;
   --halo:rgba(224,104,44,.16);
+  --pl-ink:#DCE3E7; --pl-paper:#0E1418;
   --shadow:0 1px 0 rgba(255,255,255,.03), 0 18px 44px -28px rgba(0,0,0,.9);
   --mesure:34rem;
   --pas:clamp(1.1rem,4vw,2.6rem);
@@ -16,6 +17,7 @@
     --text:#182027; --dim:#5A6771; --faint:#8794A0;
     --accent:#B4491A; --signal:#2E8654; --amber:#B07C12; --stop:#A83A31;
     --halo:rgba(180,73,26,.12);
+    --pl-ink:#141C22; --pl-paper:#E9ECEE;
     --shadow:0 1px 0 rgba(255,255,255,.7), 0 16px 40px -30px rgba(20,32,40,.45);
   }
 }
@@ -24,6 +26,7 @@
   --text:#182027; --dim:#5A6771; --faint:#8794A0;
   --accent:#B4491A; --signal:#2E8654; --amber:#B07C12; --stop:#A83A31;
   --halo:rgba(180,73,26,.12);
+  --pl-ink:#141C22; --pl-paper:#E9ECEE;
   --shadow:0 1px 0 rgba(255,255,255,.7), 0 16px 40px -30px rgba(20,32,40,.45);
 }
 
@@ -160,6 +163,12 @@ a.avenir .rep-titre{color:var(--accent);font-style:italic}
   text-transform:uppercase;text-decoration:none;transition:color .16s}
 .retour:hover{color:var(--accent)}
 
+
+.planche{display:block;width:100%;line-height:0;border:1px solid var(--line);
+  background:var(--pl-paper);overflow:hidden}
+.planche svg{display:block;width:100%;height:auto}
+.planche-hero{margin:0 0 clamp(2rem,5vw,3rem);border:0;border-bottom:1px solid var(--line)}
+.planche-chap{margin:0 0 clamp(1.8rem,4vw,2.6rem)}
 
 .contact{margin:clamp(2.6rem,7vw,4rem) 0 0}
 .contact-txt{max-width:34rem;color:var(--dim);margin:0}
