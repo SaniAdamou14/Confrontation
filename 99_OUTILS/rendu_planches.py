@@ -18,7 +18,20 @@ import re
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
-from PIL import Image, ImageDraw
+from PIL import Image, ImageDraw, ImageFont
+
+
+def _police(taille):
+    for base in (r"C:\Windows\Fonts", "/System/Library/Fonts",
+                 "/usr/share/fonts/truetype/dejavu"):
+        for n in ("consola.ttf", "Menlo.ttc", "DejaVuSansMono.ttf"):
+            f = Path(base) / n
+            if f.exists():
+                try:
+                    return ImageFont.truetype(str(f), taille)
+                except Exception:
+                    pass
+    return ImageFont.load_default()
 
 RACINE = Path(__file__).resolve().parent.parent
 SRC = RACINE / "docs" / "planches"
@@ -161,6 +174,17 @@ def dessiner(e, toile, ech, herite):
 
     fa = fill + (alpha,) if fill else None
     sa = stroke + (alpha,) if stroke else None
+
+    if tag == "text":
+        calque = Image.new("RGBA", toile.size, (0, 0, 0, 0))
+        cd = ImageDraw.Draw(calque)
+        taille = int(nombre(e, "font-size", 16) * ech)
+        ancre = {"start": "ls", "middle": "ms", "end": "rs"}.get(
+            e.get("text-anchor", "start"), "ls")
+        txt = (e.text or "").replace("&amp;", "&")
+        cd.text((nombre(e, "x") * ech, nombre(e, "y") * ech), txt,
+                font=_police(taille), fill=(fill or NOIR) + (alpha,), anchor=ancre)
+        toile = Image.alpha_composite(toile, calque)
 
     if tag in ("rect", "circle", "ellipse", "line", "path"):
         calque = Image.new("RGBA", toile.size, (0, 0, 0, 0))

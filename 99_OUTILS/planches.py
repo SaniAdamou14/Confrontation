@@ -441,9 +441,116 @@ def p8b():
     return enveloppe("".join(o))
 
 
+
+# ------------------------------------------------ planches de repérage
+# Registre distinct des planches de drame : ce sont des RELEVÉS. Le livre
+# est fait de formulaires et de mesures, donc une image qui sert à se
+# repérer doit ressembler à un document de l'agence, pas à une scène.
+
+def repere(x, y, texte, ancre="start", couleur=None):
+    """Un repère de relevé. `couleur` doit passer en PAP dès que le repère
+    tombe sur un aplat d'encre — sinon il est simplement invisible."""
+    return ('<text x="%g" y="%g" text-anchor="%s" fill="%s" '
+            'font-family="ui-monospace,Consolas,monospace" font-size="19" '
+            'letter-spacing="1.6" opacity=".9">%s</text>'
+            % (x, y, ancre, couleur or INK, texte))
+
+
+def p2c():
+    """Le plan du jour 0. Où est quoi, et à quelle distance."""
+    o = [trame(0, 0, L, 640, "t1", .22)]
+    cx, cy = 690, 330
+    o.append('<path d="M1180 0 L1600 0 L1600 640 L1180 640 Q1120 330 1180 0 Z" '
+             'fill="url(#t2)" opacity=".5"/>')
+    o.append(repere(1268, 92, "LAC MICHIGAN"))
+    for i in range(-5, 6):
+        o.append('<line x1="%g" y1="0" x2="%g" y2="640" stroke="%s" stroke-width="1.4" '
+                 'opacity=".3"/>' % (cx + i * 92, cx + i * 92, INK))
+    for i in range(-3, 4):
+        o.append('<line x1="0" y1="%g" x2="1180" y2="%g" stroke="%s" stroke-width="1.4" '
+                 'opacity=".3"/>' % (cy + i * 88, cy + i * 88, INK))
+    o.append('<circle cx="%g" cy="%g" r="252" fill="%s" opacity=".92"/>' % (cx, cy, INK))
+    o.append('<circle cx="%g" cy="%g" r="252" fill="none" stroke="%s" stroke-width="4" '
+             'stroke-dasharray="14 10"/>' % (cx, cy, INK))
+    o.append('<circle cx="%g" cy="%g" r="7" fill="%s"/>' % (cx, cy, PAP))
+    o.append(repere(cx + 20, cy - 18, "STATE &amp; MADISON", couleur=PAP))
+    o.append(repere(cx - 238, cy + 250, "9 KM"))
+    o.append('<circle cx="205" cy="300" r="15" fill="none" stroke="%s" stroke-width="4"/>' % INK)
+    o.append('<path d="M188 300 l34 0 M205 300 l0 24 M172 324 l66 0" stroke="%s" '
+             'stroke-width="4" fill="none"/>' % INK)
+    o.append(repere(146, 264, "RAY  600 M"))
+    o.append('<line x1="234" y1="332" x2="%g" y2="332" stroke="%s" stroke-width="2" '
+             'stroke-dasharray="7 7" opacity=".7"/>' % (cx - 252, INK))
+    o.append(repere(300, 358, "2 KM"))
+    o.append('<path d="M62 470 l60 0 l-15 -13 M122 470 l-15 13" stroke="%s" '
+             'stroke-width="3.4" fill="none"/>' % INK)
+    o.append(repere(60, 510, "GARDIENS  16 H 54"))
+    o.append('<path d="M62 120 l0 -54 l-9 15 M62 66 l9 15" stroke="%s" stroke-width="3" '
+             'fill="none"/>' % INK)
+    o.append(repere(78, 104, "N"))
+    return enveloppe("".join(o))
+
+
+def p8c():
+    """Le dispositif. Trois mètres, huit cents, quatre kilomètres."""
+    sol = 400
+    o = [trame(0, 0, L, 640, "t1", .2)]
+    o.append('<line x1="60" y1="%g" x2="1540" y2="%g" stroke="%s" stroke-width="3"/>'
+             % (sol, sol, INK))
+    o.append(silhouette(1330, sol, 74))
+    o.append(silhouette(1394, sol, 63, miroir=True))
+    o.append('<line x1="1330" y1="%g" x2="1394" y2="%g" stroke="%s" stroke-width="2"/>'
+             % (sol + 24, sol + 24, INK))
+    o.append(repere(1362, sol + 52, "3 M", "middle"))
+    o.append('<rect x="770" y="%g" width="6" height="130" fill="%s"/>' % (sol - 130, INK))
+    o.append('<line x1="742" y1="%g" x2="804" y2="%g" stroke="%s" stroke-width="4"/>'
+             % (sol - 130, sol - 130, INK))
+    o.append(repere(773, sol - 148, "MICROS", "middle"))
+    o.append('<line x1="776" y1="%g" x2="1326" y2="%g" stroke="%s" stroke-width="2" '
+             'stroke-dasharray="7 7" opacity=".7"/>' % (sol + 82, sol + 82, INK))
+    o.append(repere(1050, sol + 108, "800 M", "middle"))
+    o.append('<rect x="120" y="%g" width="96" height="46" fill="%s"/>' % (sol - 46, INK))
+    o.append(repere(168, sol - 62, "POSTE", "middle"))
+    o.append('<line x1="168" y1="%g" x2="1326" y2="%g" stroke="%s" stroke-width="2" '
+             'stroke-dasharray="7 7" opacity=".7"/>' % (sol + 154, sol + 154, INK))
+    o.append(repere(740, sol + 180, "4 KM", "middle"))
+    o.append(repere(60, 92, "DISPOSITIF DU JOUR 9  —  COMTÉ DE LUNA"))
+    return enveloppe("".join(o))
+
+
+def p9c():
+    """Deux talons à trois centimètres, et le gravier intact tout autour."""
+    r = random.Random(109)
+    o = [trame(0, 0, L, 640, "t2", .26)]
+    for i in range(820):
+        o.append('<circle cx="%g" cy="%g" r="%g" fill="%s" opacity=".42"/>'
+                 % (r.randint(0, 1600), r.randint(0, 640),
+                    r.choice((2, 3, 3, 4, 5)), INK))
+    for cx in (610, 900):
+        o.append('<ellipse cx="%g" cy="332" rx="88" ry="45" fill="%s"/>' % (cx, INK))
+        o.append('<ellipse cx="%g" cy="322" rx="88" ry="45" fill="none" stroke="%s" '
+                 'stroke-width="5"/>' % (cx, PAP))
+        o.append('<ellipse cx="%g" cy="332" rx="132" ry="70" fill="none" stroke="%s" '
+                 'stroke-width="2.5" stroke-dasharray="6 9" opacity=".55"/>' % (cx, INK))
+    o.append('<line x1="1092" y1="288" x2="1092" y2="376" stroke="%s" stroke-width="3"/>' % INK)
+    o.append('<line x1="1078" y1="288" x2="1106" y2="288" stroke="%s" stroke-width="3"/>' % INK)
+    o.append('<line x1="1078" y1="376" x2="1106" y2="376" stroke="%s" stroke-width="3"/>' % INK)
+    o.append(repere(1124, 340, "3 CM"))
+    o.append(repere(60, 596, "AUCUNE MARQUE DE DÉPART"))
+    return enveloppe("".join(o))
+
+
+# Ancrage par le texte de l'intertitre — un rang se décale, pas un texte.
 PLANCHES_INTERIEURES = {
-    1: (4, p1b), 2: (5, p2b), 4: (3, p4b),
-    5: (3, p5b), 7: (5, p7b), 8: (5, p8b),
+    1: [("17 h 03", p1b)],                       # la sphere
+    2: [("16 h 47", p2c),                        # LE PLAN - reperage
+        ("16 h 54", p2b)],                       # la ligne blanche
+    4: [("Une plaine", p4b)],                    # les quatre-vingts
+    5: [("17 h 40", p5b)],                       # le tri sur la cr\u00eate
+    7: [("Santa Rosa", p7b)],                    # le retroviseur
+    8: [("Deux cents m\u00e8tres plus bas", p8c),   # LE DISPOSITIF - reperage
+        ("Maison des Grayson", p8b)],            # la porte
+    9: [("16 h 20", p9c)],                       # LES TALONS - reperage
 }
 
 
@@ -631,9 +738,8 @@ PLANCHES = {0: frontispice, 1: p1, 2: p2, 3: p3, 4: p4, 5: p5,
 
 
 def planche_interieure(n):
-    """Planche du sommet du chapitre n : (index de scène, svg) ou None."""
-    e = PLANCHES_INTERIEURES.get(n)
-    return (e[0], e[1]()) if e else None
+    """Liste [(ancre, svg)] des planches intérieures du chapitre n."""
+    return [(a, f()) for a, f in PLANCHES_INTERIEURES.get(n, [])]
 
 
 def planche(n):
@@ -647,8 +753,9 @@ if __name__ == "__main__":
     d = Path(__file__).resolve().parent.parent / "docs" / "planches"
     d.mkdir(parents=True, exist_ok=True)
     tout = dict(PLANCHES)
-    for n, (_, f) in PLANCHES_INTERIEURES.items():
-        tout["%db" % n] = f
+    for n, liste in PLANCHES_INTERIEURES.items():
+        for k, (_, f) in enumerate(liste):
+            tout["%d%s" % (n, "bcd"[k])] = f
     for n, f in tout.items():
         (d / ("%s.svg" % (("%02d" % n) if isinstance(n, int) else n))).write_text(
             f().replace(INK, "#111").replace(PAP, "#fff"), encoding="utf-8")

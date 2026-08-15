@@ -151,7 +151,10 @@ def lire(chemin):
             break
         i += 1
 
-    corps, bloc, tampon = [], False, []
+    # Un intertitre suit toujours une rupture. Sans cette condition, toute
+    # ligne en italique passe pour une scène — et au chapitre 5 la langue
+    # saiyenne est en italique, ce qui y faisait détecter 36 scènes pour 6.
+    corps, bloc, tampon, apres_rupture = [], False, [], True
     for l in lignes[i:]:
         s = l.strip()
         if s.startswith("```"):
@@ -168,14 +171,19 @@ def lire(chemin):
             continue
         if s == "---":
             corps.append(("rupture", ""))
+            apres_rupture = True
+            continue
+        if apres_rupture and re.fullmatch(r"\*[^*].*[^*]\*", s) and len(s) < 120:
+            corps.append(("situation", s[1:-1]))
+        elif apres_rupture and re.match(r"^>\s*(Jour|Focalisation)", s):
+            corps.append(("situation", s.lstrip("> ").strip()))
         elif s.startswith("> "):
             corps.append(("note", s[2:].strip()))
         elif s.startswith("—") or s.startswith("–"):
             corps.append(("replique", s))
-        elif re.fullmatch(r"\*[^*].*[^*]\*", s) and len(s) < 90:
-            corps.append(("situation", s[1:-1]))
         else:
             corps.append(("texte", s))
+        apres_rupture = False
 
     mots = len(re.findall(r"\S+", brut))
     amorce = next((t for g, t in corps if g == "texte"), "")
@@ -190,16 +198,20 @@ def lire(chemin):
 
 
 def rendre(corps, interieure=None):
-    """interieure = (index_de_scene, svg) : la planche se pose juste avant
-    l'intertitre de cette scene, c'est-a-dire sur une frontiere reelle du
-    texte et jamais au milieu d'un paragraphe."""
-    out, scene = [], 0
+    """interieure = (fragment_d_intertitre, svg).
+
+    La planche s'ancre sur le TEXTE de l'intertitre, jamais sur son rang :
+    un rang se decale des qu'on retouche le chapitre, et la planche part
+    silencieusement dans la mauvaise scene."""
+    restantes = list(interieure or [])
+    out = []
     for genre, t in corps:
-        if genre == "situation":
-            scene += 1
-            if interieure and scene == interieure[0]:
-                out.append('<div class="planche planche-interieure">%s</div>'
-                           % interieure[1])
+        if genre == "situation" and restantes:
+            for k, (ancre, svg) in enumerate(restantes):
+                if ancre.lower() in t.lower():
+                    out.append('<div class="planche planche-interieure">%s</div>' % svg)
+                    restantes.pop(k)
+                    break
         if genre == "rupture":
             out.append('<div class="rupture" aria-hidden="true">◆</div>')
         elif genre == "situation":
@@ -759,8 +771,12 @@ def construire(avec_artifact=False):
     carte_sociale(SORTIE / "assets" / "og.png", len(chaps), total)
 
     (SORTIE / "planches").mkdir(parents=True, exist_ok=True)
-    for n, f in planches.PLANCHES.items():
-        (SORTIE / "planches" / ("%02d.svg" % n)).write_text(
+    tout = {"%02d" % n: f for n, f in planches.PLANCHES.items()}
+    for n, liste in planches.PLANCHES_INTERIEURES.items():
+        for k, (_, f) in enumerate(liste):
+            tout["%02d%s" % (n, "bcd"[k])] = f
+    for nom, f in tout.items():
+        (SORTIE / "planches" / (nom + ".svg")).write_text(
             f().replace(planches.INK, "#141C22").replace(planches.PAP, "#E9ECEE"),
             encoding="utf-8")
 
@@ -843,6 +859,12 @@ lire la suite avant tout le monde : le courrier arrive et il est lu.</p>
 
     # ---- chapitres
     for i, c in enumerate(chaps):
+        pi = planches.planche_interieure(c["numero"])
+        titres = [t for g, t in c["corps"] if g == "situation"]
+        for ancre, _ in (pi or []):
+            if not any(ancre.lower() in t.lower() for t in titres):
+                sys.exit("Planche du ch. %d : aucun intertitre ne contient %r.\n"
+                         "  Intertitres disponibles : %s" % (c["numero"], ancre, titres))
         prec = chaps[i - 1] if i > 0 else None
         suiv = chaps[i + 1] if i < len(chaps) - 1 else None
         t_page = "Chapitre %d — %s | %s" % (c["numero"], c["titre"], TITRE)
@@ -873,7 +895,7 @@ lire la suite avant tout le monde : le courrier arrive et il est lu.</p>
 """.format(n=c["numero"], f=c["fichier"], t=html.escape(c["titre"], quote=True),
            e=c["embleme"], fo=html.escape(c["focal"], quote=False),
            pl=planches.planche(c["numero"]) or "",
-           s=html.escape(c["situation"], quote=False), corps=rendre(c["corps"], planches.planche_interieure(c["numero"])),
+           s=html.escape(c["situation"], quote=False), corps=rendre(c["corps"], pi),
            nav=(('<a id="lien-prec" href="%s"><span class="sens mono">Précédent</span>%s</a>'
                  % (prec["fichier"], html.escape(prec["titre"], quote=False)))
                 if prec else '<span><span class="sens mono">Précédent</span>—</span>')
