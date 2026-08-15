@@ -723,7 +723,7 @@ et découvrent que la puissance absolue ne résout aucun des problèmes qui comp
 <div class="grille">{cartes}</div>
 
 <div class="avenir"><span class="mono">À paraître</span>
-Chapitre 11 — l'entraînement au-dessus du Pacifique, une flotte qui n'a pas le droit de tirer.
+Chapitre 12 — le lendemain. On avait un dispositif, une doctrine, et un papier signé où quelqu'un avait écrit qu'il ne fallait pas avoir peur.
 Puis les auditions au Capitole, la descente d'Anissa, et la pleine lune du dix-huit.</div>
 {pied}
 </div></div>
@@ -834,7 +834,7 @@ et découvrent que la puissance absolue ne résout aucun des problèmes qui comp
 <div class="grille">{cartes}</div>
 
 <div class="avenir"><span class="mono">À paraître</span>
-Chapitre 11 — l'entraînement au-dessus du Pacifique, une flotte qui n'a pas le droit de tirer.
+Chapitre 12 — le lendemain. On avait un dispositif, une doctrine, et un papier signé où quelqu'un avait écrit qu'il ne fallait pas avoir peur.
 Puis les auditions au Capitole, la descente d'Anissa, et la pleine lune du dix-huit.</div>
 
 <section id="contact" class="contact">
