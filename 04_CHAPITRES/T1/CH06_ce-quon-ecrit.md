@@ -282,7 +282,7 @@ Un jour, quelqu'un ressortirait ce document. Ce serait dans un an ou dans dix, c
 
 Cecil a écrit : *seul locuteur disponible.*
 
-C'était vrai, ça n'engageait rien, et ça ne protégeait personne — mais ça ne désignait personne non plus. Il a daté. Il a signé.
+C'était vrai, ça n'engageait rien, et ça ne protégeait personne, mais ça ne désignait personne non plus. Il a daté. Il a signé.
 
 Puis il a pris la demande de levée des corps de la selle est, il a barré les deux niveaux de validation restants et il a signé en travers. La demande dormait depuis dimanche matin parce qu'aucun des trois bureaux successifs n'avait voulu porter la responsabilité d'envoyer des hommes sur une crête où quelque chose était encore assis.
 

@@ -29,7 +29,7 @@ Aldana n'a pas hésité. C'était un homme qui avait préparé sa phrase.
 
 — Notre estimation de travail est de quatre cent mille à six cent mille, monsieur. Je préfère être en dessous tant qu'on n'a rien de solide.
 
-Cecil a passé le pouce sur sa mâchoire gauche. La peau y était mauvaise depuis vingt ans, et depuis douze heures elle le démangeait sans arrêt — de l'humidité, il y avait trois kilomètres de lac en train de s'évaporer à quinze kilomètres d'ici et ça arrivait jusque dans ses vêtements.
+Cecil a passé le pouce sur sa mâchoire gauche. La peau y était mauvaise depuis vingt ans, et depuis douze heures elle le démangeait sans arrêt, de l'humidité, il y avait trois kilomètres de lac en train de s'évaporer à quinze kilomètres d'ici et ça arrivait jusque dans ses vêtements.
 
 — Comment vous l'avez obtenue ?
 
@@ -127,7 +127,7 @@ Personne, en ce moment, sur cette planète, ne savait à quoi ça ressemblait.
 
 — Le bruit. Il est comme ça depuis le début ?
 
-Aldana a mis une seconde. Ils avaient tous mis une seconde, depuis douze heures, quand on leur en parlait — le grondement était là depuis la veille à dix-sept heures, bas, continu, sans variation, et le cerveau humain le rangeait au bout de vingt minutes avec les ventilations et la circulation.
+Aldana a mis une seconde. Ils avaient tous mis une seconde, depuis douze heures, quand on leur en parlait, le grondement était là depuis la veille à dix-sept heures, bas, continu, sans variation, et le cerveau humain le rangeait au bout de vingt minutes avec les ventilations et la circulation.
 
 — Oui, monsieur. Ça n'a pas changé d'un décibel.
 
@@ -213,7 +213,7 @@ Elle s'est arrêtée à la porte.
 
 — Est-ce qu'il perdait ?
 
-Elle a mis du temps. Cecil aimait bien ça chez elle — c'était la seule de l'équipe qui vérifiait ce qu'elle allait dire avant de le dire.
+Elle a mis du temps. Cecil aimait bien ça chez elle, c'était la seule de l'équipe qui vérifiait ce qu'elle allait dire avant de le dire.
 
 — Il ne perdait pas, non. Il encaissait, quelquefois. Il y a eu quelque chose à Denver, il y a six ans, où il est resté au sol trois secondes.
 
@@ -317,7 +317,7 @@ Robot a repassé.
 
 Il a fait couper.
 
-La lumière est revenue. Robot n'avait pas bougé — pas de balancement, pas de respiration, rien de ce que font les gens qui attendent.
+La lumière est revenue. Robot n'avait pas bougé, pas de balancement, pas de respiration, rien de ce que font les gens qui attendent.
 
 — Monsieur le directeur. J'ai un résultat préliminaire sur la langue.
 
@@ -707,7 +707,7 @@ Cecil a ouvert la bouche pour dire ce qu'il disait depuis quarante-huit heures, 
 
 L'enfant a hoché la tête.
 
-Il n'a pas pleuré. Il n'a pas ouvert grand les yeux. Il n'a pas demandé si c'était beaucoup, et Cecil, qui avait annoncé des morts à des familles pendant trente et un ans et qui savait par cœur la demi-seconde de flottement qui précède l'effondrement, n'a rien vu venir du tout — l'information est entrée, elle s'est rangée quelque part, et le visage violet n'a pas bougé d'un muscle.
+Il n'a pas pleuré. Il n'a pas ouvert grand les yeux. Il n'a pas demandé si c'était beaucoup, et Cecil, qui avait annoncé des morts à des familles pendant trente et un ans et qui savait par cœur la demi-seconde de flottement qui précède l'effondrement, n'a rien vu venir du tout, l'information est entrée, elle s'est rangée quelque part, et le visage violet n'a pas bougé d'un muscle.
 
 Il avait dit le chiffre à voix haute pour la première fois de sa vie. Il l'avait dit avant le Président, avant le Sénat, avant le colonel Aldana qui le lui avait demandé quatre fois, et il l'avait dit à la seule personne du bâtiment qui n'allait rien en faire.
 

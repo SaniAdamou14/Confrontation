@@ -82,7 +82,7 @@ C'était le médecin qui avait écrit la première colonne et l'officier de liai
 
 Elle portait l'en-tête du bureau du recensement et une mention de diffusion à cinq destinataires, dont aucun n'était lui. Elle était datée de la veille au soir et elle avait été agrafée à la liasse par erreur, ou par quelqu'un qui vidait un panier.
 
-*Révision de l'estimation de mortalité — site State Street.*
+*Révision de l'estimation de mortalité, site State Street.*
 
 Le corps du texte tenait en une page et demie et il était honnête. Il expliquait ce qui avait bougé dans la méthode depuis le jour deux, ce qu'on avait réconcilié, ce qu'on ne réconcilierait jamais. Il donnait une nouvelle fourchette et un nouveau point central.
 
@@ -126,9 +126,7 @@ Un opérateur au mât, deux hommes du génie qui démontaient une ligne enterré
 
 — On me l'a dit à six heures dix.
 
-Oyelaran a calculé le décalage et il a mis un temps à répondre.
-
-Oyelaran a eu un demi-sourire et il l'a rangé tout de suite.
+Oyelaran a calculé le décalage. Il a eu un demi-sourire et il l'a rangé tout de suite.
 
 — Vous voulez voir quoi en premier ?
 
@@ -194,7 +192,7 @@ L'en-tête. La date. Le numéro de dossier, qu'on lui avait attribué dans l'avi
 
 Le vingt-deux B faisait deux pages. La première demandait qui, où, combien de temps, et par quelle voie livrer. Ferguson a écrit *site 4471, comté de Luna, route de service depuis la 26, quatorze kilomètres, dernier tronçon en terre*, et il s'est arrêté sur la case suivante.
 
-*Bénéficiaire — nom, matricule ou désignation.*
+*Bénéficiaire, nom, matricule ou désignation.*
 
 Il a écrit **SUJET DEUX** et il a passé à la deuxième page.
 
@@ -252,7 +250,7 @@ Aucun des quatre autres n'avait bougé là-haut. Le mât n'avait rien dit. Fergu
 
 Il s'est levé.
 
-C'était un homme petit, en étoffe orange sale, avec des cheveux impossibles et des avant-bras de quelqu'un qui travaille avec. Il ne faisait pas d'ombre à sa place — l'ombre était derrière lui, longue, et Ferguson a compris qu'il l'avait vue arriver sur le papier avant de voir l'homme.
+C'était un homme petit, en étoffe orange sale, avec des cheveux impossibles et des avant-bras de quelqu'un qui travaille avec. Il ne faisait pas d'ombre à sa place, l'ombre était derrière lui, longue, et Ferguson a compris qu'il l'avait vue arriver sur le papier avant de voir l'homme.
 
 — Monsieur. Je m'appelle Donald Ferguson. Je travaille pour l'agence.
 
@@ -372,7 +370,7 @@ Il a fait la multiplication en marge, au crayon. Le formulaire demandait aussi u
 
 Il l'a regardé.
 
-C'était un nombre de service, du genre qu'on inscrit tous les jours dans une administration sans jamais le lire — la consommation annuelle d'un bâtiment, le tonnage d'un contrat de déneigement, le budget d'une ligne d'entretien. Il n'y avait rien dedans qui indiquât un homme.
+C'était un nombre de service, du genre qu'on inscrit tous les jours dans une administration sans jamais le lire, la consommation annuelle d'un bâtiment, le tonnage d'un contrat de déneigement, le budget d'une ligne d'entretien. Il n'y avait rien dedans qui indiquât un homme.
 
 Puis il l'a écrit dans la case prévue à cet effet, proprement, avec les espaces aux bons endroits.
 
@@ -512,7 +510,7 @@ Il a hoché la tête.
 
 Et Ferguson a senti passer dans sa poitrine quelque chose qu'il n'a pas eu le temps d'examiner et qui ressemblait à du soulagement.
 
-Il s'en est voulu tout de suite. Il n'y avait rien là-dedans dont on pouvait être soulagé. Mais il avait annoncé l'irréparable à beaucoup de monde dans sa carrière, il connaissait par cœur la minute qui suit, celle où l'on doit rester dans la pièce pendant que quelqu'un se défait — et cet homme-là avait reçu l'information, l'avait rangée quelque part, et l'avait remercié.
+Il s'en est voulu tout de suite. Il n'y avait rien là-dedans dont on pouvait être soulagé. Mais il avait annoncé l'irréparable à beaucoup de monde dans sa carrière, il connaissait par cœur la minute qui suit, celle où l'on doit rester dans la pièce pendant que quelqu'un se défait, et cet homme-là avait reçu l'information, l'avait rangée quelque part, et l'avait remercié.
 
 Il a repris son stylo.
 
@@ -622,7 +620,7 @@ Le poste de liaison était monté dans le second véhicule, sur une planche, ave
 
 Puis il l'a relue deux fois.
 
-À la sixième rubrique, il s'est arrêté longtemps. Il a envisagé de la mettre en annexe. Il a envisagé de la reformuler pour qu'elle ait l'air d'une question de procédure. Il a envisagé de ne pas la porter du tout, et il a mesuré ce que ça coûterait — rien aujourd'hui, rien demain, rien avant très longtemps, et peut-être beaucoup le jour où quelqu'un lirait la série entière d'un coup et chercherait à quelle date ça avait commencé.
+À la sixième rubrique, il s'est arrêté longtemps. Il a envisagé de la mettre en annexe. Il a envisagé de la reformuler pour qu'elle ait l'air d'une question de procédure. Il a envisagé de ne pas la porter du tout, et il a mesuré ce que ça coûterait, rien aujourd'hui, rien demain, rien avant très longtemps, et peut-être beaucoup le jour où quelqu'un lirait la série entière d'un coup et chercherait à quelle date ça avait commencé.
 
 Il l'a laissée où elle était.
 

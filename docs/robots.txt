@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://saniadamou14.github.io/Confrontation/sitemap.xml

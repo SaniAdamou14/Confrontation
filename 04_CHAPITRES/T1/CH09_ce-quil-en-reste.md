@@ -41,7 +41,7 @@ Il a mis ça de côté sans savoir dans quelle case.
 
 Une, dans le lot, ne faisait pas comme les autres.
 
-Il l'avait repérée dès le premier soir : une présence sèche, basse, qui ne se comprimait pas quand il bougeait et qui ne se relâchait pas quand il s'arrêtait. Elle restait au même endroit et à la même intensité pendant douze heures d'affilée. Il ne savait pas à qui elle appartenait — il n'avait jamais mis un visage dessus — et il avait fini par comprendre que ce n'était pas du courage. C'était quelqu'un qui n'avait pas encore décidé de le craindre, et qui prenait son temps.
+Il l'avait repérée dès le premier soir : une présence sèche, basse, qui ne se comprimait pas quand il bougeait et qui ne se relâchait pas quand il s'arrêtait. Elle restait au même endroit et à la même intensité pendant douze heures d'affilée. Il ne savait pas à qui elle appartenait, il n'avait jamais mis un visage dessus, et il avait fini par comprendre que ce n'était pas du courage. C'était quelqu'un qui n'avait pas encore décidé de le craindre, et qui prenait son temps.
 
 Cette présence-là lui plaisait. Il aurait voulu la saluer, et il ne savait pas comment on demande une chose pareille.
 
@@ -67,7 +67,7 @@ Il verrait ça demain.
 
 Une autre solution existait, et il y avait pensé deux fois en neuf jours. Les gens d'en bas mangeaient trois fois par jour, ils cuisaient tout, et il avait vu passer des camions entiers de nourriture sur les routes droites du sud. Il suffisait de demander.
 
-À qui, il ne savait pas. Ni ce qu'on demandait en échange, ici, ni ce que ça coûtait à celui qui donne — et il avait appris très tôt, chez un vieil homme qui n'avait rien, qu'on ne mange pas chez les gens sans savoir ce qu'il leur reste après.
+À qui, il ne savait pas. Ni ce qu'on demandait en échange, ici, ni ce que ça coûtait à celui qui donne, et il avait appris très tôt, chez un vieil homme qui n'avait rien, qu'on ne mange pas chez les gens sans savoir ce qu'il leur reste après.
 
 Il verrait ça demain aussi.
 
@@ -83,11 +83,11 @@ Puis il a travaillé une heure.
 
 Il y avait un enchaînement qu'il n'avait pas réussi depuis la capsule : un déplacement latéral gauche suivi d'une remontée sur l'autre pied, sans repasser par le centre. Le problème n'était pas la vitesse. Le problème était que le deuxième appui partait toujours d'un quart de degré trop ouvert, et un quart de degré à cette vitesse-là faisait quarante centimètres à l'arrivée.
 
-Il l'a repris trente fois. Il a raté vingt-huit fois. La vingt-neuvième était correcte et la trentième aussi, et il s'est dit qu'il faudrait vérifier ça demain à froid — une chose qu'on réussit deux fois de suite après une heure n'est pas encore une chose qu'on sait faire.
+Il l'a repris trente fois. Il a raté vingt-huit fois. La vingt-neuvième était correcte et la trentième aussi, et il s'est dit qu'il faudrait vérifier ça demain à froid, une chose qu'on réussit deux fois de suite après une heure n'est pas encore une chose qu'on sait faire.
 
 Entre la douzième et la treizième, il a ouvert la bouche.
 
-C'était deux mots. Une correction, du genre qu'on lance par-dessus l'épaule à quelqu'un qui travaille à trois mètres et qui a le même défaut d'appui — *l'épaule d'abord* —, et il les a dits à moitié avant de s'arrêter.
+C'était deux mots. Une correction, du genre qu'on lance par-dessus l'épaule à quelqu'un qui travaille à trois mètres et qui a le même défaut d'appui, *l'épaule d'abord*, et il les a dits à moitié avant de s'arrêter.
 
 Il n'y avait personne à trois mètres.
 
@@ -115,7 +115,7 @@ C'est en revenant vers le milieu qu'il a senti l'autre arriver.
 
 Il l'a senti à peu près à la seconde où l'autre a franchi la ligne de crête, très haut, plein sud.
 
-Aucun doute possible. Ce ki-là ne ressemblait à rien d'autre sur cette planète — haut, serré, propre, avec une densité au centre qui ne bougeait jamais, quelle que soit ce que le corps faisait autour. Goku l'avait devant lui depuis deux semaines. Il aurait pu le reconnaître à travers un continent.
+Aucun doute possible. Ce ki-là ne ressemblait à rien d'autre sur cette planète, haut, serré, propre, avec une densité au centre qui ne bougeait jamais, quelle que soit ce que le corps faisait autour. Goku l'avait devant lui depuis deux semaines. Il aurait pu le reconnaître à travers un continent.
 
 Il ne s'est pas mis en garde. Il s'est essuyé les mains sur son gi et il a attendu.
 
@@ -135,13 +135,13 @@ Il a rangé le chiffre et il n'en a rien fait.
 
 Il y avait autre chose et il a mis un moment à la trouver.
 
-L'armure. Le plastron était toujours fendu à l'omoplate gauche — la fissure partait du bord haut et descendait de biais sur une douzaine de centimètres, et elle n'avait pas bougé d'un millimètre depuis Namek. Ce qui avait changé, c'était ce qu'il y avait dedans. La suie de la ville s'était installée dans la fente, tassée par les jours, et elle avait pris la couleur du reste. On ne voyait plus la cassure. On voyait une ligne grise sur du blanc gris, et il fallait savoir qu'elle était là.
+L'armure. Le plastron était toujours fendu à l'omoplate gauche, la fissure partait du bord haut et descendait de biais sur une douzaine de centimètres, et elle n'avait pas bougé d'un millimètre depuis Namek. Ce qui avait changé, c'était ce qu'il y avait dedans. La suie de la ville s'était installée dans la fente, tassée par les jours, et elle avait pris la couleur du reste. On ne voyait plus la cassure. On voyait une ligne grise sur du blanc gris, et il fallait savoir qu'elle était là.
 
 Goku a pensé qu'il faudrait lui en trouver une autre.
 
 Puis il a pensé qu'il n'y avait nulle part, sur cette planète, où on en fabriquait, et il a laissé tomber l'idée en une seconde et demie.
 
-Végéta ne l'a pas salué. Il a regardé la combe d'abord — la paroi, le col, le mélèze, les sorties — et il l'a fait dans l'ordre où Goku l'avait fait lui-même en arrivant. Il n'y avait pas d'autre ordre. Ensuite il a regardé les marques dans le gravier.
+Végéta ne l'a pas salué. Il a regardé la combe d'abord, la paroi, le col, le mélèze, les sorties, et il l'a fait dans l'ordre où Goku l'avait fait lui-même en arrivant. Il n'y avait pas d'autre ordre. Ensuite il a regardé les marques dans le gravier.
 
 — Tu t'entraînes.
 
@@ -235,7 +235,7 @@ Il n'a pas vu ce qu'il faisait à l'autre.
 
 Goku a écouté jusqu'au bout.
 
-Il connaissait l'histoire. C'était Végéta lui-même qui la lui avait racontée, huit jours plus tôt, sur Namek, entre deux choses plus urgentes, et il avait mis un moment à comprendre que ça le concernait. Il y avait repensé depuis. Ça lui avait fait quelque chose — pas ce à quoi il s'attendait, quelque chose de plus lent et de plus loin, qui montait quand il ne s'y attendait pas et qui redescendait tout seul.
+Il connaissait l'histoire. C'était Végéta lui-même qui la lui avait racontée, huit jours plus tôt, sur Namek, entre deux choses plus urgentes, et il avait mis un moment à comprendre que ça le concernait. Il y avait repensé depuis. Ça lui avait fait quelque chose, pas ce à quoi il s'attendait, quelque chose de plus lent et de plus loin, qui montait quand il ne s'y attendait pas et qui redescendait tout seul.
 
 Mais il n'avait jamais vu ces gens-là. Il ne savait pas leurs visages. On ne lui avait rien appris d'eux et il n'avait rien à en dire.
 
@@ -303,7 +303,7 @@ Le vent est remonté du fond de la combe, cette fois, et il a fait bouger les ai
 
 — Ce qui reste de toi.
 
-Il l'a dit sans emphase, en réponse à une question, du même débit que tout le reste, et c'est de cette manière-là qu'il disait ses phrases les plus lourdes — Goku l'avait remarqué sur Namek et il n'avait jamais su s'il fallait en tenir compte ou non.
+Il l'a dit sans emphase, en réponse à une question, du même débit que tout le reste, et c'est de cette manière-là qu'il disait ses phrases les plus lourdes, Goku l'avait remarqué sur Namek et il n'avait jamais su s'il fallait en tenir compte ou non.
 
 — Et alors ?
 
@@ -319,7 +319,7 @@ C'est ce qui a rendu la phrase difficile à tenir dans la main.
 
 — Non, a dit Goku.
 
-Il ne s'est pas redressé, il n'a pas haussé le ton, il n'a rien changé à sa position. Il a dit non de la manière dont on refuse un coup de main, et il savait très bien qu'il n'avait rien derrière — il sentait ce ki à quatre mètres de lui depuis vingt minutes, et il l'avait mesuré tous les jours depuis deux semaines, et il connaissait l'écart au dixième.
+Il ne s'est pas redressé, il n'a pas haussé le ton, il n'a rien changé à sa position. Il a dit non de la manière dont on refuse un coup de main, et il savait très bien qu'il n'avait rien derrière, il sentait ce ki à quatre mètres de lui depuis vingt minutes, et il l'avait mesuré tous les jours depuis deux semaines, et il connaissait l'écart au dixième.
 
 Si l'autre décidait de descendre, il descendrait.
 
@@ -341,7 +341,7 @@ Il a dit ça avec l'agacement précis d'un homme dont le travail attend celui d'
 
 Végéta l'a regardé un long moment.
 
-Goku a vu passer sur son visage la chose qu'il y voyait souvent et qu'il n'avait jamais su nommer : une immobilité qui n'était pas de l'incompréhension, plutôt le contraire — quelqu'un qui vient de recevoir une information cohérente dans un système qu'il ne connaît pas, et qui décide de la classer plus tard.
+Goku a vu passer sur son visage la chose qu'il y voyait souvent et qu'il n'avait jamais su nommer : une immobilité qui n'était pas de l'incompréhension, plutôt le contraire, quelqu'un qui vient de recevoir une information cohérente dans un système qu'il ne connaît pas, et qui décide de la classer plus tard.
 
 — Tu es fatigant, il a dit.
 
@@ -353,7 +353,7 @@ Goku a vu passer sur son visage la chose qu'il y voyait souvent et qu'il n'avait
 
 Végéta n'a pas insisté.
 
-Goku s'attendait à autre chose. Il s'attendait à ce qu'il pousse, qu'il redemande, qu'il fasse un pas — et il ne l'a pas fait, et Goku n'a pas compris pourquoi, et il l'a rangé avec le reste des choses qu'il ne comprenait pas chez lui.
+Goku s'attendait à autre chose. Il s'attendait à ce qu'il pousse, qu'il redemande, qu'il fasse un pas, et il ne l'a pas fait, et Goku n'a pas compris pourquoi, et il l'a rangé avec le reste des choses qu'il ne comprenait pas chez lui.
 
 Ce qu'il a dit à la place a été pire.
 
@@ -375,7 +375,7 @@ Il n'y avait rien d'autre.
 
 Pas une marque de départ. Pas une projection, pas un caillou déplacé, pas un creux plus profond que les deux autres. Le gravier autour des deux empreintes était intact sur tout le pourtour, exactement comme avant, et l'épicéa au tiers de la pente n'avait pas perdu une aiguille.
 
-Il s'est accroupi. Il a passé le pouce sur le bord de l'empreinte gauche et le gravier a tenu — il a poussé plus fort, avec l'ongle, et il n'a pas réussi à en détacher un morceau. Le sol était pris. Il avait fallu de la charge, pas de la vitesse, et il en avait fallu longtemps.
+Il s'est accroupi. Il a passé le pouce sur le bord de l'empreinte gauche et le gravier a tenu, il a poussé plus fort, avec l'ongle, et il n'a pas réussi à en détacher un morceau. Le sol était pris. Il avait fallu de la charge, pas de la vitesse, et il en avait fallu longtemps.
 
 Un homme qui décolle laisse une marque de départ. Toujours. C'est le seul moment où l'on pousse sur le sol au lieu de simplement s'y tenir, et même en montant lentement il reste un creux, une projection, quelque chose.
 
@@ -413,7 +413,7 @@ Puis il a ramassé son gi qu'il avait posé sur une pierre, et il s'est aperçu 
 
 Il allait repartir quand il l'a vue.
 
-Il ne la cherchait plus. Il l'avait cherchée le jour 3, une nuit entière, allongé sur une arête à quinze cents mètres, et il ne l'avait pas trouvée, et il avait fini par supposer qu'il n'y en avait pas — il y a des mondes sans, ça arrive, et il avait laissé tomber parce qu'aucune des deux hypothèses ne changeait rien à sa nuit.
+Il ne la cherchait plus. Il l'avait cherchée le jour 3, une nuit entière, allongé sur une arête à quinze cents mètres, et il ne l'avait pas trouvée, et il avait fini par supposer qu'il n'y en avait pas, il y a des mondes sans, ça arrive, et il avait laissé tomber parce qu'aucune des deux hypothèses ne changeait rien à sa nuit.
 
 Elle était au-dessus du col, plein est, à mi-hauteur du ciel.
 
@@ -425,7 +425,7 @@ Une lune donne tout. La période, le mois, la marée, un calendrier complet en t
 
 Il a commencé tout de suite, debout, à l'œil. On le lui avait appris à sept ans et il ne l'avait jamais oublié.
 
-La moitié éclairée, et le terminateur presque droit : sept jours depuis la nouvelle, à un demi-jour près. L'angle avec le soleil bas derrière lui : ça collait. La hauteur au-dessus du col, comparée à ce qu'il avait vu la veille au même endroit du ciel — rien, il n'avait pas regardé la veille, et il s'en est voulu de ne pas avoir regardé.
+La moitié éclairée, et le terminateur presque droit : sept jours depuis la nouvelle, à un demi-jour près. L'angle avec le soleil bas derrière lui : ça collait. La hauteur au-dessus du col, comparée à ce qu'il avait vu la veille au même endroit du ciel, rien, il n'avait pas regardé la veille, et il s'en est voulu de ne pas avoir regardé.
 
 Il lui faudrait deux nuits pour la vitesse et une troisième pour vérifier. Trois nuits et il aurait un mois. Avec un mois et un peu de patience, il aurait l'année, et avec l'année il pourrait enfin dire à quelqu'un combien de temps ça faisait, et combien de temps ça allait faire.
 

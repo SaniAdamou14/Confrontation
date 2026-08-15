@@ -13,7 +13,7 @@ Il n'a rien dit sur l'heure.
 
 Elle avait passé les quarante dernières minutes à préparer une phrase pour ça. Une phrase courte, sans excuse, qui aurait établi tout de suite qu'elle n'était pas quelqu'un qu'on attend. Elle est descendue avec la phrase dans la bouche et personne n'en a eu l'usage. L'homme au gilet a dit *madame Grayson*, il a regardé sa plaque d'immatriculation, il l'a notée, et il l'a conduite vers une tente ouverte sur trois côtés où deux personnes travaillaient debout.
 
-Il y avait sept véhicules. Elle les a comptés en marchant, par habitude — elle comptait les places de stationnement depuis vingt ans, c'était le premier chiffre qu'un acheteur demandait.
+Il y avait sept véhicules. Elle les a comptés en marchant, par habitude, elle comptait les places de stationnement depuis vingt ans, c'était le premier chiffre qu'un acheteur demandait.
 
 Le désert commençait juste après le dernier.
 
@@ -65,7 +65,7 @@ Il a écrit ça aussi.
 
 Elle a mis un temps.
 
-C'était la deuxième fois en quatre minutes, et il ne s'agissait pas de politesse — un homme qui écrit une réponse sur un formulaire à en-tête n'est pas en train de prendre des nouvelles. Debbie a regardé la feuille, puis la tente, puis les sept véhicules en épi, et elle a compris qu'elle n'avait pas encore rencontré une seule personne qui lui ait demandé ce qu'elle comptait dire.
+C'était la deuxième fois en quatre minutes, et il ne s'agissait pas de politesse, un homme qui écrit une réponse sur un formulaire à en-tête n'est pas en train de prendre des nouvelles. Debbie a regardé la feuille, puis la tente, puis les sept véhicules en épi, et elle a compris qu'elle n'avait pas encore rencontré une seule personne qui lui ait demandé ce qu'elle comptait dire.
 
 — Bien, a-t-elle dit.
 
@@ -149,7 +149,7 @@ L'orange n'était pas celui des images. Les images l'avaient rendu vif, presque 
 
 À trente, il s'est levé.
 
-Debbie s'est arrêtée net. Ce n'était pas prévu par la procédure qu'on lui avait fait répéter deux fois sous la tente, et son corps l'a arrêtée avant qu'elle ait décidé quoi que ce soit — un homme qui se lève quand une femme approche, à trente mètres, dans un désert, en tenue de travail sale.
+Debbie s'est arrêtée net. Ce n'était pas prévu par la procédure qu'on lui avait fait répéter deux fois sous la tente, et son corps l'a arrêtée avant qu'elle ait décidé quoi que ce soit, un homme qui se lève quand une femme approche, à trente mètres, dans un désert, en tenue de travail sale.
 
 Il n'a pas avancé. Il est resté où il était, debout, les bras le long du corps, et il a attendu.
 
@@ -175,7 +175,7 @@ Elle a arrêté de chercher.
 
 Elle a chassé ça et elle a regardé le visage.
 
-Un visage ouvert. Jeune sans l'être — les yeux avaient quelque chose de plus vieux que le reste, et ils ne bougeaient pas. Ils s'étaient posés sur elle et ils y restaient, sans la parcourir, sans chercher ses mains, sans mesurer ce qu'elle pouvait faire.
+Un visage ouvert. Jeune sans l'être, les yeux avaient quelque chose de plus vieux que le reste, et ils ne bougeaient pas. Ils s'étaient posés sur elle et ils y restaient, sans la parcourir, sans chercher ses mains, sans mesurer ce qu'elle pouvait faire.
 
 Personne ne l'avait regardée comme ça depuis neuf jours. Tout le monde, depuis neuf jours, regardait légèrement à côté.
 
@@ -215,7 +215,7 @@ Ce n'était pas une excuse. C'était une salutation, et elle venait de quelque p
 
 Elle l'avait préparée sur deux mille cinq cents kilomètres et elle l'a dite en entier.
 
-Le jour. L'heure — seize heures cinquante-trois, parce qu'un homme avec une caméra avait posé un horodatage dessus et que c'était le seul cadeau qu'on lui ait fait en neuf jours. Le carrefour, avec les deux noms de rues. Vingt ans. Onze minutes de combat avant que le ciel s'ouvre, un chiffre qu'elle tenait d'une chaîne d'information et que personne ne lui confirmerait jamais.
+Le jour. L'heure, seize heures cinquante-trois, parce qu'un homme avec une caméra avait posé un horodatage dessus et que c'était le seul cadeau qu'on lui ait fait en neuf jours. Le carrefour, avec les deux noms de rues. Vingt ans. Onze minutes de combat avant que le ciel s'ouvre, un chiffre qu'elle tenait d'une chaîne d'information et que personne ne lui confirmerait jamais.
 
 Puis un nuage de poussière dans lequel il était entré et dont il n'était pas ressorti.
 
@@ -269,7 +269,7 @@ Il a réfléchi honnêtement. Elle a vu qu'il repassait quelque chose, qu'il ne 
 
 Debbie a fermé les yeux.
 
-Ce n'était pas ce qu'elle était venue chercher, et c'était la seule chose qu'on lui ait donnée depuis neuf jours. La GDA avait deux cents pages sur son fils et pas une ligne là-dessus. Deux inspecteurs étaient venus chez elle poser des questions sur ses habitudes. Personne, personne en neuf jours, ne lui avait dit comment il était mort ni s'il avait eu peur — et un homme en orange sale, dans un désert, venait de lui rendre son fils debout et sans cri.
+Ce n'était pas ce qu'elle était venue chercher, et c'était la seule chose qu'on lui ait donnée depuis neuf jours. La GDA avait deux cents pages sur son fils et pas une ligne là-dessus. Deux inspecteurs étaient venus chez elle poser des questions sur ses habitudes. Personne, personne en neuf jours, ne lui avait dit comment il était mort ni s'il avait eu peur, et un homme en orange sale, dans un désert, venait de lui rendre son fils debout et sans cri.
 
 Elle a rouvert les yeux. Elle avait la mâchoire qui tremblait et elle a arrêté ça aussi.
 
@@ -283,7 +283,7 @@ Il n'a pas répondu tout de suite.
 
 — Je ne les ai pas comptées.
 
-Il a dit ça avec un regret qui n'était pas de façade — l'air d'un homme qui vient de comprendre, avec deux semaines de retard, qu'il aurait dû compter quelque chose.
+Il a dit ça avec un regret qui n'était pas de façade, l'air d'un homme qui vient de comprendre, avec deux semaines de retard, qu'il aurait dû compter quelque chose.
 
 — Vous comptez, d'habitude ?
 
@@ -339,7 +339,7 @@ Puis elle est passée à la ligne suivante, parce que c'était ça ou s'asseoir 
 
 Elle l'a demandé sans savoir pourquoi. Ça n'était sur aucune de ses listes non plus.
 
-Il a redressé un peu la tête. Il a dit deux mots — un nom de famille et un nom — et il a essayé d'expliquer lequel des deux était lequel. Il a commencé une phrase sur ce qui vient devant et ce qui vient derrière chez lui, il l'a manquée, il a recommencé en repartant plus loin, et il a lâché.
+Il a redressé un peu la tête. Il a dit deux mots, un nom de famille et un nom, et il a essayé d'expliquer lequel des deux était lequel. Il a commencé une phrase sur ce qui vient devant et ce qui vient derrière chez lui, il l'a manquée, il a recommencé en repartant plus loin, et il a lâché.
 
 — Goku, il a dit. Juste Goku.
 
@@ -355,7 +355,7 @@ C'est lui qui a parlé ensuite, et il a mis longtemps.
 
 Il a commencé une phrase. Elle a entendu *quand*, elle a entendu *les gens*, et puis quelque chose s'est bloqué et il s'est arrêté au milieu.
 
-Puis il a repris depuis le début, plus lentement. Il est allé un peu plus loin. Il a buté sur un mot qui n'est pas venu, il a fait un geste de la main droite pour le remplacer — un geste rond, vers le bas, qui ne voulait rien dire pour elle — et il a vu que ça ne marchait pas.
+Puis il a repris depuis le début, plus lentement. Il est allé un peu plus loin. Il a buté sur un mot qui n'est pas venu, il a fait un geste de la main droite pour le remplacer, un geste rond, vers le bas, qui ne voulait rien dire pour elle, et il a vu que ça ne marchait pas.
 
 Il a essayé un autre mot. Il a regardé ses mains. Il a levé un index, l'a baissé.
 
@@ -397,7 +397,7 @@ Puis il a dit :
 
 Debbie n'a pas répondu.
 
-Elle a d'abord cherché le rapport. Elle l'a cherché honnêtement, trois ou quatre secondes, parce qu'elle avait appris en vingt ans qu'une question qui tombe de travers cache souvent une inquiétude qu'on n'ose pas formuler — un acheteur qui demande l'orientation de la cuisine veut savoir s'il pourra revendre.
+Elle a d'abord cherché le rapport. Elle l'a cherché honnêtement, trois ou quatre secondes, parce qu'elle avait appris en vingt ans qu'une question qui tombe de travers cache souvent une inquiétude qu'on n'ose pas formuler, un acheteur qui demande l'orientation de la cuisine veut savoir s'il pourra revendre.
 
 Elle n'a rien trouvé.
 
@@ -417,7 +417,7 @@ Debbie a attendu qu'il enchaîne. Il n'a pas enchaîné. Il est resté debout de
 
 Elle a mis ça sur le compte de la langue.
 
-C'était l'explication raisonnable. Un homme avec deux jours d'anglais qui cherche un mot pendant deux minutes et qui pose ensuite une question à côté — il n'y avait là-dedans rien qui demande une deuxième pensée. Elle l'a prise, et elle n'y est plus revenue de la journée.
+C'était l'explication raisonnable. Un homme avec deux jours d'anglais qui cherche un mot pendant deux minutes et qui pose ensuite une question à côté, il n'y avait là-dedans rien qui demande une deuxième pensée. Elle l'a prise, et elle n'y est plus revenue de la journée.
 
 Elle y reviendrait beaucoup plus tard, et pas de son propre chef.
 
@@ -529,7 +529,7 @@ Elle a conduit.
 
 Truth or Consequences est repassé à droite vers deux heures, avec sa station et son présentoir. Elle n'a pas mis le clignotant.
 
-Albuquerque en fin d'après-midi, puis le 40 vers l'est. Le soleil est descendu derrière elle et il a mis l'intérieur de la voiture en orange pendant vingt minutes, et elle a baissé le pare-soleil sans y penser — celui de droite, du côté passager, celui qui ne servait à rien.
+Albuquerque en fin d'après-midi, puis le 40 vers l'est. Le soleil est descendu derrière elle et il a mis l'intérieur de la voiture en orange pendant vingt minutes, et elle a baissé le pare-soleil sans y penser, celui de droite, du côté passager, celui qui ne servait à rien.
 
 Elle l'a laissé baissé jusqu'au Texas.
 
@@ -537,7 +537,7 @@ La nuit est arrivée quelque part après Tucumcari. Elle s'est arrêtée une foi
 
 Elle est repartie avant le jour.
 
-L'Oklahoma s'est passé et elle n'en a rien gardé. C'est la seule partie du trajet dont elle ne pourrait rien dire ensuite — ni une ville, ni une station, ni la couleur du ciel. Quatre cents kilomètres qui n'ont pas eu lieu.
+L'Oklahoma s'est passé et elle n'en a rien gardé. C'est la seule partie du trajet dont elle ne pourrait rien dire ensuite, ni une ville, ni une station, ni la couleur du ciel. Quatre cents kilomètres qui n'ont pas eu lieu.
 
 Le Missouri lui a rendu quelque chose vers midi : des arbres. Elle en avait perdu l'habitude en deux jours et elle les a regardés revenir un par un le long de la voie, avec le sentiment idiot et précis qu'on a quand un mot cherché depuis une heure remonte tout seul.
 

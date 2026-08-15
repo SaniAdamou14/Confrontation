@@ -7,7 +7,7 @@
 
 *Au bord du trou. Jour 0, 17 h 09.*
 
-Sous ses pieds, la pente descendait vers une lumière orange, sur une longueur qu'il n'arrivait pas à évaluer — de la matière retournée, du métal tordu, des blocs gros comme des maisons posés de travers les uns sur les autres.
+Sous ses pieds, la pente descendait vers une lumière orange, sur une longueur qu'il n'arrivait pas à évaluer, de la matière retournée, du métal tordu, des blocs gros comme des maisons posés de travers les uns sur les autres.
 
 Dans le premier étage de décombres, il en sentait encore.
 
@@ -35,7 +35,7 @@ Il les a alignés. Un alignement se compte plus vite, pour ceux qui viendraient.
 
 Vers vingt heures, l'eau est arrivée.
 
-Elle est venue par l'est, en nappe, sur un front qu'il a senti avant de le voir — une pression dans l'air, une chute de température —, et elle a rempli la partie basse du trou plus vite qu'il ne s'y attendait. Il n'a rien pu faire de plus rapide qu'elle. Un paquet entier de présences s'est éteint en même temps, très loin sur sa gauche, et l'eau est montée là où elles avaient été.
+Elle est venue par l'est, en nappe, sur un front qu'il a senti avant de le voir, une pression dans l'air, une chute de température, et elle a rempli la partie basse du trou plus vite qu'il ne s'y attendait. Il n'a rien pu faire de plus rapide qu'elle. Un paquet entier de présences s'est éteint en même temps, très loin sur sa gauche, et l'eau est montée là où elles avaient été.
 
 Il a remonté le travail au-dessus de la ligne.
 
@@ -47,7 +47,7 @@ Les cent quatre-vingt-douze étaient là où il les avait mis. Le vent poussait 
 
 Personne n'était venu.
 
-Il a regardé vers l'ouest, dans la seule direction où il y avait encore de la lumière — un moutonnement de lampes très loin, avec beaucoup de monde dedans. Il sentait cette masse, distincte, dense, agitée. Ils étaient des dizaines de milliers et aucun d'eux ne bougeait dans sa direction.
+Il a regardé vers l'ouest, dans la seule direction où il y avait encore de la lumière, un moutonnement de lampes très loin, avec beaucoup de monde dedans. Il sentait cette masse, distincte, dense, agitée. Ils étaient des dizaines de milliers et aucun d'eux ne bougeait dans sa direction.
 
 Il ne comprenait pas.
 
@@ -79,7 +79,7 @@ Il l'a trouvé sur une arête de grès, assis sur un rocher, face au sud-est.
 
 Le ki de Végéta était exactement là où il l'avait laissé la veille : haut, serré, propre, sans une entaille. Il avait démonté la chose à moustache et il n'en avait rien perdu.
 
-Goku s'est posé à huit mètres. Il ne s'est pas approché davantage, et pas par prudence — par usage. On ne se met pas à portée de quelqu'un qui vient de faire ça.
+Goku s'est posé à huit mètres. Il ne s'est pas approché davantage, et pas par prudence, par usage. On ne se met pas à portée de quelqu'un qui vient de faire ça.
 
 Végéta n'a pas tourné la tête.
 
@@ -139,7 +139,7 @@ Végéta s'est retourné complètement.
 
 — Explique.
 
-— L'homme en blanc et rouge. Je ne le sentais pas. Je le voyais, je le touchais, il frappait fort — je l'ai senti frapper —, mais il n'y avait rien. Comme un trou. J'ai cru que c'était moi, au début. J'ai vérifié sur les autres, ils étaient tous normaux. Lui, rien.
+— L'homme en blanc et rouge. Je ne le sentais pas. Je le voyais, je le touchais, il frappait fort, je l'ai senti frapper, mais il n'y avait rien. Comme un trou. J'ai cru que c'était moi, au début. J'ai vérifié sur les autres, ils étaient tous normaux. Lui, rien.
 
 Le ki de Végéta a bougé.
 
@@ -147,7 +147,7 @@ Le ki de Végéta a bougé.
 
 — Le gamin en bleu aussi ?
 
-— Le gamin en bleu, un peu. Faible mais présent, et de la même couleur que le grand — la même façon de tenir, tu vois. Sauf que chez le grand il n'y en avait pas du tout.
+— Le gamin en bleu, un peu. Faible mais présent, et de la même couleur que le grand, la même façon de tenir, tu vois. Sauf que chez le grand il n'y en avait pas du tout.
 
 — Tu es en train de me dire qu'il en avait et pas assez pour que tu le sentes.
 
@@ -165,7 +165,7 @@ Goku n'avait pas pensé à ça et il l'a reconnu en silence.
 
 — Combien il y en avait comme lui ?
 
-— Un. Enfin — un que j'ai senti. Et comme je ne le sentais pas, je ne peux pas te dire combien il y en avait que je n'ai pas sentis.
+— Un. Enfin, un que j'ai senti. Et comme je ne le sentais pas, je ne peux pas te dire combien il y en avait que je n'ai pas sentis.
 
 Végéta est resté silencieux six secondes. Goku les a comptées.
 
@@ -343,7 +343,7 @@ Ils ont remonté l'avenue.
 
 À l'angle d'une rue transversale, il y avait un enfant.
 
-Cinq ans, peut-être six. Il tenait la main de quelqu'un et il s'était arrêté au milieu du passage pour les regarder, la tête en arrière, la bouche ouverte, sans peur du tout — avec l'attention totale et impolie des enfants qui n'ont pas encore appris qu'on ne dévisage pas.
+Cinq ans, peut-être six. Il tenait la main de quelqu'un et il s'était arrêté au milieu du passage pour les regarder, la tête en arrière, la bouche ouverte, sans peur du tout, avec l'attention totale et impolie des enfants qui n'ont pas encore appris qu'on ne dévisage pas.
 
 Goku s'est arrêté aussi.
 
@@ -367,7 +367,7 @@ Goku, lui, s'est assis dans l'herbe et il a écouté venir.
 
 C'était une habitude de tournoi et il ne s'en était jamais défait : avant que ça commence, on prend ce qu'on peut prendre. Il a ouvert la perception et il les a séparés les uns des autres, un par un.
 
-Ils étaient tenus. Quatre-vingts kis qui montaient et descendaient ensemble, au même rythme, sur une respiration commune — des gens à qui on avait beaucoup appris et qui avaient beaucoup répété.
+Ils étaient tenus. Quatre-vingts kis qui montaient et descendaient ensemble, au même rythme, sur une respiration commune, des gens à qui on avait beaucoup appris et qui avaient beaucoup répété.
 
 Le sixième en partant de la gauche ne suivait pas.
 
@@ -381,7 +381,7 @@ Il l'a compté. Onze fois pendant l'approche.
 
 Puis quelque chose est arrivé qui n'était pas les quatre-vingts.
 
-Ce qui est arrivé d'abord était sans ki du tout — un objet lancé, très rapide, qui est passé au-dessus de l'horizon en laissant une ligne blanche derrière lui et qui est descendu vers eux avec une trajectoire qui ne visait pas exactement, mais qui visait large.
+Ce qui est arrivé d'abord était sans ki du tout, un objet lancé, très rapide, qui est passé au-dessus de l'horizon en laissant une ligne blanche derrière lui et qui est descendu vers eux avec une trajectoire qui ne visait pas exactement, mais qui visait large.
 
 Goku a jugé la vitesse et la masse et il s'est écarté.
 
@@ -419,7 +419,7 @@ Il l'a cherché à l'endroit où il avait été. Il a repassé la ligne dans le 
 
 Le sixième s'était éteint en bas.
 
-Pas en haut, pas au milieu — en bas, dans la seconde où il n'y avait presque plus rien, celle d'avant la remontée. Il n'était pas remonté cette fois-là.
+Pas en haut, pas au milieu, en bas, dans la seconde où il n'y avait presque plus rien, celle d'avant la remontée. Il n'était pas remonté cette fois-là.
 
 Goku a été déçu.
 
@@ -439,7 +439,7 @@ Il a quand même attendu. On n'interrompt pas.
 
 Au bout de quatre minutes, il a remarqué le ki.
 
-Il n'avait pas chuté. Il s'était **desserré** — cette structure haute et compacte que Végéta tenait en permanence, éveillé, endormi, en combat, cette pression constante qu'il maintenait sans y penser depuis qu'ils s'étaient rencontrés, avait lâché d'un cran et ne se retendait pas.
+Il n'avait pas chuté. Il s'était **desserré**, cette structure haute et compacte que Végéta tenait en permanence, éveillé, endormi, en combat, cette pression constante qu'il maintenait sans y penser depuis qu'ils s'étaient rencontrés, avait lâché d'un cran et ne se retendait pas.
 
 Goku avait senti ça deux fois dans sa vie.
 
@@ -491,7 +491,7 @@ Il ne savait pas ce qu'il était venu chercher là. Il est reparti.
 
 Ils ne parlaient pas beaucoup.
 
-Ils s'étaient posés là parce que c'était haut, dégagé, et loin de toute concentration de kis — pas par précaution, par confort : une agglomération en dessous fait un bruit de fond qu'on finit par vouloir quitter.
+Ils s'étaient posés là parce que c'était haut, dégagé, et loin de toute concentration de kis, pas par précaution, par confort : une agglomération en dessous fait un bruit de fond qu'on finit par vouloir quitter.
 
 Le ciel s'était dégagé pour la première fois depuis trois jours.
 
@@ -501,11 +501,11 @@ Il élargissait par paliers, en laissant chaque palier s'installer avant de pous
 
 Il a poussé une fois de plus, pour voir, et il n'a rien gagné qu'un mal de tête naissant.
 
-Nulle part, aussi loin qu'il portait, il n'y avait une seule signature qui méritât d'être regardée deux fois. Pas une. Il avait cherché les pointes — c'est ce qu'on cherche d'abord, les endroits où le fond remonte — et le fond était plat d'un bout à l'autre.
+Nulle part, aussi loin qu'il portait, il n'y avait une seule signature qui méritât d'être regardée deux fois. Pas une. Il avait cherché les pointes, c'est ce qu'on cherche d'abord, les endroits où le fond remonte, et le fond était plat d'un bout à l'autre.
 
 Il a arrêté de balayer.
 
-Il s'est demandé si le ki fonctionnait de la même façon ici. Il a conclu que oui : il fonctionnait sur lui, il fonctionnait sur l'autre, et il avait fonctionné sur les quatre-vingts de la veille jusqu'à la dernière seconde. Ce qui variait d'un monde à l'autre n'était pas le principe, c'était le sol — le niveau moyen à partir duquel les gens commencent. Ici, le sol était très bas.
+Il s'est demandé si le ki fonctionnait de la même façon ici. Il a conclu que oui : il fonctionnait sur lui, il fonctionnait sur l'autre, et il avait fonctionné sur les quatre-vingts de la veille jusqu'à la dernière seconde. Ce qui variait d'un monde à l'autre n'était pas le principe, c'était le sol, le niveau moyen à partir duquel les gens commencent. Ici, le sol était très bas.
 
 Puis il s'est demandé combien de temps durait une année, sur ce monde-ci.
 
@@ -517,7 +517,7 @@ Une lune donne tout : la période, la marée, le mois. Avec une lune et trois nu
 
 Il ne l'a pas trouvée.
 
-Il y avait des étoiles en quantité, une bande laiteuse en travers du ciel, et pas de lune. Il a supposé qu'elle était sous l'horizon, ou qu'il n'y en avait pas — il y a des mondes sans —, et comme aucune des deux hypothèses ne changeait quoi que ce soit à sa nuit, il a laissé tomber.
+Il y avait des étoiles en quantité, une bande laiteuse en travers du ciel, et pas de lune. Il a supposé qu'elle était sous l'horizon, ou qu'il n'y en avait pas, il y a des mondes sans, et comme aucune des deux hypothèses ne changeait quoi que ce soit à sa nuit, il a laissé tomber.
 
 C'est en tournant la tête qu'il a vu Végéta.
 
@@ -525,7 +525,7 @@ Il était debout sur la pointe de l'arête, à vingt mètres, la tête levée, i
 
 Goku l'a regardé un moment sans rien dire.
 
-Puis il s'est redressé, il s'est assis, il a suivi la direction du regard, et il a vérifié soigneusement — d'abord à l'œil, ensuite en ki, sur toute la hauteur de ciel disponible et jusqu'à la limite de sa portée.
+Puis il s'est redressé, il s'est assis, il a suivi la direction du regard, et il a vérifié soigneusement, d'abord à l'œil, ensuite en ki, sur toute la hauteur de ciel disponible et jusqu'à la limite de sa portée.
 
 Il n'y avait rien du tout.
 
@@ -543,7 +543,7 @@ Goku a compté. Il comptait toujours : les onze minutes de la veille, les six se
 
 Son ki était redevenu haut, serré, et absolument stable.
 
-C'était ça qui n'allait pas. Depuis la veille dans la plaine, Goku attendait qu'il se retende — il avait vu cette structure lâcher d'un cran et il avait supposé de la fatigue, et la fatigue remonte. Elle remonte toujours, en quelques heures, avec le sommeil ou sans. Celle-là n'était pas remontée. Elle avait été **remise en place**, exactement au même niveau, avec un soin qui ne ressemblait pas à de la récupération.
+C'était ça qui n'allait pas. Depuis la veille dans la plaine, Goku attendait qu'il se retende, il avait vu cette structure lâcher d'un cran et il avait supposé de la fatigue, et la fatigue remonte. Elle remonte toujours, en quelques heures, avec le sommeil ou sans. Celle-là n'était pas remontée. Elle avait été **remise en place**, exactement au même niveau, avec un soin qui ne ressemblait pas à de la récupération.
 
 Au bout d'une heure et quatre minutes, Goku a demandé :
 

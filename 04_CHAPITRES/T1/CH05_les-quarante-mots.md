@@ -8,7 +8,7 @@
 
 Il avait rendu quarante-deux entrées à minuit. À sept heures on lui en a rendu quarante, imprimées, sur un papier qui n'était pas le sien.
 
-La salle du niveau −3 n'avait pas de fenêtre et sentait le café tiède depuis trois jours. Abbadie s'est assis devant la feuille et il l'a lue deux fois avant de toucher son stylo. La mise en page était propre. Quelqu'un avait aligné les colonnes, réordonné les entrées par catégorie, corrigé une de ses transcriptions — correctement, d'ailleurs, il avait laissé passer une occlusive là où il fallait une affriquée. Le travail avait été fait par quelqu'un qui savait ce qu'il faisait.
+La salle du niveau −3 n'avait pas de fenêtre et sentait le café tiède depuis trois jours. Abbadie s'est assis devant la feuille et il l'a lue deux fois avant de toucher son stylo. La mise en page était propre. Quelqu'un avait aligné les colonnes, réordonné les entrées par catégorie, corrigé une de ses transcriptions, correctement, d'ailleurs, il avait laissé passer une occlusive là où il fallait une affriquée. Le travail avait été fait par quelqu'un qui savait ce qu'il faisait.
 
 Les colonnes tenaient sur une page. Il les avait sous les yeux dans le désordre où on les avait remises : *un. deux. trois. dix. cent. mille. jour. nuit. avant. après. ici. là. haut. bas. oui. non. je. tu. il. eux. venir. partir. attendre. s'arrêter. montrer. donner. prendre. manger. boire. dormir. parler. entendre. grand. petit. combien. où. quand. qui. plus tard. maintenant.*
 
@@ -132,7 +132,7 @@ Abbadie a ouvert la pochette dans le mauvais ordre, comme tout le monde, et il e
 
 Onze pages. En-tête d'un bureau de terrain d'Albuquerque, contreseing de la GDA, mention de diffusion restreinte. Reconstitution horaire établie à partir de neuf témoins et de deux enregistrements de téléphone.
 
-**Vendredi, 11 h 40 – 12 h 22. Tres Palomas, comté de Sandoval, Nouveau-Mexique.** Le sujet est descendu par la route nord, à pied. Il n'a rien détruit sur le trajet. Il a arrêté des personnes, une à une, dans la rue et dans les commerces, et il leur a présenté des documents imprimés en leur montrant sa propre bouche. Les personnes ont lu à voix haute, en anglais ou en espagnol. Le sujet a écouté chaque lecture jusqu'au bout. Le rapport dénombre **quatorze personnes** ainsi retenues sur quarante-deux minutes.
+**Vendredi, 11 h 40, 12 h 22. Tres Palomas, comté de Sandoval, Nouveau-Mexique.** Le sujet est descendu par la route nord, à pied. Il n'a rien détruit sur le trajet. Il a arrêté des personnes, une à une, dans la rue et dans les commerces, et il leur a présenté des documents imprimés en leur montrant sa propre bouche. Les personnes ont lu à voix haute, en anglais ou en espagnol. Le sujet a écouté chaque lecture jusqu'au bout. Le rapport dénombre **quatorze personnes** ainsi retenues sur quarante-deux minutes.
 
 Le paragraphe suivant tenait en trois lignes. À 12 h 18, le sujet a cessé de présenter des documents. Il en retenait alors quatre. Il a supprimé les quatre. Il n'a touché à personne d'autre, il est remonté sur la crête, et il n'a plus bougé.
 
@@ -142,7 +142,7 @@ Abbadie a refermé le dossier, il l'a rouvert, et il a relu l'annexe.
 
 Puis il a mis le casque et il ne l'a pas retiré pendant deux heures.
 
-Il connaissait les cinquante premières minutes par cœur. Tout le monde, dans le bâtiment, appelait ça *la bande*, et tout le monde entendait par là les images ; lui n'avait jamais vu les images en entier. Il avait vu neuf extraits muets le jour 1, sur un écran de vingt pouces, et il avait demandé qu'on ne lui en montre pas davantage. Ce qu'il avait, c'était le son. Quarante-neuf minutes onze, dont quatre minutes douze inexploitables, et là-dedans, en tout et pour tout, six minutes quarante de parole — ou de ce qui, faute de mieux, se laissait décrire comme tel.
+Il connaissait les cinquante premières minutes par cœur. Tout le monde, dans le bâtiment, appelait ça *la bande*, et tout le monde entendait par là les images ; lui n'avait jamais vu les images en entier. Il avait vu neuf extraits muets le jour 1, sur un écran de vingt pouces, et il avait demandé qu'on ne lui en montre pas davantage. Ce qu'il avait, c'était le son. Quarante-neuf minutes onze, dont quatre minutes douze inexploitables, et là-dedans, en tout et pour tout, six minutes quarante de parole, ou de ce qui, faute de mieux, se laissait décrire comme tel.
 
 Une langue entière, un système phonologique complet, une morphologie, un embryon de syntaxe : six minutes quarante. Il avait fabriqué les quarante mots avec ça.
 
@@ -460,7 +460,7 @@ Il l'a fait répéter quatre fois. Il a obtenu une forme stable. Il l'a écrit e
 
 *— Alors tu es inutile sur ce point.*
 
-Abbadie a écrit dans la marge, en français : *unité de temps non identifiée, ne correspond à aucun cycle connu de l'informateur — à reprendre.* Il a entouré *à reprendre*. Le mot est resté sur son carnet à la page trente et un et il n'y est pas revenu cette nuit-là.
+Abbadie a écrit dans la marge, en français : *unité de temps non identifiée, ne correspond à aucun cycle connu de l'informateur, à reprendre.* Il a entouré *à reprendre*. Le mot est resté sur son carnet à la page trente et un et il n'y est pas revenu cette nuit-là.
 
 *— Fais parler ça,* a dit l'homme, en désignant le carnet du menton.
 

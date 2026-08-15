@@ -344,7 +344,7 @@ Il a dit *arrivés*, au pluriel, et il ne s'est pas repris, et personne ne l'a r
 
 Debbie a monté l'escalier. Elle est passée devant la porte de la chambre du fond sans la regarder, ce qu'elle faisait depuis six jours et qu'elle avait cessé de remarquer, et elle est entrée dans la lingerie.
 
-La pile était sur l'étagère du haut, à droite, à l'endroit où elle avait toujours été. Elle n'y avait pas touché. Elle avait touché à tout le reste de la maison en six jours — les papiers, la banque, le téléphone, l'assurance, les deux cartons du garage — et pas à cette étagère-là.
+La pile était sur l'étagère du haut, à droite, à l'endroit où elle avait toujours été. Elle n'y avait pas touché. Elle avait touché à tout le reste de la maison en six jours, les papiers, la banque, le téléphone, l'assurance, les deux cartons du garage, et pas à cette étagère-là.
 
 Elle a pris la pile entière, elle est redescendue, et elle l'a posée sur la table de la cuisine.
 
@@ -662,7 +662,7 @@ Sur le second, un homme en orange, de face, penché en avant, qui portait une fi
 
 Debbie a regardé le second pendant le temps qu'il a fallu à la caissière pour trouver la monnaie sur quarante dollars.
 
-Le dessin n'était pas ressemblant. Personne n'avait vu ce visage-là d'assez près pour le dessiner. Le dessinateur avait mis un trait pour la bouche et deux pour les yeux, et il avait passé son travail sur les bras et sur la façon dont ils tenaient la fille — sous les genoux et sous les omoplates, à l'horizontale, la tête calée dans le creux du coude.
+Le dessin n'était pas ressemblant. Personne n'avait vu ce visage-là d'assez près pour le dessiner. Le dessinateur avait mis un trait pour la bouche et deux pour les yeux, et il avait passé son travail sur les bras et sur la façon dont ils tenaient la fille, sous les genoux et sous les omoplates, à l'horizontale, la tête calée dans le creux du coude.
 
 Ça, c'était juste. Ça, il l'avait bien regardé.
 

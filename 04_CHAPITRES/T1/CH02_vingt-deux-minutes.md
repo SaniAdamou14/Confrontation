@@ -87,7 +87,7 @@ Le ciel s'est ouvert au-dessus du carrefour et Ray était large.
 
 C'est le seul coup de chance de sa vie et il ne l'a jamais dit à personne. Trois secondes plus tôt il était à fond de focale sur une main. Il avait élargi pour reprendre le garçon dans le champ, il tenait les deux cents mètres du carrefour dans le cadre, et la déchirure est arrivée pile au milieu.
 
-Elle n'a pas fait un trou. L'air a viré — une torsion, comme quand on filme au-dessus d'un tarmac en juillet — et la façade en verre du bâtiment d'angle est sortie d'un bloc, à plat, en gardant la forme des fenêtres pendant un dixième de seconde.
+Elle n'a pas fait un trou. L'air a viré, une torsion, comme quand on filme au-dessus d'un tarmac en juillet, et la façade en verre du bâtiment d'angle est sortie d'un bloc, à plat, en gardant la forme des fenêtres pendant un dixième de seconde.
 
 Quelque chose est passé au travers et s'est arrêté en l'air.
 
@@ -95,7 +95,7 @@ Ray a poussé.
 
 Le geste est parti tout seul, la main sur le manche, l'index sur la bague, et à la fin du mouvement il tenait un homme en plan poitrine à deux kilomètres.
 
-Petit. Une armure — de la vraie plaque, blanche, sanglée par deux bretelles étroites, avec des plaques brunes sur le ventre. Les cheveux dressés en pointe. Il flottait à quinze mètres du sol sans bouger d'un centimètre.
+Petit. Une armure, de la vraie plaque, blanche, sanglée par deux bretelles étroites, avec des plaques brunes sur le ventre. Les cheveux dressés en pointe. Il flottait à quinze mètres du sol sans bouger d'un centimètre.
 
 — Ray.
 
@@ -109,7 +109,7 @@ Une queue est sortie de derrière l'homme et s'est enroulée autour de sa taille
 
 Dans l'oreille gauche, la régie a dit quelque chose que Ray n'a pas écouté.
 
-L'homme a porté la main à son oreille, à un appareil qu'il avait là, et il l'a laissé tomber. Ray a suivi la chute — la boule descendait à la même vitesse que l'objet, le gyro tenait, il a eu l'objet net sur tout le trajet jusqu'au sol.
+L'homme a porté la main à son oreille, à un appareil qu'il avait là, et il l'a laissé tomber. Ray a suivi la chute, la boule descendait à la même vitesse que l'objet, le gyro tenait, il a eu l'objet net sur tout le trajet jusqu'au sol.
 
 Il est remonté.
 
@@ -121,7 +121,7 @@ Ray l'a eu. Plein cadre, à mi-poitrine, une seconde et demie : la tête qui par
 
 Puis il a frappé.
 
-Ray n'a rien vu du coup. L'image a sauté — le gyro a décroché, la première fois en onze ans — et quand elle est revenue il n'y avait plus personne au milieu du cadre, et une traînée de poussière descendait State Street vers le nord sur quatre cents mètres.
+Ray n'a rien vu du coup. L'image a sauté, le gyro a décroché, la première fois en onze ans, et quand elle est revenue il n'y avait plus personne au milieu du cadre, et une traînée de poussière descendait State Street vers le nord sur quatre cents mètres.
 
 — Qu'est-ce que —
 
@@ -139,7 +139,7 @@ Ray a poussé.
 
 Il a eu le visage de la fille avant de la reconnaître. Rose et blanc, la tête calée dans le creux de l'épaule de l'homme, un bras sous les genoux, un bras dans le dos.
 
-— C'est Atom Eve, a dit Ray. Ils l'ont — il la sort. Il la sort de là.
+— C'est Atom Eve, a dit Ray. Ils l'ont, il la sort. Il la sort de là.
 
 Il a suivi. Deux cents mètres, plein est vers plein ouest, et il n'a pas lâché.
 
@@ -223,7 +223,7 @@ C'était mauvais. La régie a demandé du serré. Il n'a pas répondu.
 
 Il tenait tout. Il ne montrait rien.
 
-Il est resté large pendant deux minutes et onze secondes — il l'a su plus tard, en revoyant la bande — et c'est le seul moment de sa vie professionnelle dont il n'a jamais parlé à personne.
+Il est resté large pendant deux minutes et onze secondes, il l'a su plus tard, en revoyant la bande, et c'est le seul moment de sa vie professionnelle dont il n'a jamais parlé à personne.
 
 ---
 
@@ -305,7 +305,7 @@ Il a élargi et il a cherché.
 
 Un cratère de trente mètres, et rien dedans.
 
-Il a continué de balayer vers le nord — plus vite, en sautant, la main qui poussait le manche trop loin à chaque fois — et le viaduc est passé dans le cadre.
+Il a continué de balayer vers le nord, plus vite, en sautant, la main qui poussait le manche trop loin à chaque fois, et le viaduc est passé dans le cadre.
 
 Il a freiné dessus.
 
@@ -335,7 +335,7 @@ Il a lâché le manche et l'image est restée sur les décombres, stable, nette,
 
 Elle a viré.
 
-Le faisceau s'est coupé — il se coupait toujours dans les virages serrés, le mât se retrouvait masqué — et l'antenne a perdu l'image pendant onze secondes.
+Le faisceau s'est coupé, il se coupait toujours dans les virages serrés, le mât se retrouvait masqué, et l'antenne a perdu l'image pendant onze secondes.
 
 À bord, ça continuait d'enregistrer.
 
@@ -365,7 +365,7 @@ Dans son oreille gauche, la régie avait cessé de parler.
 
 La fille s'est réveillée.
 
-Ray l'a vue bouger derrière sa ligne de béton — un genou d'abord, puis une main à plat — et il a poussé dessus, et il a dit *non* à voix haute dans la cabine.
+Ray l'a vue bouger derrière sa ligne de béton, un genou d'abord, puis une main à plat, et il a poussé dessus, et il a dit *non* à voix haute dans la cabine.
 
 Elle s'est mise debout.
 
@@ -443,7 +443,7 @@ Ray l'a suivi. Il avait retrouvé quelque chose dans les dernières minutes, une
 
 L'homme en armure s'est arrêté à six pas du vieux à la moustache.
 
-Le vieux tenait à peine. Ray a poussé — la mâchoire était démolie, la moustache était grise de poussière, il y avait du sang séché sur toute la joue droite, et il s'est redressé quand même, il a remis ses épaules d'aplomb comme un type qui se prépare pour une photo.
+Le vieux tenait à peine. Ray a poussé, la mâchoire était démolie, la moustache était grise de poussière, il y avait du sang séché sur toute la joue droite, et il s'est redressé quand même, il a remis ses épaules d'aplomb comme un type qui se prépare pour une photo.
 
 Il a essuyé sa moustache du dos de la main.
 
@@ -455,7 +455,7 @@ Il a fermé de trois crans.
 
 La lumière est arrivée.
 
-Elle a rempli la cabine par la verrière avant de remplir le cadre. Elle était blanche, sans couleur du tout, et elle a effacé la ville — pas éclairé : effacé. Sur le retour, Ray a vu le carrefour, les rues, la tour noire aux deux antennes au sud-ouest, tout devenir plat et blanc en même temps, et pendant un quart de seconde la tour est restée dessinée en gris dans le blanc.
+Elle a rempli la cabine par la verrière avant de remplir le cadre. Elle était blanche, sans couleur du tout, et elle a effacé la ville, pas éclairé : effacé. Sur le retour, Ray a vu le carrefour, les rues, la tour noire aux deux antennes au sud-ouest, tout devenir plat et blanc en même temps, et pendant un quart de seconde la tour est restée dessinée en gris dans le blanc.
 
 Puis elle n'était plus dessinée.
 
@@ -573,7 +573,7 @@ Le rotor a ralenti pendant longtemps. Ray sentait les pales dans son dos, chaque
 
 Il a défait le harnais. Il n'a pas ouvert la porte.
 
-Il a regardé le boîtier d'enregistrement. Le compteur affichait quarante-neuf minutes onze secondes. Il a rembobiné de mémoire : quatre minutes et douze secondes de blanc, de noir, ou de sol qui tourne — inexploitables. Le reste tenait.
+Il a regardé le boîtier d'enregistrement. Le compteur affichait quarante-neuf minutes onze secondes. Il a rembobiné de mémoire : quatre minutes et douze secondes de blanc, de noir, ou de sol qui tourne, inexploitables. Le reste tenait.
 
 Marisol a retiré son casque. Elle a mis ses deux mains à plat sur ses cuisses et elle les a regardées.
 
@@ -601,7 +601,7 @@ C'est la première chose qu'il a enregistrée en vingt-six ans sans une focale e
 
 L'air sentait le métal chaud et la vase.
 
-Et le son est arrivé — pas dans ses oreilles, elles ne servaient plus : dans sa poitrine, dans le gravier sous ses semelles, dans le bloc de ventilation contre lequel l'appareil s'était arrêté. Un grondement bas, énorme, continu, qui ne montait pas et ne descendait pas.
+Et le son est arrivé, pas dans ses oreilles, elles ne servaient plus : dans sa poitrine, dans le gravier sous ses semelles, dans le bloc de ventilation contre lequel l'appareil s'était arrêté. Un grondement bas, énorme, continu, qui ne montait pas et ne descendait pas.
 
 Il a mis un moment à le reconnaître.
 

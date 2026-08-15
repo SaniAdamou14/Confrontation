@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+# docs/ est le site publié par GitHub Pages : il DOIT être versionné.
+# L'ancien dossier site/ ne sert plus.
+site/
