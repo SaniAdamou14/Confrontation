@@ -102,3 +102,13 @@ Contrôle effectué ligne à ligne sur les distances : **elles relèvent presque
 **Conclusion à retenir : le seuil brut ne décide de rien. Seule la règle des trois cas décide.** Le tome 1 est clos sur ce point.
 
 **Les chapitres 3, 5 et 6 n'ont pas été touchés.**
+
+---
+
+## 6. CE FICHIER EST CLOS — SUCCESSEUR
+
+> **La suite est dans `05_ATELIER/CHANTIER_T1_VOIX_ET_ATTACHEMENT.md`.**
+
+Ce plan a travaillé au chapitre. Il a eu raison partout à cette échelle, et **il a manqué deux défauts qui ne se voient qu'à l'échelle du tome** — sept focaux qui comptent les secondes avec la même formule de justification, et neuf fins de chapitre à la cadence identique. La passe chiffres du §3-C a testé chaque nombre contre la règle des trois cas et chacun passe : le test était juste, l'échelle était fausse.
+
+**À retenir pour toute passe future : un défaut de tome ne se détecte pas en relisant un chapitre.**

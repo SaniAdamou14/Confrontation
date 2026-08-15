@@ -61,7 +61,7 @@ Il n'a pas su dire pourquoi il corrigeait. Ça ne changeait rien pour eux et ça
 
 Il a mangé en route.
 
-La veille au soir il avait pris deux gros poissons dans une rivière la veille au soir et il en avait gardé un, enroulé dans des feuilles, coincé sous sa ceinture. Il l'a mangé en volant, froid, sans s'arrêter, en jetant les arêtes. Ça n'a rien réglé du tout. Il avait faim depuis six jours d'une faim qui ne descendait plus, celle qui vient quand on dépense sans reconstituer, et il savait qu'il lui faudrait une journée entière de chasse et un feu s'il voulait la faire taire, et il n'avait pas le temps.
+La veille au soir il avait pris deux gros poissons dans une rivière et il en avait gardé un, enroulé dans des feuilles, coincé sous sa ceinture. Il l'a mangé en volant, froid, sans s'arrêter, en jetant les arêtes. Ça n'a rien réglé du tout. Il avait faim depuis six jours d'une faim qui ne descendait plus, celle qui vient quand on dépense sans reconstituer, et il savait qu'il lui faudrait une journée entière de chasse et un feu s'il voulait la faire taire, et il n'avait pas le temps.
 
 Il verrait ça demain.
 
@@ -75,7 +75,7 @@ Il verrait ça demain aussi.
 
 *Une combe, versant est. Jour 9, 15 h 20.*
 
-Il a trouvé l'endroit sans le chercher : une combe orientée à l'est, un fond plat, une paroi de granit sur la gauche et un col très loin en face, avec un mélèze isolé au tiers de la pente qui avait perdu la moitié de ses aiguilles.
+Il a trouvé l'endroit sans le chercher : une combe orientée à l'est, un fond plat, une paroi de granit sur la gauche et un col très loin en face, avec un épicéa mort au tiers de la pente, gris, encore debout, qui avait perdu la moitié de ses aiguilles.
 
 Il s'est posé. Il a fait le tour du fond en marchant, par habitude, et il a compté les sorties.
 
@@ -293,7 +293,7 @@ Goku n'a rien dit tout de suite.
 
 Le filet d'eau descendait de la paroi à quinze pas derrière lui. Il avait soif. Il n'a pas bougé.
 
-Le vent est remonté du fond de la combe, cette fois, et il a fait bouger les aiguilles restantes du mélèze sur la pente. Végéta n'avait toujours pas déplacé les pieds. Il était debout au même endroit depuis vingt minutes, dans la même position, les bras le long du corps, et Goku s'est aperçu qu'il n'avait pas non plus tourné la tête vers le col une seule fois.
+Le vent est remonté du fond de la combe, cette fois, et il a fait bouger les aiguilles restantes de l'épicéa sur la pente. Végéta n'avait toujours pas déplacé les pieds. Il était debout au même endroit depuis vingt minutes, dans la même position, les bras le long du corps, et Goku s'est aperçu qu'il n'avait pas non plus tourné la tête vers le col une seule fois.
 
 — Tu es venu pour dire ça ?
 
@@ -373,9 +373,7 @@ Il y avait ses propres marques partout, à deux centimètres, et le demi-cercle 
 
 Il n'y avait rien d'autre.
 
-Pas une marque de départ. Pas une projection, pas un caillou déplacé, pas un creux plus profond que les deux autres. Le gravier autour des deux empreintes était intact sur tout le pourtour, exactement comme avant, et le mélèze au tiers de la pente n'avait pas perdu une aiguille.
-
-Un homme qui décolle laisse une marque de départ. Toujours. C'est le seul moment où l'on pousse sur le sol au lieu de simplement s'y tenir.
+Pas une marque de départ. Pas une projection, pas un caillou déplacé, pas un creux plus profond que les deux autres. Le gravier autour des deux empreintes était intact sur tout le pourtour, exactement comme avant, et l'épicéa au tiers de la pente n'avait pas perdu une aiguille.
 
 Il s'est accroupi. Il a passé le pouce sur le bord de l'empreinte gauche et le gravier a tenu — il a poussé plus fort, avec l'ongle, et il n'a pas réussi à en détacher un morceau. Le sol était pris. Il avait fallu de la charge, pas de la vitesse, et il en avait fallu longtemps.
 
@@ -385,7 +383,7 @@ Goku a fait le tour des deux empreintes à quatre pattes, en regardant de près,
 
 Il n'y avait rien.
 
-En se relevant, il a regardé le mélèze au tiers de la pente. Il n'avait pas bougé. Le fond de la combe non plus : le gravier était exactement dans l'état où il l'avait trouvé en arrivant.
+En se relevant, il a regardé l'épicéa au tiers de la pente. Il n'avait pas bougé. Le fond de la combe non plus : le gravier était exactement dans l'état où il l'avait trouvé en arrivant.
 
 Deux façons de partir de là sans laisser de marque, il en connaissait. La première demandait de le vouloir, de le préparer, et de perdre du temps.
 

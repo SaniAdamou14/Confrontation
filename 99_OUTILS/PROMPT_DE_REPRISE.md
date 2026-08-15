@@ -11,7 +11,7 @@
 2. **`BIBLE_LE_POIDS_DES_DIEUX.md`**, sections 0 à 6 — la source de vérité. Ne pas écrire une ligne avant.
 3. **`BIBLE…`, section 7** — les voix. Avant tout dialogue.
 4. **`00_CANON/POINTS_A_ARBITRER.md`** — vérifier ce qui a été tranché et ce qui ne l'a pas été.
-5. **`03_PLAN/TOME_1.md`** — où en est-on.
+5. **`03_PLAN/TOME_1.md`** — où en est-on. Puis **`05_ATELIER/CHANTIER_T1_VOIX_ET_ATTACHEMENT.md`** — les deux défauts d'échelle du tome, les arbitrages ouverts, et ce qu'il ne faut pas abîmer en corrigeant.
 6. **`02_ETAT_DU_MONDE/QUI_SAIT_QUOI.md`** — ce que le personnage focal du prochain chapitre ignore.
 7. Le dossier du chapitre à écrire, dans `05_ATELIER/`.
 

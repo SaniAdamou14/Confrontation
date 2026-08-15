@@ -1,8 +1,10 @@
 # Chapitre 7 — Les visites
 
 > Focalisation : Debbie Grayson
-> Jour 7 · La maison, la route · 06 h 40 → jour 9, 09 h 30
-> Mots : 5 800---
+> Jour 7 · La maison, la route · 06 h 40 → jour 9, 10 h 23
+> Mots : 5 970
+
+---
 
 *Maison des Grayson, banlieue nord. Jour 7, 06 h 40.*
 

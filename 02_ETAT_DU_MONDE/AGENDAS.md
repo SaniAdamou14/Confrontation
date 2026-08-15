@@ -108,7 +108,7 @@ Treize, et pas douze : **le focal en cours a un agenda comme les autres.** La v1
 - **Empêché par** son affection pour Debbie, qui tiendra encore un peu. **Le retour de Debbie a pris un jour de plus que prévu : trois nuits au lieu de deux, et elle est partie sans avoir dormi.**
 - **⏰ 16 octobre.** Elle parle — et pas à Debbie. Le numéro inconnu qui s'affichera plus tard vient de là. *(L'échéance n'a pas bougé, mais elle est devenue plus probable : un jour de plus seul dans cette maison.)*
 
-### 8 · RUDOLPH CONNORS / ROBOT — *niveau moins six*
+### 8 · RUDOLPH CONNERS / ROBOT — *niveau moins six*
 
 - **Veut** comprendre l'objet en deux morceaux qu'il a demandé à garder et que personne ne lui a réclamé.
 - **Fait** il consigne l'improbabilité phonémique tous les jours, et personne ne la lit.
@@ -150,6 +150,15 @@ Treize, et pas douze : **le focal en cours a un agenda comme les autres.** La v1
 - **Empêché par** l'absence de nom : *SUJET UN* et *SUJET DEUX* ne se prononcent pas dans une cour de récréation.
 - **⏰ 14 octobre.** Le mot entre dans la langue, déformé.
 
+### 14 · DONALD FERGUSON — *assigné le J10 au matin*
+
+*Ajouté au J10. `AGENDAS.md` pose que **le focal en cours a un agenda comme les autres** — il en manquait un.*
+
+- **Veut** rester utile à Stedman. Pas être aimé, pas être ménagé : **utile.** Canon : il est l'homme de confiance du directeur, il exécute bien, et il fait partie des trois ou quatre personnes à qui l'agence confie ce qu'elle ne met pas par écrit. **Sa décence n'est pas de la naïveté — il sait exactement ce qu'il y a au niveau moins six, et il est décent quand même.** C'est ça qui rend la manipulation efficace, et c'est ça qu'il ne faut jamais trancher.
+- **Fait** il devient une adresse. Le site du comté de Luna passe de sept véhicules à deux, et lui reste dedans. Il remplit, il transmet à dix-huit heures, tous les jours, et il commence par le formulaire d'approvisionnement.
+- **Empêché par** l'absence de case. Aucun imprimé de la GDA n'a de rubrique pour ce qu'il rapporte, et il n'a pas l'autorité de créer une rubrique. **Et par son propre corps**, qui ne lui rend plus les mêmes renseignements qu'aux autres — il ne le mentionne pas, il compense.
+- **⏰ 13 octobre — ÉCHÉANCE SANS EFFET.** Il livre trois rapports avant les auditions, dans les délais, complets. **Cecil n'en cite pas une ligne au Capitole et n'en avait pas besoin.** L'événement est que le travail n'a servi à rien, et que Ferguson ne l'apprendra pas. *(Le fichier réclame des échéances qui n'intéressent personne : en voici une, et c'est la plus coûteuse du lot.)*
+
 ---
 
 ## HORS CAMÉRA — ce qui arrive et dont le lecteur n'apprendra rien avant longtemps
@@ -163,6 +172,7 @@ Treize, et pas douze : **le focal en cours a un agenda comme les autres.** La v1
 | **12 octobre** | La chaîne de Ray renouvelle son contrat d'exploitation d'images pour trois ans. Il touche une rallonge de deux cents dollars par mois | **jamais. C'est le but** |
 | **15 octobre** | On répare le distributeur en panne du couloir du niveau −3 | **jamais** |
 | **16 octobre** | À Fort Bliss, Mendes atteint enfin, dans le paquet du **lundi 7**, le terme de durée de la page trente et un. Il ne comprend pas, il le met de côté. **Il n'a rien reçu depuis neuf jours et il ne s'en est pas encore inquiété** | tome 2 |
+| **12 octobre** | Le service médical de la GDA ouvre un dossier physiologique au nom de SUJET DEUX, **construit uniquement à partir des quantités portées par Ferguson sur un bon d'approvisionnement.** Copie transmise sur demande au contrat des Mauler. **Ferguson a fourni le métabolisme en remplissant une commande de nourriture** | **tome 2 — c'est le carburant de F6, l'inhibiteur métabolique.** Il ne l'apprendra pas |
 | **19 octobre** | Une association de familles de State Street dépose ses statuts. Cecil n'en est pas informé | tome 5, commission |
 
 ---

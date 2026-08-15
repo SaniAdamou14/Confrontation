@@ -135,7 +135,8 @@ Concurrent au combat de Végéta. Ordre **[DÉRIVÉ]**, cohérent avec la bible 
 |---|---|---|
 | J1-J2 | Le silence d'après. Cecil arrive sur le cratère. Le premier chiffre. | §10, ch. 3 |
 | J3 | **Végéta réalise que cette planète a une lune.** Il ne dit rien. Il calcule. Il attend. | §5.4 |
-| J4 | **Mémorandum classé OMEGA.** « Un : ils ont faim… Deux : l'un des deux se soucie de ce que les gens pensent de lui. Trois : ils se détestent mutuellement plus qu'ils ne nous détestent. » Estimation des morts révisée à **3,1 millions**. | §6.1, §3 |
+| J4 | **Mémorandum classé OMEGA.** « Un : ils ont faim… Deux : l'un des deux se soucie de ce que les gens pensent de lui. Trois : ils se détestent mutuellement plus qu'ils ne nous détestent. » | §6.1 |
+| **J10** | **Ilana Voss rend la révision de l'estimation : 3,1 millions.** Le document est classé sans être lu, sans paraphe et sans tampon de réception. *(Corrigé le 15 août 2026 : la bible §3 datait cette révision du J4, ce qui contredit le ch. 3 — Voss y annonce qu'il lui faut trois semaines. Le J10 fait foi ; voir `AGENDAS.md`, hors caméra du 11 octobre.)* | ch. 10 |
 | J4-J6 | La faim. Goku dans les Rocheuses. Végéta au restaurant, puis l'entrepôt, puis il est filmé. Premier contact radio. | §10, ch. 4-5 |
 | J6 | **Le congélateur.** Sang, fragments d'armure, cheveux récupérés sur le champ de bataille du J0. Il y a du matériel génétique saiyan sous clé à partir de ce jour. | §6.2 |
 | J1-J6 | Communication par interprète GDA. | §4.3 |

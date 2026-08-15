@@ -148,7 +148,7 @@ Oliver perd un bras sur un coup de pied qui n'était pas destiné à le blesser 
 
 **Immortal**, qui porte encore la cicatrice de sa propre décapitation, tient une seconde le poing de Goku dans sa main, puis part en deux morceaux sur une ligne blanche de quatre cents mètres. **L'homme qui revient toujours ne revient pas.** — **Black Samson**, descendu par au-dessus, laisse un cratère de trente mètres et rien dedans. — **Shapesmith**, effacé d'un revers de main par Végéta ; ce qui tombe à l'image, c'est son vrai visage, pour la première fois et la dernière. — **Eve**, réveillée, tuée en tentant un bouclier.
 
-**Bilan à 17 h 09 :** Chicago n'existe plus. Cratère de neuf kilomètres. 2,4 millions de morts confirmés, estimation révisée à 3,1 millions au jour 4.
+**Bilan à 17 h 09 :** Chicago n'existe plus. Cratère de neuf kilomètres. 2,4 millions de morts, point central établi au jour 2. **Révision à 3,1 millions rendue au jour 10**, classée sans être lue. *(La v2 datait cette révision du jour 4 : incompatible avec le ch. 3, où Ilana Voss annonce qu'il lui faut trois semaines pour resserrer sa marge. Corrigé le 15 août 2026. `CHRONOLOGIE_MAITRESSE.md` §3 fait foi.)*
 
 **Et le lac entre.** Le cratère est centré sur State Street, à un kilomètre du rivage : sa lèvre est orientale est dans le lac Michigan, sur plus de trois kilomètres, et il n'y a pas de paroi. L'eau s'engouffre dans un bassin encore incandescent. Une colonne de vapeur visible à cent kilomètres masque le site pendant des jours et rend toute reconnaissance aérienne impossible — c'est pour cela que le premier chiffre met deux jours à venir. En une semaine, le cratère est plein. **Chicago n'est pas une ville rasée : c'est une baie.** On ne reconstruira pas, parce qu'il n'y a plus de sol. La question ne sera jamais « faut-il rebâtir ? », elle sera « comment appelle-t-on ça sur les cartes ? ».
 
@@ -311,7 +311,7 @@ Ni l'un ni l'autre ne sait ce qu'il est advenu de Namek, de Gohan, de Krillin, d
 ### 6.2 Actifs mobilisés
 
 - **Donald Ferguson** — liaison assignée à Goku. Sa décence est réelle, et c'est exactement ce qui rend la manipulation efficace. Il devient l'ami de Goku *et* il rapporte tout. Les deux sont vrais en même temps.
-- **Robot / Rudolph Connors** — théorise correctement le ki en trois semaines, ce qui devrait inquiéter tout le monde. Il commence secrètement à modéliser comment le reproduire artificiellement.
+- **Robot / Rudolph Conners** — théorise correctement le ki en trois semaines, ce qui devrait inquiéter tout le monde. Il commence secrètement à modéliser comment le reproduire artificiellement. **Il a démissionné des Gardiens en mars, contre Cecil et contre la réhabilitation de Sinclair.** Il est dans le bâtiment au jour 1 sans y être obligé, et personne ne lui a demandé pourquoi — voir `00_CANON/ARBITRAGE_CANON_V3.md` §8.
 - **Les Mauler Twins** — sous contrat, chargés de perturber la production de ki. Ils échouent, mais produisent un **inhibiteur métabolique** qui prive un Saiyan de la capacité à digérer. Une arme de famine. Cecil la stocke sans l'utiliser.
 - **Sinclair et le programme Reanimen** — la GDA récupère sang, fragments d'armure et cheveux sur le champ de bataille du jour 0. **Il y a du matériel génétique saiyan dans un congélateur à partir du jour 6.** Le plus gros fusil de Tchekhov du récit ; il tire au tome 4.
 

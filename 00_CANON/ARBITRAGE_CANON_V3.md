@@ -101,7 +101,7 @@ Le jour 0 du récit est **l'attaque de Conquest sur Chicago**. Dans le canon, ce
 | # | Bible v2 | Canon vérifié | Décision |
 |---|---|---|---|
 | **DBZ-1** | Végéta a un scouteur, qu'il pointe sur Conquest à la seconde 3 | **Il n'en a plus.** Il a écrasé le sien de la main sur Namek, bien avant, en déclarant qu'il n'en a plus besoin puisqu'il sent le ki | **Re-motivé, pas supprimé.** L'appareil qu'il porte au jour 0 est **ramassé sur un cadavre du Commando Ginyu quelques heures plus tôt.** Il ne s'en sert pas pour mesurer : il s'en sert pour lire ce que l'Empire de Freezer écrivait dessus. C'est un objet de pillage, et c'est pour ça qu'il le lâche sans regret |
-| **DBZ-2** | « Armure de commandement, plastron blanc, **épaulettes jaunes** » | Après le combat contre Recoome, Végéta a changé d'armure : **plastron blanc, plaques ventrales brunes, simples bretelles blanches — pas d'épaulettes** — sur combinaison bleu marine | **Corrigé.** Description exacte reprise partout |
+| **DBZ-2** | « Armure de commandement, plastron blanc, **épaulettes jaunes** » | Après le combat contre Recoome, Végéta a changé d'armure : **plastron blanc, plaques ventrales brunes, simples bretelles blanches — pas d'épaulettes** — sur combinaison bleu marine | **Corrigé.** ⚠ *Propagation vérifiée et achevée le 14 août 2026 seulement : la mention « épaulettes jaunes » survivait encore dans `JOURNAL_ETAT.md` et `CH01_DOSSIER_PREPARATOIRE.md`, et le ch. 4 écrivait « son épaulière droite ». Corrigé en « la bretelle de son épaule droite ». **Ne jamais réécrire « épaulette ».*** |
 | **DBZ-3** | Fissure à l'omoplate gauche présente au départ | L'armure est **neuve au jour 8** : il vient de la prendre dans la réserve du vaisseau de Freezer | **Datée.** La fissure est faite **pendant le combat contre Ginyu**, quelques heures avant la faille. Aucun moyen de la remplacer dans le monde d'Invincible : F7 tient, et sa cause devient précise |
 
 **Confirmés justes, aucune correction :** Ginyu en grenouille · Goku sorti de la capsule médicale, zenkai actif · aucun haricot magique restant · Gohan et Krillin vivants sur Namek, laissés là · Goku apprend de la bouche de Végéta ce que Freezer a fait aux Saiyans · l'unique sommeil de Végéta de tout l'arc.
@@ -143,7 +143,86 @@ Le jour 0 du récit est **l'attaque de Conquest sur Chicago**. Dans le canon, ce
 
 ---
 
-## 8. SOURCES
+## 8. ROBOT / RUDOLPH CONNERS — vérification du 14 août 2026
+
+*Ouvert en corrigeant la contradiction apparente du ch. 3. La vérification a rendu davantage que la correction demandée.*
+
+### 9.1 La graphie — corrigée
+
+**Le nom civil de Robot s'écrit *Conners*, pas *Connors*.** Les deux formes circulent sur le web ; les bases officielles Image Comics donnent *Conners*, et c'est la forme dominante. Corrigé partout : `LEXIQUE_ET_ORTHOGRAPHES.md`, `BIBLE` §6.2, `CH03` (trois occurrences).
+
+### 9.2 La démission — confirmée canon, et sa cause était inexploitée
+
+`ARBITRAGE_CANON_V3.md` §2 portait déjà *« Robot / Rudy : hors équipe »* au jour 0, et le ch. 3 datait la démission de mars. **Les deux sont justes.** Ce que la vérification ajoute est **le motif**, qui n'était écrit nulle part :
+
+> **Robot n'a pas démissionné pour convenance. Il a démissionné contre Cecil** — après avoir découvert les arrangements de la GDA avec Darkwing et **D. A. Sinclair**, et le dispositif que Cecil avait fait implanter dans le crâne de Mark. La confrontation a fini avec les Reanimen de Cecil employés à maîtriser ses propres Gardiens.
+
+**Ce que ça change, sans qu'une ligne soit à réécrire :**
+
+- Au ch. 6, Cecil sort Sinclair de cellule, lui accorde six heures et douze personnes, l'appelle *fiston*, et ouvre le local du niveau moins six. **Robot est dans le bâtiment ce jour-là**, et il monte le soir même déposer un objet dans la main de Cecil. Le lecteur qui connaît Invincible sait exactement ce que ça coûte à cet homme d'être encore là. Celui qui ne le sait pas ne perd rien.
+- Le ch. 3 devient plus dur qu'il n'était écrit : *« Vous ne m'avez pas demandé pourquoi c'est possible. » — « Non. »* est adressé par Cecil à quelqu'un qui a quitté son organisation à cause de lui et qui est revenu tout seul.
+- **F23** (l'improbabilité consignée tous les jours pendant deux ans, que personne n'écoute) et **F2** (Robot modélise secrètement le ki) reposent désormais sur un motif établi au lieu d'un tempérament.
+
+### 9.3 La divergence assumée, et ce qui reste à trancher
+
+**Canon :** après sa démission, Robot ne travaille pas pour Cecil. Il monte une équipe rivale et finira par le tuer.
+
+**Récit :** il est debout à côté de Cecil au jour 1 à quinze heures, et Cecil lui donne des ordres.
+
+**Ce n'est pas une contradiction, c'est un trou de motivation**, et il est petit : trois millions de morts en vingt-deux minutes rappellent beaucoup de gens qui étaient partis. **Le récit n'a donc rien à corriger. Il a quelque chose à ne pas expliquer.**
+
+> **Règle retenue : personne ne demande jamais à Conners pourquoi il est revenu, et il ne le dit jamais.** Cecil le sait et ne s'en sert pas — c'est exactement le genre de dette qu'il préfère laisser courir. Le jour où quelqu'un pose la question, ce sera un chapitre entier, et ce n'est pas dans le tome 1.
+
+**Ce qui est déjà écrit et qui tient :** ch. 3, *« De l'équipe, monsieur. Pas du bâtiment. »* — l'aide de camp rend le fait sans le commenter, et le mot *démissionné* reste seul.
+
+**À ne pas faire :** aucun personnage ne rappelle la rupture de mars. Aucune scène de réconciliation. **Aucune allusion à ce que Robot fera plus tard.**
+
+---
+
+## 8 bis. DONALD FERGUSON, LE SIÈGE DE LA GDA, ET UN ARBRE — vérification du 14 août 2026
+
+*Menée avant l'écriture du ch. 10. Trois résultats, dont deux que la bible ignorait.*
+
+### 8 bis.1 Le siège de la GDA — **sous le Pentagone, Arlington, Virginie**
+
+**Canon.** La GDA est logée dans une installation enterrée sous le Pentagone. Le récit écrit depuis six chapitres *« niveau moins quatre »*, *« niveau moins six »*, *« salle 12 »*, sans jamais dire où. **C'était juste, et ce n'était pas déclaré.** Ça l'est maintenant : `CARTE_ET_LIEUX.md` §4.
+
+**Ce que ça débloque, gratuitement :** Cecil ne dirige pas une agence depuis un bunker anonyme, il la dirige **sous le bâtiment du Département de la Défense**, à quatre kilomètres du Capitole où il ira mentir sous serment le 13. Le trajet est une navette, pas un déplacement. À ne jamais commenter.
+
+### 8 bis.2 Donald Ferguson est un cyborg — planté, pas tiré
+
+**Canon.** Agent de terrain de la GDA, **mort en mission en Égypte en 1994.** Cecil a fait récupérer son cerveau et l'a remonté dans un corps mécanique — **98 % de machine.** Sa mémoire de sa propre mort a été effacée, et il a passé des années sans émotions. Depuis, il a été détruit et reconstruit plusieurs fois.
+
+**Les trois faits canon qui décident du personnage, et qu'aucun fichier ne portait :**
+
+| | |
+|---|---|
+| **Il est l'homme de confiance du directeur.** Il exécute les ordres, il assure la liaison avec les héros, il monte les opérations | Ce n'est pas un subalterne. C'est **le bras droit**, et le récit doit le traiter comme tel |
+| **Il fait partie des très rares personnes à qui Cecil confie ce que l'agence ne met pas par écrit** | **Sa décence n'est pas de l'ignorance.** Il sait ce qu'il y a au niveau moins six et il est décent quand même. C'est infiniment plus dur que la version naïve |
+| **Il entretient délibérément une personnalité « humaine », un peu gauche, pour se fondre parmi le personnel civil** | C'est **une performance**, et c'est aussi la vérité. `TOME_1.md` : *« ami sincère et informateur sincère, les deux en même temps. Ne jamais trancher lequel est vrai. »* Le canon donne une troisième couche au même endroit |
+
+> **DÉCISION — option (b), planté, pas tiré.** Le ch. 10 ne révèle rien. Il porte **un seul détail physique inexpliqué** : quelque chose que le corps de Ferguson ne fait pas comme les autres, et qu'il compense sans le mentionner. Il ne s'analyse pas, il ne le pense pas, la narration ne le désigne pas.
+>
+> **Interdit dans tout le tome 1 :** le mot *machine*, le mot *corps* appliqué à lui-même, tout regard sur ses propres mains, toute scène de maintenance, et **toute réaction de Goku qui vaudrait diagnostic.** Si Goku perçoit quelque chose, il ne le nomme pas et il ne le commente pas — il n'a aucun cadre pour ça, exactement comme pour un Viltrumite.
+>
+> **Ça tire au tome 2**, et pas dans une scène d'action.
+
+### 8 bis.3 ⚠ Un mélèze ne pousse pas au Colorado
+
+**Vérifié.** *Larix lyallii* (mélèze subalpin) et *Larix occidentalis* (mélèze de l'Ouest) sont limités au nord des Rocheuses — Montana, Idaho, Alberta, Colombie-Britannique — et à une population disjointe dans les Cascades de Washington. **Aucun mélèze n'est indigène du Colorado.**
+
+Or `CH09` place l'action *« debout dans une combe du Colorado »* et y installe **un mélèze**, cité quatre fois, dont deux fois comme instrument de mesure : *« le mélèze au tiers de la pente n'avait pas perdu une aiguille »* est la preuve que Végéta est reparti sans rien déplacer.
+
+**Ce n'est pas un détail décoratif : c'est un appareil de mesure, et il est faux.**
+
+**⏳ EN ATTENTE DE DÉCISION.** Deux sorties, aucune n'est encore appliquée — la prose du ch. 9 n'a pas été touchée.
+
+- **(a) Changer l'essence, garder le Colorado.** Remplacer par un **épicéa d'Engelmann mort sur pied**, gris, tué par le scolyte — l'épidémie a touché des centaines de milliers d'hectares de forêt subalpine du Colorado, c'est du réel vérifiable, et **un résineux mort sur pied lâche ses aiguilles au moindre ébranlement.** L'instrument de mesure en sort *renforcé* : ne pas perdre une aiguille devient plus improbable encore. **Recommandé.**
+- **(b) Déplacer la combe** dans les Rocheuses du nord. Coût élevé : *Colorado* est écrit dans la prose, et deux heures de vol depuis le comté de Luna cadrent le Colorado, pas le Montana.
+
+---
+
+## 9. SOURCES
 
 - Debbie Grayson — Invincible Wiki : https://amazon-invincible.fandom.com/wiki/Debbie_Grayson
 - Oliver Grayson II — Invincible Wiki : https://amazon-invincible.fandom.com/wiki/Oliver_Grayson_II
@@ -155,3 +234,23 @@ Le jour 0 du récit est **l'attaque de Conquest sur Chicago**. Dans le canon, ce
 - The Prince Fights Back (Végéta écrase son scouteur) — Dragon Ball Wiki : https://dragonball.fandom.com/wiki/The_Prince_Fights_Back
 - Vegeta, tenues et armures — Dragon Ball Wiki : https://dragonball.fandom.com/wiki/Vegeta
 - Dragon Ball Z — Namek Arc Recap — TV Tropes : https://tvtropes.org/pmwiki/pmwiki.php/Recap/DragonBallZNamekArc
+
+**Ajoutées le 14 août 2026, pour le §8 :**
+
+- Rudolph Conners — Image Comics Database : https://imagecomics.fandom.com/wiki/Rudolph_Conners
+- Rudolph Conners (Invincible Universe) — League of Comic Geeks : https://leagueofcomicgeeks.com/character/87301/rudolph-conners
+- Robot — Invincible Wiki : https://amazon-invincible.fandom.com/wiki/Robot
+- Rudolph Conners — Invincible comics Wiki : https://comic-invincible.fandom.com/wiki/Rudolph_Conners
+- Guardians of the Globe — Invincible Wiki : https://amazon-invincible.fandom.com/wiki/Guardians_of_the_Globe
+- What Happens To The Guardians Of The Globe After Breaking Up In Season 3 — Screen Rant : https://screenrant.com/invincible-do-guardians-of-the-globe-get-back-together/
+
+**Ajoutées le 14 août 2026, pour le §8 bis :**
+
+- Global Defense Agency — Invincible Wiki : https://amazon-invincible.fandom.com/wiki/Global_Defense_Agency
+- Global Defense Agency — Image Comics Database : https://imagecomics.fandom.com/wiki/Global_Defense_Agency
+- Invincible's Global Defense Agency Explained — Screen Rant : https://screenrant.com/invincible-gda-global-defense-agency-explained/
+- Donald Ferguson — Invincible Wiki : https://amazon-invincible.fandom.com/wiki/Donald_Ferguson
+- Donald Ferguson / History — Invincible Wiki : https://amazon-invincible.fandom.com/wiki/Donald_Ferguson/History
+- Donald Ferguson — Image Comics Database : https://imagecomics.fandom.com/wiki/Donald_Ferguson
+- *Larix lyallii* — Wikipedia : https://en.wikipedia.org/wiki/Larix_lyallii
+- *Larix lyallii*, subalpine larch — USDA Forest Service, Fire Effects Information System : https://research.fs.usda.gov/feis/species-reviews/larlya

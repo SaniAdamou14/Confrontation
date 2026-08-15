@@ -167,3 +167,20 @@ Légende : **✓** sait · **~** soupçonne, sans preuve · **✗** ignore · **
 3. **Cas particulier des noms.** Conquest ne sait pas ce qu'est un « Saiyan ». La narration du chapitre 1 ne peut donc **jamais** employer ce mot. Elle dit « l'autre », « celui à la queue ». Le lecteur, lui, sait — et cet écart est le moteur du chapitre.
 4. **Cas particulier des chiffres.** Un personnage focal ne connaît jamais le bilan pendant qu'il le produit. Les bilans chiffrés (§8.6) sont un paragraphe **administratif**, distinct de la narration incarnée, et ils s'écrivent à distance — un extrait de rapport, une dépêche, une ligne de tableau. C'est cette rupture de registre qui les rend efficaces.
 5. **Mettre ce fichier à jour.** Étape 4 de la procédure du `JOURNAL_ETAT.md`.
+
+---
+
+### Précisions établies par le chapitre 10
+
+| Information | État |
+|---|---|
+| **Ce que Goku vient d'apprendre** | Que personne n'est allé chercher les cent quatre-vingt-douze, que personne ne pouvait, et **qu'il n'y aura ni relevé, ni identification, ni restitution, jamais.** C'est la première réponse complète qu'on lui donne depuis dix jours, et elle est exacte. |
+| **Ce qu'il en a compris, et qui n'est pas la même chose** | Que la première partie n'aura pas lieu. **Donc que la deuxième ne commencera pas.** `F26` tient : rien, dans ce chapitre, ne lui indique que la mort est définitive ici. Il a reçu une impossibilité administrative, pas une loi du monde. |
+| **Ce que Ferguson n'a pas compris** | La question qu'on lui posait. Il a proposé le commandement de zone, la reconstruction, l'aide aux survivants. **Non aux trois.** Il l'a portée dans la rubrique *observations*, mot pour mot, et il a écrit dessous qu'il ne savait pas ce qui lui avait été demandé. |
+| **Ce que Ferguson sait et n'utilise pas** | Ce qu'il y a au niveau moins six. Il fait partie des très rares personnes à qui l'agence confie ce qu'elle n'écrit pas. **Il n'y pense pas une fois de la journée, et rien dans le chapitre ne permet de le deviner.** |
+| **Ce que Ferguson ignore sur lui-même** | Rien. **Et il n'y pense pas non plus.** Le seul indice est ce qu'il ne fait pas. |
+| **Ce que la GDA possède désormais et qu'elle n'avait pas** | **Le métabolisme.** Seize rations par jour, vingt mille kilocalories, obtenus par essai sur place et portés dans une case. Le service médical en fera un dossier physiologique le 12 ; une copie partira au contrat des Mauler. **Personne n'a menti et personne n'a forcé quoi que ce soit.** |
+| **Ce que la GDA ne sait toujours pas** | Son nom. Debbie ne l'a donné à personne, Goku ne s'est pas présenté, Ferguson n'a pas demandé. **La numérotation SUJET UN / SUJET DEUX tient jusqu'au J19.** |
+| **Ce que personne sur le site ne sait** | Que la pleine lune du dix-huit compte. L'opérateur du mât la traite comme une contrainte de matériel — ses optiques bas niveau seront saturées à partir du seize —, Ferguson la reporte sur un formulaire d'approvisionnement et souligne la date. **Le lecteur porte l'échéance tout seul.** |
+| **Ce que Ferguson a lu et qui ne lui était pas destiné** | La révision de l'estimation de mortalité : **trois millions cent mille**, sept cent mille de plus que le chiffre en circulation, agrafée par erreur, **sans un paraphe et sans un tampon de réception.** Il ne peut rien en faire. Il la remet dans la liasse. |
+| **Ce que Cecil obtient de sa journée** | Un canal quotidien, un premier rapport à 18 h 02, et **rien qui étaye la ligne deux d'OMEGA.** Les auditions sont dans trois jours. |

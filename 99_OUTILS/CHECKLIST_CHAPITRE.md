@@ -97,6 +97,7 @@ Trois passes : avant, pendant, après. Ne rien sauter.
 ### Mise à jour des fichiers — non négociable
 
 - [ ] `JOURNAL_ETAT.md` : bloc courant archivé, état modifié.
+- [ ] **SI JE VIENS DE RÉÉCRIRE UN CHAPITRE DÉJÀ ÉCRIT :** repasser son bloc du `JOURNAL_ETAT.md` **le chapitre ouvert à côté**, et vérifier une par une les répliques citées, les chiffres et le décompte de mots. *Contrôle du 14 août 2026 : les réécritures des ch. 4 et 5 avaient laissé dans le journal quatre répliques qui n'existent plus, deux scènes jamais écrites, et des chiffres de perception de ki que la passe chiffres avait justement supprimés.* **Le journal prime sur la bible : une dérive non corrigée devient le canon du chapitre suivant.**
 - [ ] `REGISTRE_MORTS.md`
 - [ ] `REGISTRE_BLESSURES.md`
 - [ ] `REGISTRE_DESTRUCTIONS.md`

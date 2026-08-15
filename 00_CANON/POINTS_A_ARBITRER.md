@@ -210,3 +210,37 @@ C'est ce qui rend son chapitre spécifiquement *Invincible* et pas simplement ca
 **Conséquence principale :** Oliver a un corps de neuf ans au J0, de quatorze au tome 2, et **il est adulte au tome 5**. C'est ce qui fait de lui la bombe annoncée.
 
 **Réversible tant que le tome 2 n'est pas commencé.** Ensuite, non.
+
+---
+
+## ❑ 12. Un chapitre en focalisation Oliver au tome 1
+
+*Ouvert par `05_ATELIER/CHANTIER_T1_VOIX_ET_ATTACHEMENT.md` §3.*
+
+**Les faits.** La répartition des focalisations du tome 1 n'en accorde aucune à Oliver sur vingt chapitres. Il apparaît dans les chapitres 3, 7 et 8, toujours vu par quelqu'un d'autre.
+
+**L'enjeu.** Le tome produit de l'admiration et pas d'attachement, et le seul foyer d'attachement qui fonctionne déjà est la maison Grayson. Oliver porte à lui seul F25, la porte du fond non payée, et l'horloge biologique du récit entier. C'est l'actif le plus rentable du tome et il est employé comme accessoire.
+
+**Contre.** Un chapitre de plus en focalisation « intérieure » dans un tome qui repose sur l'opacité ; et le risque de rendre l'enfant attendrissant, ce qui le détruirait.
+
+**Recommandation.** Un chapitre entre le ch. 13 et le ch. 16, à quatre conditions dures : Oliver **organise** quelque chose au lieu de subir ; aucun adulte ne comprend ce qu'il fait et personne ne l'interroge ; il ne nomme jamais Nolan autrement que *Nolan* ; il ne suggère aucun destin.
+
+**À trancher avant le chapitre 13.**
+
+**Décision :** _____________
+
+---
+
+## ❑ 13. Le registre — light novel ou roman
+
+*Ouvert par `05_ATELIER/CHANTIER_T1_VOIX_ET_ATTACHEMENT.md` §5.*
+
+**Les faits.** Le projet se déclare light novel. Ce qui est écrit relève de la zone Kerangal / Echenoz / Carrère : voix professionnelle, lexique technique tenu, catastrophe traitée par la procédure, refus de la glose. **C'est une tradition française native** — l'inquiétude fondatrice de `CE_QUI_DOIT_ETRE_PRODUIT.md` §9, écrire du Carver traduit, ne s'est pas réalisée.
+
+**L'enjeu.** Plusieurs règles du projet servent deux objets différents et se contredisent. La plus visible : *« tout chapitre où Goku est présent contient un temps comique »* produit un manquement permanent — un seul temps comique en neuf chapitres — pour une exigence qui n'appartient pas au livre réellement écrit.
+
+**Recommandation.** Assumer le roman. `CE_QUI_DOIT_ETRE_PRODUIT.md` §6 est alors requalifié en **ressource et non en obligation** : cinq temps comiques sur vingt chapitres, sur le seul modèle qui fonctionne (`CH09:168`), et aucune culpabilité ailleurs. Le sous-titre du projet reste ce qu'il veut ; c'est la règle qui change de statut, pas l'étiquette.
+
+**Ce que ça ne change pas.** Aucune règle de langue, aucune règle de focalisation, aucun fusil.
+
+**Décision :** _____________

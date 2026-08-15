@@ -12,9 +12,9 @@ Bible §4.5-1 : **aucune résurrection. Jamais.** Une ligne inscrite ici ne s'ef
 |---|---|---|
 | J0, 16 h 47 | 43 | Conquest seul, avant la déchirure |
 | J0, 17 h 09 – 03 h | **192 sauvés** | Goku, six heures d'extraction dans le cratère. **À porter au crédit, et personne ne le saura jamais.** Sur ~3 000 présences encore vives à 17 h 09. |
-| **J2, 11 h 05** | **+80** | Frappe militaire américaine. Quatre-vingts hommes effacés par Végéta en un mouvement de bras, sur dix-huit kilomètres. Ordonnée contre l'avis de Cecil. |
+| **J2, 11 h 05** | **+80** | Frappe militaire américaine. Quatre-vingts hommes effacés par Végéta en un mouvement du bras droit à hauteur de hanche. **Ensemble, pas les uns après les autres.** Ordonnée contre l'avis de Cecil. |
 | J0, 23 h 59 | ~2 400 000 | Estimation initiale |
-| J4 | ~3 100 000 | Estimation révisée |
+| **J10** | ~3 100 000 | **Estimation révisée par Ilana Voss. Classée sans être lue.** *(Datée du J4 jusqu'au 15 août 2026 : incompatible avec le ch. 3, où Voss annonce qu'il lui faut trois semaines.)* |
 | **J3, 11 h 40 – 12 h 22** | **+4** | **Tres Palomas, Nouveau-Mexique.** Végéta descend chercher quelqu'un qui sache lire. Il retient quatorze personnes en quarante-deux minutes et leur fait lire à voix haute des imprimés. Il en relâche dix. **À 12 h 18 il en tenait encore quatre, et l'expérience était terminée.** Aucune colère. |
 | **J4, 17 h 44** | **+2** | **Crête de la Tinaja.** Le major Dana Rennick et un lieutenant non nommé, sur la selle est, en quatre secondes. Un mouvement du bras droit, deux fois, dans le même souffle. **Cause de la mort de Rennick : elle a déclaré être l'officier responsable.** Il cherchait celui qui fait parler les marques ; il a gardé celui-là et il a jeté le reste. |
 | Tome 2, fin | +200 000 | La stratégie des trente |
@@ -102,6 +102,6 @@ Colonne opérationnelle : ce que l'absence de corps produit concrètement.
 |---|---|---|
 | GDA, J1 | « plusieurs centaines de milliers » | La vapeur masque le site. Ils ne savent pas. |
 | GDA, J2 | 2,4 M | Premier chiffre de Cecil, sur le cratère. |
-| GDA, J4 | 3,1 M | Révision. **Cecil choisit de publier.** C'est un acte politique, pas un acte de transparence. |
+| GDA, **J10** | 3,1 M | **Révision d'Ilana Voss. Personne ne la lit.** Aucun paraphe, aucun tampon de réception, le pli d'origine encore net. Elle est agrafée par erreur à une liasse de terrain et le seul être humain à l'avoir ouverte est un agent de liaison à qui elle n'était pas destinée, dans un avion, entre deux comptes rendus. **Elle n'est pas publiée. Le chiffre officiel reste 2,4 M, et ce silence est un acte politique bien plus efficace qu'une publication.** *(Corrigé le 15 août 2026 : la version antérieure datait la révision du J4 et faisait choisir Cecil de publier. Le ch. 10 établit le contraire.)* |
 | Auditions du Congrès, J12-14 | contesté | Cecil ment sous serment — mais pas sur ce chiffre-là. |
 | Association des Familles, tome 5 | plus élevé | Kayla compte les morts indirects : couronne du souffle, effondrement sanitaire, suicides. Personne ne conteste sa méthode, et c'est ça le problème. |

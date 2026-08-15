@@ -61,7 +61,7 @@ Le décor est américain, **les procédures aussi**. Une scène bâtie sur un in
 | **SUJET UN** / **SUJET DEUX** | Petites capitales, sans italique. UN = celui en armure, **parce qu'il est arrivé le premier**. DEUX = celui en orange. Numérotation officielle du J1 au **J19**. Aucun document de la GDA n'emploie autre chose avant cette date. |
 | **Tres Palomas** | Nouveau-Mexique, 4 118 habitants. Sans accent, comme sur les panneaux. |
 | **la crête de la Tinaja** | À 900 m à la verticale de Tres Palomas. Article et minuscule à « crête ». |
-| **Robot** / **Rudolph Connors** | Robot en scène, Connors dans les documents. |
+| **Robot** / **Rudolph Conners** | **Graphie vérifiée : *Conners*, pas *Connors*.** Les deux circulent, les bases officielles Image donnent *Conners*. Robot en scène, Conners dans les documents et dans la bouche de Cecil. **Il a démissionné des Gardiens en mars, pas de la GDA** — voir `ARBITRAGE_CANON_V3.md` §8. |
 | **Amber Bennett**, **William Clockwell** | |
 | **la GDA** | Article féminin. « la GDA », « à la GDA ». Ne jamais développer le sigle dans la prose. |
 | **les Gardiens du Globe** | **Traduction française publiée (Delcourt). Jamais « Guardians of the Globe ».** Article et minuscule à « les ». Corrigé par `ARBITRAGE_CANON_V3.md` §6. |

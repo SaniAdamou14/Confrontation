@@ -149,15 +149,19 @@ Cinq.
 
 L'aide de camp a repris depuis le début, parce qu'on ne discutait pas.
 
-— Rex Splode : chambre froide, niveau moins six, depuis neuf jours. Darkwing : porté disparu le trente et un, dossier ouvert, aucune trace. Monster Girl : soins intensifs, Détroit, elle est intubée. Dupli-Kate : chez elle. Apte sur le papier. Connors —
+— Rex Splode : chambre froide, niveau moins six, depuis neuf jours. Darkwing : porté disparu le trente et un, dossier ouvert, aucune trace. Monster Girl : soins intensifs, Détroit, elle est intubée. Dupli-Kate : chez elle. Apte sur le papier. Conners —
 
-— Connors quoi.
+— Conners quoi.
 
 — Il a démissionné, monsieur.
 
 — Quand.
 
 — En mars.
+
+— De l'équipe.
+
+— De l'équipe, monsieur. Pas du bâtiment.
 
 Cecil a regardé la carte.
 
@@ -359,7 +363,7 @@ Cecil s'est levé.
 
 — Monsieur le directeur, l'improbabilité —
 
-— Quarante mots en trois jours, Connors. La liste des quarante, c'est moi qui l'écris.
+— Quarante mots en trois jours, Conners. La liste des quarante, c'est moi qui l'écris.
 
 Il est sorti.
 

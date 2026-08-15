@@ -14,7 +14,7 @@ Toute destruction inscrite ici doit avoir **au moins une conséquence différée
 | **Auteur** | Végéta (sphère) + Goku (combat concurrent) |
 | **Intention** | Aucune. Végéta visait Conquest. Le reste est un dommage collatéral qu'il n'a pas pesé une seconde. |
 | **Étendue** | Cratère de 9 km de diamètre, centré sur State Street. Couronne de souffle jusqu'aux banlieues (~20-25 km). |
-| **Morts** | 2,4 M (J0) → 3,1 M (J4) |
+| **Morts** | 2,4 M (point central établi au J2) → **3,1 M (révision rendue au J10, non lue, non paraphée, non publiée)**. **Le chiffre en circulation reste 2,4 M.** |
 | **Corps récupérés** | Quasi aucun |
 
 ### Ce que le ch. 2 a établi ✔
@@ -63,7 +63,7 @@ Toute destruction inscrite ici doit avoir **au moins une conséquence différée
 | **Date** | Jour 2, 11 h 05. Une plaine, 50 km à l'ouest du cratère. |
 | **Auteur** | Les États-Unis. **Ordonnée contre l'avis de Cecil**, qui perd l'arbitrage : 2,4 millions de morts produisent une pression politique à laquelle un directeur d'agence ne résiste pas. |
 | **Composition** | Une munition conventionnelle massive, puis quatre-vingts hommes en formation serrée. |
-| **Résultat** | Végéta laisse la munition toucher — **il mesure**. Puis un mouvement du bras droit à hauteur de hanche. Les quatre-vingts s'éteignent dans le même dixième de seconde, sur dix-huit kilomètres. |
+| **Résultat** | Végéta laisse la munition toucher — **il mesure**. Puis un mouvement du bras droit à hauteur de hanche, de faible amplitude ; le poignet ne suit pas. **Les quatre-vingts s'éteignent au même instant, sans l'intervalle qu'il y a toujours entre le premier et le dernier d'un groupe.** *(Aucune distance, aucune fraction de seconde : passe chiffres du ch. 4, `CHARTE_DE_LANGUE.md` §6.)* |
 | **Coût pour Végéta** | Zéro. De la suie qui ne part pas. |
 
 ### Conséquences

@@ -164,7 +164,13 @@ Ce qu'il fait : il refuse un service, du ton dont on refuse qu'on porte une cais
 
 Le plan dit : *« Cecil ment sous serment. Il ne ment pas sur le chiffre des morts. Sur quoi, alors — c'est le sujet du chapitre. »* **La question était ouverte depuis le début. Ce chapitre y répond.**
 
-Le J9, à partir de 15 h 40, **les deux sujets sont dans le même endroit pour la première fois depuis le jour 0.** Un mât d'instruments à huit cents mètres a enregistré une arrivée qu'aucun radar n'a vue venir. Ils ont parlé quarante minutes et ils se sont séparés sans que rien ne soit détruit.
+Le J9, à partir de 15 h 40, **les deux sujets sont dans le même endroit pour la première fois depuis le jour 0.** Ils ont parlé quarante minutes et ils se sont séparés sans que rien ne soit détruit.
+
+> **⚠ CORRIGÉ LE 14 AOÛT 2026 — ce paragraphe avait dérivé du chapitre.** Il disait : *« un mât d'instruments à huit cents mètres a enregistré une arrivée qu'aucun radar n'a vue venir. »* **C'est faux.** Le dossier a été écrit quand la rencontre devait avoir lieu au comté de Luna ; le chapitre l'a déplacée. Goku vole deux heures vers le nord, et la rencontre se produit dans une combe du Colorado — **sans instruments, sans témoin, sans mât.** La GDA n'a rien enregistré.
+>
+> **Le seul fil qui subsiste, et il est meilleur que l'original :** Végéta a deux entretiens par jour avec Abbadie sur la crête de la Tinaja depuis le J4. **Le J9 en milieu d'après-midi, il n'y était pas.** Une absence, pas une trace. Abbadie l'a constatée ; personne ne sait ce qu'elle vaut, et personne ne l'a croisée avec quoi que ce soit.
+>
+> **Ce que Cecil devra taire au ch. 12 se reconstruit donc à partir d'un trou dans un emploi du temps, pas d'un relevé.** C'est plus fragile, plus tardif, et plus conforme au récit. **À trancher au dossier du ch. 12, pas avant.**
 
 **Voilà ce que Cecil ne peut pas dire au Capitole.** Si le Congrès apprend qu'ils sont en contact, la doctrine tombe — parce que la ligne trois d'OMEGA affirme qu'ils se détestent plus qu'ils ne nous détestent, **et que Cecil a écrit cette ligne sans la moindre donnée** (F36).
 

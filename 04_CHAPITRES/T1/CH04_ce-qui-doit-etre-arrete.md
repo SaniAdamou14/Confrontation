@@ -617,7 +617,7 @@ Végéta n'a pas répondu à ça, et il n'a pas eu l'air de trouver ça ridicule
 
 — Il faudra quelqu'un, a-t-il dit à la place. Pour les marques. (Il a réfléchi une seconde.) Et personne ici n'a intérêt à nous dire la vérité. Alors il faudra en trouver un à qui on puisse retirer quelque chose.
 
-Il s'est levé et il a épousseté ce qui restait de suie sur son épaulière droite, sans résultat.
+Il s'est levé et il a épousseté ce qui restait de suie sur la bretelle de son épaule droite, sans résultat.
 
 — Cherche ce que tu veux. Je m'en fiche.
 

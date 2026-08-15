@@ -38,13 +38,13 @@ Chapitres 1 à 20. **Jours 0 à 20.** *(La contradiction « dix-sept jours » de
 | 1 | J0 | **Conquest** | State Street | Les sept secondes. Sa mort. |
 | 2 | J0 | **Ray Dombrowski**, caméraman | Hélicoptère, 2 km O | Les vingt-deux minutes. Le cratère. |
 | 3 | J1-2 | **Cecil** | Le cratère, le QG | Le silence d'après. Le premier chiffre. |
-| 4 | J3-4 | **Goku** | Rocheuses | La faim. La chasse. |
+| 4 | **J0-J3** | **Goku** | Le cratère, une crête, une ville, une plaine | Les cent quatre-vingt-douze. Le tribut. Les quatre-vingts. Le pacte. |
 | 5 | J4-5 | **Abbadie** | QG, une crête au-dessus d'une petite ville | Les quarante mots. Premier contact, au sol, en face. |
 | 6 | J6 | **Cecil** | QG | Doctrine OMEGA. Le congélateur. |
 | 7 | J7-8 | **Debbie** | Sa maison, la route | Elle exige de parler à celui qui a tué son fils. |
 | 8 | **J9** | **Debbie** | Le désert | La confrontation. **Il ne s'excuse pas.** |
 | 9 | J9 | **Goku** | Rocheuses, ciel | Il réalise pour la lune. Il envisage de se raser la queue. |
-| 10 | J10 | **Ferguson** | Base GDA | La décence réelle, le rapport quotidien. |
+| 10 | J10 | **Ferguson** | Pentagone −4, puis le site du comté de Luna | La décence réelle, le rapport quotidien. **Le formulaire d'approvisionnement.** |
 | 11 | J11 | **Goku** | Pacifique | Entraînement. Une flotte qui n'a pas le droit de tirer. |
 | 12 | J12-13 | **Cecil** | Capitole | Auditions. Il ment sous serment. |
 | 13 | J13 | **Un journaliste / le public** | Écrans | Le mot « sayan » entre dans la langue. |
@@ -99,11 +99,18 @@ Dossier préparatoire complet : `05_ATELIER/CH01_DOSSIER_PREPARATOIRE.md`.
 - **Le lingua franca se pose ici, une fois, et on n'y revient plus** (§4.3). Robot, dix jours de recoupements phonémiques, une improbabilité statistique qui l'intéresse énormément.
 - Il prononce le premier chiffre. À qui, et pourquoi à cette personne-là, est plus important que le chiffre.
 
-### Ch. 4-5 — La faim
-**Focalisation : Goku (4), puis Abbadie ou Ferguson (5). J3-J5.**
+### Ch. 4-5 — Ce qui doit être arrêté, puis les quarante mots
+**Focalisation : Goku (4), J0 17 h 09 → J3 ; Abbadie (5), J4-J5.**
 
-- **Ch. 4 : première entrée dans la tête de Goku.** Il chasse dans les Rocheuses. Il n'est pas triste, il est *affairé*. Le lecteur découvre avec effroi qu'il n'a pas compris ce qui s'est passé.
-- Trois fois en dix chapitres, un détail concret ramène Gohan. **La première est ici.**
+> *Mis à jour après la réécriture complète du ch. 4. La version antérieure de ce bloc — « J3-4, Rocheuses, la faim, la chasse » — décrivait un chapitre qui n'a jamais été écrit : le moteur du tome est l'ignorance et non la faim depuis la révision v2.1 de la bible (§5.2), et la faim est redescendue au rang de physiologie.*
+
+- **Ch. 4 : première entrée dans la tête de Goku**, et elle commence au bord du trou, six heures après l'arrêt. Il descend, il dégage **cent quatre-vingt-douze corps**, il les aligne sur le bord ouest pour qu'on les compte vite, et **personne ne vient.** Il n'est pas triste, il est *affairé*. Le lecteur découvre avec effroi qu'il n'a pas compris ce qui s'est passé — **F26, jamais formulé, seulement agi.**
+- **La déduction viltrumite** (F29) : à partir d'un seul détail — le grand n'avait aucun ki, le petit un peu —, Végéta reconstruit une espèce non native installée depuis vingt ans, reproduite avec les locaux, et **indénombrable.**
+- **Le tribut** (ville du J1) : ni l'un ni l'autre ne sait lire le menu, l'homme apporte tout ce qu'il a, et personne ne réclame rien. **Ils ont été servis comme on met de l'eau dehors pour un animal.** C'est ce matériau qui rend caduc le « restaurant / trois cents dollars » prévu au ch. 5.
+- **Les quatre-vingts** (plaine du J2) : le sixième homme de la ligne est établi avant, il s'éteint en bas, et Goku est **déçu**. Puis Végéta reste debout onze minutes et rompt R1 : *« Je voulais qu'il y ait quelque chose ici. »*
+- **La lune est plantée de l'extérieur** (F4) : une heure quatre d'immobilité, un morceau de ciel sans étoiles que Goku met sur le compte d'un nuage haut. **Goku la cherchait lui-même, pour établir un calendrier, et ne l'a pas trouvée.**
+- **Le pacte, et sa rupture prévue dans la même réplique** (F27, F28).
+- Trois fois en dix chapitres, un détail concret ramène Gohan. **La première est ici** — l'enfant de cinq ou six ans qui les dévisage au coin d'une rue et qui regarde par-dessus son épaule jusqu'à ce que l'angle du bâtiment le coupe. Onze secondes d'arrêt, et rien pendant les quatre heures qui suivent.
 - **Ch. 5 : le premier contact.** Dossier complet : `05_ATELIER/CH05_DOSSIER_PREPARATOIRE.md`. Focalisation **Abbadie**, J4-J5. Le matériau « restaurant / trois cents dollars / entrepôt » est **abandonné** : périmé par la révision v2.1 (§5.2, « l'ignorance » remplace « la faim ») et déjà dépensé au ch. 4 sous forme de tribut.
 - **La liste des quarante mots**, écrite par Cecil, est le sujet du chapitre : ce qu'il rend traduisible et ce qu'il laisse hors de la langue.
 - **La GDA parle à Végéta seul**, au sol, en face, sans vitre. Goku n'apparaît pas. Vu de l'extérieur — jamais de son point de vue avant le ch. 16.

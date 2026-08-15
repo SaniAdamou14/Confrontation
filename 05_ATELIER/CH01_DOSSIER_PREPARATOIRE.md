@@ -102,7 +102,7 @@ Structure recommandée, seconde par seconde. Bible §2, verbatim conservé.
 |---|---|
 | — | **Ce que Conquest fait juste avant :** il lève son pied. Le chapitre s'arrête là, une ligne blanche, et reprend au ciel. |
 | 0 | Le verre. Une façade entière qui part vers l'extérieur. Un homme qui se rétablit à quinze mètres du sol **sans rien pour le tenir**. Conquest ne comprend pas comment il tient en l'air ; il n'a pas les outils. |
-| 1 | L'armure. Le plastron blanc, les épaulettes jaunes. **La fissure à l'omoplate gauche** (F7) — Conquest la voit et en tire une conclusion fausse : *quelqu'un l'a déjà touché, donc il est touchable.* |
+| 1 | L'armure. Le plastron blanc, les plaques ventrales brunes, les deux bretelles étroites — **aucune épaulette** (`ARBITRAGE_CANON_V3.md` §5). **La fissure à l'omoplate gauche** (F7) — Conquest la voit et en tire une conclusion fausse : *quelqu'un l'a déjà touché, donc il est touchable.* |
 | 2 | **La queue** (F5). Puis le visage. Puis le sourire de Conquest. **Ne pas expliquer le sourire.** |
 | 3 | *(option F10)* L'appareil sur l'oreille. Un chiffre que Conquest ne peut pas lire. L'homme le retire et le laisse tomber. Il met deux secondes à atteindre la rue. |
 | 4 | « Tu voles. Tu n'as pas peur. Et tu n'es pas d'ici. » Geste du menton vers le gamin. « Attends ton tour, ou prends le sien. » **Sans hausser le ton.** |
