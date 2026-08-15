@@ -59,7 +59,8 @@ def trame(x, y, w, h, niveau="t1", opacite=1.0):
             % (x, y, w, h, niveau, opacite))
 
 
-def silhouette(x, sol, haut, rng=None, assis=False, penche=0.0, miroir=False):
+def silhouette(x, sol, haut, rng=None, assis=False, penche=0.0,
+               miroir=False, creux=False):
     """Une personne vue de loin. Une forme, jamais un portrait.
 
     Proportions réelles — tête au septième, épaules plus larges que les hanches,
@@ -94,24 +95,39 @@ def silhouette(x, sol, haut, rng=None, assis=False, penche=0.0, miroir=False):
             x - te * 0.42 + d, sol - h * 0.885, te * 0.84, h * 0.045)
         tete = '<ellipse cx="%g" cy="%g" rx="%g" ry="%g"/>' % (
             x + d * 1.25, sol - h * 0.935, te * 0.92, te)
-        return '<g fill="%s">%s%s%s</g>' % (INK, corps, cou, tete)
+        peau = ('fill="%s" stroke="%s" stroke-width="%g"'
+                % (PAP, INK, max(1.6, h * .045))) if creux else 'fill="%s"' % INK
+        return '<g %s>%s%s%s</g>' % (peau, corps, cou, tete)
 
     t = h * 0.16
     ep = h * 0.20
     if assis:
         # De trois quarts, les avant-bras sur les cuisses : tête, buste penché,
         # cuisse horizontale, jambe qui descend. Quatre formes, pas une de plus.
-        tete = '<circle cx="%g" cy="%g" r="%g"/>' % (x, sol - h * 0.80, t)
+        te = h * 0.072
+        tete = '<ellipse cx="%g" cy="%g" rx="%g" ry="%g"/>' % (
+            x - h * .02, sol - h * 0.80, te * .92, te)
+        cou = '<rect x="%g" y="%g" width="%g" height="%g"/>' % (
+            x - te * .34, sol - h * 0.755, te * .68, h * .04)
         buste = '<path d="M%g %g L%g %g L%g %g L%g %g Z"/>' % (
-            x - ep * 0.9, sol - h * 0.68,
-            x + ep * 0.9, sol - h * 0.62,
-            x + ep * 1.1, sol - h * 0.28,
-            x - ep * 0.7, sol - h * 0.30)
+            x - h * 0.085, sol - h * 0.735,
+            x + h * 0.080, sol - h * 0.715,
+            x + h * 0.098, sol - h * 0.315,
+            x - h * 0.072, sol - h * 0.335)
+        # un seul bras : l'autre manche est vide, et ça ne se commente pas
+        bras = '<path d="M%g %g L%g %g L%g %g L%g %g Z"/>' % (
+            x + h * 0.062, sol - h * 0.690,
+            x + h * 0.108, sol - h * 0.660,
+            x + h * 0.140, sol - h * 0.360,
+            x + h * 0.092, sol - h * 0.370)
         cuisse = '<rect x="%g" y="%g" width="%g" height="%g" rx="%g"/>' % (
-            x - ep * 0.6, sol - h * 0.32, ep * 2.4, h * 0.15, h * 0.05)
-        jambe = '<rect x="%g" y="%g" width="%g" height="%g"/>' % (
-            x + ep * 1.2, sol - h * 0.30, ep * 0.7, h * 0.30)
-        return '<g fill="%s">%s%s%s%s</g>' % (INK, tete, buste, cuisse, jambe)
+            x - h * 0.075, sol - h * 0.335, h * 0.235, h * 0.105, h * 0.035)
+        mollet = '<rect x="%g" y="%g" width="%g" height="%g"/>' % (
+            x + h * 0.108, sol - h * 0.240, h * 0.062, h * 0.240)
+        pied = '<rect x="%g" y="%g" width="%g" height="%g" rx="%g"/>' % (
+            x + h * 0.092, sol - h * 0.030, h * 0.115, h * 0.032, h * .012)
+        return '<g fill="%s">%s%s%s%s%s%s%s</g>' % (
+            INK, tete, cou, buste, bras, cuisse, mollet, pied)
     return ('<g fill="%s">'
             '<circle cx="%g" cy="%g" r="%g"/>'
             '<path d="M%g %g L%g %g L%g %g L%g %g Z"/>'
@@ -251,25 +267,111 @@ def p2():
 
 
 def p3():
-    """Le mur de vapeur. Les projecteurs s'arrêtent dessus."""
-    r = random.Random(3)
-    o = []
-    o.append('<path d="M0 640 L0 210 Q300 120 620 190 Q900 250 1180 150 '
-             'Q1420 76 1600 160 L1600 640 Z" fill="%s"/>' % PAP)
-    o.append('<rect x="0" y="0" width="1600" height="300" fill="url(#t1)" opacity=".55"/>')
-    o.append('<path d="M0 210 Q300 120 620 190 Q900 250 1180 150 Q1420 76 1600 160" '
-             'stroke="%s" stroke-width="3" fill="none" opacity=".5"/>' % INK)
-    # cônes de projecteurs
-    for x in (330, 700, 1090, 1400):
-        o.append('<path d="M%g 600 L%g 250 L%g 250 Z" fill="url(#t2)" opacity=".45"/>'
-                 % (x, x - 96, x + 96))
-    o.append('<rect x="0" y="596" width="1600" height="44" fill="%s"/>' % INK)
-    for x, w in ((250, 130), (640, 150), (1030, 120), (1350, 140)):
-        o.append('<rect x="%g" y="%g" width="%g" height="34" rx="6" fill="%s"/>'
-                 % (x, 562, w, INK))
-    for x in (420, 830, 1210):
-        o.append(silhouette(x, 596, 44))
+    """La chambre. Un enfant assis sur le lit, pas dedans, et une lampe."""
+    o = ['<rect width="100%" height="100%" fill="' + INK + '"/>']
+    # la porte entrouverte — la seule source de papier de la planche
+    o.append('<rect x="128" y="52" width="188" height="588" fill="%s"/>' % PAP)
+    o.append('<rect x="316" y="52" width="16" height="588" fill="%s"/>' % INK)
+    o.append('<path d="M128 40 L332 52 L332 640 L128 640 Z" fill="none" '
+             'stroke="%s" stroke-width="3" opacity=".5"/>' % PAP)
+    # la trainée de lumière au sol, en biais
+    o.append('<path d="M332 496 L332 640 L1180 640 L640 496 Z" fill="url(#t2)" opacity=".45"/>')
+    o.append('<path d="M332 520 L332 640 L900 640 L560 520 Z" fill="url(#t3)" opacity=".3"/>')
+    # la lampe éclaire AVANT que l'enfant soit posé : il doit se détourer
+    # dessus. Une silhouette d'encre sur un fond d'encre ne se voit pas.
+    o.append('<circle cx="1230" cy="330" r="330" fill="url(#t1)" opacity=".30"/>')
+    o.append('<circle cx="1300" cy="356" r="212" fill="url(#t2)" opacity=".34"/>')
+    o.append('<circle cx="1392" cy="384" r="104" fill="url(#t3)" opacity=".40"/>')
+    # le lit : un plateau et deux pieds
+    o.append('<rect x="700" y="470" width="640" height="22" fill="%s"/>' % PAP)
+    o.append('<rect x="716" y="492" width="16" height="112" fill="%s"/>' % PAP)
+    o.append('<rect x="1308" y="492" width="16" height="112" fill="%s"/>' % PAP)
+    # la lampe de chevet, allumée
+    o.append('<rect x="1397" y="396" width="10" height="74" fill="%s"/>' % PAP)
+    o.append('<path d="M1360 396 L1444 396 L1428 350 L1376 350 Z" fill="%s"/>' % PAP)
+    # l'enfant, assis au bord du lit, à contre-jour — un seul bras
+    o.append(silhouette(1128, 470, 178, assis=True))
     return enveloppe("".join(o))
+
+
+# ------------------------------------------------ planches intérieures
+# Placées au sommet du chapitre, pas en tête : le light novel met sa pleine
+# page au moment le plus chaud, et c'est là qu'elle sert à quelque chose.
+
+def p1b():
+    """17 h 03. La sphère. Le seul effet de zone du tome."""
+    r = random.Random(101)
+    o = [trame(0, 0, L, 640, "t1", .4)]
+    cx, cy, rad = 1010, 268, 176
+    o.append(rayons(cx, cy, 90, rad, 1500, r, 3.2, .85))
+    o.append('<circle cx="%g" cy="%g" r="%g" fill="%s"/>' % (cx, cy, rad + 26, INK))
+    o.append('<circle cx="%g" cy="%g" r="%g" fill="%s"/>' % (cx, cy, rad, PAP))
+    # la rue en dessous, qui part en morceaux
+    o.append('<rect x="0" y="596" width="1600" height="44" fill="%s"/>' % INK)
+    for i in range(26):
+        x = r.randint(0, 1580)
+        h = r.randint(10, 70)
+        w = r.randint(8, 34)
+        y = 596 - h - r.randint(0, 130)
+        o.append('<rect x="%g" y="%g" width="%g" height="%g" fill="%s" '
+                 'transform="rotate(%g %g %g)"/>'
+                 % (x, y, w, h, INK, r.randint(-40, 40), x + w / 2, y + h / 2))
+    o.append('<g opacity=".9">%s</g>' % ville(r, -20, 560, 596, 60, 300, False, 54))
+    o.append('<g opacity=".9">%s</g>' % ville(r, 1420, L + 40, 596, 60, 280, False, 54))
+    return enveloppe("".join(o))
+
+
+def p2b():
+    """16 h 54. Une ligne blanche sur quatre cents mètres."""
+    r = random.Random(102)
+    o = [trame(0, 0, L, 640, "t1", .35)]
+    o.append('<rect x="0" y="286" width="1600" height="354" fill="%s"/>' % INK)
+    o.append('<g opacity="1">%s</g>' % ville(r, -20, L + 40, 286, 40, 210, False, 66))
+    # la ligne, parfaitement droite, qui traverse tout
+    o.append('<rect x="0" y="352" width="1600" height="9" fill="%s"/>' % PAP)
+    o.append('<rect x="0" y="346" width="1600" height="21" fill="%s" opacity=".28"/>' % PAP)
+    # les trous qu'elle laisse dans deux façades, centrés sur la ligne
+    for x, w in ((402, 124), (1102, 152)):
+        o.append('<path d="M%g 334 l%g -6 l4 52 l%g 6 z" fill="%s"/>'
+                 % (x, w, -w, PAP))
+    # des morceaux qui tombent — en papier, sinon ils disparaissent dans la masse
+    g = random.Random(202)
+    for i in range(9):
+        x = 300 + g.randint(0, 1100)
+        y = 396 + g.randint(0, 150)
+        t = g.randint(14, 40)
+        o.append('<path d="M%g %g l%g %g l%g %g z" fill="%s" opacity=".9"/>'
+                 % (x, y, t, g.randint(6, 20), -g.randint(6, 22), t, PAP))
+    return enveloppe("".join(o))
+
+
+def p4b():
+    """J2, 11 h 05. Ils se sont éteints ensemble, et il en regardait un."""
+    r = random.Random(104)
+    o = [trame(0, 0, L, 452, "t1", .40)]
+    o.append('<line x1="0" y1="452" x2="1600" y2="452" stroke="%s" stroke-width="3"/>' % INK)
+    o.append('<rect x="0" y="452" width="1600" height="188" fill="url(#t2)" opacity=".28"/>')
+    # l'herbe couchée, dans un seul sens
+    for i in range(190):
+        x = r.randint(0, 1600)
+        y = r.randint(456, 636)
+        o.append('<line x1="%g" y1="%g" x2="%g" y2="%g" stroke="%s" '
+                 'stroke-width="1.4" opacity=".45"/>' % (x, y, x + 13, y - 4, INK))
+    # la ligne : des contours vides. Ils étaient là et ils n'y sont plus,
+    # et rien dans l'image ne dit ce qui s'est passé entre les deux.
+    n = 23
+    for i in range(n):
+        x = 88 + i * 64
+        if i == 5:
+            continue
+        o.append(silhouette(x, 452, 46 + (3 if i % 3 else 0),
+                            miroir=(i % 2 == 0), creux=True))
+    # le sixième, plein — le seul que quelqu'un ait regardé
+    o.append(silhouette(88 + 5 * 64, 452, 56, penche=.28))
+    return enveloppe("".join(o))
+
+
+PLANCHES_INTERIEURES = {1: (4, p1b), 2: (5, p2b), 4: (3, p4b)}
 
 
 def p4():
@@ -455,6 +557,12 @@ PLANCHES = {0: frontispice, 1: p1, 2: p2, 3: p3, 4: p4, 5: p5,
             6: p6, 7: p7, 8: p8, 9: p9, 10: p10}
 
 
+def planche_interieure(n):
+    """Planche du sommet du chapitre n : (index de scène, svg) ou None."""
+    e = PLANCHES_INTERIEURES.get(n)
+    return (e[0], e[1]()) if e else None
+
+
 def planche(n):
     """Retourne le SVG de la planche n, ou None si elle n'existe pas."""
     f = PLANCHES.get(n)
@@ -465,7 +573,10 @@ if __name__ == "__main__":
     from pathlib import Path
     d = Path(__file__).resolve().parent.parent / "docs" / "planches"
     d.mkdir(parents=True, exist_ok=True)
-    for n, f in PLANCHES.items():
-        (d / ("%02d.svg" % n)).write_text(
+    tout = dict(PLANCHES)
+    for n, (_, f) in PLANCHES_INTERIEURES.items():
+        tout["%db" % n] = f
+    for n, f in tout.items():
+        (d / ("%s.svg" % (("%02d" % n) if isinstance(n, int) else n))).write_text(
             f().replace(INK, "#111").replace(PAP, "#fff"), encoding="utf-8")
     print("planches écrites dans %s" % d)

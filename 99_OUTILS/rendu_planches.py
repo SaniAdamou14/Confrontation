@@ -168,8 +168,14 @@ def dessiner(e, toile, ech, herite):
 
         if tag == "rect":
             x, y = nombre(e, "x") * ech, nombre(e, "y") * ech
-            w = nombre(e, "width", toile.size[0] / ech) * ech
-            h = nombre(e, "height", toile.size[1] / ech) * ech
+            # les pourcentages se résolvent sur la dimension correspondante :
+            # sans ça un fond en width="100%" devient un carré de 100 pixels.
+            bw, bh = toile.size
+            vw, vh = e.get("width", ""), e.get("height", "")
+            w = (bw * float(vw.rstrip("%")) / 100 if vw.endswith("%")
+                 else nombre(e, "width", bw / ech) * ech)
+            h = (bh * float(vh.rstrip("%")) / 100 if vh.endswith("%")
+                 else nombre(e, "height", bh / ech) * ech)
             if fa:
                 cd.rectangle([x, y, x + w, y + h], fill=fa)
         elif tag == "circle":

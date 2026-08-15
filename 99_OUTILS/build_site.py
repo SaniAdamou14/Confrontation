@@ -12,6 +12,7 @@ sitemap, carte sociale. Une URL par chapitre.
 Avant la première mise en ligne, régler BASE_URL ci-dessous.
 """
 
+import base64
 import html
 import json
 import re
@@ -188,9 +189,17 @@ def lire(chemin):
             "embleme": E.get(numero, EMB_DEFAUT)}
 
 
-def rendre(corps):
-    out = []
+def rendre(corps, interieure=None):
+    """interieure = (index_de_scene, svg) : la planche se pose juste avant
+    l'intertitre de cette scene, c'est-a-dire sur une frontiere reelle du
+    texte et jamais au milieu d'un paragraphe."""
+    out, scene = [], 0
     for genre, t in corps:
+        if genre == "situation":
+            scene += 1
+            if interieure and scene == interieure[0]:
+                out.append('<div class="planche planche-interieure">%s</div>'
+                           % interieure[1])
         if genre == "rupture":
             out.append('<div class="rupture" aria-hidden="true">◆</div>')
         elif genre == "situation":
@@ -380,6 +389,8 @@ a.avenir .rep-titre{color:var(--accent);font-style:italic}
 .planche svg{display:block;width:100%;height:auto}
 .planche-hero{margin:0 0 clamp(2rem,5vw,3rem);border:0;border-bottom:1px solid var(--line)}
 .planche-chap{margin:0 0 clamp(1.8rem,4vw,2.6rem)}
+.planche-interieure{margin:clamp(2.4rem,6vw,3.6rem) 0;
+  width:min(52rem,92vw);margin-left:50%;transform:translateX(-50%)}
 
 .contact{margin:clamp(2.6rem,7vw,4rem) 0 0}
 .contact-txt{max-width:34rem;color:var(--dim);margin:0}
@@ -425,6 +436,13 @@ JS = r"""
       if(e.key==='ArrowLeft'  && p) location.href=p.href;
       if(e.key==='ArrowRight' && s) location.href=s.href;
     });
+  }
+
+  var m = document.getElementById('courriel');
+  if(m){
+    var adr = atob(m.dataset.c);
+    m.href = 'mailto:' + adr + '?subject=' + encodeURIComponent('Le Poids des dieux');
+    m.textContent = adr;
   }
 
   var rep = document.getElementById('reprise');
@@ -763,7 +781,8 @@ Puis les auditions au Capitole, la descente d'Anissa, et la pleine lune du dix-h
 <div class="section-titre"><h2>Écrire à l'auteur</h2><span class="fil"></span></div>
 <p class="contact-txt">Une remarque sur un chapitre, une incohérence relevée, une envie de
 lire la suite avant tout le monde : le courrier arrive et il est lu.</p>
-<a class="contact-lien mono" href="mailto:{email}?subject=Le%20Poids%20des%20dieux">{email}</a>
+<a class="contact-lien mono" id="courriel" href="#" data-c="{c}"
+   rel="nofollow">écrire à l'auteur</a>
 </section>
 
 {pied}
@@ -772,8 +791,9 @@ lire la suite avant tout le monde : le courrier arrive et il est lu.</p>
 <script src="js/main.js" defer></script>
 </body></html>
 """.format(sub=SOUS_TITRE, tome=TOME, n=len(chaps), prevus=CHAPITRES_PREVUS,
-           cartes="\n".join(cartes), pied=pied("", len(chaps), mots_fmt), email=EMAIL,
+           cartes="\n".join(cartes), pied=pied("", len(chaps), mots_fmt),
            front=planches.planche(0) or "",
+           c=base64.b64encode(EMAIL.encode()).decode(),
            schema=json.dumps(schema, ensure_ascii=False))
     (SORTIE / "index.html").write_text(index, encoding="utf-8")
 
@@ -809,7 +829,7 @@ lire la suite avant tout le monde : le courrier arrive et il est lu.</p>
 """.format(n=c["numero"], f=c["fichier"], t=html.escape(c["titre"], quote=True),
            e=c["embleme"], fo=html.escape(c["focal"], quote=False),
            pl=planches.planche(c["numero"]) or "",
-           s=html.escape(c["situation"], quote=False), corps=rendre(c["corps"]),
+           s=html.escape(c["situation"], quote=False), corps=rendre(c["corps"], planches.planche_interieure(c["numero"])),
            nav=(('<a id="lien-prec" href="%s"><span class="sens mono">Précédent</span>%s</a>'
                  % (prec["fichier"], html.escape(prec["titre"], quote=False)))
                 if prec else '<span><span class="sens mono">Précédent</span>—</span>')

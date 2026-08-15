@@ -22,6 +22,13 @@
     });
   }
 
+  var m = document.getElementById('courriel');
+  if(m){
+    var adr = atob(m.dataset.c);
+    m.href = 'mailto:' + adr + '?subject=' + encodeURIComponent('Le Poids des dieux');
+    m.textContent = adr;
+  }
+
   var rep = document.getElementById('reprise');
   if(rep){
     try{
