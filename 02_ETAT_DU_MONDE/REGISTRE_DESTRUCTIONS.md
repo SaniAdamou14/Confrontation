@@ -46,7 +46,7 @@ Toute destruction inscrite ici doit avoir **au moins une conséquence différée
 |---|---|---|
 | Semaines 1-3 | **Le marché immobilier du Midwest s'effondre de 34 %.** | ❑ |
 | Semaines 1-3 | Les compagnies d'assurance invoquent la **clause d'acte de guerre extraterrestre** et refusent de payer. | ❑ |
-| J12-14 | Auditions au Congrès. Cecil ment sous serment. | ❑ |
+| **J15 (16 octobre)** | Auditions au Congrès — **reportées depuis le 13 octobre (ch. 12).** Cecil ment sous serment. | ❑ |
 | **J11** | Le mot entre dans la langue, **crié par Végéta au-dessus d'une banlieue.** Pas une insulte : un mot que personne ne prononce. L'usage péjoratif arrive des tomes plus tard. | ✔ ch. 11 |
 | Tome 2 | Une secte se forme autour de Goku : **les Témoins de l'Orange**. Il ne comprend pas pourquoi, et ça le met profondément mal à l'aise. | ❑ |
 | Tome 2+ | **L'Association des Familles de State Street** poursuit la GDA. Présidée par Kayla Ruiz-Molnar, 34 ans, deux enfants perdus. | ❑ |
@@ -94,7 +94,8 @@ Toute destruction inscrite ici doit avoir **au moins une conséquence différée
 |---|---|---|
 | J11 | **La rue ne revient pas à sa hauteur.** Elle penche vers le sud de la valeur d'une marche répartie sur toute la longueur. Personne ne le verra avant des années, sauf les gens dont c'est le métier | ✔ ch. 11 |
 | J11 | Une empreinte de talon, quatre centimètres de creux, dans un trottoir coulé en juin | ✔ ch. 11 |
-| J12 | **Le bilan chiffré.** Contraintes : inférieur au J0, inférieur au J17. Voir `REGISTRE_MORTS.md` §1 bis | ❑ **ch. 12** |
+| J12 | **Le bilan chiffré : ~9 400 (fourchette 6 800-13 500).** Contraintes tenues : inférieur au J0, inférieur au J17. Voir `REGISTRE_MORTS.md` §1 bis | ✔ **ch. 12** |
+| J12 | **Classification administrative du secteur : « en maintien »**, sur le modèle de Tres Palomas — signée par Cecil en marge du point de situation du dimanche, sans commentaire. La zone n'est ni évacuée ni reconstruite. | ✔ **ch. 12** |
 | J12+ | **Les assurances.** Le J0 était un événement unique et inassurable ; le J11 prouve que ça recommence. **C'est la clause d'exclusion qui se réécrit, pas le sinistre qui se paie.** Debbie a déjà un dossier classé sans suite qui l'attend le 22 | ❑ tome 2 |
 | Tome 2 | **Personne ne rebâtira dans cette couronne.** La question n'est plus *que fait-on de Chicago* mais *jusqu'où est-ce qu'on n'habite plus* | ❑ |
 | Tome 5 | Une deuxième association de familles, et elle n'aura pas les mêmes revendications que celle de State Street : **ces gens-là ont été tués onze jours après, dans une zone déclarée sûre** | ❑ |
@@ -128,7 +129,7 @@ Toute destruction inscrite ici doit avoir **au moins une conséquence différée
 | **Ch. 6** | Cecil a perdu deux agents en quatre secondes et il renvoie un homme seul le lendemain. **C'est la démonstration qui produit OMEGA, pas un raisonnement.** Une ligne, sans commentaire. | ❑ |
 | Ch. 6 | Personne n'est monté chercher les corps de la crête. À écrire une fois, en passant. | ❑ |
 | Ch. 10 | **Ferguson lit ce dossier avant d'être affecté à Goku.** Il accepte quand même. | ❑ |
-| Ch. 12-13 | Auditions. La question qui tue n'est pas « pourquoi les avez-vous laissés mourir » — c'est **« pourquoi la ville était-elle encore habitée le samedi »**. | ❑ |
+| Auditions (reportées au J15, ch. 12) | La question qui tue n'est pas « pourquoi les avez-vous laissés mourir » — c'est **« pourquoi la ville était-elle encore habitée le samedi »**. | ❑ |
 | **Tome 2** | La stratégie des trente est Tres Palomas répété trente fois. **Le lecteur a déjà vu le dispositif tourner à l'échelle d'un village.** | ❑ |
 | Tome 5 | **Les dix relâchés témoignent.** Ils ont été écoutés jusqu'au bout puis lâchés au milieu d'une phrase. Aucun ne sait dire pourquoi lui. | ❑ |
 

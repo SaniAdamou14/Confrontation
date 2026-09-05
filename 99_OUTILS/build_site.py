@@ -108,6 +108,17 @@ E[10] = """<svg viewBox="0 0 120 120" fill="none" stroke="currentColor" stroke-w
 <line x1="34" y1="58" x2="56" y2="58" opacity=".8"/><line x1="64" y1="58" x2="86" y2="58" opacity=".35"/>
 <line x1="34" y1="74" x2="86" y2="74" opacity=".35"/>
 <rect x="60" y="66" width="26" height="16" opacity=".9"/></svg>"""
+E[11] = """<svg viewBox="0 0 120 120" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+<path d="M14 54 L46 54 M74 54 L106 54" stroke-width="2.5"/>
+<path d="M46 54 L51 45 M74 54 L69 45" opacity=".6"/>
+<rect x="40" y="78" width="40" height="24" rx="2" opacity=".7"/>
+<line x1="60" y1="78" x2="60" y2="102" opacity=".5"/><line x1="40" y1="90" x2="80" y2="90" opacity=".5"/>
+<line x1="14" y1="112" x2="106" y2="112" opacity=".3"/></svg>"""
+E[12] = """<svg viewBox="0 0 120 120" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+<rect x="34" y="18" width="52" height="88" rx="3" opacity=".5"/>
+<circle cx="60" cy="50" r="9"/><circle cx="60" cy="80" r="9"/>
+<line x1="60" y1="59" x2="60" y2="71" opacity=".7"/>
+<line x1="14" y1="112" x2="106" y2="112" opacity=".3"/></svg>"""
 EMB_DEFAUT = """<svg viewBox="0 0 120 120" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
 <rect x="30" y="30" width="60" height="60" rx="3" opacity=".5"/></svg>"""
 
@@ -723,8 +734,8 @@ et découvrent que la puissance absolue ne résout aucun des problèmes qui comp
 <div class="grille">{cartes}</div>
 
 <div class="avenir"><span class="mono">À paraître</span>
-Chapitre 12 — le lendemain. On avait un dispositif, une doctrine, et un papier signé où quelqu'un avait écrit qu'il ne fallait pas avoir peur.
-Puis les auditions au Capitole, la descente d'Anissa, et la pleine lune du dix-huit.</div>
+Chapitre 13 — le mot est déjà entré dans la langue, un samedi, au-dessus d'une banlieue. Ce que ce chapitre raconte, c'est ce que le monde en fait : il l'évite.
+Puis les auditions reportées, la descente d'Anissa, et la pleine lune du dix-huit.</div>
 {pied}
 </div></div>
 <div id="lecteur" style="display:none"></div></main>
@@ -774,7 +785,7 @@ def construire(avec_artifact=False):
     tout = {"%02d" % n: f for n, f in planches.PLANCHES.items()}
     for n, liste in planches.PLANCHES_INTERIEURES.items():
         for k, (_, f) in enumerate(liste):
-            tout["%02d%s" % (n, "bcd"[k])] = f
+            tout["%02d%s" % (n, "bcdefghij"[k])] = f
     for nom, f in tout.items():
         (SORTIE / "planches" / (nom + ".svg")).write_text(
             f().replace(planches.INK, "#141C22").replace(planches.PAP, "#E9ECEE"),
@@ -834,8 +845,8 @@ et découvrent que la puissance absolue ne résout aucun des problèmes qui comp
 <div class="grille">{cartes}</div>
 
 <div class="avenir"><span class="mono">À paraître</span>
-Chapitre 12 — le lendemain. On avait un dispositif, une doctrine, et un papier signé où quelqu'un avait écrit qu'il ne fallait pas avoir peur.
-Puis les auditions au Capitole, la descente d'Anissa, et la pleine lune du dix-huit.</div>
+Chapitre 13 — le mot est déjà entré dans la langue, un samedi, au-dessus d'une banlieue. Ce que ce chapitre raconte, c'est ce que le monde en fait : il l'évite.
+Puis les auditions reportées, la descente d'Anissa, et la pleine lune du dix-huit.</div>
 
 <section id="contact" class="contact">
 <div class="section-titre"><h2>Écrire à l'auteur</h2><span class="fil"></span></div>

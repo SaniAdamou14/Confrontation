@@ -269,3 +269,40 @@ C'est ce qui rend son chapitre spécifiquement *Invincible* et pas simplement ca
 **Interdit dans tous les tomes :** écrire que le premier affrontement a eu lieu au tome 1.
 
 *Répercuté : `BIBLE` §4.4, `CHRONOLOGIE_MAITRESSE.md` §5, `FUSILS_DE_TCHEKHOV.md` F27, `03_PLAN/TOME_1.md` contraintes de tome.*
+
+---
+
+## ✔ 16. Le J12 — TRANCHÉ (ch. 12)
+
+*Décisions prises dans le dossier préparatoire du ch. 12, exécutées à l'écriture.*
+
+| Question | Décision | Raison |
+|---|---|---|
+| **Le bilan chiffré du J11** | **~9 400, fourchette 6 800-13 500, marge ≈ 35 %.** Sous les deux contraintes dures (`REGISTRE_MORTS.md` §1 bis) : inférieur au J0, inférieur au J17 | Un dimanche donne moins de signaux administratifs qu'un jour de semaine — le chiffre sort plus vite qu'au J0 et moins bien. C'est la phrase que porte la scène, jamais dite en ces termes |
+| **Les auditions ont-elles lieu le 13 octobre ?** | **Non. Reportées au 16 octobre (J15), hors champ**, par une décision qui ne vient pas de Cecil (la sous-commission reprend la salle) | `AGENDAS.md` prescrit la catégorie « échéance manquée » — en voici une qui profite à celui qui la subit, sans qu'il l'ait provoquée. Voir point 17 ci-dessous |
+| **Le congélateur s'ouvre-t-il complètement ?** | **Non.** Accès dérogatoire partiel, catégorie « observation sans prélèvement », jusqu'au 4 janvier. Sinclair n'obtient aucun corps, seulement une priorité informelle jamais nommée (`FUSILS_DE_TCHEKHOV.md` F40) | La revue à 90 jours (F35) doit rester intacte comme protection légale de Cecil |
+| **La ligne trois d'OMEGA** | **Aucun budget, aucun poste.** Cecil hésite sur la colonne vide et n'en dit jamais la raison, dans aucun tome | F36 est un interdit absolu : Cecil ne se formule jamais que la ligne ne repose sur rien |
+
+---
+
+## ❑ 17. La date effective des auditions du Congrès
+
+**Les faits.** `03_PLAN/TOME_1.md` prévoyait les auditions aux chapitres 12-13. Le ch. 12 les reporte au **16 octobre (J15)**, hors champ. Le tome 1 peut se clore au chapitre 20, jour 19-20 — ce qui laisse une fenêtre de quatre à cinq jours pour les écrire, ou pas.
+
+**L'enjeu.** `CHARTE_DE_LANGUE.md` §1 réservait aux auditions une forme alternative (transcription, sans passé composé). Si elles glissent au tome 2, cette forme reste disponible mais change de contexte — l'Ozaru (J17) aura eu lieu entre-temps, et ce que Cecil doit taire sous serment n'est plus le même dossier.
+
+**Recommandation.** Ne pas trancher avant d'aborder le chapitre 15 ou 16 : la décision dépend de ce que les chapitres 13-15 auront produit (Anissa au J13, en particulier) et de l'espace qu'il reste avant le climax du J17.
+
+**Décision :** _____________
+
+---
+
+## ❑ 18. Le chiffre du J11 face à la réplique de la bible §7.2
+
+**Les faits.** `BIBLE` §7.2 contient une réplique future de Végéta : *« J'en ai tué onze mille ici. »* Aucun moment précis du récit ne lui est assigné, mais elle borne une somme cumulative de morts directement attribuables à Végéta sur Terre. Établis à ce jour : J2 (80), J11 (~9 400).
+
+**L'enjeu.** Le ch. 12 a délibérément retenu ~9 400 plutôt qu'un chiffre plus élevé pour laisser de la marge sous onze mille, au cas où un incident ultérieur (avant que cette réplique soit prononcée) viendrait s'ajouter au total. Au-delà de 10 500 pour le seul J11, la réplique devrait être réexaminée.
+
+**Recommandation.** Ne pas dépasser 10 500 pour un futur événement isolé sans revoir cette réplique. Si un tome ultérieur s'en approche, la trancher alors — pas avant.
+
+**Décision :** _____________

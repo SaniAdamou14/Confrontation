@@ -29,7 +29,7 @@ C'est le régime des chapitres 1, 2, 3, 4 et 6, et c'est le bon : voix orale, im
 1. **La forme est déclarée dans `03_PLAN/` avant l'écriture.** Jamais improvisée. Sinon « varier la forme » devient l'excuse de tout, et la charte ne tient plus.
 2. **Une forme par chapitre.** On ne mélange pas la mosaïque et la narration suivie dans le même chapitre sous prétexte de rythme.
 
-*Candidats déjà identifiés : les auditions du Capitole (ch. 12-13) en transcription ; le mot qui entre dans la langue (ch. 13) en mosaïque courte sans héros ; l'Ozaru vu d'en bas (ch. 17) par un anonyme.*
+*Candidats déjà identifiés : ~~les auditions du Capitole (ch. 12-13) en transcription~~ — **caduc dans sa forme actuelle : le ch. 12 a reporté les auditions au 16 octobre (J15), hors champ. Si elles sont écrites plus tard (fin de tome 1 ou tome 2), la forme « transcription » reste disponible et doit être redéclarée au bon endroit.** ; le mot qui entre dans la langue (ch. 13) en mosaïque courte sans héros ; l'Ozaru vu d'en bas (ch. 17) par un anonyme.*
 
 ---
 

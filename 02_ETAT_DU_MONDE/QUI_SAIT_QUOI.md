@@ -147,7 +147,7 @@ Légende : **✓** sait · **~** soupçonne, sans preuve · **✗** ignore · **
 | J3 | Végéta | Que la planète a une lune. **Il ne dit rien.** |
 | J9 | Goku | Idem, avec horreur. |
 | **J11** | **Le monde entier** | **Le mot.** Crié trois fois par Végéta au-dessus d'une banlieue, capté par des téléphones. **Pas par la presse, et pas comme insulte.** Voir ci-dessous. |
-| J12-J14 | Public | Les auditions. Ce que Cecil ne dit pas. *(Le mot est déjà entré au J11 — cette ligne portait « le mot saiyan », c'est corrigé.)* |
+| **J15 (16 octobre)** | Public | Les auditions — **reportées depuis le 13 octobre (ch. 12).** Ce que Cecil ne dit pas. *(Le mot est déjà entré au J11 — cette ligne portait « le mot saiyan », c'est corrigé.)* |
 | J13-J15 | Empire | Qu'aucun individu ne peut les vaincre. Anissa rentre et dit : « Je n'ai pas pu. » |
 | J17 | Monde entier | L'Ozaru. Par vidéo. Irréversible. |
 | ~J19-20 | Debbie | Que Goku ne comprend pas ce qu'on lui reproche. |
@@ -200,3 +200,16 @@ Légende : **✓** sait · **~** soupçonne, sans preuve · **✗** ignore · **
 | **Ce que le monde possède, le soir du J11** | **Des milliers d'images qui ne montrent rien**, et des bandes-son. Le contraire du J0. Sur les bandes-son, **un mot crié trois fois**, que personne ne sait écrire. |
 | **Ce que la GDA ne sait pas encore** | Que SUJET DEUX est arrivé au J11 sans être détecté, comme les autres fois. **Ferguson a attendu toute la journée à une table avec une chaise vide, et son rapport du soir porte une absence.** Il ignore complètement ce qui s'est passé en Illinois pendant qu'il attendait. |
 | **Ce qu'Abbadie ignore, et ignorera toujours** | **Ce que sa réponse du samedi matin a produit.** `AGENDAS.md`, agenda 4 : il *« veut ne pas être remplacé, et ne pas savoir ce qu'il a fait »*. **Il obtient les deux.** |
+
+### Précisions établies par le chapitre 12
+
+| Information | État |
+|---|---|
+| **Ce que Cecil sait désormais du J11** | **Le chiffre, et rien de plus.** Environ neuf mille quatre cents, fourchette de six mille huit cents à treize mille cinq cents, signé par un adjoint de Voss un dimanche. Il ne sait toujours pas ce qui s'est passé en Illinois — seulement qu'un secteur nord existe désormais dans une catégorie administrative, « en maintien ». |
+| **Ce que Cecil choisit de ne pas dire à Ferguson** | Tout. Il sait que Ferguson attend depuis deux jours sans savoir pourquoi, et il répond « continuez comme vous faites » à la seule question que Ferguson ose poser. **F39 reste intact.** |
+| **Ce que Ferguson ignore sur lui-même** | Qu'il vient de devenir un poste permanent. La décision se prend sur le papier, dans un bureau où il n'est pas, et personne ne la lui annonce. |
+| **Ce que Sinclair croit avoir obtenu** | Une place, pas un accord — jamais nommée comme tel par Cecil. Un accès à l'observation du matériel du congélateur jusqu'au quatre janvier, et une priorité informelle si quelque chose en sort un jour. **Rien de tout cela n'est écrit comme une promesse.** |
+| **Ce que Cecil ignore toujours** | Que Végéta a vu un hybride vivant dans un jardin (F29). Rien, dans ce chapitre, ne lui en donne le moyen. |
+| **Ce que Cecil ne se formule jamais** | Que la troisième ligne d'OMEGA ne repose sur rien. **F36 tient : il hésite sur la colonne vide, il ne la remplit pas, et il ne sait pas dire pourquoi lui non plus.** |
+| **Ce qui passe sans être relié à rien** | L'entrée *bande-son, locuteur non identifié, langue non identifiée* du treize octobre, initialée par Cecil entre deux autres lignes d'un point de situation. **Il ne fait pas le lien avec Abbadie. Personne ne le fait.** |
+| **Ce que le service de l'urbanisme obtient** | Une classification pour le secteur nord — « en maintien » — sans qu'aucun chiffre d'habitants restants n'accompagne la décision. |

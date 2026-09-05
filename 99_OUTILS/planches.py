@@ -507,6 +507,114 @@ def p11d():
     return enveloppe("".join(o))
 
 
+def p12b():
+    """07 h 40. Trente lignes, et une, encadrée, qui pèse plus que les autres."""
+    rng = random.Random(121)
+    o = [trame(0, 0, L, 640, "t1", .22)]
+    o.append(f'<rect x="380" y="70" width="840" height="500" fill="{PAP}"/>')
+    o.append(f'<rect x="380" y="70" width="840" height="500" fill="none" '
+             f'stroke="{INK}" stroke-width="3"/>')
+    ligne_forte = 16
+    for i in range(24):
+        y = 112 + i * 18
+        w = rng.randint(260, 700)
+        op = 1.0 if i == ligne_forte else .5
+        o.append(f'<rect x="420" y="{y:g}" width="{w:g}" height="6" fill="{INK}" '
+                 f'opacity="{op:g}"/>')
+    yy = 112 + ligne_forte * 18 - 8
+    o.append(f'<rect x="404" y="{yy:g}" width="792" height="22" fill="none" '
+             f'stroke="{INK}" stroke-width="3.4"/>')
+    o.append(repere(420, 606, "6 800 — 9 400 — 13 500"))
+    return enveloppe("".join(o))
+
+
+def p12c():
+    """09 h 15. Trois secondes, et aucun des deux ne les compte à voix haute."""
+    o = [trame(0, 0, L, 640, "t1", .28)]
+    o.append(f'<rect x="0" y="560" width="1600" height="80" fill="{INK}"/>')
+    # le tube au plafond, et son cône de lumière irrégulier
+    o.append(f'<rect x="700" y="40" width="200" height="12" fill="{INK}"/>')
+    for i in range(6):
+        x2 = 620 + i * 74
+        y2 = 300 + i * 26
+        op = .5 - i * .06
+        o.append(f'<line x1="{760+i*8:g}" y1="54" x2="{x2:g}" y2="{y2:g}" '
+                 f'stroke="{INK}" stroke-width="1.6" opacity="{op:g}"/>')
+    o.append(silhouette(720, 560, 96))
+    o.append(silhouette(884, 560, 88, miroir=True))
+    o.append(f'<line x1="770" y1="600" x2="834" y2="600" stroke="{INK}" '
+             f'stroke-width="2" opacity=".4"/>')
+    return enveloppe("".join(o))
+
+
+def p12d():
+    """09 h 40. Quatre sachets, une étagère, et rien d'autre dans la pièce."""
+    rng = random.Random(123)
+    o = [f'<rect width="100%" height="100%" fill="{INK}"/>']
+    o.append(f'<rect x="380" y="330" width="840" height="16" fill="{PAP}"/>')
+    o.append(f'<rect x="410" y="346" width="14" height="200" fill="{PAP}" opacity=".7"/>')
+    o.append(f'<rect x="1176" y="346" width="14" height="200" fill="{PAP}" opacity=".7"/>')
+    for x in (460, 640, 820, 1000):
+        w = rng.randint(70, 100)
+        h = rng.randint(50, 74)
+        y = 330 - h
+        o.append(f'<rect x="{x:g}" y="{y:g}" width="{w:g}" height="{h:g}" rx="6" '
+                 f'fill="{PAP}"/>')
+        o.append(f'<rect x="{x:g}" y="{y:g}" width="{w:g}" height="{h:g}" rx="6" '
+                 f'fill="none" stroke="{INK}" stroke-width="2.4"/>')
+    return enveloppe("".join(o))
+
+
+def p12f():
+    """15 h 30. Trois lignes. Deux devenues chiffres, une restée vide."""
+    o = [trame(0, 0, L, 640, "t1", .18)]
+    ys = (170, 330, 490)
+    noms = ("UN", "DEUX", "TROIS")
+    for i, y in enumerate(ys):
+        o.append(f'<rect x="260" y="{y:g}" width="1080" height="90" fill="none" '
+                 f'stroke="{INK}" stroke-width="3.4"/>')
+        if i < 2:
+            o.append(f'<rect x="278" y="{y+18:g}" width="1044" height="54" '
+                     f'fill="url(#hach)" opacity=".8"/>')
+        o.append(repere(230, y + 52, noms[i], ancre="end"))
+    # le stylo, posé bien à plat, à côté de la troisième ligne, encore vide
+    cx, cy = 700, ys[2] + 46
+    o.append(f'<rect x="{cx-150:g}" y="{cy-5:g}" width="150" height="10" rx="5" '
+             f'fill="{INK}" transform="rotate(-3 {cx:g} {cy:g})"/>')
+    return enveloppe("".join(o))
+
+
+def p12g():
+    """21 h 40. La pointe du stylo, immobile sur la ligne qui manque."""
+    o = [f'<rect width="100%" height="100%" fill="{INK}"/>']
+    o.append(f'<rect x="220" y="360" width="1160" height="220" fill="{PAP}"/>')
+    o.append(f'<rect x="220" y="360" width="1160" height="220" fill="none" '
+             f'stroke="{INK}" stroke-width="3" opacity=".4"/>')
+    for y in (408, 452, 496):
+        o.append(f'<rect x="260" y="{y:g}" width="980" height="6" fill="{INK}" '
+                 f'opacity=".6"/>')
+    o.append(f'<rect x="260" y="540" width="980" height="6" fill="none" '
+             f'stroke="{INK}" stroke-width="2" stroke-dasharray="8 8" opacity=".7"/>')
+    # le stylo, incliné, pointe posée exactement sur la ligne vide
+    o.append(f'<path d="M1258 538 L1420 356 L1444 376 L1282 556 Z" fill="{INK}"/>')
+    o.append(f'<circle cx="1258" cy="538" r="5" fill="{INK}"/>')
+    return enveloppe("".join(o))
+
+
+def p12e():
+    """11 h 00. Un écran, un homme debout, et une tente qui ne sert plus."""
+    o = [f'<rect width="100%" height="100%" fill="{INK}"/>']
+    o.append(f'<rect x="200" y="90" width="1200" height="460" fill="{PAP}"/>')
+    o.append(f'<rect x="230" y="120" width="1140" height="400" fill="{INK}"/>')
+    o.append(f'<rect x="900" y="380" width="260" height="110" fill="{PAP}" opacity=".9"/>')
+    o.append(f'<path d="M960 380 L1010 320 L1150 320 L1160 380 Z" fill="{PAP}" opacity=".9"/>')
+    o.append(f'<path d="M320 490 L360 420 L470 420 L510 490 Z" fill="{PAP}" opacity=".85"/>')
+    o.append(f'<path d="M560 490 L600 420 L710 420 L750 490 Z" fill="none" '
+             f'stroke="{PAP}" stroke-width="2.4" stroke-dasharray="6 6" opacity=".55"/>')
+    o.append(silhouette(760, 490, 150, creux=True))
+    return enveloppe("".join(o))
+
+
 # ------------------------------------------------ planches de repérage
 # Registre distinct des planches de drame : ce sont des RELEVÉS. Le livre
 # est fait de formulaires et de mesures, donc une image qui sert à se
@@ -619,6 +727,12 @@ PLANCHES_INTERIEURES = {
     11: [("10 h 12", p11b),                      # la ligne, les toits coupes
          ("10 h 26", p11c),                      # ce qui etait derriere
          ("10 h 31", p11d)],                     # devant
+    12: [("07 h 40", p12b),                      # la ligne encadree, le bilan
+         ("09 h 15", p12c),                      # le tube, les deux hommes
+         ("09 h 40", p12d),                      # les quatre sachets
+         ("11 h 00", p12e),                      # l'ecran, la tente vide
+         ("15 h 30", p12f),                      # OMEGA, deux lignes pleines
+         ("21 h 40", p12g)],                     # le stylo suspendu
 }
 
 
@@ -817,8 +931,28 @@ def p11():
     return enveloppe("".join(o))
 
 
+def p12():
+    """La porte à double serrure. Ce qui sépare une décision d'une autre."""
+    o = [trame(0, 0, L, 640, "t1", .28)]
+    o.append(f'<rect x="0" y="560" width="1600" height="80" fill="{INK}"/>')
+    o.append(f'<path d="M0 560 L1220 300 M1600 560 L1220 300" stroke="{INK}" '
+             f'stroke-width="3" opacity=".5" fill="none"/>')
+    o.append(f'<rect x="120" y="40" width="420" height="14" fill="{INK}" opacity=".7"/>')
+    o.append(f'<rect x="900" y="30" width="420" height="14" fill="{INK}" opacity=".5"/>')
+    o.append(f'<rect x="1120" y="120" width="240" height="440" fill="{INK}"/>')
+    o.append(f'<rect x="1120" y="120" width="240" height="440" fill="none" '
+             f'stroke="{PAP}" stroke-width="4" opacity=".4"/>')
+    for cx in (1180, 1300):
+        o.append(f'<circle cx="{cx:g}" cy="300" r="17" fill="{PAP}"/>')
+        o.append(f'<circle cx="{cx:g}" cy="300" r="17" fill="none" stroke="{INK}" '
+                 f'stroke-width="3"/>')
+    o.append(silhouette(1080, 560, 92))
+    o.append(silhouette(1000, 560, 78, miroir=True))
+    return enveloppe("".join(o))
+
+
 PLANCHES = {0: frontispice, 1: p1, 2: p2, 3: p3, 4: p4, 5: p5,
-            6: p6, 7: p7, 8: p8, 9: p9, 10: p10, 11: p11}
+            6: p6, 7: p7, 8: p8, 9: p9, 10: p10, 11: p11, 12: p12}
 
 
 def planche_interieure(n):
@@ -839,7 +973,7 @@ if __name__ == "__main__":
     tout = dict(PLANCHES)
     for n, liste in PLANCHES_INTERIEURES.items():
         for k, (_, f) in enumerate(liste):
-            tout["%d%s" % (n, "bcd"[k])] = f
+            tout["%d%s" % (n, "bcdefghij"[k])] = f
     for n, f in tout.items():
         (d / ("%s.svg" % (("%02d" % n) if isinstance(n, int) else n))).write_text(
             f().replace(INK, "#111").replace(PAP, "#fff"), encoding="utf-8")

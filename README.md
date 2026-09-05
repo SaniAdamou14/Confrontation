@@ -85,13 +85,13 @@ README.md                        Ce fichier.
 
 | | |
 |---|---|
-| Chapitres écrits | **11 / 120** |
-| Date récit | Jour 11, le soir |
-| Dernier écrit | **ch. 11, « Ce qui était derrière »** — Debbie, banlieue nord de Chicago. Végéta vient corriger Kakarotte ; la rue y passe ; le mot entre dans la langue |
-| Arbitrages | Bible corrigée (v2.1), recasting v3. **Ouverts :** n° 7, 8, 10, 11, 12, 13 de `POINTS_A_ARBITRER.md` |
+| Chapitres écrits | **12 / 120** |
+| Date récit | Jour 12, le soir (22 h 00) |
+| Dernier écrit | **ch. 12, « La deuxième clé »** — Cecil, QG. Le bilan chiffré du J11 tombe (~9 400, inférieur au J0 et au J17), OMEGA cesse d'être un mémorandum, le congélateur s'ouvre en accès partiel pour Sinclair, les auditions glissent au 16 octobre |
+| Arbitrages | Bible corrigée (v2.1), recasting v3. **Ouverts :** n° 7, 8, 10, 11, 12, 13, 17, 18 de `POINTS_A_ARBITRER.md` |
 | Point ouvert | ⚠ Le scouteur est détruit au ch. 1. Payoff F10 à re-router avant le ch. 14 — voir `FUSILS_DE_TCHEKHOV.md`. |
-| Point ouvert | ⚠ **Le ch. 12 est à repenser** : un chapitre de comptage referait le ch. 3. Voir `03_PLAN/TOME_1.md`, second bloc |
-| Prochaine action | Dossier préparatoire du **chapitre 12** — et **le bilan chiffré du J11 tombe là**, inférieur au J0 et inférieur au J17 |
+| Point ouvert | ⚠ **La date effective des auditions** (reportées au 16 octobre, J15) : se tiennent-elles encore dans le tome 1, ou glissent-elles au tome 2 ? Voir `POINTS_A_ARBITRER.md` n° 17. |
+| Prochaine action | **Dossier préparatoire du chapitre 13.** Le mot est déjà entré dans la langue (ch. 11) ; le ch. 13 raconte ce que le monde en fait — son évitement. Forme candidate : mosaïque courte, sans héros (`CHARTE_DE_LANGUE.md` §1) |
 | Passes de style | ✔ Tic n°2 (`comme on…`) rattrapé sur les ch. 1-6 : **32 → 10, deux par chapitre.** Aucune dette restante. |
 
 ### Révisions de la bible (v2.1)

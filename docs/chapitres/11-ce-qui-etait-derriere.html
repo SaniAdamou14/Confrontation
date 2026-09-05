@@ -41,7 +41,11 @@ if(t&&t!=='auto')document.documentElement.setAttribute('data-theme',t);}catch(e)
 <div class="colonne">
 <header class="chap-tete">
 <div class="embleme"><svg viewBox="0 0 120 120" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
-<rect x="30" y="30" width="60" height="60" rx="3" opacity=".5"/></svg></div>
+<path d="M14 54 L46 54 M74 54 L106 54" stroke-width="2.5"/>
+<path d="M46 54 L51 45 M74 54 L69 45" opacity=".6"/>
+<rect x="40" y="78" width="40" height="24" rx="2" opacity=".7"/>
+<line x1="60" y1="78" x2="60" y2="102" opacity=".5"/><line x1="40" y1="90" x2="80" y2="90" opacity=".5"/>
+<line x1="14" y1="112" x2="106" y2="112" opacity=".3"/></svg></div>
 <p class="num mono">Chapitre 11</p>
 <h1>Ce qui était derrière</h1>
 <p class="sit mono">Debbie Grayson<br/>Jour 11 · Banlieue nord de Chicago · 08 h 20 → le soir</p>
@@ -316,7 +320,7 @@ if(t&&t!=='auto')document.documentElement.setAttribute('data-theme',t);}catch(e)
 </div>
 </article>
 
-<footer class="chap-pied colonne"><nav class="nav-chap"><a id="lien-prec" href="10-la-liaison.html"><span class="sens mono">Précédent</span>La liaison</a><span class="suiv"><span class="sens mono">Suivant</span>—</span></nav>
+<footer class="chap-pied colonne"><nav class="nav-chap"><a id="lien-prec" href="10-la-liaison.html"><span class="sens mono">Précédent</span>La liaison</a><a id="lien-suiv" class="suiv" href="12-la-deuxieme-cle.html"><span class="sens mono">Suivant</span>La deuxième clé</a></nav>
 <a class="retour mono" href="../index.html">Retour aux chapitres</a></footer>
 </div></main>
 <script src="../js/main.js" defer></script>

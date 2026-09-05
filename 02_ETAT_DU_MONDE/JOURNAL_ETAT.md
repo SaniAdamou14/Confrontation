@@ -8,9 +8,9 @@ Version vivante de la bible §13. **Ce fichier prime sur la bible pour tout ce q
 
 ## ÉTAT COURANT
 
-**Date récit :** Jour 11, le soir — fin du chapitre 11
-**Dernier chapitre écrit :** ch. 11, « Ce qui était derrière »
-**Chapitres écrits :** 11 / 120
+**Date récit :** Jour 12, le soir (22 h 00) — fin du chapitre 12, dimanche 13 octobre 2024
+**Dernier chapitre écrit :** ch. 12, « La deuxième clé »
+**Chapitres écrits :** 12 / 120
 
 > **✔ Les blocs « Après le ch. 7 », « ch. 8 » et « ch. 9 » ont été écrits le 15 août 2026**, les chapitres ouverts à côté — voir la note de méthode qui les précède. *(Cet encadré annonçait encore qu'ils manquaient : l'avertissement avait survécu à sa propre réparation. Contrôlé au comptage — ce sont les trois blocs les plus fournis du journal.)* **Le journal n'a plus de retard sur le texte.**
 
@@ -43,7 +43,7 @@ Version vivante de la bible §13. **Ce fichier prime sur la bible pour tout ce q
 |---|---|
 | Morts | **2 400 000** — point central, fourchette 1,9 M – 2,9 M, marge 40 %, établi le J2 à 02 h 00 par Ilana Voss. **RÉVISION À 3 100 000 rendue le J10**, soit sept cent mille de plus. **Elle n'a été ni lue, ni paraphée, ni enregistrée** — Ferguson est le seul être humain à l'avoir ouverte, par erreur, dans un avion, et elle ne lui était pas destinée. **Le chiffre en circulation reste 2,4 M.** *(Date corrigée le 15 août 2026 : la bible §3 et `CHRONOLOGIE_MAITRESSE.md` portaient « au jour 4 », ce qui est incompatible avec le ch. 3 — Voss y demande trois semaines pour descendre à 12 % de marge, et quatre jours ne réconcilient pas quatorze bases. `AGENDAS.md` porte le 11 octobre. C'est cette date qui fait foi.)* |
 | **Coût par minute** | **109 000.** 2,4 M ÷ 22 minutes. Le nombre que Cecil voulait réellement. |
-| **Morts du J11** | **AUCUN CHIFFRE. Et c'est une décision, pas un oubli.** Le chapitre est focalisé sur une femme au fond d'une cave : elle ne peut pas connaître un bilan, donc il n'y en a pas. **Le chiffre appartient au ch. 12.** Deux contraintes dures pour celui qui l'écrira : il est **inférieur** aux 3,1 M du J0, et il est **inférieur** à celui de l'Ozaru du J17 — `CARTE_ET_LIEUX.md` exige déjà que le J17 soit *« catastrophique sans égaler le J0 »*. **Un J11 à l'échelle du J0 désamorcerait le ch. 17 et annulerait rétroactivement tout le travail des ch. 3, 5, 6 et 10 sur le recensement.** L'escalade du J11 n'est pas quantitative : **le J0 était un accident, le J11 est un précédent.** |
+| **Morts du J11** | **~9 400, fourchette 6 800 – 13 500, marge ≈ 35 %.** Établi le J12 (ch. 12), signé par un adjoint de Voss un dimanche — d'où la marge plus large qu'au J0 (12 % en trois semaines). **Inférieur** aux 3,1 M du J0, et laissé sous 10 500 pour ne pas menacer la réplique de la bible §7.2 (*« J'en ai tué onze mille ici »*) — voir `00_CANON/POINTS_A_ARBITRER.md` §18. L'escalade du J11 n'est pas quantitative : **le J0 était un accident, le J11 est un précédent.** |
 | **Morts nommés du J11** | **Les époux Hollis**, 1412. Ils avaient acheté quatre jours après le J0, ils avaient demandé à Debbie si le quartier était sûr, **et c'est elle qui leur a vendu la maison.** Plus les deux couvreurs montés à sept heures et demie un samedi. *(Dette de retour dépensée — voir `AGENDAS.md`.)* |
 | Villes détruites | **1 — Chicago.** **Remplissage terminé le J6 à 04 h 50.** Le grondement s'est arrêté après cinq jours et il ne reviendra pas. Bassin d'effondrement en communication permanente avec le lac Michigan, ~9 km de diamètre, ~340 m au centre. **Sans nom officiel — Cecil a refusé d'en donner un ce matin-là.** |
 | Corps rendus aux familles | **0. Il n'y en aura jamais.** Confirmé physiquement au J6 : six heures de fouille, douze personnes, deux km², **quatre sachets.** Aucun gravat, aucun mobilier, aucun véhicule, aucun tissu. |
@@ -132,7 +132,7 @@ Détail complet dans `QUI_SAIT_QUOI.md`. Résumé :
 |---|---|
 | GDA | **Les Gardiens sont morts. Elle n'a plus de force para-humaine sur zone.** Le site est masqué par la vapeur. **Depuis le J5 : un canal de communication, un homme, et rien d'autre.** Elle croit avoir bien négocié. Elle a perdu la trace de SUJET DEUX depuis le J3. |
 | **Le canal** | **Dr Théo Abbadie**, 44 ans. Voix atteinte, un son sur deux au soir du J5. **Reclassé au niveau d'accès supérieur le J6, rattaché directement au bureau du directeur.** Motif inscrit au formulaire : *seul locuteur disponible.* Second interprète : **Mendes**, Fort Bliss, onze jours de retard, ordre de ne pas dépasser onze. |
-| **Le congélateur** | **Actif depuis le J6, niveau moins six, local scellé, double clé.** Quatre sachets : sang non humain (~60 ml, dans du bitume vitrifié), onze éclats d'un matériau blanc de densité anormale, et **deux lots de cheveux provenant de deux têtes différentes.** Délai de revue : 90 jours. Sinclair a l'une des clés, Cecil l'autre. |
+| **Le congélateur** | **Actif depuis le J6, niveau moins six, local scellé, double clé.** Quatre sachets : sang non humain (~60 ml, dans du bitume vitrifié), onze éclats d'un matériau blanc de densité anormale, et **deux lots de cheveux provenant de deux têtes différentes.** Délai de revue : 90 jours (4 janvier). Sinclair a l'une des clés, Cecil l'autre. **Depuis le J12 (ch. 12) : Sinclair dispose d'un accès dérogatoire partiel — catégorie « observation sans prélèvement », rien n'a été ouvert — en échange d'une priorité informelle jamais nommée comme un accord (`FUSILS_DE_TCHEKHOV.md` F40).** |
 | **La première pièce matérielle** | Les deux lots de cheveux. **C'est la première preuve physique qu'ils sont deux et non un.** Avant le J6, la numérotation SUJET UN / SUJET DEUX ne reposait que sur des images. |
 | **Empire viltrumite** | **Rapport de Conquest reçu, horodaté 16 h 46.** Échec de l'unité Grayson, descendance hybride opérationnelle, 43 pertes, deux unités de résistance, « rien à signaler ». **Transmis une minute avant l'arrivée. Il ne contient rien sur les Saiyans.** Puis silence radio. |
 | Coalition des Planètes | rien |
@@ -160,6 +160,9 @@ Détail complet dans `QUI_SAIT_QUOI.md`. Résumé :
 | **Mendes**, onze jours de retard, jamais rattrapables | 5 | le jour où Abbadie devient indisponible. Pas avant le tome 2. |
 | **L'absence de toponymes** — 0 sur 340 occurrences de lieu. Abbadie a numéroté Tres Palomas lui-même. | 5 | motif. Une fois, très tard. |
 | **La feuille de quarante et une entrées**, manuscrite en bas, qui contredit une transcription certifiée *conforme à ce qui a été dit* | 5 | tome 5, commission. |
+| **La priorité informelle de Sinclair.** Jamais écrite comme une promesse, laissée par un silence devant une porte à double serrure. | 12 | tome 4, le clone. Voir `FUSILS_DE_TCHEKHOV.md` F40. |
+| **Le secteur nord classé « en maintien ».** Cent quatre-vingts foyers recensés avant le onze ; aucun chiffre ne dit combien y sont restés. | 12 | tome 2 ou 5, le jour où quelqu'un pose la question que personne n'a posée. |
+| **Ferguson devient un poste permanent** sans le savoir — la décision se prend sur le papier, hors de sa présence. | 12 | le jour où on le lui annonce, non fixé. |
 
 ---
 
@@ -497,3 +500,21 @@ Morts cumulés 43 · Goku et Végéta en transit, ki plein, queues intactes, auc
 - **LE TÉLÉPHONE.** Le compteur du répondeur passe de soixante et un à quatre-vingt-douze. **Elle débranche la prise murale d'un coup d'ongle, sans se baisser.**
 - **PASSES EFFECTUÉES, ET ce qu'elles ont pris.** Lint : R7 à 3 *parce que* et zéro apposition, R9 à deux attaques consécutives. **Tic n° 2 : six comparaisons relevées pour un plafond de deux.** Quatre coupées, remplacées par des gestes — *avant que Debbie ait pu la remercier*, *un coup sec qui est monté par les talons*, *la troisième fois, il l'a crié plus fort que les deux autres.* **Les deux gardées appartiennent à Debbie** : la maison qu'on habite depuis vingt-deux ans (son métier) et *du ton dont il lui avait dit oui, madame* (sa mémoire du J9). **Tic n° 1 : une antithèse formulaire coupée** — *ce n'est pas l'ampleur, c'est la régularité* est devenu *c'est la régularité qui lui a fait ça.* **Confirmation de la note de la checklist : une comparaison retirée oblige à décrire le geste, et la phrase en sort meilleure à chaque fois.**
 - **FIN SUR UNE RÉPLIQUE** — première des trois variations prévues au `CHANTIER_T1` §2. Oliver prononce le mot, mal, et Debbie lui interdit de le redire. **La première personne au monde à interdire ce mot est une mère, dans sa cuisine, le soir même.**
+
+---
+
+### Après le ch. 12 — Jour 12, le soir (22 h 00)
+
+**Écrit :** `04_CHAPITRES/T1/CH12_la-deuxieme-cle.md`, 5 482 mots, focalisation Cecil Stedman, J12 dimanche 13 octobre, 06 h 50 → 22 h 00. QG niveau −4, avec incursion niveau −6. Dossier : `05_ATELIER/CH12_DOSSIER_PREPARATOIRE.md`.
+
+**Désormais canonique :**
+
+- **LE REPORT, ET CECIL N'A RIEN DEMANDÉ.** Un appel non provoqué à 06 h 50 : la sous-commission reprend la salle du treize pour un autre dossier, le président propose lui-même de reporter au **seize octobre (J15)**, dans la même semaine. Cecil obtient trois jours sans avoir eu l'air d'en avoir besoin. **Les auditions n'ont pas lieu dans ce chapitre.**
+- **LE BILAN CHIFFRÉ DU J11, ENFIN ÉTABLI.** Point central **neuf mille quatre cents**, fourchette **six mille huit cents à treize mille cinq cents**, marge **trente-cinq pour cent** — plus large qu'au J0 parce qu'un dimanche donne moins de signaux administratifs. Signé par un adjoint de Voss, pas par elle. Inférieur au J0, laissé sous 10 500 par rapport à la réplique de la bible §7.2 (*« onze mille ici »*). **Cecil ne le calcule pas : il le reçoit, vérifie une seule ligne — la source des pointages du dimanche —, et transmet.**
+- **LA CLASSIFICATION DU SECTEUR NORD : « EN MAINTIEN ».** Sur le modèle de Tres Palomas, signée en marge d'un point de situation, sans commentaire. Cent quatre-vingts foyers recensés avant le onze ; **aucun chiffre ne dit combien y sont restés.**
+- **LA NÉGOCIATION SINCLAIR, DEVANT LA PORTE À DOUBLE SERRURE.** Sinclair ne demande aucun corps — il sait que la réponse serait non. Il obtient un accès dérogatoire **partiel** au congélateur (catégorie « observation sans prélèvement », jusqu'au 4 janvier) et, en échange, laisse entendre qu'il veut être **le premier informé** si quelque chose en sort un jour. **Cecil ne le lui promet pas en mots. Il ne dit pas non.** F40 planté.
+- **LE SOMMET — OMEGA CESSE D'ÊTRE UN MÉMORANDUM.** Ligne un (*ils ne comprennent rien à ce monde…*) devient un poste budgétaire rattaché à l'appareil d'interprétation — Abbadie en est l'instrument sans le savoir. Ligne deux (*l'un des deux se soucie de ce que les gens pensent de lui*) fait de **Ferguson un poste permanent**, décidé sur le papier, **hors de sa présence, il ne l'apprend pas.** Ligne trois (*ils se détestent mutuellement plus qu'ils ne nous détestent*) : **aucun budget, aucun poste.** Cecil s'arrête sur la colonne vide, hésite, ne la remplit pas. **F36 tient : il ne se formule jamais que la ligne ne repose sur rien.**
+- **LA RUPTURE DE R1 — un homme seul, à personne.** *« Je ne sais pas si ça marche. »* Cinq mots, à voix haute, dans un bureau vide un dimanche après-midi. **Rien ne le commente. Personne ne l'entend.**
+- **CE QUE FERGUSON DEMANDE ET N'OBTIENT PAS.** Deuxième jour sans SUJET DEUX. Il pose la question la plus proche du *pourquoi* qu'un homme dans sa position peut se permettre — *« un empêchement, de leur côté ? »* — et Cecil répond *« continuez comme vous faites »*, sans mentir techniquement et sans rien dire du tout. **F39 reste intact.**
+- **LA TRACE HORS-CHAMP.** Une entrée *bande-son, locuteur non identifié, langue non identifiée* traverse un point de situation, une ligne parmi trente. Cecil l'initiale sans s'arrêter dessus. **Ni lui ni personne ne fait le lien avec Abbadie.**
+- **FIN COUPÉE EN PLEINE SCÈNE** — deuxième des variations prévues au `CHANTIER_T1` §2. Cecil redescend seul au niveau −6, le soir, la dérogation de Sinclair sous le bras, et pose la pointe du stylo sur la ligne qui manque. **Le chapitre s'arrête avant le geste, pas après.** Le lecteur ne sait pas, à la fin, si la dérogation complète est signée.

@@ -74,11 +74,12 @@ Treize, et pas douze : **le focal en cours a un agenda comme les autres.** La v1
 
 ### 3 · CECIL STEDMAN — *QG, niveau −4*
 
-- **Veut** vérifier la ligne deux d'OMEGA : *l'un des deux se soucie de ce que les gens pensent de lui.*
-- **Fait** il a envoyé une mère dans un désert et il a demandé deux fois combien de temps elle comptait rester.
-- **Empêché par** — *(la v1 écrivait « rien pour l'instant », ce qui était le seul endroit du fichier où l'imagination s'était arrêtée)* — un Congrès qui l'auditionne dans trois jours ; un chiffrage d'évacuation de la côte Ouest livré le J5 dont il n'a rien fait et qu'un sous-comité réclamera ; la moitié de son agence qui pense qu'il ment sur le chiffre ; **zéro para-humain opérationnel** ; un local scellé au niveau moins six dont l'existence ne doit sortir sous aucun prétexte ; et une association de familles de State Street qui se constitue sans qu'il en soit informé.
-- **⏰ 13 octobre.** Auditions au Capitole. Il ment sous serment ce jour-là et il le sait depuis le J2.
-- **⏰ 4 janvier.** Revue à 90 jours du local scellé. Elle n'est inscrite à aucun calendrier partagé.
+- **Veut** transformer OMEGA en système qui lui survive — un mémorandum meurt avec son auteur, un budget non.
+- **Fait** il a fait d'un mémorandum privé deux postes financés le 13 octobre, sans que ni l'un ni l'autre des deux hommes concernés en soit informé.
+- **Empêché par** un Congrès qui l'auditionne, désormais dans trois jours au lieu d'aujourd'hui ; un chiffrage d'évacuation de la côte Ouest livré le J5 dont il n'a rien fait et qu'un sous-comité réclamera ; la moitié de son agence qui pense qu'il ment sur le chiffre ; **zéro para-humain opérationnel** ; un local scellé au niveau moins six dont l'existence ne doit sortir sous aucun prétexte, désormais partiellement ouvert à Sinclair ; et une association de familles de State Street qui se constitue sans qu'il en soit informé.
+- **⏰ 13 octobre — ÉCHÉANCE REPORTÉE, PAS PAR LUI.** Les auditions au Capitole devaient tomber ce jour-là. La sous-commission reprend la salle pour un autre dossier et le président avance lui-même l'idée de reporter au seize, dans la même semaine. Cecil ne demande rien et obtient tout. Voir ch. 12.
+- **⏰ 16 octobre (J15).** Nouvelle date des auditions. Il ment sous serment ce jour-là et il le sait depuis le J2.
+- **⏰ 4 janvier.** Revue à 90 jours du local scellé. Elle n'est inscrite à aucun calendrier partagé. **Un accès dérogatoire partiel a été accordé à Sinclair avant cette date (ch. 12) — la revue elle-même n'a pas bougé.**
 
 ### 4 · THÉO ABBADIE — *reclassé au J6, rattaché au bureau du directeur*
 
@@ -134,9 +135,10 @@ Treize, et pas douze : **le focal en cours a un agenda comme les autres.** La v1
 ### 11 · D. A. SINCLAIR — *programme Reanimen, sous contrat*
 
 - **Veut** des corps. Le programme tourne sur des cadavres, douze à quinze par trimestre.
-- **Fait** il a rapporté quatre sachets et il a compris ce qu'ils valaient avant tout le monde.
+- **Fait** il a rapporté quatre sachets et il a compris ce qu'ils valaient avant tout le monde. Le 13 octobre, il obtient un accès à l'observation avant la revue des 90 jours, sans obtenir un seul corps de plus.
 - **Empêché par** la condition de sa réhabilitation : plus de vivants.
 - **⏰ 31 décembre.** Fin de trimestre, bilan de programme. Il lui faut une source et il n'y en a plus qu'une sur cette planète.
+- **⏰ Non datée, jamais écrite.** Une priorité informelle laissée par Cecil le 13 octobre : si quelque chose sort un jour du congélateur, il sera le premier informé. **Voir `FUSILS_DE_TCHEKHOV.md` F40, échéance tome 4.**
 
 ### 12 · NOLAN GRAYSON — *détenu, hors de la Terre*
 
@@ -161,7 +163,8 @@ Treize, et pas douze : **le focal en cours a un agenda comme les autres.** La v1
 - **Fait** il devient une adresse. Le site du comté de Luna passe de sept véhicules à deux, et lui reste dedans. Il remplit, il transmet à dix-huit heures, tous les jours, et il commence par le formulaire d'approvisionnement.
 - **Empêché par** l'absence de case. Aucun imprimé de la GDA n'a de rubrique pour ce qu'il rapporte, et il n'a pas l'autorité de créer une rubrique. **Et par son propre corps**, qui ne lui rend plus les mêmes renseignements qu'aux autres — il ne le mentionne pas, il compense.
 - **⏰ 12 octobre — ÉCHÉANCE MANQUÉE, ET IL NE SAIT PAS POURQUOI.** SUJET DEUX avait annoncé son retour pour ce jour-là. **Il n'est pas venu.** Ferguson attend à sa table, à trois mètres d'un bloc plat, avec une chaise vide et un sachet sur le coin droit, pendant que l'autre se place devant des maisons à mille cinq cents kilomètres de là. Son rapport du soir porte une absence. **Il ignore tout de l'Illinois.** *(Le fichier réclame des échéances qui sonnent dans le vide : en voici une, et le vide est exactement ce qui se passe.)*
-- **⏰ 13 octobre — ÉCHÉANCE SANS EFFET.** Il livre trois rapports avant les auditions, dans les délais, complets. **Cecil n'en cite pas une ligne au Capitole et n'en avait pas besoin.** L'événement est que le travail n'a servi à rien, et que Ferguson ne l'apprendra pas. *(Le fichier réclame des échéances qui n'intéressent personne : en voici une, et c'est la plus coûteuse du lot.)*
+- **⏰ 13 octobre — TOUJOURS PAS DE RETOUR, ET IL POSE ENFIN LA QUESTION.** Deuxième jour sans SUJET DEUX. À la liaison de onze heures, il demande à Cecil, une fois, prudemment, s'il y a eu « un empêchement, de leur côté ». **Cecil répond « continuez comme vous faites » et ne dit rien d'autre.** Ferguson n'insiste pas. *(Voir ch. 12. La question qu'`AGENDAS.md` prescrivait d'écrire — celle qui sonne dans le vide, posée par celui qui attend — est ici posée pour de vrai.)*
+- **⏰ 13 octobre — ÉCHÉANCE SANS EFFET, DEVENUE CADUQUE.** Il devait livrer trois rapports avant des auditions fixées ce jour-là ; les auditions glissent au seize sans qu'il en soit informé. **Ce qu'il produit continue de ne servir à rien, pour une raison qu'il ignore encore plus que la précédente.**
 
 ---
 
@@ -179,6 +182,7 @@ Treize, et pas douze : **le focal en cours a un agenda comme les autres.** La v1
 | **12 octobre** | Le service médical de la GDA ouvre un dossier physiologique au nom de SUJET DEUX, **construit uniquement à partir des quantités portées par Ferguson sur un bon d'approvisionnement.** Copie transmise sur demande au contrat des Mauler. **Ferguson a fourni le métabolisme en remplissant une commande de nourriture** | **tome 2 — c'est le carburant de F6, l'inhibiteur métabolique.** Il ne l'apprendra pas |
 | **12 octobre** | Un ingénieur du comté relève que la voirie de trois rues du secteur nord a perdu l'alignement sur toute sa longueur. Il l'inscrit en observation, sans suite : le désordre est inférieur au seuil qui déclenche une expertise | **jamais.** Debbie l'a vu le soir même, de sa porte, et elle est la seule |
 | **13 octobre** | Le service qui centralise les enregistrements amateurs du J11 ouvre une entrée *bande-son, locuteur non identifié, langue non identifiée* et la classe en attente d'un interprète. **Abbadie est le seul interprète, et personne ne fait le lien** | tome 2 |
+| **13 octobre** | Kayla Ruiz-Molnar appelle un cabinet d'avocats pour la première fois, un dimanche, depuis sa cuisine. Elle raccroche avant que quelqu'un décroche | tome 2, quand elle rappelle et ne raccroche pas |
 | **19 octobre** | Une association de familles de State Street dépose ses statuts. Cecil n'en est pas informé | tome 5, commission |
 
 ---
